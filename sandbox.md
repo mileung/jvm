@@ -1,4 +1,331 @@
-aegean	/ɪˈdʒiən/
+exacerbate	/ɪɡˈzæsɝˌbeɪt/
+exacerbated	/ɪɡˈzæsɝˌbeɪtəd/, /ɪɡˈzæsɝˌbeɪtɪd/
+exacerbates	/ɪɡˈzæsɝˌbeɪts/
+exacerbating	/ɪɡˈzæsɝˌbeɪtɪŋ/
+exacerbation	/ɪɡˌzæsɝˈbeɪʃən/
+exacerbations	/ɪɡˌzæsɝˈbeɪʃənz/
+exact	/ɪɡˈzækt/
+exacted	/ɪɡˈzæktɪd/
+exacting	/ɪɡˈzæktɪŋ/
+exaction	/ɪɡˈzækʃən/
+exactions	/ɪɡˈzækʃənz/
+exactitude	/ɪɡˈzæktəˌtud/
+exactly	/ɪɡˈzæktɫi/
+exactly's	/ɪɡˈzæktɫiz/
+exacts	/ɪɡˈzækts/
+exaggerate	/ɪɡˈzædʒɝˌeɪt/
+exaggerated	/ɪɡˈzædʒɝˌeɪtəd/, /ɪɡˈzædʒɝˌeɪtɪd/
+exaggerates	/ɪɡˈzædʒɝˌeɪts/
+exaggerating	/ɪɡˈzædʒɝˌeɪtɪŋ/
+exaggeration	/ɪɡˌzædʒɝˈeɪʃən/
+exaggerations	/ɪɡˌzædʒɝˈeɪʃənz/
+exalt	/ɪɡˈzɔɫt/
+exalted	/ɪɡˈzɔɫtɪd/
+exalting	/ɪɡˈzɔɫtɪŋ/
+exalts	/ɪɡˈzɔɫts/
+exam	/ɪɡˈzæm/
+examination	/ɪɡˌzæməˈneɪʃən/
+examinations	/ɪɡˌzæməˈneɪʃənz/
+examine	/ɪɡˈzæmɪn/
+examined	/ɪɡˈzæmənd/
+examiner	/ɪɡˈzæmənɝ/
+examiners	/ɪɡˈzæmɪnɝz/
+examiners'	/ɪɡˈzæmɪnɝz/
+examines	/ɪɡˈzæmənz/
+examining	/ɪɡˈzæmɪnɪŋ/
+example	/ɪɡˈzæmpəɫ/
+examples	/ɪɡˈzæmpəɫz/
+exams	/ɪɡˈzæmz/
+exasperate	/ɪɡˈzæspɝˌeɪt/
+exasperated	/ɪɡˈzæspɝˌeɪtɪd/
+exasperating	/ɪɡˈzæspɝˌeɪtɪŋ/
+exceed	/ɪkˈsid/
+exceeded	/ɪkˈsidəd/, /ɪkˈsidɪd/
+exceeding	/ɪkˈsidɪŋ/
+exceedingly	/ɪkˈsidɪŋɫi/
+exceeds	/ɪkˈsidz/
+excel	/ɪkˈsɛɫ/
+excel's	/ɪkˈsɛɫz/
+excelled	/ɪkˈsɛɫd/
+excels	/ɪkˈsɛɫz/
+excelsior	/ɪkˈsɛɫsiɝ/
+except	/ɪkˈsɛpt/
+excepted	/ɪkˈsɛptɪd/
+exception	/ɪkˈsɛpʃən/
+exceptional	/ɪkˈsɛpʃənəɫ/
+exceptionally	/ɪkˈsɛpʃənəɫi/, /ɪkˈsɛpʃnəɫi/
+exceptions	/ɪkˈsɛpʃənz/
+excessive	/ɪkˈsɛsɪv/
+excessively	/ɪkˈsɛsɪvɫi/
+exchange	/ɪksˈtʃeɪndʒ/
+exchange's	/ɪksˈtʃeɪndʒɪz/
+exchangeable	/ɪksˈtʃeɪndʒəbəɫ/
+exchanged	/ɪksˈtʃeɪndʒd/
+exchanger	/ɪksˈtʃeɪndʒɝ/
+exchangers	/ɪksˈtʃeɪndʒɝz/
+exchanges	/ɪksˈtʃeɪndʒəz/, /ɪksˈtʃeɪndʒɪz/
+exchanging	/ɪksˈtʃeɪndʒɪŋ/
+excision	/ɪkˈsɪʒən/
+excitable	/ɪkˈsaɪtəbəɫ/
+excite	/ɪkˈsaɪt/
+excited	/ɪkˈsaɪtəd/, /ɪkˈsaɪtɪd/
+excitedly	/ɪkˈsaɪtədɫi/
+excitement	/ɪkˈsaɪtmənt/
+excites	/ɪkˈsaɪts/
+exciting	/ɪkˈsaɪtɪŋ/
+exclaim	/ɪkˈskɫeɪm/
+exclaimed	/ɪkˈskɫeɪmd/
+exclaiming	/ɪkˈskɫeɪmɪŋ/
+exclaims	/ɪkˈskɫeɪmz/
+excludable	/ɪkˈskɫudəbəɫ/
+exclude	/ɪkˈskɫud/
+excluded	/ɪkˈskɫudəd/, /ɪkˈskɫudɪd/
+excludes	/ɪkˈskɫudz/
+excluding	/ɪkˈskɫudɪŋ/
+exclusion	/ɪkˈskɫuʒən/
+exclusionary	/ɪkˈskɫuʒəˌnɛɹi/
+exclusions	/ɪkˈskɫuʒənz/
+exclusive	/ɪkˈskɫusɪv/
+exclusively	/ɪkˈskɫusɪvɫi/
+exclusives	/ɪkˈskɫusɪvz/
+excrete	/ɪksˈkɹit/
+excreted	/ɪksˈkɹitɪd/
+excretes	/ɪksˈkɹitz/
+excretion	/ɪksˈkɹiʃən/
+excruciating	/ɪksˈkɹuʃiˌeɪtɪŋ/
+excursion	/ɪkˈskɝʒən/
+excursions	/ɪkˈskɝʒənz/
+excusable	/ɪkˈskjuzəbəɫ/
+excuse	/ɪkˈskjus/, /ɪkˈskjuz/
+excused	/ɪkˈskjuzd/
+excuses	/ɪkˈskjusɪz/, /ɪkˈskjuzɪz/
+excusing	/ɪkˈskjuzɪŋ/
+executive	/ɪɡˈzɛkjətɪv/
+executives	/ɪɡˈzɛkjətɪvz/
+executor	/ɪɡˈzɛkjətɝ/
+executors	/ɪɡˈzɛkjətɝz/
+exemplar	/ɪɡˈzɛmpɫɑɹ/
+exemplars	/ɪɡˈzɛmpɫɑɹz/
+exemplary	/ɪɡˈzɛmpɫɝi/
+exemplified	/ɪɡˈzɛmpɫəˌfaɪd/
+exemplifies	/ɪɡˈzɛmpɫəˌfaɪz/
+exemplify	/ɪɡˈzɛmpɫəˌfaɪ/
+exemplifying	/ɪɡˈzɛmpɫəˌfaɪɪŋ/
+exemplum	/ɪɡˈzɛmpɫəm/
+exempt	/ɪɡˈzɛmpt/
+exempted	/ɪɡˈzɛmptɪd/
+exempting	/ɪɡˈzɛmptɪŋ/
+exemption	/ɪɡˈzɛmpʃən/, /ɪɡˈzɛmʃən/
+exemptions	/ɪɡˈzɛmpʃənz/, /ɪɡˈzɛmʃənz/
+exempts	/ɪɡˈzɛmpts/
+exert	/ɪɡˈzɝt/
+exerted	/ɪɡˈzɝtɪd/
+exerting	/ɪɡˈzɝtɪŋ/
+exertion	/ɪɡˈzɝʃən/
+exertions	/ɪɡˈzɝʃənz/
+exerts	/ɪɡˈzɝts/
+exhaust	/ɪɡˈzɔst/
+exhausted	/ɪɡˈzɔstɪd/
+exhausting	/ɪɡˈzɔstɪŋ/
+exhaustion	/ɪɡˈzɔstʃən/
+exhaustive	/ɪɡˈzɔstɪv/
+exhaustively	/ɪɡˈzɑstɪvɫi/
+exhausts	/ɪɡˈzɔsts/
+exhibit	/ɪɡˈzɪbɪt/
+exhibit's	/ɪɡˈzɪbəts/
+exhibited	/ɪɡˈzɪbətəd/
+exhibiting	/ɪɡˈzɪbɪtɪŋ/
+exhibitor	/ɪɡˈzɪbətɝ/
+exhibitors	/ɪɡˈzɪbətɝz/
+exhibits	/ɪɡˈzɪbəts/
+exhilarate	/ɪɡˈzɪɫɝˌeɪt/
+exhilarated	/ɪɡˈzɪɫɝˌeɪtɪd/
+exhilarating	/ɪɡˈzɪɫɝˌeɪtɪŋ/
+exhilaration	/ɪɡˌzɪɫɝˈeɪʃən/
+exhort	/ɪɡˈzɔɹt/
+exhorted	/ɪɡˈzɔɹtɪd/
+exhorting	/ɪɡˈzɔɹtɪŋ/
+exhorts	/ɪɡˈzɔɹts/
+exist	/ɪɡˈzɪst/
+existed	/ɪɡˈzɪstəd/
+existing	/ɪɡˈzɪstɪŋ/
+exists	/ɪɡˈzɪsts/
+exonerate	/ɪɡˈzɑnɝˌeɪt/
+exonerated	/ɪɡˈzɑnɝˌeɪtɪd/
+exonerates	/ɪɡˈzɑnɝˌeɪts/
+exonerating	/ɪɡˈzɑnɝˌeɪtɪŋ/
+exoneration	/ɪɡzɑnɝˈeɪʃən/
+exorbitant	/ɪɡˈzɔɹbɪtənt/
+exotic	/ɪɡˈzɑtɪk/
+expand	/ɪkˈspænd/
+expandable	/ɪkˈspændəbəɫ/
+expanded	/ɪkˈspændəd/, /ɪkˈspændɪd/
+expanding	/ɪkˈspændɪŋ/
+expands	/ɪkˈspændz/
+expanse	/ɪkˈspæns/
+expanses	/ɪkˈspænsɪz/
+expansion	/ɪkˈspænʃən/, /ɪkˈspæntʃən/
+expansion's	/ɪkˈspænʃənz/, /ɪkˈspæntʃənz/
+expansionary	/ɪkˈspænʃəˌnɛɹi/, /ɪkˈspæntʃəˌnɛɹi/
+expansionism	/ɪkˈspænʃəˌnɪzəm/, /ɪkˈspæntʃəˌnɪzəm/
+expansionist	/ɪkˈspænʃənɪst/, /ɪkˈspæntʃənɪst/
+expansions	/ɪkˈspænʃənz/, /ɪkˈspæntʃənz/
+expansive	/ɪkˈspænsɪv/
+expect	/ɪkˈspɛkt/
+expectancies	/ɪkˈspɛktənsiz/
+expectancy	/ɪkˈspɛktənsi/
+expectant	/ɪkˈspɛktənt/
+expected	/ɪkˈspɛktəd/, /ɪkˈspɛktɪd/
+expecting	/ɪkˈspɛktɪŋ/
+expectorant	/ɪkˈspɛktɝənt/
+expects	/ɪkˈspɛks/, /ɪkˈspɛkts/
+expedience	/ɪkˈspidiəns/
+expediency	/ɪkˈspidiənsi/
+expedient	/ɪkˈspidiənt/
+expel	/ɪkˈspɛɫ/
+expelled	/ɪkˈspɛɫd/
+expelling	/ɪkˈspɛɫɪŋ/
+expend	/ɪkˈspɛnd/
+expendable	/ɪkˈspɛndəbəɫ/
+expended	/ɪkˈspɛndɪd/
+expenditure	/ɪkˈspɛndətʃɝ/, /ɪkˈspɛndɪtʃɝ/
+expenditures	/ɪkˈspɛndətʃɝz/, /ɪkˈspɛndɪtʃɝz/
+expense	/ɪkˈspɛns/
+expenses	/ɪkˈspɛnsəz/, /ɪkˈspɛnsɪz/
+expensing	/ɪkˈspɛnsɪŋ/
+expensive	/ɪkˈspɛnsɪv/
+experience	/ɪkˈspɪɹiəns/
+experienced	/ɪkˈspɪɹiənst/
+experiences	/ɪkˈspɪɹiənsɪz/
+experiencing	/ɪkˈspɪɹiənsɪŋ/
+experiment	/ɪkˈspɛɹəmənt/
+experiment's	/ɪkˈspɛɹəmənts/
+experimental	/ɪkˌspɛɹɪˈmɛntəɫ/
+experimentalist	/ɪkˌspɛɹəˈmɛntəɫɪst/
+experimentally	/ɪkˌspɛɹəˈmɛntəɫi/
+experimentation	/ɪkˌspɛɹəmənˈteɪʃən/
+experimented	/ɪkˈspɛɹəməntəd/
+experimenter	/ɪkˈspɛɹəˌmɛntɝ/
+experimenters	/ɪkˈspɛɹəˌmɛntɝz/
+experiments	/ɪkˈspɛɹəmənts/
+expiratory	/ɪkˈspaɪɹəˌtɔɹi/
+expire	/ɪkˈspaɪɹ/
+expired	/ɪkˈspaɪɹd/
+expires	/ɪkˈspaɪɝz/
+expiring	/ɪkˈspaɪɹɪŋ/
+explain	/ɪksˈpɫeɪn/
+explainable	/ɪksˈpɫeɪnəbəɫ/
+explained	/ɪksˈpɫeɪnd/
+explaining	/ɪksˈpɫeɪnɪŋ/
+explains	/ɪksˈpɫeɪnz/
+explanatory	/ɪksˈpɫænəˌtɔɹi/
+explicit	/ɪksˈpɫɪsət/
+explicite	/ɪksˈpɫɪsət/
+explicitly	/ɪksˈpɫɪsətɫi/
+explode	/ɪksˈpɫoʊd/
+exploded	/ɪksˈpɫoʊdəd/, /ɪksˈpɫoʊdɪd/
+explodes	/ɪksˈpɫoʊdz/
+exploding	/ɪksˈpɫoʊdɪŋ/
+exploratory	/ɪksˈpɫɔɹəˌtɔɹi/
+exploravision	/ɪksˈpɫɔɹəˌvɪʒən/
+explore	/ɪksˈpɫɔɹ/
+explored	/ɪksˈpɫɔɹd/
+explorer	/ɪksˈpɫɔɹɝ/
+explorers	/ɪksˈpɫɔɹɝz/
+explores	/ɪksˈpɫɔɹz/
+exploring	/ɪksˈpɫɔɹɪŋ/
+explosion	/ɪksˈpɫoʊʒən/
+explosions	/ɪksˈpɫoʊʒənz/
+explosive	/ɪksˈpɫoʊsɪv/
+explosives	/ɪksˈpɫoʊsɪvz/
+exponents	/ɪkˈspoʊnənts/
+exported	/ɪkˈspɔɹtəd/
+exporter	/ɪkˈspɔɹtɝ/
+exporters	/ɪkˈspɔɹtɝz/
+exporting	/ɪkˈspɔɹtɪŋ/
+expose	/ɪkˈspoʊz/
+exposed	/ɪkˈspoʊzd/
+exposes	/ɪkˈspoʊzɪz/
+exposing	/ɪkˈspoʊzɪŋ/
+exposure	/ɪkˈspoʊʒɝ/
+exposures	/ɪkˈspoʊʒɝz/
+expound	/ɪkˈspaʊnd/
+expounded	/ɪkˈspaʊndəd/
+expounding	/ɪkˈspaʊndɪŋ/
+expounds	/ɪkˈspaʊndz/
+express	/ɪksˈpɹɛs/
+express'	/ɪksˈpɹɛs/
+express's	/ɪksˈpɹɛsɪz/
+expressed	/ɪksˈpɹɛst/
+expresses	/ɪksˈpɹɛsəz/, /ɪksˈpɹɛsɪz/
+expressing	/ɪksˈpɹɛsɪŋ/
+expression	/ɪksˈpɹɛʃən/
+expressionism	/ɪksˈpɹɛʃəˌnɪzəm/
+expressionist	/ɪksˈpɹɛʃənəst/
+expressionistic	/ɪksˌpɹɛʃəˈnɪstɪk/
+expressionless	/ɪksˌpɹɛʃənɫɪs/
+expressions	/ɪksˈpɹɛʃənz/
+expressive	/ɪksˈpɹɛsɪv/
+expressway	/ɪksˈpɹɛsˌweɪ/
+expulsion	/ɪkˈspəɫʃən/
+expulsions	/ɪkˈspəɫʃənz/
+expunge	/ɪkˈspəndʒ/
+expunged	/ɪkˈspəndʒd/
+extend	/ɪkˈstɛnd/
+extended	/ɪkˈstɛndəd/, /ɪkˈstɛndɪd/
+extending	/ɪkˈstɛndɪŋ/
+extends	/ɪkˈstɛndz/
+extension	/ɪkˈstɛnʃən/
+extensions	/ɪkˈstɛnʃənz/
+extensive	/ɪkˈstɛnsɪv/
+extensively	/ɪkˈstɛnsɪvɫi/
+extent	/ɪkˈstɛnt/
+extenuate	/ɪkˈstɛnjuˌeɪt/
+extenuating	/ɪkˈstɛnjuˌeɪtɪŋ/
+exterior	/ɪkˈstɪɹiɝ/
+exterminate	/ɪkˈstɝməˌneɪt/
+exterminated	/ɪkˈstɝməˌneɪtɪd/
+exterminates	/ɪkˈstɝməˌneɪts/
+exterminating	/ɪkˈstɝməˌneɪtɪŋ/
+extermination	/ɪkˌstɝməˈneɪʃən/
+exterminator	/ɪkˈstɝməˌneɪtɝ/
+exterminators	/ɪkˈstɝməˌneɪtɝz/
+external	/ɪkˈstɝnəɫ/
+externally	/ɪkˈstɝnəɫi/
+extinct	/ɪkˈstɪŋkt/
+extinction	/ɪkˈstɪŋkʃən/, /ɪkˈstɪŋʃən/
+extinctions	/ɪkˈstɪŋkʃənz/, /ɪkˈstɪŋʃənz/
+extinguish	/ɪkˈstɪŋɡwɪʃ/
+extinguished	/ɪkˈstɪŋɡwɪʃt/
+extinguisher	/ɪkˈstɪŋɡwɪʃɝ/
+extinguishers	/ɪkˈstɪŋɡwɪʃɝz/
+extinguishing	/ɪkˈstɪŋɡwɪʃɪŋ/
+extinguishment	/ɪkˈstɪŋɡwɪʃmənt/
+extol	/ɪkˈstoʊɫ/
+extolled	/ɪkˈstoʊɫd/
+extolling	/ɪkˈstoʊɫɪŋ/
+extols	/ɪkˈstoʊɫz/
+extrude	/ɪkˈstɹud/
+extruded	/ɪkˈstɹudəd/
+extrudes	/ɪkˈstɹudz/
+extruding	/ɪkˈstɹudɪŋ/
+extrusion	/ɪkˈstɹuʒən/
+exuberance	/ɪɡˈzubɝəns/
+exuberant	/ɪɡˈzubɝənt/
+exude	/ɪɡˈzud/
+exuded	/ɪɡˈzudɪd/
+exudes	/ɪɡˈzudz/
+exuding	/ɪɡˈzudɪŋ/
+exult	/ɪɡˈzəɫt/
+exultant	/ɪɡˈzəɫtənt/
+exultantly	/ɪɡˈzəɫtəntɫi/
+exulted	/ɪɡˈzəɫtɪd/
+exulting	/ɪɡˈzəɫtɪŋ/
+exults	/ɪɡˈzəɫts/
+exum	/ɪɡˈzəm/
+
+
+
 ecclesiastic	/ɪˌkɫiziˈæstɪk/
 ecclesiastical	/ɪˌkɫiziˈæstɪkəɫ/
 echidna	/ɪˈkɪdnə/
@@ -583,333 +910,100 @@ evolve	/iˈvɑɫv/, /ɪˈvɑɫv/
 evolved	/iˈvɑɫvd/, /ɪˈvɑɫvd/
 evolves	/iˈvɑɫvz/, /ɪˈvɑɫvz/
 evolving	/iˈvɑɫvɪŋ/, /ɪˈvɑɫvɪŋ/
-exacerbate	/ɪɡˈzæsɝˌbeɪt/
-exacerbated	/ɪɡˈzæsɝˌbeɪtəd/, /ɪɡˈzæsɝˌbeɪtɪd/
-exacerbates	/ɪɡˈzæsɝˌbeɪts/
-exacerbating	/ɪɡˈzæsɝˌbeɪtɪŋ/
-exacerbation	/ɪɡˌzæsɝˈbeɪʃən/
-exacerbations	/ɪɡˌzæsɝˈbeɪʃənz/
-exact	/ɪɡˈzækt/
-exacted	/ɪɡˈzæktɪd/
-exacting	/ɪɡˈzæktɪŋ/
-exaction	/ɪɡˈzækʃən/
-exactions	/ɪɡˈzækʃənz/
-exactitude	/ɪɡˈzæktəˌtud/
-exactly	/ɪɡˈzæktɫi/
-exactly's	/ɪɡˈzæktɫiz/
-exacts	/ɪɡˈzækts/
-exaggerate	/ɪɡˈzædʒɝˌeɪt/
-exaggerated	/ɪɡˈzædʒɝˌeɪtəd/, /ɪɡˈzædʒɝˌeɪtɪd/
-exaggerates	/ɪɡˈzædʒɝˌeɪts/
-exaggerating	/ɪɡˈzædʒɝˌeɪtɪŋ/
-exaggeration	/ɪɡˌzædʒɝˈeɪʃən/
-exaggerations	/ɪɡˌzædʒɝˈeɪʃənz/
-exalt	/ɪɡˈzɔɫt/
-exalted	/ɪɡˈzɔɫtɪd/
-exalting	/ɪɡˈzɔɫtɪŋ/
-exalts	/ɪɡˈzɔɫts/
-exam	/ɪɡˈzæm/
-examination	/ɪɡˌzæməˈneɪʃən/
-examinations	/ɪɡˌzæməˈneɪʃənz/
-examine	/ɪɡˈzæmɪn/
-examined	/ɪɡˈzæmənd/
-examiner	/ɪɡˈzæmənɝ/
-examiners	/ɪɡˈzæmɪnɝz/
-examiners'	/ɪɡˈzæmɪnɝz/
-examines	/ɪɡˈzæmənz/
-examining	/ɪɡˈzæmɪnɪŋ/
-example	/ɪɡˈzæmpəɫ/
-examples	/ɪɡˈzæmpəɫz/
-exams	/ɪɡˈzæmz/
-exasperate	/ɪɡˈzæspɝˌeɪt/
-exasperated	/ɪɡˈzæspɝˌeɪtɪd/
-exasperating	/ɪɡˈzæspɝˌeɪtɪŋ/
-exceed	/ɪkˈsid/
-exceeded	/ɪkˈsidəd/, /ɪkˈsidɪd/
-exceeding	/ɪkˈsidɪŋ/
-exceedingly	/ɪkˈsidɪŋɫi/
-exceeds	/ɪkˈsidz/
-excel	/ɪkˈsɛɫ/
-excel's	/ɪkˈsɛɫz/
-excelled	/ɪkˈsɛɫd/
-excels	/ɪkˈsɛɫz/
-excelsior	/ɪkˈsɛɫsiɝ/
-except	/ɪkˈsɛpt/
-excepted	/ɪkˈsɛptɪd/
-exception	/ɪkˈsɛpʃən/
-exceptional	/ɪkˈsɛpʃənəɫ/
-exceptionally	/ɪkˈsɛpʃənəɫi/, /ɪkˈsɛpʃnəɫi/
-exceptions	/ɪkˈsɛpʃənz/
-excessive	/ɪkˈsɛsɪv/
-excessively	/ɪkˈsɛsɪvɫi/
-exchange	/ɪksˈtʃeɪndʒ/
-exchange's	/ɪksˈtʃeɪndʒɪz/
-exchangeable	/ɪksˈtʃeɪndʒəbəɫ/
-exchanged	/ɪksˈtʃeɪndʒd/
-exchanger	/ɪksˈtʃeɪndʒɝ/
-exchangers	/ɪksˈtʃeɪndʒɝz/
-exchanges	/ɪksˈtʃeɪndʒəz/, /ɪksˈtʃeɪndʒɪz/
-exchanging	/ɪksˈtʃeɪndʒɪŋ/
-excision	/ɪkˈsɪʒən/
-excitable	/ɪkˈsaɪtəbəɫ/
-excite	/ɪkˈsaɪt/
-excited	/ɪkˈsaɪtəd/, /ɪkˈsaɪtɪd/
-excitedly	/ɪkˈsaɪtədɫi/
-excitement	/ɪkˈsaɪtmənt/
-excites	/ɪkˈsaɪts/
-exciting	/ɪkˈsaɪtɪŋ/
-exclaim	/ɪkˈskɫeɪm/
-exclaimed	/ɪkˈskɫeɪmd/
-exclaiming	/ɪkˈskɫeɪmɪŋ/
-exclaims	/ɪkˈskɫeɪmz/
-excludable	/ɪkˈskɫudəbəɫ/
-exclude	/ɪkˈskɫud/
-excluded	/ɪkˈskɫudəd/, /ɪkˈskɫudɪd/
-excludes	/ɪkˈskɫudz/
-excluding	/ɪkˈskɫudɪŋ/
-exclusion	/ɪkˈskɫuʒən/
-exclusionary	/ɪkˈskɫuʒəˌnɛɹi/
-exclusions	/ɪkˈskɫuʒənz/
-exclusive	/ɪkˈskɫusɪv/
-exclusively	/ɪkˈskɫusɪvɫi/
-exclusives	/ɪkˈskɫusɪvz/
-excrete	/ɪksˈkɹit/
-excreted	/ɪksˈkɹitɪd/
-excretes	/ɪksˈkɹitz/
-excretion	/ɪksˈkɹiʃən/
-excruciating	/ɪksˈkɹuʃiˌeɪtɪŋ/
-excursion	/ɪkˈskɝʒən/
-excursions	/ɪkˈskɝʒənz/
-excusable	/ɪkˈskjuzəbəɫ/
-excuse	/ɪkˈskjus/, /ɪkˈskjuz/
-excused	/ɪkˈskjuzd/
-excuses	/ɪkˈskjusɪz/, /ɪkˈskjuzɪz/
-excusing	/ɪkˈskjuzɪŋ/
-executive	/ɪɡˈzɛkjətɪv/
-executives	/ɪɡˈzɛkjətɪvz/
-executor	/ɪɡˈzɛkjətɝ/
-executors	/ɪɡˈzɛkjətɝz/
-exemplar	/ɪɡˈzɛmpɫɑɹ/
-exemplars	/ɪɡˈzɛmpɫɑɹz/
-exemplary	/ɪɡˈzɛmpɫɝi/
-exemplified	/ɪɡˈzɛmpɫəˌfaɪd/
-exemplifies	/ɪɡˈzɛmpɫəˌfaɪz/
-exemplify	/ɪɡˈzɛmpɫəˌfaɪ/
-exemplifying	/ɪɡˈzɛmpɫəˌfaɪɪŋ/
-exemplum	/ɪɡˈzɛmpɫəm/
-exempt	/ɪɡˈzɛmpt/
-exempted	/ɪɡˈzɛmptɪd/
-exempting	/ɪɡˈzɛmptɪŋ/
-exemption	/ɪɡˈzɛmpʃən/, /ɪɡˈzɛmʃən/
-exemptions	/ɪɡˈzɛmpʃənz/, /ɪɡˈzɛmʃənz/
-exempts	/ɪɡˈzɛmpts/
-exert	/ɪɡˈzɝt/
-exerted	/ɪɡˈzɝtɪd/
-exerting	/ɪɡˈzɝtɪŋ/
-exertion	/ɪɡˈzɝʃən/
-exertions	/ɪɡˈzɝʃənz/
-exerts	/ɪɡˈzɝts/
-exhaust	/ɪɡˈzɔst/
-exhausted	/ɪɡˈzɔstɪd/
-exhausting	/ɪɡˈzɔstɪŋ/
-exhaustion	/ɪɡˈzɔstʃən/
-exhaustive	/ɪɡˈzɔstɪv/
-exhaustively	/ɪɡˈzɑstɪvɫi/
-exhausts	/ɪɡˈzɔsts/
-exhibit	/ɪɡˈzɪbɪt/
-exhibit's	/ɪɡˈzɪbəts/
-exhibited	/ɪɡˈzɪbətəd/
-exhibiting	/ɪɡˈzɪbɪtɪŋ/
-exhibitor	/ɪɡˈzɪbətɝ/
-exhibitors	/ɪɡˈzɪbətɝz/
-exhibits	/ɪɡˈzɪbəts/
-exhilarate	/ɪɡˈzɪɫɝˌeɪt/
-exhilarated	/ɪɡˈzɪɫɝˌeɪtɪd/
-exhilarating	/ɪɡˈzɪɫɝˌeɪtɪŋ/
-exhilaration	/ɪɡˌzɪɫɝˈeɪʃən/
-exhort	/ɪɡˈzɔɹt/
-exhorted	/ɪɡˈzɔɹtɪd/
-exhorting	/ɪɡˈzɔɹtɪŋ/
-exhorts	/ɪɡˈzɔɹts/
-exist	/ɪɡˈzɪst/
-existed	/ɪɡˈzɪstəd/
-existing	/ɪɡˈzɪstɪŋ/
-exists	/ɪɡˈzɪsts/
-exonerate	/ɪɡˈzɑnɝˌeɪt/
-exonerated	/ɪɡˈzɑnɝˌeɪtɪd/
-exonerates	/ɪɡˈzɑnɝˌeɪts/
-exonerating	/ɪɡˈzɑnɝˌeɪtɪŋ/
-exoneration	/ɪɡzɑnɝˈeɪʃən/
-exorbitant	/ɪɡˈzɔɹbɪtənt/
-exotic	/ɪɡˈzɑtɪk/
-expand	/ɪkˈspænd/
-expandable	/ɪkˈspændəbəɫ/
-expanded	/ɪkˈspændəd/, /ɪkˈspændɪd/
-expanding	/ɪkˈspændɪŋ/
-expands	/ɪkˈspændz/
-expanse	/ɪkˈspæns/
-expanses	/ɪkˈspænsɪz/
-expansion	/ɪkˈspænʃən/, /ɪkˈspæntʃən/
-expansion's	/ɪkˈspænʃənz/, /ɪkˈspæntʃənz/
-expansionary	/ɪkˈspænʃəˌnɛɹi/, /ɪkˈspæntʃəˌnɛɹi/
-expansionism	/ɪkˈspænʃəˌnɪzəm/, /ɪkˈspæntʃəˌnɪzəm/
-expansionist	/ɪkˈspænʃənɪst/, /ɪkˈspæntʃənɪst/
-expansions	/ɪkˈspænʃənz/, /ɪkˈspæntʃənz/
-expansive	/ɪkˈspænsɪv/
-expect	/ɪkˈspɛkt/
-expectancies	/ɪkˈspɛktənsiz/
-expectancy	/ɪkˈspɛktənsi/
-expectant	/ɪkˈspɛktənt/
-expected	/ɪkˈspɛktəd/, /ɪkˈspɛktɪd/
-expecting	/ɪkˈspɛktɪŋ/
-expectorant	/ɪkˈspɛktɝənt/
-expects	/ɪkˈspɛks/, /ɪkˈspɛkts/
-expedience	/ɪkˈspidiəns/
-expediency	/ɪkˈspidiənsi/
-expedient	/ɪkˈspidiənt/
-expel	/ɪkˈspɛɫ/
-expelled	/ɪkˈspɛɫd/
-expelling	/ɪkˈspɛɫɪŋ/
-expend	/ɪkˈspɛnd/
-expendable	/ɪkˈspɛndəbəɫ/
-expended	/ɪkˈspɛndɪd/
-expenditure	/ɪkˈspɛndətʃɝ/, /ɪkˈspɛndɪtʃɝ/
-expenditures	/ɪkˈspɛndətʃɝz/, /ɪkˈspɛndɪtʃɝz/
-expense	/ɪkˈspɛns/
-expenses	/ɪkˈspɛnsəz/, /ɪkˈspɛnsɪz/
-expensing	/ɪkˈspɛnsɪŋ/
-expensive	/ɪkˈspɛnsɪv/
-experience	/ɪkˈspɪɹiəns/
-experienced	/ɪkˈspɪɹiənst/
-experiences	/ɪkˈspɪɹiənsɪz/
-experiencing	/ɪkˈspɪɹiənsɪŋ/
-experiment	/ɪkˈspɛɹəmənt/
-experiment's	/ɪkˈspɛɹəmənts/
-experimental	/ɪkˌspɛɹɪˈmɛntəɫ/
-experimentalist	/ɪkˌspɛɹəˈmɛntəɫɪst/
-experimentally	/ɪkˌspɛɹəˈmɛntəɫi/
-experimentation	/ɪkˌspɛɹəmənˈteɪʃən/
-experimented	/ɪkˈspɛɹəməntəd/
-experimenter	/ɪkˈspɛɹəˌmɛntɝ/
-experimenters	/ɪkˈspɛɹəˌmɛntɝz/
-experiments	/ɪkˈspɛɹəmənts/
-expiratory	/ɪkˈspaɪɹəˌtɔɹi/
-expire	/ɪkˈspaɪɹ/
-expired	/ɪkˈspaɪɹd/
-expires	/ɪkˈspaɪɝz/
-expiring	/ɪkˈspaɪɹɪŋ/
-explain	/ɪksˈpɫeɪn/
-explainable	/ɪksˈpɫeɪnəbəɫ/
-explained	/ɪksˈpɫeɪnd/
-explaining	/ɪksˈpɫeɪnɪŋ/
-explains	/ɪksˈpɫeɪnz/
-explanatory	/ɪksˈpɫænəˌtɔɹi/
-explicit	/ɪksˈpɫɪsət/
-explicite	/ɪksˈpɫɪsət/
-explicitly	/ɪksˈpɫɪsətɫi/
-explode	/ɪksˈpɫoʊd/
-exploded	/ɪksˈpɫoʊdəd/, /ɪksˈpɫoʊdɪd/
-explodes	/ɪksˈpɫoʊdz/
-exploding	/ɪksˈpɫoʊdɪŋ/
-exploratory	/ɪksˈpɫɔɹəˌtɔɹi/
-exploravision	/ɪksˈpɫɔɹəˌvɪʒən/
-explore	/ɪksˈpɫɔɹ/
-explored	/ɪksˈpɫɔɹd/
-explorer	/ɪksˈpɫɔɹɝ/
-explorers	/ɪksˈpɫɔɹɝz/
-explores	/ɪksˈpɫɔɹz/
-exploring	/ɪksˈpɫɔɹɪŋ/
-explosion	/ɪksˈpɫoʊʒən/
-explosions	/ɪksˈpɫoʊʒənz/
-explosive	/ɪksˈpɫoʊsɪv/
-explosives	/ɪksˈpɫoʊsɪvz/
-exponents	/ɪkˈspoʊnənts/
-exported	/ɪkˈspɔɹtəd/
-exporter	/ɪkˈspɔɹtɝ/
-exporters	/ɪkˈspɔɹtɝz/
-exporting	/ɪkˈspɔɹtɪŋ/
-expose	/ɪkˈspoʊz/
-exposed	/ɪkˈspoʊzd/
-exposes	/ɪkˈspoʊzɪz/
-exposing	/ɪkˈspoʊzɪŋ/
-exposure	/ɪkˈspoʊʒɝ/
-exposures	/ɪkˈspoʊʒɝz/
-expound	/ɪkˈspaʊnd/
-expounded	/ɪkˈspaʊndəd/
-expounding	/ɪkˈspaʊndɪŋ/
-expounds	/ɪkˈspaʊndz/
-express	/ɪksˈpɹɛs/
-express'	/ɪksˈpɹɛs/
-express's	/ɪksˈpɹɛsɪz/
-expressed	/ɪksˈpɹɛst/
-expresses	/ɪksˈpɹɛsəz/, /ɪksˈpɹɛsɪz/
-expressing	/ɪksˈpɹɛsɪŋ/
-expression	/ɪksˈpɹɛʃən/
-expressionism	/ɪksˈpɹɛʃəˌnɪzəm/
-expressionist	/ɪksˈpɹɛʃənəst/
-expressionistic	/ɪksˌpɹɛʃəˈnɪstɪk/
-expressionless	/ɪksˌpɹɛʃənɫɪs/
-expressions	/ɪksˈpɹɛʃənz/
-expressive	/ɪksˈpɹɛsɪv/
-expressway	/ɪksˈpɹɛsˌweɪ/
-expulsion	/ɪkˈspəɫʃən/
-expulsions	/ɪkˈspəɫʃənz/
-expunge	/ɪkˈspəndʒ/
-expunged	/ɪkˈspəndʒd/
-extend	/ɪkˈstɛnd/
-extended	/ɪkˈstɛndəd/, /ɪkˈstɛndɪd/
-extending	/ɪkˈstɛndɪŋ/
-extends	/ɪkˈstɛndz/
-extension	/ɪkˈstɛnʃən/
-extensions	/ɪkˈstɛnʃənz/
-extensive	/ɪkˈstɛnsɪv/
-extensively	/ɪkˈstɛnsɪvɫi/
-extent	/ɪkˈstɛnt/
-extenuate	/ɪkˈstɛnjuˌeɪt/
-extenuating	/ɪkˈstɛnjuˌeɪtɪŋ/
-exterior	/ɪkˈstɪɹiɝ/
-exterminate	/ɪkˈstɝməˌneɪt/
-exterminated	/ɪkˈstɝməˌneɪtɪd/
-exterminates	/ɪkˈstɝməˌneɪts/
-exterminating	/ɪkˈstɝməˌneɪtɪŋ/
-extermination	/ɪkˌstɝməˈneɪʃən/
-exterminator	/ɪkˈstɝməˌneɪtɝ/
-exterminators	/ɪkˈstɝməˌneɪtɝz/
-external	/ɪkˈstɝnəɫ/
-externally	/ɪkˈstɝnəɫi/
-extinct	/ɪkˈstɪŋkt/
-extinction	/ɪkˈstɪŋkʃən/, /ɪkˈstɪŋʃən/
-extinctions	/ɪkˈstɪŋkʃənz/, /ɪkˈstɪŋʃənz/
-extinguish	/ɪkˈstɪŋɡwɪʃ/
-extinguished	/ɪkˈstɪŋɡwɪʃt/
-extinguisher	/ɪkˈstɪŋɡwɪʃɝ/
-extinguishers	/ɪkˈstɪŋɡwɪʃɝz/
-extinguishing	/ɪkˈstɪŋɡwɪʃɪŋ/
-extinguishment	/ɪkˈstɪŋɡwɪʃmənt/
-extol	/ɪkˈstoʊɫ/
-extolled	/ɪkˈstoʊɫd/
-extolling	/ɪkˈstoʊɫɪŋ/
-extols	/ɪkˈstoʊɫz/
-extrude	/ɪkˈstɹud/
-extruded	/ɪkˈstɹudəd/
-extrudes	/ɪkˈstɹudz/
-extruding	/ɪkˈstɹudɪŋ/
-extrusion	/ɪkˈstɹuʒən/
-exuberance	/ɪɡˈzubɝəns/
-exuberant	/ɪɡˈzubɝənt/
-exude	/ɪɡˈzud/
-exuded	/ɪɡˈzudɪd/
-exudes	/ɪɡˈzudz/
-exuding	/ɪɡˈzudɪŋ/
-exult	/ɪɡˈzəɫt/
-exultant	/ɪɡˈzəɫtənt/
-exultantly	/ɪɡˈzəɫtəntɫi/
-exulted	/ɪɡˈzəɫtɪd/
-exulting	/ɪɡˈzəɫtɪŋ/
-exults	/ɪɡˈzəɫts/
-exum	/ɪɡˈzəm/
 ezelle	/ɪˈzɛɫ/
-him	/ˈhɪm/, /ɪm/
+ebright	/ˌɪˈbɹaɪt/
+ebullience	/ˌɪˈbʊɫjəns/
+ebullient	/ˌɪˈbəɫjənt/
+electrobiology	/ˌɪˌɫɛktɹoʊbaɪˈɑɫəˌdʒi/
+electrobiology's	/ˌɪˌɫɛktɹoʊbaɪˈɑɫəˌdʒiz/
+electrocardiogram	/ˌɪˌɫɛktɹoʊˈkɑɹdiəˌɡɹæm/
+electrocardiograms	/ˌɪˌɫɛktɹoʊˈkɑɹdiəˌɡɹæmz/
+electrocom	/ˌɪˈɫɛktɹoʊˌkɑm/
+electrocute	/ˌɪˈɫɛktɹəkˌjut/
+electrocuted	/ˌɪˈɫɛktɹəkˌjutɪd/
+electrocution	/ˌɪˌɫɛktɹəkˈjuʃən/
+electrode	/ˌɪˈɫɛktɹoʊd/
+electrodes	/ˌɪˈɫɛktɹoʊdz/
+electrodynamic	/ˌɪˌɫɛktɹoʊˌdaɪˈnæmɪk/
+electrodynamics	/ˌɪˌɫɛktɹoʊˌdaɪˈnæmɪks/
+electrolytic	/ˌɪˌɫɛktɹəˈɫɪtɪk/
+electromagnetic	/ˌɪˌɫɛktɹoʊmæɡˈnɛtɪk/
+electromagnetism	/ˌɪˌɫɛktɹoʊˈmæɡnəˌtɪzəm/
+electromagnets	/ˌɪˌɫɛktɹoʊˈmæɡnəts/
+electromechanical	/ˌɪˌɫɛktɹoʊməˈkænɪkəɫ/
+electromedics	/ˌɪˌɫɛktɹoʊˈmɛdɪks/
+electron	/ˌɪˈɫɛktɹɑn/
+electronic	/ˌɪˌɫɛkˈtɹɑnɪk/
+electronically	/ˌɪˌɫɛkˈtɹɑnɪkəˌɫi/, /ɪˌɫɛkˈtɹɑnɪkɫi/
+electronics	/ˌɪˌɫɛkˈtɹɑnɪks/
+electronics'	/ˌɪˌɫɛkˈtɹɑnɪks/
+electrons	/ˌɪˈɫɛktɹɑnz/
+electrophoresis	/ˌɪˌɫɛktɹoʊfɔˈɹɪsɪs/, /ɪɫɛktɹoʊfɝˈisɪs/
+electroplate	/ˌɪˈɫɛktɹəˌpɫeɪt/
+electroplating	/ˌɪˈɫɛktɹəˌpɫeɪtɪŋ/
+electroshock	/ˌɪˈɫɛkˌtɹoʊˌʃɑk/
+electrosound	/ˌɪˈɫɛktɹoʊˌsaʊnd/
+electrospace	/ˌɪˈɫɛktɹoʊˌspeɪs/
+electrospray	/ˌɪˈɫɛktɹoʊsˌpɹeɪ/
+electrostatic	/ˌɪˌɫɛktɹoʊˈstætɪk/
+elects	/ˌɪˈɫɛkts/
+enacts	/ˌɪˈnækts/
+envirotest	/ˌɪnˈvaɪɹoʊˌtɛst/
+erupted	/ˌiˈɹəptɪd/, /ˌɪˈɹəptɪd/
+erupting	/ˌiˈɹəptɪŋ/, /ˌɪˈɹəptɪŋ/
+eruption	/ˌiˈɹəpʃən/, /ˌɪˈɹəpʃən/
+eruptions	/ˌiˈɹəpʃənz/, /ˌɪˈɹəpʃənz/
+eruptive	/ˌiˈɹəptɪv/, /ˌɪˈɹəptɪv/
+erupts	/ˌiˈɹəpts/, /ˌɪˈɹəpts/
+ear	/ˈiɹ/, /ˈɪɹ/
+eardley	/ˈɝdɫi/, /ˈɪɹdɫi/
+eared	/ˈɪɹd/
+earfull	/ˈɪɹˌfəɫ/
+eargle	/ˈɪɹɡəɫ/
+earless	/ˈiɹɫəs/, /ˈɪɹɫəs/
+earmark	/ˈiɹˌmɑɹk/, /ˈɪɹˌmɑɹk/
+earmarked	/ˈiɹˌmɑɹkt/, /ˈɪɹˌmɑɹkt/
+earmarking	/ˈiɹˌmɑɹkɪŋ/, /ˈɪɹˌmɑɹkɪŋ/
+earmarks	/ˈiɹˌmɑɹks/, /ˈɪɹˌmɑɹks/
+earmuff	/ˈiɹˌməf/, /ˈɪɹˌməf/
+earmuffs	/ˈiɹˌməfs/, /ˈɪɹˌməfs/
+earphone	/ˈiɹˌfoʊn/, /ˈɪɹˌfoʊn/
+earphones	/ˈiɹˌfoʊnz/, /ˈɪɹˌfoʊnz/
+earpiece	/ˈiɹpis/, /ˈɪɹpis/
+earpieces	/ˈiɹpisɪz/, /ˈɪɹpisɪz/
+earplug	/ˈiɹˌpɫəɡ/, /ˈɪɹˌpɫəɡ/
+earplugs	/ˈiɹˌpɫəɡz/, /ˈɪɹˌpɫəɡz/
+earring	/ˈiɹɪŋ/, /ˈɪɹɪŋ/
+earrings	/ˈiɹɪŋz/, /ˈɪɹɪŋz/
+ears	/ˈiɹz/, /ˈɪɹz/
+earshot	/ˈiɹˌʃɑt/, /ˈɪɹˌʃɑt/
+earwax	/ˈiɹˌwæks/, /ˈɪɹˌwæks/
+earwood	/ˈiɹˌwʊd/, /ˈɪɹˌwʊd/
+eary	/ˈɪɹi/
+eerie	/ˈɪɹi/
+eerily	/ˈɪɹəɫi/
+england	/ˈɪŋɡɫənd/
+england's	/ˈɪŋɡɫəndz/
+englander	/ˈɪŋɡɫəndɝ/
+englanders	/ˈɪŋɡɫəndɝz/
+englands	/ˈɪŋɡɫəndz/
+englebert	/ˈɪŋəɫbɝt/
+englehardt	/ˈɪŋəɫhɑɹt/
+englehart	/ˈɪŋəɫhɑɹt/
+engleman	/ˈɪŋəɫmən/
+englert	/ˈɪŋɫɝt/
+englerth	/ˈɪŋɫɝθ/
+engles	/ˈɪŋəɫz/
+english	/ˈɪŋɡɫɪʃ/, /ˈɪŋɫɪʃ/
+englishman	/ˈɪŋɡɫɪʃmən/
+englishwoman	/ˈɪŋɡɫɪʃˌwʊmən/
+englund	/ˈɪŋɫənd/
+eras	/ˈɪɹəz/
+erie	/ˈɪɹi/
+ero	/ˈɪɹoʊ/
+eron	/ˈɪɹɑn/
+eros	/ˈɪɹɑs/
+
 if	/ˈɪf/, /ɪf/
 ifill	/ɪˈfiɫ/
 igushi	/ɪˈɡuˌʃi/
@@ -1013,51 +1107,6 @@ izansky's	/ɪˈzænskiz/
 izquierdo	/ɪzˈkwɪɹdoʊ/
 izumi	/ɪˈzumi/
 izvestia	/ɪzˈvɛstiə/
-
-ebright	/ˌɪˈbɹaɪt/
-ebullience	/ˌɪˈbʊɫjəns/
-ebullient	/ˌɪˈbəɫjənt/
-electrobiology	/ˌɪˌɫɛktɹoʊbaɪˈɑɫəˌdʒi/
-electrobiology's	/ˌɪˌɫɛktɹoʊbaɪˈɑɫəˌdʒiz/
-electrocardiogram	/ˌɪˌɫɛktɹoʊˈkɑɹdiəˌɡɹæm/
-electrocardiograms	/ˌɪˌɫɛktɹoʊˈkɑɹdiəˌɡɹæmz/
-electrocom	/ˌɪˈɫɛktɹoʊˌkɑm/
-electrocute	/ˌɪˈɫɛktɹəkˌjut/
-electrocuted	/ˌɪˈɫɛktɹəkˌjutɪd/
-electrocution	/ˌɪˌɫɛktɹəkˈjuʃən/
-electrode	/ˌɪˈɫɛktɹoʊd/
-electrodes	/ˌɪˈɫɛktɹoʊdz/
-electrodynamic	/ˌɪˌɫɛktɹoʊˌdaɪˈnæmɪk/
-electrodynamics	/ˌɪˌɫɛktɹoʊˌdaɪˈnæmɪks/
-electrolytic	/ˌɪˌɫɛktɹəˈɫɪtɪk/
-electromagnetic	/ˌɪˌɫɛktɹoʊmæɡˈnɛtɪk/
-electromagnetism	/ˌɪˌɫɛktɹoʊˈmæɡnəˌtɪzəm/
-electromagnets	/ˌɪˌɫɛktɹoʊˈmæɡnəts/
-electromechanical	/ˌɪˌɫɛktɹoʊməˈkænɪkəɫ/
-electromedics	/ˌɪˌɫɛktɹoʊˈmɛdɪks/
-electron	/ˌɪˈɫɛktɹɑn/
-electronic	/ˌɪˌɫɛkˈtɹɑnɪk/
-electronically	/ˌɪˌɫɛkˈtɹɑnɪkəˌɫi/, /ɪˌɫɛkˈtɹɑnɪkɫi/
-electronics	/ˌɪˌɫɛkˈtɹɑnɪks/
-electronics'	/ˌɪˌɫɛkˈtɹɑnɪks/
-electrons	/ˌɪˈɫɛktɹɑnz/
-electrophoresis	/ˌɪˌɫɛktɹoʊfɔˈɹɪsɪs/, /ɪɫɛktɹoʊfɝˈisɪs/
-electroplate	/ˌɪˈɫɛktɹəˌpɫeɪt/
-electroplating	/ˌɪˈɫɛktɹəˌpɫeɪtɪŋ/
-electroshock	/ˌɪˈɫɛkˌtɹoʊˌʃɑk/
-electrosound	/ˌɪˈɫɛktɹoʊˌsaʊnd/
-electrospace	/ˌɪˈɫɛktɹoʊˌspeɪs/
-electrospray	/ˌɪˈɫɛktɹoʊsˌpɹeɪ/
-electrostatic	/ˌɪˌɫɛktɹoʊˈstætɪk/
-elects	/ˌɪˈɫɛkts/
-enacts	/ˌɪˈnækts/
-envirotest	/ˌɪnˈvaɪɹoʊˌtɛst/
-erupted	/ˌiˈɹəptɪd/, /ˌɪˈɹəptɪd/
-erupting	/ˌiˈɹəptɪŋ/, /ˌɪˈɹəptɪŋ/
-eruption	/ˌiˈɹəpʃən/, /ˌɪˈɹəpʃən/
-eruptions	/ˌiˈɹəpʃənz/, /ˌɪˈɹəpʃənz/
-eruptive	/ˌiˈɹəptɪv/, /ˌɪˈɹəptɪv/
-erupts	/ˌiˈɹəpts/, /ˌɪˈɹəpts/
 ibanez	/ˌɪˈbɑnɛz/
 ibarra	/ˌɪˈbɑɹə/
 ibero	/ˌɪˈbɛɹoʊ/
@@ -2858,60 +2907,6 @@ iwanski	/ˌɪˈvænˌski/
 iwinski	/ˌɪˈvɪnˌski/
 izetbegovic	/ˌɪzɛtˈbɛɡoʊˌvɪtʃ/
 izetbegovic's	/ˌɪzɛtˈbɛɡoʊˌvɪtʃɪz/
-ylvisaker	/ˌɪɫvɪˈsɑkɝ/
-ypsilanti	/ˌɪpsəˈɫænti/
-yvette	/ˌɪˈvɛt/
-yvonne	/ˌɪˈvɑn/
-yvonne's	/ˌɪˈvɑnz/
-
-ear	/ˈiɹ/, /ˈɪɹ/
-eardley	/ˈɝdɫi/, /ˈɪɹdɫi/
-eared	/ˈɪɹd/
-earfull	/ˈɪɹˌfəɫ/
-eargle	/ˈɪɹɡəɫ/
-earless	/ˈiɹɫəs/, /ˈɪɹɫəs/
-earmark	/ˈiɹˌmɑɹk/, /ˈɪɹˌmɑɹk/
-earmarked	/ˈiɹˌmɑɹkt/, /ˈɪɹˌmɑɹkt/
-earmarking	/ˈiɹˌmɑɹkɪŋ/, /ˈɪɹˌmɑɹkɪŋ/
-earmarks	/ˈiɹˌmɑɹks/, /ˈɪɹˌmɑɹks/
-earmuff	/ˈiɹˌməf/, /ˈɪɹˌməf/
-earmuffs	/ˈiɹˌməfs/, /ˈɪɹˌməfs/
-earphone	/ˈiɹˌfoʊn/, /ˈɪɹˌfoʊn/
-earphones	/ˈiɹˌfoʊnz/, /ˈɪɹˌfoʊnz/
-earpiece	/ˈiɹpis/, /ˈɪɹpis/
-earpieces	/ˈiɹpisɪz/, /ˈɪɹpisɪz/
-earplug	/ˈiɹˌpɫəɡ/, /ˈɪɹˌpɫəɡ/
-earplugs	/ˈiɹˌpɫəɡz/, /ˈɪɹˌpɫəɡz/
-earring	/ˈiɹɪŋ/, /ˈɪɹɪŋ/
-earrings	/ˈiɹɪŋz/, /ˈɪɹɪŋz/
-ears	/ˈiɹz/, /ˈɪɹz/
-earshot	/ˈiɹˌʃɑt/, /ˈɪɹˌʃɑt/
-earwax	/ˈiɹˌwæks/, /ˈɪɹˌwæks/
-earwood	/ˈiɹˌwʊd/, /ˈɪɹˌwʊd/
-eary	/ˈɪɹi/
-eerie	/ˈɪɹi/
-eerily	/ˈɪɹəɫi/
-england	/ˈɪŋɡɫənd/
-england's	/ˈɪŋɡɫəndz/
-englander	/ˈɪŋɡɫəndɝ/
-englanders	/ˈɪŋɡɫəndɝz/
-englands	/ˈɪŋɡɫəndz/
-englebert	/ˈɪŋəɫbɝt/
-englehardt	/ˈɪŋəɫhɑɹt/
-englehart	/ˈɪŋəɫhɑɹt/
-engleman	/ˈɪŋəɫmən/
-englert	/ˈɪŋɫɝt/
-englerth	/ˈɪŋɫɝθ/
-engles	/ˈɪŋəɫz/
-english	/ˈɪŋɡɫɪʃ/, /ˈɪŋɫɪʃ/
-englishman	/ˈɪŋɡɫɪʃmən/
-englishwoman	/ˈɪŋɡɫɪʃˌwʊmən/
-englund	/ˈɪŋɫənd/
-eras	/ˈɪɹəz/
-erie	/ˈɪɹi/
-ero	/ˈɪɹoʊ/
-eron	/ˈɪɹɑn/
-eros	/ˈɪɹɑs/
 ib	/ˈaɪˈbi/, /ˈɪb/
 ibach	/ˈɪbɑk/
 ibbotson	/ˈɪbətsən/
@@ -3682,7 +3677,3 @@ izzi	/ˈɪzi/
 izzo	/ˈɪzoʊ/
 izzy	/ˈɪzi/
 izzy's	/ˈɪziz/
-ydstie	/ˈɪdsti/
-ydstie's	/ˈɪdstiz/
-ynjiun	/ˈɪndʒʊn/
-yttrium	/ˈɪtɹiəm/

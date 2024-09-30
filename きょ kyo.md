@@ -1,13 +1,8 @@
 quotation	/kwoʊˈteɪʃən/
 quotations	/kwoʊˈteɪʃənz/
 
-cuoco	/ˈkwoʊkoʊ/
 cuomo	/ˈkwoʊmoʊ/
 cuomo's	/ˈkwoʊmoʊz/
-cuozzo	/ˈkwoʊzoʊ/
-kwolek	/ˈkwoʊɫɛk/
-queau	/ˈkwoʊ/
-quo	/ˈkwoʊ/
 quota	/ˈkwoʊtə/
 quotable	/ˈkwoʊtəbəɫ/
 quotas	/ˈkwoʊtəz/
@@ -17,5 +12,3 @@ quotes	/ˈkwoʊts/
 quoth	/ˈkwoʊθ/
 quotient	/ˈkwoʊʃənt/
 quoting	/ˈkwoʊtɪŋ/
-quotron	/ˈkwoʊtɹɑn/
-quotron's	/ˈkwoʊtɹɑnz/

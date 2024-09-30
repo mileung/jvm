@@ -2055,7 +2055,6 @@ uptain	/əpˈteɪn/
 uptight	/əpˈtaɪt/
 upturn	/ˈəpˌtɝn/, /əpˈtɝn/
 
-ahmeek	/ˈəmik/
 of	/ˈəv/
 onion	/ˈənjən/
 onions	/ˈənjənz/
@@ -2068,15 +2067,7 @@ otherwise	/ˈəðɝˌwaɪz/
 otherworldly	/ˈəðɝˈwɝɫdɫi/
 oven	/ˈəvən/
 ovens	/ˈəvənz/
-ubben	/ˈəbən/
-uclaf	/ˈəkɫæf/, /ˈjukɫæf/
-uddin	/ˈədɪn/
-udell	/ˈədəɫ/
-udolf	/ˈədoʊɫf/
-udvar	/ˈədvɑɹ/
-uffelman	/ˈəfəɫmən/
 ugh	/ˈəɡ/
-ugity	/ˈəɡɪti/
 uglier	/ˈəɡɫiɝ/
 ugliest	/ˈəɡɫiəst/
 ugliness	/ˈəɡɫinəs/
@@ -2084,93 +2075,30 @@ ugly	/ˈəɡɫi/
 uh	/ˈə/
 uh-huh	/ˈəˈhə/
 uh-oh	/ˈəˌoʊ/
-uhde	/ˈəd/, /ˈudə/
-uhh	/ˈə/
-uhl	/ˈəɫ/
-ukman	/ˈəkmən/
-ul	/ˈəɫ/, /ˈjuˈɛɫ/
-ulbrich	/ˈəɫbɹɪk/
-ulbricht	/ˈəɫbɹɪkt/
-ulcer	/ˈəɫsɝ/
-ulcers	/ˈəɫsɝz/
-ulch	/ˈəɫtʃ/
-ulf	/ˈəɫf/
-ulfred	/ˈəɫfɝd/
-ulger	/ˈəɫɡɝ/
-ulland	/ˈəɫənd/
-ullman	/ˈəɫmən/
-ullmann	/ˈəɫmən/
-ullmer	/ˈəɫmɝ/
-ullock	/ˈəɫək/
-ullom	/ˈəɫəm/
-ulm	/ˈəɫm/
-ulman	/ˈəɫmən/
-ulmar	/ˈəɫmɝ/
-ulmer	/ˈəɫmɝ/
-ulmus	/ˈəɫməs/
-ulrey	/ˈəɫɹi/
-ulric	/ˈəɫɹɪk/
-ulrica	/ˈəɫɹɪkə/
-ulrich	/ˈəɫɹɪtʃ/
-ulrick	/ˈəɫɹɪk/
-ulsan	/ˈəɫsən/
-ulsh	/ˈəɫʃ/
-ulshafer	/ˈəɫʃəfɝ/
-ulster	/ˈəɫstɝ/
-ultima	/ˈəɫtɪmə/
-ultimate	/ˈəɫtəmət/
-ultimately	/ˈəɫtəmətɫi/
-ultra	/ˈəɫtɹə/
-ultra's	/ˈəɫtɹəz/
-ultrair	/ˈəɫˌtɹɛɹ/
-ultramar	/ˈəɫtɹəmɑɹ/
-ultrasystem	/ˈəɫtɹəˌsɪstəm/
-ultrasystems	/ˈəɫtɹəˌsɪstəmz/
-ulvert	/ˈəɫvɝt/
+<!-- ultimate	/ˈəɫtəmət/ -->
+<!-- ultimately	/ˈəɫtəmətɫi/ -->
+<!-- ultra	/ˈəɫtɹə/ -->
+<!-- ultra's	/ˈəɫtɹəz/ -->
 um	/ˈəm/
-umbach	/ˈəmˌbɑk/
-umbarger	/ˈəmˌbɑɹɡɝ/
-umbaugh	/ˈəmbaʊ/
-umbel	/ˈəmbəɫ/
-umberger	/ˈəmbɝɡɝ/
-umble	/ˈəmbəɫ/
-umbra	/ˈəmbɹə/
-umbrage	/ˈəmbɹɪdʒ/
 umbrella	/ˈəmˌbɹɛɫə/, /əmˈbɹɛɫə/
-umbria	/ˈəmbɹiə/
-umfleet	/ˈəmˌfɫit/
-umholtz	/ˈəmˌhoʊɫts/
-umland	/ˈəmɫənd/
-umlauf	/ˈəmɫaʊf/
 umm	/ˈəm/
-ummel	/ˈəməɫ/
-umphress	/ˈəmfɹɪs/
-umphrey	/ˈəmfɹi/
 umpire	/ˈəmˌpaɪɝ/
 umpires	/ˈəmˌpaɪɝz/
 umpteen	/ˈəmpˈtin/
 umpteenth	/ˈəmpˌtinθ/
-umscheid	/ˈəmˌʃaɪd/
-umstead	/ˈəmˌstɛd/
 un	/ˈən/, /ˈjuˈɛn/
 unbolt	/ˈənˌboʊɫt/
 unbolted	/ˈənˌboʊɫtɪd/
 unborn	/ˈənˈbɔɹn/
-uncapher	/ˈənkəfɝ/
 uncle	/ˈəŋkəɫ/
 uncle's	/ˈəŋkəɫz/
 uncles	/ˈəŋkəɫz/
-uncouth	/ˈənˈkuθ/
-unctad	/ˈənkˌtæd/
-unctuous	/ˈəŋtʃwəs/
-und	/ˈənd/
 under	/ˈəndɝ/
 under-age	/ˈəndɝˈeɪdʒ/
 underachiever	/ˈəndɝəˌtʃivɝ/
 underachievers	/ˈəndɝəˌtʃivɝz/
 underage	/ˈəndɝɪdʒ/
 underbelly	/ˈəndɝˌbɛɫi/
-underberg	/ˈəndɝbɝɡ/
 underbid	/ˈəndɝˌbɪd/
 underbrush	/ˈəndɝˌbɹəʃ/
 undercarriage	/ˈəndɝˌkæɹɪdʒ/
@@ -2183,10 +2111,8 @@ undercurrents	/ˈəndɝˌkɝənts/
 undercut	/ˈəndɝˌkət/
 undercuts	/ˈəndɝˌkəts/
 undercutting	/ˈəndɝˌkətɪŋ/
-underdahl	/ˈəndɝˌdɑɫ/
 underdog	/ˈəndɝˌdɔɡ/
 underdogs	/ˈəndɝˌdɔɡz/
-underdown	/ˈəndɝˌdaʊn/
 underemploy	/ˈəndɝɪmˈpɫɔɪ/
 underemployed	/ˈəndɝɪmˈpɫɔɪd/
 underestimate	/ˈəndɝˈɛstəˌmeɪt/, /ˈəndɝˈɛstəmət/
@@ -2201,8 +2127,6 @@ undergrad	/ˈəndɝˌɡɹæd/
 underground	/ˈəndɝˌɡɹaʊnd/
 undergrowth	/ˈəndɝˌɡɹoʊθ/
 underhanded	/ˈəndɝˈhændɪd/
-underhill	/ˈəndɝˌhɪɫ/
-underkoffler	/ˈəndɝkəfəɫɝ/
 underline	/ˈəndɝˌɫaɪn/
 underlined	/ˈəndɝˌɫaɪnd/
 underlines	/ˈəndɝˌɫaɪnz/
@@ -2238,7 +2162,6 @@ undershirt	/ˈəndɝˌʃɝt/
 undershirts	/ˈəndɝˌʃɝts/
 underside	/ˈəndɝˌsaɪd/
 undersized	/ˈəndɝˌsaɪzd/
-underspin	/ˈəndɝˌspɪn/
 understaff	/ˈəndɝˌstæf/
 understaffed	/ˈəndɝˌstæft/
 understate	/ˈəndɝˌsteɪt/
@@ -2246,8 +2169,6 @@ understated	/ˈəndɝˌsteɪtɪd/
 understatement	/ˈəndɝˌsteɪtmənt/
 understates	/ˈəndɝˌsteɪts/
 understating	/ˈəndɝˌsteɪtɪŋ/
-understory	/ˈəndɝˌstɔɹi/
-understudy	/ˈəndɝˌstədi/
 undertake	/ˈəndɝˌteɪk/
 undertaken	/ˈəndɝˌteɪkən/
 undertaker	/ˈəndɝˌteɪkɝ/
@@ -2267,9 +2188,6 @@ undervalues	/ˈəndɝˌvæɫjuz/
 underwater	/ˈəndɝˌwɔtɝ/
 underwear	/ˈəndɝˌwɛɹ/
 underweight	/ˈəndɝˌweɪt/
-underwithheld	/ˈəndɝˌwɪθˈhɛɫd/
-underwithhold	/ˈəndɝˌwɪθˌhoʊɫd/
-underwithholding	/ˈəndɝˌwɪθˌhoʊɫdɪŋ/
 underwood	/ˈəndɝˌwʊd/
 underwoods	/ˈəndɝˌwʊdz/
 underworld	/ˈəndɝˌwɝɫd/
@@ -2288,81 +2206,41 @@ undulated	/ˈəndʒəˌɫeɪtəd/
 undulates	/ˈəndʒəˌɫeɪts/
 undulating	/ˈəndʒəˌɫeɪtɪŋ/
 unfair	/ˈənˈfɛɹ/, /ˌɔnˈfɛɹ/, /ənˈfɛɹ/
-ung	/ˈəŋ/
-ungar	/ˈəŋɡɝ/
-unger	/ˈəŋɡɝ/
-ungerer	/ˈəŋɝɝ/
-unkefer	/ˈəŋkɪfɝ/
-unland	/ˈənɫənd/
 unplugged	/ˈənˈpɫəɡd/, /ənˈpɫəɡd/
-unprofor	/ˈəpɹoʊˌfɔɹ/
-unprofor's	/ˈəpɹoʊˌfɔɹz/
-unquote	/ˈənˈkwoʊt/
-unrath	/ˈənɹəθ/
 unreadable	/ˈənˈɹidəbəɫ/, /ənˈɹidəbəɫ/
-unrue	/ˈənɹu/
-unruh	/ˈənɹu/
-unscom	/ˈənˌskɔm/
-unser	/ˈənsɝ/
 unserviceable	/ˈənˈsɝvəsəbəɫ/, /ənˈsɝvəsəbəɫ/
 unset	/ˈənˈsɛt/, /ənˈsɛt/
-unsworth	/ˈənswɝθ/
-unterberg	/ˈəntɝbɝɡ/
-unterman	/ˈəntɝmən/
-untermeyer	/ˈəntɝˌmaɪɹ/
 unto	/ˈəntu/
-unz	/ˈənz/
 up	/ˈəp/
 up-front	/ˈəpˌfɹənt/
 up's	/ˈəps/
 upbeat	/ˈəpˌbit/
-upbraid	/ˈəpˌbɹeɪd/
 upbringing	/ˈəpˌbɹɪŋɪŋ/
-upchurch	/ˈəpˌtʃɝtʃ/
 upcoming	/ˈəpˌkəmɪŋ/
 update	/ˈəpˌdeɪt/, /əpˈdeɪt/
 updated	/ˈəpˌdeɪtɪd/, /əpˈdeɪtɪd/
 updates	/ˈəpˌdeɪts/, /əpˈdeɪts/
 updating	/ˈəpˌdeɪtɪŋ/, /əpˈdeɪtɪŋ/
-updegraff	/ˈəpdɪɡɹəf/
-updike	/ˈəpˌdaɪk/
-updike's	/ˈəpˌdaɪkz/
-updraft	/ˈəpˌdɹæft/
-updrafts	/ˈəpˌdɹæfts/
-updyke	/ˈəpˌdaɪk/
 upfront	/ˈəpˌfɹənt/
 upgrade	/ˈəpˈɡɹeɪd/, /əpˈɡɹeɪd/
 upgraded	/ˈəpˌɡɹeɪdɪd/, /əpˈɡɹeɪdɪd/
 upgrader	/ˈəpˌɡɹeɪdɝ/
 upgrades	/ˈəpˌɡɹeɪdz/, /əpˈɡɹeɪdz/
 upgrading	/ˈəpˌɡɹeɪdɪŋ/, /əpˈɡɹeɪdɪŋ/
-upham	/ˈəpəm/
 uphill	/ˈəpˈhɪɫ/
-uphoff	/ˈəpˌhɔf/
-upjohn	/ˈəpˌdʒɑn/
-upjohn's	/ˈəpˌdʒɑnz/
 upkeep	/ˈəpˌkip/
-upland	/ˈəpɫənd/
-uplands	/ˈəpɫəndz/
 uplift	/ˈəpɫɪft/
 uplifted	/ˈəpɫɪftɪd/
 uplifting	/ˈəˌpɫɪftɪŋ/
-uplink	/ˈəˌpɫɪŋk/
 upload	/ˈəˌpɫoʊd/
 uploaded	/ˈəˌpɫoʊdɪd/
 uploading	/ˈəˌpɫoʊdɪŋ/
 uploads	/ˈəˌpɫoʊdz/
-upmanship	/ˈəpmənˌʃɪp/
 upmarket	/ˈəpˌmɑɹkət/
-upp	/ˈəp/
 upped	/ˈəpt/
 upper	/ˈəpɝ/
 upperclass	/ˈəpɝˌkɫæs/
-upperman	/ˈəpɝmən/
 uppermost	/ˈəpɝˌmoʊst/
-uppers	/ˈəpɝz/
-upping	/ˈəpɪŋ/
-uppity	/ˈəpəti/
 upright	/ˈəˌpɹaɪt/, /əˈpɹaɪt/
 uprights	/ˈəˌpɹaɪts/
 uprise	/ˈəpɹaɪz/
@@ -2373,14 +2251,11 @@ ups	/ˈəps/
 upscale	/ˈəpˌskeɪɫ/
 upset	/ˈəpˌsɛt/, /əpˈsɛt/
 upsets	/ˈəpˌsɛts/, /əpˈsɛts/
-upshaw	/ˈəpˌʃɔ/
 upshot	/ˈəpˌʃɑt/
-upshur	/ˈəpʃɝ/
 upside	/ˈəpˈsaɪd/
 upside-down	/ˈəpsaɪdˌdaʊn/
 upsize	/ˈəpˈsaɪz/
 upsizing	/ˈəpˈsaɪzɪŋ/
-upson	/ˈəpsən/
 upstaged	/ˈəpˈsteɪdʒd/
 upstanding	/ˈəpˌstændɪŋ/
 upstart	/ˈəpˌstɑɹt/
@@ -2391,10 +2266,8 @@ upsurge	/ˈəpˌsɝdʒ/
 upswing	/ˈəpˌswɪŋ/, /əpˈswɪŋ/
 upswings	/ˈəpˌswɪŋz/
 uptake	/ˈəpˌteɪk/
-uptegrove	/ˈəptɪɡɹəv/
 uptick	/ˈəpˌtɪk/
 upticks	/ˈəpˌtɪks/
-upton	/ˈəptən/
 uptown	/ˈəpˈtaʊn/
 uptrend	/ˈəpˌtɹɛnd/
 upturn	/ˈəpˌtɝn/, /əpˈtɝn/
@@ -2406,24 +2279,12 @@ upvoting	/ˈəpˈvoʊtɪŋ/
 upward	/ˈəpwɝd/
 upwardly	/ˈəpwɝdɫi/
 upwards	/ˈəpwɝdz/
-upwood	/ˈəpˌwʊd/
 us	/ˈəs/, /ˌjuˈɛs/
 usher	/ˈəʃɝ/
 ushered	/ˈəʃɝd/
 ushering	/ˈəʃɝɪŋ/
 ushers	/ˈəʃɝz/
-usrey	/ˈəsɹi/
-usry	/ˈəsɹi/
-ussery	/ˈəsɝi/
-utgoff	/ˈətɡɔf/
-uthe	/ˈəð/, /ˈəθ/
-uther	/ˈəðɝ/, /ˈjuθɝ/
-utke	/ˈətki/
-utley	/ˈətɫi/
 utmost	/ˈətˌmoʊst/
-utsey	/ˈətsi/
-utt	/ˈət/
-uttech	/ˈəˌtɛk/
 utter	/ˈətɝ/
 utterance	/ˈətɝəns/
 utterances	/ˈətɝənsɪz/
@@ -2431,6 +2292,3 @@ uttered	/ˈətɝd/
 uttering	/ˈətɝɪŋ/
 utterly	/ˈətɝɫi/
 utters	/ˈətɝz/
-utz	/ˈəts/
-utzinger	/ˈətzɪŋɝ/
-uzzle	/ˈəzəɫ/

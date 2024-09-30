@@ -1,12 +1,7 @@
-cacophony	/kæˈkɑfəni/
+<!-- cacophony	/kæˈkɑfəni/ -->
 cafe	/kæˈfeɪ/, /kəˈfeɪ/
 caffeine	/kæˈfin/
-calaveras	/kæɫəˈvɛɹəz/
-calhoon	/kæɫˈhun/
 calhoun	/kæɫˈhun/
-calveras	/kæɫˈvɛɹəs/
-calvey	/kæɫˈveɪ/
-camdessus	/kæmˈdɛsəs/
 campaign	/kæmˈpeɪn/
 campaign's	/kæmˈpeɪnz/
 campaigned	/kæmˈpeɪnd/
@@ -14,13 +9,8 @@ campaigner	/kæmˈpeɪnɝ/
 campaigners	/kæmˈpeɪnɝz/
 campaigning	/kæmˈpeɪnɪŋ/
 campaigns	/kæmˈpeɪnz/
-campeau	/kæmˈpoʊ/
-campeau's	/kæmˈpoʊz/
-candido	/kænˈdidoʊ/
-cantankerous	/kænˈtæŋkɝəs/
 canteen	/kænˈtin/
 canteens	/kænˈtinz/
-cantrell	/kænˈtɹɛɫ/
 captivity	/kæpˈtɪvəti/
 cascade	/kæˈskeɪd/
 cascade's	/kæˈskeɪdz/
@@ -28,24 +18,15 @@ cascaded	/kæˈskeɪdɪd/
 cascades	/kæˈskeɪdz/
 cascades'	/kæˈskeɪdz/
 cascading	/kæˈskeɪdɪŋ/
-casebeer	/kæsɪˈbɪɹ/, /keɪsˈbɪɹ/
 cashier	/kæˈʃɪɹ/
 cashier's	/kæˈʃɪɹz/
 cashiered	/kæˈʃɪɹd/
-castronova	/kæstɹoʊˈnoʊvə/
-castronovo	/kæstɹoʊˈnoʊvoʊ/
-cathay	/kæˈθeɪ/
-kalkaska	/kæɫˈkɑskə/
-kansai	/kænˈsaɪ/
-kashmiri	/kæʃˈmiɹi/
-kathalene	/kæθəˈɫin/
 kathleen	/kæθˈɫin/
 kathleen's	/kæθˈɫinz/
-quasimodo	/kæziˈmoʊdoʊ/
+<!-- quasimodo	/kæziˈmoʊdoʊ/ -->
 
 cab	/ˈkæb/
 cab's	/ˈkæbz/
-cabaniss	/ˈkæbənɪs/
 cabbage	/ˈkæbədʒ/, /ˈkæbɪdʒ/
 cabbages	/ˈkæbɪdʒɪz/
 cabbie	/ˈkæbi/
@@ -59,80 +40,29 @@ cabinet's	/ˈkæbnəts/
 cabinetry	/ˈkæbnətɹi/
 cabinets	/ˈkæbənəts/, /ˈkæbnəts/
 cabins	/ˈkæbənz/
-cablec	/ˈkæbɫək/, /ˈkeɪbəɫˈsi/, /ˈkeɪbɫɛk/
-cabot	/ˈkæbət/
-cabot's	/ˈkæbəts/
-cabotage	/ˈkæbətɪdʒ/
-cabral	/ˈkæbɹəɫ/
 cabs	/ˈkæbz/
-cac	/ˈkæk/, /ˈsiˈeɪˈsi/
-cac's	/ˈkæks/
-cacace	/ˈkækəs/
 cache	/ˈkæʃ/, /kæˈʃeɪ/
 cached	/ˈkæʃt/
 caches	/ˈkæʃɪz/, /kæˈʃeɪz/
 cachet	/ˈkæʃeɪ/
 caching	/ˈkæʃɪŋ/
-cacho	/ˈkætʃoʊ/
 cackle	/ˈkækəɫ/
 cackling	/ˈkækəɫɪŋ/, /ˈkækɫɪŋ/
-cacld	/ˈkækəɫd/, /ˈsiˈeɪˈsiˈɛɫˈdi/
 cacti	/ˈkæktaɪ/, /ˈkækti/
 cactus	/ˈkæktəs/
 cad	/ˈkæd/
-cadam	/ˈkædəm/
-cadbury	/ˈkædˌbɛɹi/
-cadbury's	/ˈkædˌbɛɹiz/
-cadby	/ˈkædbi/
-caddell	/ˈkædəɫ/
-cadden	/ˈkædən/
-caddick	/ˈkædɪk/
 caddie	/ˈkædi/
 caddie's	/ˈkædiz/
 caddied	/ˈkædid/
 caddies	/ˈkædiz/
-caddock	/ˈkædək/
 caddy	/ˈkædi/
 caddying	/ˈkædiɪŋ/
 caddyshack	/ˈkædiˌʃæk/
-cadge	/ˈkædʒ/
-cadieux	/ˈkædioʊ/
 cadillac	/ˈkædəˌɫæk/
 cadillac's	/ˈkædəˌɫæks/
 cadillacs	/ˈkædəˌɫæks/
-cadman	/ˈkædmən/
-cadmium	/ˈkædmiəm/
-cadmus	/ˈkædməs/
-cadorette	/ˈkædɝɛt/
-cadre	/ˈkædɹi/
-cadres	/ˈkædɹiz/
-cads	/ˈkæds/
-cadwell	/ˈkædˌwɛɫ/
-caen	/ˈkæn/, /ˈkɑn/
-caen's	/ˈkænz/, /ˈkɑnz/
-cafetizer	/ˈkæfɪˌtaɪzɝ/
-caffee	/ˈkæfi/
 caffeinate	/ˈkæfɪˌneɪt/
 caffeinated	/ˈkæfɪˌneɪtəd/
-cafferty	/ˈkæfɝti/
-caffery	/ˈkæfɝi/
-caffey	/ˈkæfi/
-caffrey	/ˈkæfɹi/
-caftan	/ˈkæfˌtæn/
-caftans	/ˈkæfˌtænz/
-cagley	/ˈkæɡɫi/
-cagney	/ˈkæɡni/
-cahalan	/ˈkæhəɫən/
-cahall	/ˈkæhəɫ/
-cahan	/ˈkæhən/
-cahn	/ˈkæn/
-cal	/ˈkæɫ/
-calaf	/ˈkæɫəf/
-calahan	/ˈkæɫəhæn/
-calamander	/ˈkæɫəˌmændɝ/
-calamine	/ˈkæɫəˌmaɪn/
-calamine's	/ˈkæɫəˌmaɪnz/
-calbert	/ˈkæɫbɝt/
 calcified	/ˈkæɫsəˌfaɪd/
 calcify	/ˈkæɫsəˌfaɪ/
 calcite	/ˈkæɫˌsaɪt/
@@ -144,126 +74,44 @@ calculating	/ˈkæɫkjəˌɫeɪtɪŋ/
 calculator	/ˈkæɫkjəˌɫeɪtɝ/
 calculators	/ˈkæɫkjəˌɫeɪtɝz/
 calculus	/ˈkæɫkjəɫəs/
-calcutt	/ˈkæɫkət/
-caldor	/ˈkæɫdɔɹ/
-calef	/ˈkæɫɪf/
-calemburg	/ˈkæɫəmbɝɡ/
 calendar	/ˈkæɫəndɝ/
 calendars	/ˈkæɫəndɝz/
 calender	/ˈkæɫəndɝ/
 calf	/ˈkæf/
 calf's	/ˈkæfs/
-calfed	/ˈkæft/, /ˈkæɫˌfɛd/
-calfed's	/ˈkæɫˌfɛdz/
-calfee	/ˈkæɫfi/
-calgary	/ˈkæɫɡɝi/
-calgene	/ˈkæɫˌdʒin/
-calgene's	/ˈkæɫˌdʒinz/
-calgon	/ˈkæɫɡɔn/
-calgroup	/ˈkæɫˌɡɹup/
 cali	/ˈkæɫi/, /ˈkɑɫi/
 caliber	/ˈkæɫəbɝ/
 calibrate	/ˈkæɫəˌbɹeɪt/
 calibrated	/ˈkæɫəˌbɹeɪtəd/
 calico	/ˈkæɫəˌkoʊ/
-calif	/ˈkæɫɪf/
-califf	/ˈkæɫɪf/
 caliper	/ˈkæɫəpɝ/
 calipers	/ˈkæɫəpɝz/
 caliph	/ˈkæɫəf/
-calite	/ˈkæˌɫaɪt/, /ˈkeɪˌɫaɪt/
-calix	/ˈkæɫɪks/, /ˈkeɪɫəks/
-calkin	/ˈkæɫkɪn/
-calkins	/ˈkæɫkɪnz/
-calla	/ˈkæɫə/
-callace	/ˈkæɫəs/
-callaghan	/ˈkæɫəhæn/
-callaham	/ˈkæɫəˌhæm/
-callahan	/ˈkæɫəˌhæn/
-callahan's	/ˈkæɫəˌhænz/
-callan	/ˈkæɫən/
-callanan	/ˈkæɫənən/
-calland	/ˈkæɫənd/
-callander	/ˈkæɫəndɝ/
-callas	/ˈkæɫəz/
-callaway	/ˈkæɫəweɪ/
-callen	/ˈkæɫən/
-callery	/ˈkæɫɝi/
-calley	/ˈkæɫi/
-callicoat	/ˈkæɫɪˌkoʊt/
-callicott	/ˈkæɫɪkɑt/
-callicutt	/ˈkæɫɪkət/
-callier	/ˈkæɫiɝ/
-callies	/ˈkæɫiz/
-calligan	/ˈkæɫɪɡən/
-callihan	/ˈkæɫɪhæn/
-callinan	/ˈkæɫɪnən/
-callis	/ˈkæɫɪs/
-callison	/ˈkæɫɪsən/
 callous	/ˈkæɫəs/
 calloused	/ˈkæɫəst/
 callously	/ˈkæɫəsɫi/
 callousness	/ˈkæɫəsnəs/
 callow	/ˈkæɫoʊ/
-calloway	/ˈkæɫoʊˌweɪ/
-callula	/ˈkæɫuɫə/
-callum	/ˈkæɫəm/
 callus	/ˈkæɫəs/
-cally	/ˈkæɫi/
-calmaquip	/ˈkæɫməˌkwɪp/
-calmar	/ˈkæɫmɑɹ/
-calmart	/ˈkæɫˌmɑɹt/, /ˈkɑɫˌmɑɹt/
-calmart's	/ˈkæɫˌmɑɹts/, /ˈkɑɫˌmɑɹts/
-calmat	/ˈkæɫmæt/
-calmat's	/ˈkæɫmæts/
-calnan	/ˈkæɫnən/
-calny	/ˈkæɫni/
-calor	/ˈkæɫɝ/
 calorie	/ˈkæɫɝi/
 calories	/ˈkæɫɝiz/
-caloway	/ˈkæɫoʊˌweɪ/
-calpers	/ˈkæɫpɝz/
-calpers's	/ˈkæɫpɝzɪz/
-calpis	/ˈkæɫpɪs/
-caltha	/ˈkæɫðə/
-calton	/ˈkæɫtən/
 caltrain	/ˈkæɫˌtɹeɪn/
-caltrans	/ˈkæɫˌtɹænz/
-calumny	/ˈkæɫəmni/
 calvaries	/ˈkæɫvɝiz/
 calvary	/ˈkæɫvɝi/
-calverley	/ˈkæɫvɝɫi/
-calvert	/ˈkæɫvɝt/
-calvery	/ˈkæɫvɝi/
 calves	/ˈkævz/
-calvet	/ˈkæɫvət/
 calvin	/ˈkæɫvən/, /ˈkæɫvɪn/
 calvin's	/ˈkæɫvənz/, /ˈkæɫvɪnz/
 calving	/ˈkævɪŋ/
 calvinist	/ˈkæɫvənəst/, /ˈkæɫvɪnɪst/
-calyx	/ˈkæɫɪks/
 cam	/ˈkæm/
 cam's	/ˈkæmz/
-camaguey	/ˈkæməɡeɪ/, /ˈkæməɡweɪ/
-cambell	/ˈkæmbəɫ/
-camber	/ˈkæmbɝ/
-cambex	/ˈkæmbəks/
-cambior	/ˈkæmbiɝ/
-cambra	/ˈkæmbɹə/
-cambre	/ˈkæmbɝ/
 cambria	/ˈkæmbɹiə/
 cambrian	/ˈkæmbɹiən/
 cambrian's	/ˈkæmbɹiənz/
-cambron	/ˈkæmbɹən/
-camburn	/ˈkæmˌbɝn/
-camby	/ˈkæmbi/
-camby's	/ˈkæmbiz/
-camco	/ˈkæmkoʊ/
 camcorder	/ˈkæmˌkɔɹdɝ/
 camcorders	/ˈkæmˌkɔɹdɝz/
 camden	/ˈkæmdən/
 camden's	/ˈkæmdənz/
-cameco	/ˈkæmɪkoʊ/
 camel	/ˈkæməɫ/
 camel's	/ˈkæməɫz/
 camelot	/ˈkæməˌɫɑt/
@@ -275,70 +123,44 @@ camera's	/ˈkæmɹəz/
 cameraman	/ˈkæmɝəmən/
 cameramen	/ˈkæmɝəmɛn/
 cameras	/ˈkæmɝəz/, /ˈkæmɹəz/
-camerer	/ˈkæmɝɝ/
 cameron	/ˈkæmɝən/
 cameron's	/ˈkæmɝənz/
 camerons	/ˈkæmɝənz/
 cameroon	/ˈkæmɝˌun/
-camfield	/ˈkæmˌfiɫd/
-camhi	/ˈkæmhi/
-camm	/ˈkæm/
-cammack	/ˈkæmək/
-cammer	/ˈkæmɝ/
-cammermeyer	/ˈkæmɝˌmaɪɝ/
-cammie	/ˈkæmi/
-cammon	/ˈkæmən/
-cammy	/ˈkæmi/
 camouflage	/ˈkæməˌfɫɑʒ/
 camouflaged	/ˈkæməˌfɫɑʒd/
 camouflaging	/ˈkæməˌfɫɑʒɪŋ/
 camp	/ˈkæmp/
 camp's	/ˈkæmps/
-campa	/ˈkæmpə/
 campbell	/ˈkæmbəɫ/
 campbell's	/ˈkæmbəɫz/
 campbells	/ˈkæmbəɫz/
 camped	/ˈkæmpt/
-campen	/ˈkæmpən/
 camper	/ˈkæmpɝ/
 campers	/ˈkæmpɝz/
-campfield	/ˈkæmpˌfiɫd/
 campfire	/ˈkæmpˌfaɪɝ/
 campfires	/ˈkæmpˌfaɪɝz/
 campground	/ˈkæmpˌɡɹaʊnd/
 campgrounds	/ˈkæmpˌɡɹaʊndz/
-campi	/ˈkæmpi/
 camping	/ˈkæmpɪŋ/
 campion	/ˈkæmpiən/
-campo	/ˈkæmpoʊ/
-campos	/ˈkæmpoʊz/
 camps	/ˈkæmps/
 camps'	/ˈkæmps/
 campsite	/ˈkæmpˌsaɪt/
 campsites	/ˈkæmpˌsaɪts/
-campton	/ˈkæmptən/
 campus	/ˈkæmpəs/
 campuses	/ˈkæmpəsəz/, /ˈkæmpəsɪz/
 campy	/ˈkæmpi/
-camro	/ˈkæmɹoʊ/
 camry	/ˈkæmɹi/
 camrys	/ˈkæmɹiz/
 cams	/ˈkæmz/
 camshaft	/ˈkæmˌʃæft/
 camshafts	/ˈkæmˌʃæfts/
-camus	/ˈkæmɪs/
 can	/ˈkæn/, /kən/
 can's	/ˈkænz/
 can't	/ˈkænt/
-cana	/ˈkænə/
 canada	/ˈkænədə/
 canada's	/ˈkænədəz/
-canaday	/ˈkænəˌdeɪ/
-canales	/ˈkænəɫz/
-canam	/ˈkænəm/
-canas	/ˈkænəz/
-canavan	/ˈkænəˌvæn/
-canby	/ˈkænbi/
 cancan	/ˈkænˌkæn/
 cancel	/ˈkænsəɫ/
 canceled	/ˈkænsəɫd/
@@ -350,17 +172,10 @@ cancer	/ˈkænsɝ/
 cancer's	/ˈkænsɝz/
 cancerous	/ˈkænsɝəs/
 cancers	/ˈkænsɝz/
-cancio	/ˈkænsioʊ/
-cancom	/ˈkæŋkəm/
-cancun	/ˈkæŋkən/, /ˌkɑŋˈkun/
 candace	/ˈkændəs/
-candee	/ˈkænˈdi/
-candellin	/ˈkændəɫɪn/
-candia	/ˈkændiə/
 candice	/ˈkændɪs/
 candice's	/ˈkændɪsɪz/
 candid	/ˈkændəd/, /ˈkændɪd/
-candida	/ˈkændɪdə/
 candidacies	/ˈkændədəsiz/
 candidacy	/ˈkændɪdəsi/
 candidate	/ˈkændədeɪt/, /ˈkænədɪt/
@@ -368,10 +183,8 @@ candidate's	/ˈkændədeɪts/
 candidates	/ˈkændədeɪts/, /ˈkænədɪts/
 candidates'	/ˈkændədeɪts/
 candidly	/ˈkændɪdɫi/
-candie	/ˈkændi/
 candied	/ˈkændid/
 candies	/ˈkændiz/
-candilin	/ˈkændɪɫɪn/
 candle	/ˈkændəɫ/
 candlelight	/ˈkændəɫˌɫaɪt/
 candlemaker	/ˈkændəɫˌmeɪkɝ/
@@ -379,94 +192,48 @@ candler	/ˈkændəɫɝ/, /ˈkændɫɝ/
 candles	/ˈkændəɫz/
 candlestick	/ˈkændəɫˌstɪk/
 candlesticks	/ˈkændəɫˌstɪks/
-candlish	/ˈkændɫɪʃ/
-candor	/ˈkændɝ/
 candy	/ˈkændi/
 candy's	/ˈkændiz/
 candyman	/ˈkændimæn/
-canfield	/ˈkænˌfiɫd/
-canfor	/ˈkænfɝ/
-canfor's	/ˈkænfɝz/
-canham	/ˈkænhəm/
-canion	/ˈkænjən/
 canister	/ˈkænəstɝ/, /ˈkænɪstɝ/
 canisters	/ˈkænəstɝz/, /ˈkænɪstɝz/
-canker	/ˈkæŋkɝ/
-cankers	/ˈkæŋkɝz/
-cann	/ˈkæn/
+<!-- canker	/ˈkæŋkɝ/ -->
+<!-- cankers	/ˈkæŋkɝz/ -->
 cannabis	/ˈkænəbəs/
-cannaday	/ˈkænəˌdeɪ/
-cannady	/ˈkænədi/
-cannan	/ˈkænən/
 canned	/ˈkænd/
-cannedy	/ˈkænɪdi/
-cannell	/ˈkænəɫ/
-cannelton	/ˈkænəɫtən/
 canner	/ˈkænɝ/
 canneries	/ˈkænɝiz/
 cannery	/ˈkænɝi/
-cannes	/ˈkæn/, /ˈkænz/
-canney	/ˈkæni/
 cannibal	/ˈkænəbəɫ/
 cannibalism	/ˈkænəbəˌɫɪzəm/
 cannibalize	/ˈkænəbəˌɫaɪz/
 cannibalizing	/ˈkænəbəˌɫaɪzɪŋ/
 cannibals	/ˈkænəbəɫz/
-canniff	/ˈkænɪf/
 canning	/ˈkænɪŋ/
-cannister	/ˈkænɪstɝ/
-cannisters	/ˈkænɪstɝz/
-cannock	/ˈkænək/
 cannon	/ˈkænən/
 cannon's	/ˈkænənz/
 cannonball	/ˈkænənˌbɔɫ/
 cannondale	/ˈkænənˌdeɪɫ/
-cannons	/ˈkænənz/
-cannonsburg	/ˈkænənzbɝɡ/
 cannot	/ˈkænɑt/, /kəˈnɑt/
 canny	/ˈkæni/
 canon	/ˈkænən/
 canon's	/ˈkænənz/
-canonie	/ˈkænəni/
 canonize	/ˈkænəˌnaɪz/
 canonized	/ˈkænəˌnaɪzd/
 canons	/ˈkænənz/
 canopy	/ˈkænəpi/
-canoy	/ˈkænɔɪ/
-canrad	/ˈkænɹæd/
-canron	/ˈkænɹən/
 cans	/ˈkænz/
-cansler	/ˈkænsəɫɝ/, /ˈkænsɫɝ/
-canso	/ˈkænsoʊ/
-canson	/ˈkænsən/
-canstar	/ˈkænˌstɑɹ/
 cant	/ˈkænt/
 cantaloupe	/ˈkæntəˌɫoʊp/
 cantaloupes	/ˈkæntəˌɫoʊps/
-cantel	/ˈkænˌtɛɫ/
 canter	/ˈkæntɝ/
 canterbury	/ˈkæntɝˌbɛɹi/
 canterbury's	/ˈkænɝˌbɛɹiz/, /ˈkæntɝˌbɛɹiz/
-cantey	/ˈkænti/
 cantle	/ˈkæntəɫ/
-cantley	/ˈkæntɫi/
-cantlin	/ˈkæntɫɪn/
-cantlon	/ˈkæntɫən/
 canto	/ˈkæntoʊ/
 canton	/ˈkæntən/
 cantonal	/ˈkæntənəɫ/
 cantons	/ˈkæntənz/
-cantor	/ˈkæntɝ/
-cantor's	/ˈkæntɝz/
-cantore	/ˈkænˌtɔɹ/
-cantors	/ˈkæntɝz/
-cantrall	/ˈkæntɹəɫ/
-cantu	/ˈkæntu/
-cantv	/ˈkænˈtiˈvi/
-cantwell	/ˈkæntˌwɛɫ/
-canty	/ˈkænti/
-canup	/ˈkæˌnəp/
-canupp	/ˈkænəp/
 canvas	/ˈkænvəs/
 canvases	/ˈkænvəsɪz/
 canvass	/ˈkænvəs/
@@ -474,15 +241,12 @@ canvassed	/ˈkænvəst/
 canvassers	/ˈkænvəsɝz/
 canvasses	/ˈkænvəsɪz/
 canvassing	/ˈkænvəsɪŋ/
-canwest	/ˈkænˌwɛst/
 canyon	/ˈkænjən/
 canyon's	/ˈkænjənz/
 canyons	/ˈkænjənz/
 cap	/ˈkæp/
 cap's	/ˈkæps/
 capcom	/ˈkæpkəm/
-capek	/ˈkæpɪk/
-capel's	/ˈkæpəɫz/
 capillaries	/ˈkæpəˌɫɛɹiz/
 capillary	/ˈkæpəˌɫɛɹi/
 capita	/ˈkæpɪtə/
@@ -500,35 +264,16 @@ capitals	/ˈkæpətəɫz/, /ˈkæpɪtəɫz/
 capitan	/ˈkæpɪtən/
 capitol	/ˈkæpɪtəɫ/
 capitol's	/ˈkæpɪtəɫz/
-capitoline	/ˈkæpɪˌtoʊˌɫaɪn/
 capitols	/ˈkæpɪtəɫz/
-caplan	/ˈkæpɫən/
-capley	/ˈkæpɫi/
-caplin	/ˈkæpɫɪn/
-caplinger	/ˈkæpɫɪndʒɝ/, /ˈkeɪpəɫɪŋɝ/, /ˈkeɪpɫɪŋɝ/
-capp	/ˈkæp/
-cappa	/ˈkæpə/
 capped	/ˈkæpt/
-cappel	/ˈkæpəɫ/
 capper	/ˈkæpɝ/
 capping	/ˈkæpɪŋ/
-cappo	/ˈkæpoʊ/
-capps	/ˈkæps/
-cappy	/ˈkæpi/
-cappy's	/ˈkæpiz/
-capra	/ˈkæpɹə/
 capri	/ˈkæpɹi/, /kəˈpɹi/
 capri's	/ˈkæpɹiz/, /kəˈpɹiz/
-caprica	/ˈkæpɹɪkə/
 capricorn	/ˈkæpɹəkɔɹn/
-caprio	/ˈkæpɹioʊ/
-capron	/ˈkæpɹən/
 caps	/ˈkæps/
-capshaw	/ˈkæpˌʃɔ/
 capsize	/ˈkæpˌsaɪz/
 capsized	/ˈkæpˌsaɪzd/
-capstan	/ˈkæpstən/
-capstick	/ˈkæpˌstɪk/
 capstone	/ˈkæpˌstoʊn/
 capsule	/ˈkæpsəɫ/
 capsules	/ˈkæpsəɫz/
@@ -552,186 +297,66 @@ capture	/ˈkæptʃɝ/
 captured	/ˈkæptʃɝd/
 captures	/ˈkæptʃɝz/
 capturing	/ˈkæptʃɝɪŋ/
-capua	/ˈkæpjuə/
-capulet	/ˈkæpuˌɫɛt/
-capwell	/ˈkæpˌwɛɫ/
-caq	/ˈkæk/
-caq's	/ˈkæks/
-caraher	/ˈkæɹəhɝ/
-caraker	/ˈkæɹəkɝ/
-carava	/ˈkæɹəvə/
-caravan	/ˈkæɹəˌvæn/, /ˈkɛɹəˌvæn/
-caravans	/ˈkæɹəˌvænz/, /ˈkɛɹəˌvænz/
-carawan	/ˈkæɹəwæn/
-caraway	/ˈkæɹəˌweɪ/, /ˈkɛɹəˌweɪ/
-carelock	/ˈkæɹɪɫɑk/, /ˈkæɹɫɑk/
-carew	/ˈkæɹu/
-caridad	/ˈkæɹəˌdæd/
-carignan	/ˈkæɹɪɡnən/
-cariker	/ˈkæɹɪkɝ/
-carin	/ˈkæɹɪn/
-caris	/ˈkæɹɪs/
-carithers	/ˈkæɹɪðɝz/
-carol	/ˈkæɹəɫ/, /ˈkɛɹəɫ/
-carol's	/ˈkæɹəɫz/, /ˈkɛɹəɫz/
-carole	/ˈkæɹəɫ/, /ˈkɛɹəɫ/
-carothers	/ˈkæɹəðɝz/
-carow	/ˈkæɹoʊ/
-carragher	/ˈkæɹəɡɝ/
-carraher	/ˈkæɹəhɝ/
-carras	/ˈkæɹəz/
-carraway	/ˈkæɹəˌweɪ/
-carrel	/ˈkæɹəɫ/
-carrey's	/ˈkæɹiz/
-carriage	/ˈkæɹɪdʒ/, /ˈkɛɹədʒ/
-carriages	/ˈkæɹɪdʒɪz/, /ˈkɛɹədʒəz/
-carrian's	/ˈkæɹiənz/
-carried	/ˈkæɹid/, /ˈkɛɹid/
-carrier	/ˈkæɹiɝ/, /ˈkɛɹiɝ/
-carrier's	/ˈkæɹiɝz/, /ˈkɛɹiɝz/
-carriers	/ˈkæɹiɝz/, /ˈkɛɹiɝz/
-carriers's	/ˈkæɹiɝzɪz/
-carries	/ˈkæɹiz/, /ˈkɛɹiz/
-carrig	/ˈkæɹɪɡ/
-carrigan	/ˈkæɹɪɡən/
-carriger	/ˈkæɹɪdʒɝ/
-carrigg	/ˈkæɹɪɡ/
-carriker	/ˈkæɹɪkɝ/
-carringer	/ˈkæɹɪŋɝ/
-carris	/ˈkæɹɪs/
-carrisyn	/ˈkæɹɪsɪn/
-carrithers	/ˈkæɹɪðɝz/
-carriveau	/ˈkæɹɪˌvoʊ/
-carrol	/ˈkæɹəɫ/
-carroll	/ˈkæɹəɫ/, /ˈkɛɹəɫ/
-carroll's	/ˈkæɹəɫz/, /ˈkɛɹəɫz/
-carron	/ˈkæɹən/
-carrot	/ˈkæɹət/, /ˈkɛɹət/
-carrothers	/ˈkæɹəðɝz/
-carrots	/ˈkæɹəts/, /ˈkɛɹəts/
-carrow	/ˈkæɹoʊ/
-carruth	/ˈkæɹuθ/
-carry	/ˈkæɹi/, /ˈkɛɹi/
-carryanne	/ˈkæɹiˈæn/
-carrying	/ˈkæɹiɪŋ/, /ˈkɛɹiɪŋ/
-caruth	/ˈkæɹuθ/
-cas	/ˈkæs/
-casad	/ˈkæsəd/
-casaus	/ˈkæsɔz/
-casavant	/ˈkæsəvənt/
-casbah	/ˈkæsbə/
-cascio	/ˈkæsioʊ/
-casco	/ˈkæskoʊ/
-casdorph	/ˈkæsdɝf/
-casebier	/ˈkæsɪbiɝ/
-caseloads	/ˈkæsəˌɫoʊdz/
-casgrain	/ˈkæsˌɡɹeɪn/
+<!-- caravan	/ˈkæɹəˌvæn/, /ˈkɛɹəˌvæn/ -->
+<!-- caravans	/ˈkæɹəˌvænz/, /ˈkɛɹəˌvænz/ -->
+<!-- carol	/ˈkæɹəɫ/, /ˈkɛɹəɫ/ -->
+<!-- carol's	/ˈkæɹəɫz/, /ˈkɛɹəɫz/ -->
+<!-- carole	/ˈkæɹəɫ/, /ˈkɛɹəɫ/ -->
+<!-- carriage	/ˈkæɹɪdʒ/, /ˈkɛɹədʒ/ -->
+<!-- carriages	/ˈkæɹɪdʒɪz/, /ˈkɛɹədʒəz/ -->
+<!-- carried	/ˈkæɹid/, /ˈkɛɹid/ -->
+<!-- carrier	/ˈkæɹiɝ/, /ˈkɛɹiɝ/ -->
+<!-- carrier's	/ˈkæɹiɝz/, /ˈkɛɹiɝz/ -->
+<!-- carriers	/ˈkæɹiɝz/, /ˈkɛɹiɝz/ -->
+<!-- carriers's	/ˈkæɹiɝzɪz/ -->
+<!-- carries	/ˈkæɹiz/, /ˈkɛɹiz/ -->
+<!-- carroll	/ˈkæɹəɫ/, /ˈkɛɹəɫ/ -->
+<!-- carroll's	/ˈkæɹəɫz/, /ˈkɛɹəɫz/ -->
+<!-- carrot	/ˈkæɹət/, /ˈkɛɹət/ -->
+<!-- carrots	/ˈkæɹəts/, /ˈkɛɹəts/ -->
+<!-- carry	/ˈkæɹi/, /ˈkɛɹi/ -->
+<!-- carrying	/ˈkæɹiɪŋ/, /ˈkɛɹiɪŋ/ -->
 cash	/ˈkæʃ/
-cashatt	/ˈkæʃət/
-cashdollar	/ˈkæʃˌdɑɫɝ/
 cashed	/ˈkæʃt/
-cashen	/ˈkæʃən/
 casher	/ˈkæʃɝ/
 cashes	/ˈkæʃɪz/
 cashew	/ˈkæˌʃu/
 cashews	/ˈkæˌʃuz/
 cashflow	/ˈkæʃˌfɫoʊ/
-cashflows	/ˈkæʃˌfɫoʊz/
-cashin	/ˈkæʃɪn/
 cashing	/ˈkæʃɪŋ/
 cashless	/ˈkæʃɫəs/
-cashman	/ˈkæʃmən/
 cashmere	/ˈkæʒmɪɹ/
 cashmeres	/ˈkæʒmɪɹz/
-cashmore	/ˈkæʃmɔɹ/
-cashon	/ˈkæʃən/
-cashway	/ˈkæʃˌweɪ/
-cashways	/ˈkæʃˌweɪz/
-cashwell	/ˈkæʃˌwɛɫ/
-casimir	/ˈkæsɪˌmiɹ/
 casio	/ˈkæsioʊ/
 cask	/ˈkæsk/
 casket	/ˈkæskət/
 caskets	/ˈkæskəts/
-caskey	/ˈkæski/
 casks	/ˈkæsks/
-casler	/ˈkæsəɫɝ/, /ˈkæsɫɝ/
-caslin	/ˈkæsɫɪn/
-casner	/ˈkæsnɝ/
-cason	/ˈkæsən/
 caspar	/ˈkæsˌpɑɹ/, /ˈkæspɝ/
 casper	/ˈkæspɝ/
 casper's	/ˈkæspɝz/
-caspers	/ˈkæspɝz/
-caspersen	/ˈkæspɝsən/
-casperson	/ˈkæspɝsən/
-caspian	/ˈkæspiən/
-cass	/ˈkæs/
-cassaday	/ˈkæsəˌdeɪ/
-cassady	/ˈkæsədi/
-cassar	/ˈkæsɝ/
-cassatt	/ˈkæsət/
-casseb	/ˈkæsəb/
-cassedy	/ˈkæsɪdi/
-cassel	/ˈkæsəɫ/
-casselberry	/ˈkæsəɫˌbɛɹi/
-cassell	/ˈkæsɛɫ/
-cassells	/ˈkæsəɫz/
-casselman	/ˈkæsəɫmən/
-cassels	/ˈkæsəɫz/
-cassens	/ˈkæsənz/
-casserly	/ˈkæsɝɫi/
-casserole	/ˈkæsɝˌoʊɫ/
-cassetty	/ˈkæsɪti/
-cassia	/ˈkæʃiə/
-cassiday	/ˈkæsideɪ/
-cassidy	/ˈkæsɪdi/
-cassidy's	/ˈkæsɪdiz/
-cassie	/ˈkæsi/
-cassin	/ˈkæsɪn/
-cassis	/ˈkæsɪs/
-cassity	/ˈkæsɪti/
-casso	/ˈkæsoʊ/
-cassock	/ˈkæsək/
-casson	/ˈkæsən/
-cassowary	/ˈkæsəˌwɛɹi/
-cast	/ˈkæst/
-casta	/ˈkæstə/
-castanon	/ˈkæstənɑn/
 castaway	/ˈkæstəˌweɪ/
 castaways	/ˈkæstəˌweɪz/
 caste	/ˈkæst/
-casten	/ˈkæstən/
 caster	/ˈkæstɝ/
-casterline	/ˈkæstɝˌɫaɪn/
 casters	/ˈkæstɝz/
 castes	/ˈkæsts/
 castigate	/ˈkæstəˌɡeɪt/
 castigated	/ˈkæstəˌɡeɪtɪd/
 castigates	/ˈkæstəˌɡeɪts/
 castigating	/ˈkæstəˌɡeɪtɪŋ/
-castillon	/ˈkæstɪɫɑn/
 casting	/ˈkæstɪŋ/
 castings	/ˈkæstɪŋz/
-castio	/ˈkæstjoʊ/, /kæˈstioʊ/
 castle	/ˈkæsəɫ/
 castle's	/ˈkæsəɫz/
-castleberry	/ˈkæsəɫˌbɛɹi/
-castleman	/ˈkæsəɫmən/
 castles	/ˈkæsəɫz/
-castner	/ˈkæstnɝ/
-casto	/ˈkæstoʊ/
 castoff	/ˈkæsˌtɔf/
 castoffs	/ˈkæsˌtɔfs/
-caston	/ˈkæstən/
 castor	/ˈkæstɝ/
-castpart	/ˈkæstˌpɑɹt/
-castparts	/ˈkæstˌpɑɹts/
 castrate	/ˈkæsˌtɹeɪt/
 castrated	/ˈkæsˌtɹeɪtɪd/
 castrates	/ˈkæsˌtɹeɪts/
 castrating	/ˈkæsˌtɹeɪtɪŋ/
-castrejon	/ˈkæstɹɪdʒɑn/
 castro	/ˈkæstɹoʊ/
 castro's	/ˈkæstɹoʊz/
 castrol	/ˈkæstɹɑɫ/
@@ -742,17 +367,12 @@ casualness	/ˈkæʒəwəɫnɛs/, /ˈkæʒwəɫnɛs/
 casuals	/ˈkæʒəwəɫz/
 casualties	/ˈkæʒəɫtiz/, /ˈkæʒəwəɫtiz/, /ˈkæʒwəɫtiz/
 casualty	/ˈkæʒəɫti/, /ˈkæʒəwəɫti/, /ˈkæʒwəɫti/
-caswell	/ˈkæzˌwɛɫ/
 cat	/ˈkæt/
 cat-o-nine-tails	/ˈkætoʊˌnaɪnˌteɪɫz/
 cat's	/ˈkæts/
 cataclysm	/ˈkætəˌkɫɪsəm/
 catacomb	/ˈkætəˌkoʊm/
 catacombs	/ˈkætəˌkoʊmz/
-catain	/ˈkætɪn/, /kəˈteɪn/
-catala	/ˈkætɑˌɫɑn/
-catalan	/ˈkætəɫən/
-catalans	/ˈkætəˌɫɑnz/
 catalog	/ˈkætəɫɔɡ/
 cataloged	/ˈkætəɫɔɡd/
 cataloger	/ˈkætəˌɫɔɡɝ/
@@ -779,7 +399,6 @@ catbird	/ˈkætˌbɝd/
 catcall	/ˈkætˌkɔɫ/
 catcalls	/ˈkætˌkɔɫz/
 catch	/ˈkætʃ/
-catchacan	/ˈkætʃəˌkɑn/
 catchall	/ˈkæˌtʃɔɫ/
 catcher	/ˈkæˌtʃɝ/
 catcher's	/ˈkæˌtʃɝz/
@@ -798,459 +417,101 @@ categorized	/ˈkætəɡɝˌaɪzd/
 categorizes	/ˈkætəɡɝˌaɪzɪz/
 categorizing	/ˈkætəɡɝˌaɪzɪŋ/
 category	/ˈkætəˌɡɔɹi/
-caterings	/ˈkætɝɪŋz/
+<!-- caterings	/ˈkætɝɪŋz/ -->
 caterpillar	/ˈkætəˌpɪɫɝ/, /ˈkætɝˌpɪɫɝ/
 caterpillar's	/ˈkætɝˌpɪɫɝz/
 caterpillars	/ˈkætəˌpɪɫɝz/
-caterpiller	/ˈkætəˌpɪɫɝ/, /ˈkætɝˌpɪɫɝ/
-caterpiller's	/ˈkætəˌpɪɫɝz/, /ˈkætɝˌpɪɫɝz/
 caterwaul	/ˈkætɝwɑɫ/
 catfish	/ˈkætˌfɪʃ/
 catharine	/ˈkæθɹɪn/
 catharines	/ˈkæθɝɪnz/, /ˈkæθɹɪnz/
-cathcart	/ˈkæθkɑɹt/
-cathell	/ˈkæθəɫ/
-cather	/ˈkæðɝ/
-cather's	/ˈkæðɝz/
 catherine	/ˈkæθɝən/, /ˈkæθɝɪn/, /ˈkæθɹɪn/
 catherine's	/ˈkæθɹɪnz/
 catherines	/ˈkæθɹɪnz/
-catherman	/ˈkæðɝmən/
-cathers	/ˈkæðɝz/
-catherwood	/ˈkæðɝˌwʊd/
-catheter	/ˈkæθətɝ/
-catheters	/ˈkæθətɝz/
 cathey	/ˈkæði/
 cathie	/ˈkæθi/
-cathmor	/ˈkæθəmɝ/
 cathode	/ˈkæˌθoʊd/
 cathodes	/ˈkæˌθoʊdz/
 catholic	/ˈkæθɫɪk/
 catholics	/ˈkæθɫɪks/
 cathy	/ˈkæθi/
 cathy's	/ˈkæθiz/
-cation	/ˈkæˌtaɪən/
-catkins	/ˈkætkənz/
-catledge	/ˈkætɫɪdʒ/
-catlett	/ˈkætɫɪt/
 catlike	/ˈkætˌɫaɪk/
-catlin	/ˈkætɫɪn/
 catnap	/ˈkætˌnæp/
 catnip	/ˈkætnɪp/
-catniss	/ˈkætˌnɪs/
-catoe	/ˈkætoʊ/
-caton	/ˈkætən/
-catrambone	/ˈkæˌtɹæmˌboʊn/
-catrett	/ˈkætɹɪt/
-catron	/ˈkætɹən/
 cats	/ˈkæts/
-catskill	/ˈkætˌskɪɫ/
-catskills	/ˈkætˌskɪɫz/
-catt	/ˈkæt/
-cattanach	/ˈkætənætʃ/
-catterall	/ˈkætɝˌɔɫ/
-catterson	/ˈkætɝsən/
-catterton	/ˈkætɝtən/
 cattle	/ˈkætəɫ/
 cattlemen	/ˈkætəɫmən/, /ˈkætəɫmɪn/
 cattlemen's	/ˈkætəɫmənz/
-catto	/ˈkætoʊ/
-catton	/ˈkætən/
-catty	/ˈkæti/
 catwalk	/ˈkætˌwɑk/, /ˈkætˌwɔk/
 catwoman	/ˈkætˌwʊmən/
-cavaco	/ˈkævəkoʊ/, /kəˈvɑkoʊ/
-cavalcade	/ˈkævəɫˌkeɪd/
 cavalier	/ˈkævəɫiɹ/, /ˌkævəˈɫɪɹ/
 cavalry	/ˈkævəɫɹi/
-cavanagh	/ˈkævənæɡ/, /ˈkævənɑ/
 cavanah	/ˈkævənə/
-cavanaugh	/ˈkævənɔ/
-cavazos	/ˈkævəˌzoʊs/, /kɑˈvɑzoʊz/
-cavenaugh	/ˈkævɪnɔ/
 cavendish	/ˈkævəndɪʃ/
-cavern	/ˈkævɝn/
-cavernous	/ˈkævɝnəs/
-caverns	/ˈkævɝnz/
-cavett	/ˈkævɪt/
-caviar	/ˈkæviˌɑɹ/
-caviar's	/ˈkæviˌɑɹz/
-cavin	/ˈkævɪn/
-cavins	/ˈkævɪnz/
 cavities	/ˈkævɪtiz/
-cavitt	/ˈkævɪt/
-cavity	/ˈkævəti/
-cavness	/ˈkævnɪs/
-caxton	/ˈkækstən/
-cazenove	/ˈkæzəˌnoʊv/
-characters	/ˈkæɹəktɝz/, /ˈkɛɹəktɝz/
+<!-- characters	/ˈkæɹəktɝz/, /ˈkɛɹəktɝz/ -->
 chasm	/ˈkæzəm/
-kabat	/ˈkæbət/
-kabel	/ˈkæbəɫ/
-kabi	/ˈkæbi/, /ˈkɑbi/
-kach	/ˈkætʃ/
-kachel	/ˈkækəɫ/
-kachmar	/ˈkækmɝ/
-kachur	/ˈkætʃɝ/
-kackley	/ˈkækɫi/
-kadar	/ˈkædɝ/, /kəˈdɑɹ/
-kadel	/ˈkædəɫ/
-kadrmas	/ˈkædɝˌmɑz/
-kaffenberger	/ˈkæfənbɝɡɝ/
-kagami	/ˈkæɡəmi/
-kagler	/ˈkæɡɫɝ/
-kakuei	/ˈkækjui/
-kal	/ˈkæɫ/, /ˈkeɪˈeɪˈɛɫ/
-kalafut	/ˈkæɫəfət/
-kalb	/ˈkæɫb/
-kalbach	/ˈkæɫˌbɑk/
-kalberer	/ˈkæɫbɝɝ/
-kalbfleisch	/ˈkæɫbˌfɫaɪʃ/
-kaleel	/ˈkæɫiɫ/
-kaleta	/ˈkæɫɪtə/
-kalikow	/ˈkæɫɪkoʊ/
-kalil	/ˈkæɫəɫ/
-kalin	/ˈkæɫɪn/
-kalis	/ˈkæɫɪs/
-kalish	/ˈkæɫɪʃ/
-kalispell	/ˈkæɫɪˌspɛɫ/
-kalka	/ˈkæɫkə/
-kalkbrenner	/ˈkæɫkbɹɪnɝ/
-kalla	/ˈkæɫə/
-kallal	/ˈkæɫəɫ/
-kallam	/ˈkæɫəm/
-kallas	/ˈkæɫəz/
-kallay	/ˈkæɫeɪ/
-kallenbach	/ˈkæɫɪnbɑk/
-kallhoff	/ˈkæɫhɔf/
-kalliel	/ˈkæɫiəɫ/
-kallins	/ˈkæɫɪnz/
-kallio	/ˈkæɫioʊ/
-kallis	/ˈkæɫɪs/
-kallmeyer	/ˈkæɫmaɪɝ/
-kallstrom	/ˈkæɫstɹəm/
-kallus	/ˈkæɫəs/
-kalman	/ˈkæɫmən/
-kalmar	/ˈkæɫmɝ/
-kalmbach	/ˈkæɫmbɑk/
-kalmus	/ˈkæɫmɪs/
-kalnins	/ˈkæɫnɪnz/
-kalok	/ˈkæˌɫɑk/
-kalous	/ˈkæɫəs/
-kalp	/ˈkæɫp/
-kaltenbach	/ˈkæɫtɪnbɑk/
-kalthoff	/ˈkæɫθ/
-kalvar	/ˈkæɫvɑɹ/
-kam	/ˈkæm/
-kamber	/ˈkæmbɝ/
-kamei	/ˈkæmi/, /ˌkɑˈmeɪ/
-kamenar	/ˈkæmənɝ/
-kamerer	/ˈkæmɝɝ/
-kamin	/ˈkæˌmɪn/, /ˈkɑmin/, /ˈkeɪˌmɪn/
-kaminer	/ˈkæmɪnɝ/
-kamins	/ˈkæmɪnz/, /ˈkeɪˌmɪnz/
-kamke	/ˈkæmki/
-kamler	/ˈkæməɫɝ/, /ˈkæmɫɝ/
-kamm	/ˈkæm/
-kamman	/ˈkæmən/
-kammer	/ˈkæmɝ/
-kammerer	/ˈkæmɝɝ/
-kammerzell	/ˈkæmɝzəɫ/
-kammeyer	/ˈkæmaɪɝ/
-kamp	/ˈkæmp/
-kamp's	/ˈkæmps/
-kampa	/ˈkæmpə/
-kampe	/ˈkæmp/
-kampelman	/ˈkæmpəɫmən/
-kampen	/ˈkæmpən/
-kamper	/ˈkæmpɝ/
-kampf	/ˈkæmpf/
-kampfer	/ˈkæmpfɝ/
-kamphaus	/ˈkæmpˌhaʊs/
-kampman	/ˈkæmpmən/
-kampmann	/ˈkæmpmən/
-kamps	/ˈkæmps/
-kampschulte	/ˈkæmpˌʃʊɫti/
-kamra	/ˈkæmɹə/
-kamradt	/ˈkæmɹət/
-kamran	/ˈkæmɹən/
-kamrath	/ˈkæmɹəθ/
-kamstra	/ˈkæmstɹə/
-kan	/ˈkæn/
-kana	/ˈkænə/
-kanady	/ˈkænədi/
-kanagy	/ˈkænədʒi/
-kanak	/ˈkænək/
-kanarek	/ˈkænɝɪk/
-kanda	/ˈkændə/
-kandahar	/ˈkændəhɑɹ/
-kandel	/ˈkændəɫ/
-kandler	/ˈkændɫɝ/
-kandt	/ˈkænt/
-kaneb	/ˈkænəb/
-kanegsberg	/ˈkænəɡzbɝɡ/
-kanell	/ˈkænəɫ/, /kəˈnɛɫ/
-kang	/ˈkæŋ/, /ˈkɑŋ/
-kangas	/ˈkæŋɡəz/
-kanghua	/ˈkæŋhjuə/
-kangyo	/ˈkændʒjoʊ/
-kanipe	/ˈkænɪp/
-kanis	/ˈkænɪs/
-kanitz	/ˈkænɪts/
-kanji	/ˈkændʒi/
-kanka	/ˈkænkə/, /ˈkæŋkə/
-kankakee	/ˈkæŋkɪki/
-kann	/ˈkæn/
-kanne	/ˈkæn/
-kannenberg	/ˈkænənbɝɡ/
-kanner	/ˈkænɝ/
-kanno	/ˈkænoʊ/
-kansan	/ˈkænzən/
-kansan's	/ˈkænzənz/
-kansans	/ˈkænzənz/
-kansans'	/ˈkænzənz/
-kansas	/ˈkænzəs/
-kansas-city	/ˈkænzəˈsɪti/, /ˈkænzəsˈsɪti/
-kansas'	/ˈkænzəs/
-kansas's	/ˈkænzəsɪz/
-kansian	/ˈkænziən/
-kant	/ˈkænt/
-kanter	/ˈkæntɝ/
-kanter's	/ˈkæntɝz/
-kantian	/ˈkæntiən/
-kantle	/ˈkæntəɫ/
-kantner	/ˈkæntnɝ/
-kantor	/ˈkæntɝ/
-kantor's	/ˈkæntɝz/, /ˈkæntɔɹz/
-kantrowitz	/ˈkæntɹəwɪts/
-kantz	/ˈkænts/
-kanz	/ˈkænz/
-kanzler	/ˈkænzɫɝ/
-kapaun	/ˈkæpaʊn/
-kapfer	/ˈkæpfɝ/
-kapinos	/ˈkæpinoʊz/, /ˈkæpɪnoʊz/
-kapitan	/ˈkæpɪtən/
-kaplain	/ˈkæpɫən/
-kaplain's	/ˈkæpɫənz/
-kaplan	/ˈkæpɫən/
-kaplan's	/ˈkæpɫənz/
-kaplin	/ˈkæpɫɪn/
-kaplow	/ˈkæpɫoʊ/
-kapner	/ˈkæpnɝ/
-kapnick	/ˈkæpnɪk/
-kapp	/ˈkæp/
-kappa	/ˈkæpə/
-kappel	/ˈkæpəɫ/
-kappeler	/ˈkæpəɫɝ/
-kappelman	/ˈkæpəɫmən/
-kapper	/ˈkæpɝ/
-kappes	/ˈkæps/
-kappler	/ˈkæpɫɝ/
-kappus	/ˈkæpəs/
-kapral	/ˈkæpɹəɫ/
-kaprayoon	/ˈkæpɹəjun/
-kaps	/ˈkæps/
-kapton	/ˈkæptən/
-kaptur	/ˈkæptɝ/
-kapur	/ˈkæpɝ/
-karach	/ˈkæɹətʃ/
-karaffa	/ˈkæɹəfə/
-karam	/ˈkæɹəm/
+<!-- kanji	/ˈkændʒi/ -->
+<!-- kant	/ˈkænt/ -->
 karolyn	/ˈkæɹəɫɪn/
-karras	/ˈkæɹəz/
 karren	/ˈkæɹən/
-karrick	/ˈkæɹɪk/
-karriker	/ˈkæɹɪkɝ/
 karyn	/ˈkæɹɪn/
-kasbrol	/ˈkæzbɹɔɫ/
-kasbrols	/ˈkæzbɹɔɫz/
-kasch	/ˈkæʃ/
-kaschak	/ˈkæʃək/
-kasdorf	/ˈkæsdɔɹf/
-kasel	/ˈkæsəɫ/
-kasell	/ˈkæsəɫ/
-kasey	/ˈkæsi/
-kash	/ˈkæʃ/
-kashmir	/ˈkæʃmiɹ/, /ˈkæʃmɪɹ/
-kashner	/ˈkæʃnɝ/
-kasinger	/ˈkæsɪndʒɝ/
-kaske	/ˈkæski/
-kaskel	/ˈkæskəɫ/
-kasler	/ˈkæsəɫɝ/, /ˈkæsɫɝ/
-kasmer	/ˈkæsəmɝ/
-kasner	/ˈkæsnɝ/
-kaspar	/ˈkæspɝ/
-kasparek	/ˈkæspɝɪk/
-kasparov	/ˈkæspɝɑv/, /kəˈspɑˌɹɑv/
-kasper	/ˈkæspɝ/
-kasperek	/ˈkæspɝɪk/
-kasriel	/ˈkæsɹiəɫ/
-kass	/ˈkæs/
-kassa	/ˈkæsə/
-kassab	/ˈkæsəb/
-kassan	/ˈkæsən/
-kassar	/ˈkæsɝ/
-kassebaum	/ˈkæsəˌbaʊm/, /ˈkæsəˌbɑm/
-kassebaum's	/ˈkæsəˌbaʊmz/, /ˈkæsəˌbɑmz/
-kassel	/ˈkæsəɫ/
-kassem	/ˈkæsəm/
-kassen	/ˈkæsən/
-kassin	/ˈkæsɪn/
-kassing	/ˈkæsɪŋ/
-kassis	/ˈkæsɪs/
-kassler	/ˈkæsɫɝ/
-kassner	/ˈkæsnɝ/
-kasson	/ˈkæsən/
-kast	/ˈkæst/
-kasten	/ˈkæstən/
-kastenmeier	/ˈkæstənˌmaɪɹ/
-kaster	/ˈkæstɝ/
-kastl	/ˈkæstəɫ/
-kastle	/ˈkæsəɫ/
-kastler	/ˈkæstɫɝ/
-kastner	/ˈkæstnɝ/
-kat	/ˈkæt/
-katcher	/ˈkætʃɝ/
-kath	/ˈkæθ/
-katha	/ˈkæθə/
-kathan	/ˈkæθən/
 katharine	/ˈkæθɹɪn/
 katherine	/ˈkæθɝɪn/, /ˈkæθɹɪn/
 kathi	/ˈkæθi/
 kathie	/ˈkæθi/
 kathlene	/ˈkæθˌɫin/
 kathline	/ˈkæθˌɫaɪn/
-kathman	/ˈkæθmən/
 kathryn	/ˈkæθɹɪn/
 kathy	/ˈkæθi/
 kathy's	/ˈkæθiz/
-kats	/ˈkæts/
-katsaros	/ˈkætsɝoʊz/
-katt	/ˈkæt/
-kattner	/ˈkætnɝ/
 katz	/ˈkæts/
-katzen	/ˈkætzən/
-katzenbach	/ˈkætsənˌbɑk/
-katzenberg	/ˈkætsənbɝɡ/
-katzenberg's	/ˈkætsənbɝɡz/
-katzenberger	/ˈkætzənbɝɡɝ/
-katzenstein	/ˈkætsənstaɪn/, /ˈkætsənstin/
-katzer	/ˈkætsɝ/
-katzin	/ˈkætsɪn/
-katzman	/ˈkætsmən/
-kavanagh	/ˈkævəˌnɔ/
-kavanaugh	/ˈkævəˌnɔ/
-kaveney	/ˈkævɪni/
-kavner	/ˈkævnɝ/, /ˈkɔvnɝ/
-kazakh	/ˈkæzæk/
-kazakhs	/ˈkæzæks/
-kazen	/ˈkæzən/
-kazikaev	/ˈkæzɪˌkeɪv/
-kazis	/ˈkæzɪs/
-kazlauskas	/ˈkæzɫaʊskəz/
-kazmer	/ˈkæzmɝ/
-kept	/ˈkæpt/, /ˈkɛpt/
-khad	/ˈkæd/
+<!-- kept	/ˈkæpt/, /ˈkɛpt/ -->
 khaki	/ˈkæki/, /ˈkɑki/
 khakis	/ˈkækiz/
-khalaf	/ˈkæɫəf/
-khalil	/ˈkæɫəɫ/
-khanna	/ˈkænə/
-qantas	/ˈkæntəs/, /ˈkɑntəs/
-tkach	/ˈkætʃ/
 
-caballero	/ˌkæbəˈjɛɹoʊ/
-cabaret	/ˌkæbɝˈeɪ/
-cabarets	/ˌkæbɝˈeɪz/
 cabernet	/ˌkæbɝˈneɪ/
 cabernets	/ˌkæbɝˈneɪz/, /ˌkæbɝˈnɛts/
 cabriolet	/ˌkæbɹioʊˈɫeɪ/, /ˌkæbɹioʊˈɫɛt/
-cadnetix	/ˌkædˈnɛtɪks/
-cadwalader	/ˌkædˈwɔɫədɝ/
-cadwalader's	/ˌkædˈwɔɫədɝz/
-cadwallader	/ˌkædˈwɔɫədɝ/
 cafes	/ˌkæˈfeɪz/
 cafeteria	/ˌkæfəˈtɪɹiə/
 cafeterias	/ˌkæfəˈtɪɹiəz/
-cafiero	/ˌkæfiˈɛɹoʊ/
-cagliari	/ˌkæɡɫiˈɑɹi/
 calabasas	/ˌkæɫəˈbɑsəs/
-calcaterra	/ˌkæɫkəˈtɛɹə/
 calculation	/ˌkæɫkjəˈɫeɪʃən/
 calculations	/ˌkæɫkjəˈɫeɪʃənz/
 calcutta	/ˌkæɫˈkətə/
 caldera	/ˌkæɫˈdɛɹə/, /ˌkɔɫˈdɛɹə/
-caledonia	/ˌkæɫəˈdoʊniə/
-caledonian	/ˌkæɫɪˈdoʊniən/
-caledonian's	/ˌkæɫɪˈdoʊniənz/
 calibration	/ˌkæɫəˈbɹeɪʃən/
 california	/ˌkæɫəˈfɔɹnjə/
 california's	/ˌkæɫɪˈfɔɹnjəz/
 californian	/ˌkæɫɪˈfɔɹnjən/
 californian's	/ˌkæɫɪˈfɔɹnjənz/
 californians	/ˌkæɫɪˈfɔɹnjənz/
-caligiuri	/ˌkæɫəˈdʒɪɹi/
 calisthenic	/ˌkæɫəsˈθɛnɪk/
 calisthenics	/ˌkæɫəsˈθɛnɪks/
 calligraphic	/ˌkæɫəˈɡɹæfɪk/
-calumet	/ˌkæɫjəˈmɛt/
 cambodia	/ˌkæmˈboʊdiə/
 cambodia's	/ˌkæmˈboʊdiəz/
 cambodian	/ˌkæmˈboʊdiən/
 cambodians	/ˌkæmˈboʊdiənz/
-campanella	/ˌkæmpəˈnɛɫə/
-campanis	/ˌkæmˈpɑnɪs/
-campesinos	/ˌkæmpɛˈsinoʊs/
-campofrio	/ˌkæmˈpɔfɹioʊ/
-canadair	/ˌkænəˈdɛɹ/
-canandaigua	/ˌkænənˈdeɪɡwə/
-cananea	/ˌkænəˈniə/
-canberra	/ˌkænˈbɛɹə/
 cancellation	/ˌkænsəˈɫeɪʃən/
 cancellations	/ˌkænsəˈɫeɪʃənz/
 cancerphobia	/ˌkænsɝˈfoʊbiə/
 candela	/ˌkænˈdɛɫə/
-candelabra	/ˌkændəˈɫɑbɹə/
-candiotti	/ˌkændiˈɑti/
-candiotti's	/ˌkændiˈɑtiz/
-cannavino	/ˌkænəˈvinoʊ/
-cannibalization	/ˌkænəbəɫɪˈzeɪʃən/
-cannistraro	/ˌkænɪˈstɹɑɹoʊ/
-canonization	/ˌkænənəˈzeɪʃən/
-canseco	/ˌkænˈsɛkoʊ/
-cantalupo	/ˌkæntəˈɫupoʊ/
-cantata	/ˌkænˈtɑtə/
 cantina	/ˌkænˈtinə/
 cantonese	/ˌkæntəˈniz/
-caouette	/ˌkæˈwɛt/
-capistrano	/ˌkæpɪˈstɹɑnoʊ/
 capitalistic	/ˌkæpɪtəˈɫɪstɪk/
 capitalization	/ˌkæpɪtəɫɪˈzeɪʃən/
 capitalizations	/ˌkæpɪtəɫɪˈzeɪʃənz/
 cappuccino	/ˌkæˌpuˈtʃinoʊ/
-capriati	/ˌkæpɹiˈɑti/
-capriati's	/ˌkæpɹiˈɑtiz/
-capsaicin	/ˌkæpˈseɪsən/
-caraballo	/ˌkæɹəˈbæɫoʊ/
-carabello	/ˌkæɹəˈbɛɫoʊ/
-caramandi	/ˌkæɹəˈmɑndi/
-caravella	/ˌkæɹəˈvɛɫə/
-caravello	/ˌkæɹəˈvɛɫoʊ/
-casablanca	/ˌkæsəˈbɫæŋkə/
-casamento	/ˌkæsəˈmɛntoʊ/
-casanova	/ˌkæsəˈnoʊvɑ/
+<!-- casablanca	/ˌkæsəˈbɫæŋkə/ -->
 cashiers	/ˌkæˈʃɪɹz/
-cassavetes	/ˌkæsəˈvitiz/
-casstevens	/ˌkæsˈtivənz/
 castile	/ˌkæsˈtaɪɫ/
-castille	/ˌkæsˈtɪɫ/
-castillo	/ˌkæsˈtioʊ/, /ˌkæsˈtɪɫoʊ/
 castration	/ˌkæsˈtɹeɪʃən/
 castrations	/ˌkæsˈtɹeɪʃənz/
 cataclysmic	/ˌkætəˈkɫɪzmɪk/
 catalina	/ˌkætəˈɫinə/
-catalonia	/ˌkætəˈɫoʊnjə/
-catalonian	/ˌkætəˈɫoʊnjən/
 catalytic	/ˌkætəˈɫɪtɪk/
 catamaran	/ˌkætəmɝˈæn/
 catastrophic	/ˌkætəˈstɹɑfɪk/
@@ -1259,28 +520,5 @@ categorical	/ˌkætəˈɡɑɹɪkəɫ/, /ˌkætəˈɡɔɹɪkəɫ/
 categorically	/ˌkætəˈɡɑɹɪkɫi/, /ˌkætəˈɡɔɹɪkɫi/
 categorization	/ˌkætəɡɝɪˈzeɪʃən/
 cathleen	/ˌkæθˈɫin/
-cavalierly	/ˌkævəˈɫɪɹɫi/
-cavaliers	/ˌkævəˈɫɪɹz/
-kagarlitsky	/ˌkæɡɝˈɫɪtˈski/
-kaktovik	/ˌkækˈtoʊvɪk/
-kalamazoo	/ˌkæɫəməˈzu/
-kalgoorlie	/ˌkæɫˈɡuɹɫi/
-kalmanovitz	/ˌkæɫˈmænəvɪts/
-kamchatka	/ˌkæmˈtʃætkə/, /ˌkɑmˈtʃɑtkə/
-kamneva	/ˌkæmˈneɪvə/
-kanemaru	/ˌkænɛˈmɑɹu/
-kangaroo	/ˌkæŋɡɝˈu/
-kangaroos	/ˌkæŋɡɝˈuz/
-kansallis	/ˌkænˈsæɫɪs/
-kashiwagi	/ˌkæʃɪˈwæɡi/
-kasputys	/ˌkæsˈpjutɪs/
-katashiba	/ˌkætəˈʃibə/
-katharina	/ˌkæθɛˈɹinə/
-katmandu	/ˌkætmænˈdu/
-katsanos	/ˌkætˈsɑnoʊs/
-katsushi	/ˌkætˈsuʃi/
-kazunori	/ˌkæzəˈnoʊˌɹi/
-khabarovsk	/ˌkæbɝˈɑfsk/
-kotsonis	/ˌkætˈsoʊnəs/, /koʊtˈsoʊnəs/
-kotsonis'	/ˌkætˈsoʊnəs/, /koʊtˈsoʊnəs/
-kotsonis's	/ˌkætˈsoʊnəsɪz/, /koʊtˈsoʊnəsɪz/
+<!-- kangaroo	/ˌkæŋɡɝˈu/ -->
+<!-- kangaroos	/ˌkæŋɡɝˈuz/ -->

@@ -1,3 +1,5 @@
+gi
+
 guillermo	/ɡiˈɛɹmoʊ/, /ɡwiˈɛɹmoʊ/, /ɡwɪɫˈjɛɹmoʊ/
 
 gaea	/ˈɡiə/

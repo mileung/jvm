@@ -1,1172 +1,286 @@
 caucasian	/kɔˈkeɪʒən/
 caucasians	/kɔˈkeɪʒənz/
 coleen	/kɔˈɫin/
-comitatus	/kɔməˈteɪtəs/
-comoros	/kɔˈmɔˌɹoʊs/
-corea	/kɔˈɹiə/
-coretta	/kɔˈɹɛtə/
-corexit	/kɔˈɹɛksɪts/
-cornelia	/kɔɹˈniɫjə/
-cornelius	/kɔɹˈniɫjəs/
-cornell	/kɔɹˈnɛɫ/
-cornell's	/kɔɹˈnɛɫz/
-cornet	/kɔɹˈnɛt/
-cornettist	/kɔɹˈnɛtəst/
-cornwallis	/kɔɹnˈwɔɫəs/
-corroon	/kɔˈɹun/
-corsage	/kɔɹˈsɑʒ/
-cortege	/kɔɹˈtɛʒ/
-cortez	/kɔɹˈtɛz/
-corteze	/kɔɹˈtɛz/
-cortine	/kɔɹˈtin/
-cortines	/kɔɹˈtinz/
+<!-- cornelius	/kɔɹˈniɫjəs/ -->
+<!-- cornell	/kɔɹˈnɛɫ/ -->
+<!-- cornell's	/kɔɹˈnɛɫz/ -->
 corvette	/kɔɹˈvɛt/
 cosmology	/kɔzˈmɔɫədʒi/
-coughenour	/kɔˈfɛnɝ/
-coykendall	/kɔɪˈkɛndəɫ/
-kohlrabi	/kɔɫˈɹɑbi/
-koran	/kɔˈɹɑn/
-koranic	/kɔˈɹænɪk/
-kordell	/kɔɹˈdɛɫ/
-korologos	/kɔˌɹɑˈɫoʊɡoʊs/
-koruna	/kɔˈɹuˌnɑ/
 
-
-'course	/ˈkɔɹs/
-calcomp	/ˈkɔɫˌkɑmp/
-calder	/ˈkɔɫdɝ/
-calderon	/ˈkɔɫdɝɑn/, /ˌkæɫdɝˈoʊn/
-calderwood	/ˈkɔɫdɝwʊd/
-caldwell	/ˈkɔɫdwɛɫ/
-caldwell's	/ˈkɔɫdwɛɫz/
 calk	/ˈkɔk/
 call	/ˈkɔɫ/
 callable	/ˈkɔɫəbəɫ/
-callaway's	/ˈkɔɫəˌweɪz/
+<!-- callaway's	/ˈkɔɫəˌweɪz/ -->
 callback	/ˈkɔɫˌbæk/
 called	/ˈkɔɫd/
-callens	/ˈkɔɫənz/
 caller	/ˈkɔɫɝ/
 caller's	/ˈkɔɫɝz/
 callers	/ˈkɔɫɝz/
-callie	/ˈkɔɫi/
 calling	/ˈkɔɫɪŋ/
-callister	/ˈkɔɫɪstɝ/
 calls	/ˈkɔɫz/
-cauble	/ˈkɔbəɫ/
 caucasus	/ˈkɔkəsəs/
 caucus's	/ˈkɔkəsɪz/
 caucuses	/ˈkɔkəsɪz/
-caudill	/ˈkɔdəɫ/
-caudle	/ˈkɔdəɫ/
-cauffman	/ˈkɔfmən/
-caughey	/ˈkɔi/
-caughlin	/ˈkɔɫɪn/
-caughman	/ˈkɔmən/
-caughron	/ˈkɔɹən/
-caulder	/ˈkɔɫdɝ/
-cauley	/ˈkɔɫi/
-caulfield	/ˈkɔɫˌfiɫd/
 caulking	/ˈkɔkɪŋ/
 caulkins	/ˈkɔɫkɪnz/
 causal	/ˈkɔzəɫ/
-causby	/ˈkɔzbi/
 causer	/ˈkɔzɝ/
 causeways	/ˈkɔzˌweɪz/
-causey	/ˈkɔzi/
 cauterize	/ˈkɔtɝaɪz/
 cauterized	/ˈkɔtɝaɪzd/
 cauterizes	/ˈkɔtɝaɪzɪz/
 cauterizing	/ˈkɔtɝaɪzɪŋ/
-cauthen	/ˈkɔθən/
-cauthon	/ˈkɔθən/
-cauthorn	/ˈkɔθɝn/
 cautionary	/ˈkɔʃəˌnɛɹi/
 cautioning	/ˈkɔʃənɪŋ/
 cautions	/ˈkɔʃənz/
 cautious	/ˈkɔʃəs/
 cautiously	/ˈkɔʃəsɫi/
 cautiousness	/ˈkɔʃəsnəs/
-caw	/ˈkɔ/
-cawley	/ˈkɔɫi/
-cawsl	/ˈkɔsəɫ/
-cawthon	/ˈkɔθən/
-cawthorn	/ˈkɔθɝn/
-cawthorne	/ˈkɔθɝn/
-choral	/ˈkɔɹəɫ/
-chorals	/ˈkɔɹəɫz/
-chorba	/ˈkɔɹbə/
-chord	/ˈkɔɹd/
-chordates	/ˈkɔɹˌdeɪts/
-chords	/ˈkɔɹdz/
-choreograph	/ˈkɔɹiəˌɡɹæf/
-choreographed	/ˈkɔɹiəˌɡɹæft/
-choreographing	/ˈkɔɹiəˌɡɹæfɪŋ/, /ˌkɔɹiˈɑɡɹəfɪŋ/
-choric	/ˈkɔɹɪk/
-chorus	/ˈkɔɹəs/
-choruses	/ˈkɔɹəsɪz/
-coar	/ˈkɔɹ/
-coarse	/ˈkɔɹs/
-coarsening	/ˈkɔɹsɪnɪŋ/
-coarser	/ˈkɔɹsɝ/
+<!-- choral	/ˈkɔɹəɫ/ -->
+<!-- chorals	/ˈkɔɹəɫz/ -->
+<!-- chord	/ˈkɔɹd/ -->
+<!-- chordates	/ˈkɔɹˌdeɪts/ -->
+<!-- chords	/ˈkɔɹdz/ -->
+<!-- choreograph	/ˈkɔɹiəˌɡɹæf/ -->
+<!-- choreographed	/ˈkɔɹiəˌɡɹæft/ -->
+<!-- choreographing	/ˈkɔɹiəˌɡɹæfɪŋ/, /ˌkɔɹiˈɑɡɹəfɪŋ/ -->
+<!-- choric	/ˈkɔɹɪk/ -->
+<!-- chorus	/ˈkɔɹəs/ -->
+<!-- choruses	/ˈkɔɹəsɪz/ -->
+<!-- coarse	/ˈkɔɹs/ -->
+<!-- coarsening	/ˈkɔɹsɪnɪŋ/ -->
+<!-- coarser	/ˈkɔɹsɝ/ -->
 coffeehouse	/ˈkɔfiˌhaʊs/
 coffeehouses	/ˈkɔfiˌhaʊsɪz/
 coffees	/ˈkɔfiz/
-coffer	/ˈkɔfɝ/
 coffin	/ˈkɔfɪn/
 coffing	/ˈkɔfɪŋ/
 coffins	/ˈkɔfɪnz/
-cofflin	/ˈkɔfɫɪn/
-coffman	/ˈkɔfmən/
 cog	/ˈkɔɡ/
-cohr	/ˈkɔɹ/
-cohrs	/ˈkɔɹz/
-coiffe	/ˈkɔɪf/
-coiffed	/ˈkɔɪft/
-coil	/ˈkɔɪɫ/
-coile	/ˈkɔɪɫ/
-coiled	/ˈkɔɪɫd/
-coiling	/ˈkɔɪˌɫɪŋ/
-coils	/ˈkɔɪɫz/
-coin	/ˈkɔɪn/
-coin's	/ˈkɔɪnz/
-coinage	/ˈkɔɪnɪdʒ/
-coined	/ˈkɔɪnd/
-coiner	/ˈkɔɪnɝ/
-coining	/ˈkɔɪnɪŋ/
-coins	/ˈkɔɪnz/
-coipa	/ˈkɔɪpə/
-coiro	/ˈkɔɪɹoʊ/
-coit	/ˈkɔɪt/
-coitsville	/ˈkɔɪtsvɪɫ/
-coitus	/ˈkɔɪtəs/
-colchicine	/ˈkɔɫtʃəsin/
-comintern	/ˈkɔminˌtɝn/
-cong	/ˈkɔŋ/
-conga	/ˈkɔŋɡə/
-conger	/ˈkɔŋɝ/
-congeries	/ˈkɔŋdʒəˌɹiz/
-congruence	/ˈkɔnɡɹuəns/
-congruent	/ˈkɔnɡɹuˌɛnt/
-connie	/ˈkɔni/
-connie's	/ˈkɔniz/
-connolly	/ˈkɔnəɫi/
-conroy	/ˈkɔnɹɔɪ/
-conte	/ˈkɔnt/, /ˈkɔnteɪ/
-cor	/ˈkɔɹ/
-cora	/ˈkɔɹə/
-cora's	/ˈkɔɹəz/
-corabelle	/ˈkɔɹəˌbɛɫ/, /ˈkɔɹəbəɫ/
-coracle	/ˈkɔɹəkəɫ/
-coral	/ˈkɔɹəɫ/
-coralie	/ˈkɔɹəɫi/
-coraline	/ˈkɔɹəˌɫaɪn/
-corals	/ˈkɔɹəɫz/
-coram	/ˈkɔˌɹæm/
-corath	/ˈkɔˈɹæθ/
-corazon	/ˈkɔɹəˌzoʊn/
-corban	/ˈkɔɹbən/
-corbeil	/ˈkɔɹˌbaɪɫ/
-corbel	/ˈkɔɹbəɫ/
-corbell	/ˈkɔɹbɛɫ/
-corbelled	/ˈkɔɹbəɫd/
-corbet	/ˈkɔɹbɪt/
-corbett	/ˈkɔɹbɪt/
-corbin	/ˈkɔɹbɪn/
-corbit	/ˈkɔɹbɪt/
-corbitt	/ˈkɔɹbɪt/
-corbo	/ˈkɔɹboʊ/
-corbridge	/ˈkɔɹbɹɪdʒ/
-corby	/ˈkɔɹbi/
-corcap	/ˈkɔɹˌkæp/
-corcoran	/ˈkɔɹkɝən/
-cord	/ˈkɔɹd/
-corda	/ˈkɔɹdə/
-cordage	/ˈkɔɹdədʒ/
-corday	/ˈkɔɹˌdeɪ/
-corded	/ˈkɔɹdəd/
-corder	/ˈkɔɹdɝ/
-cordes	/ˈkɔɹdz/
-cordesman	/ˈkɔɹdəsmən/
-cordial	/ˈkɔɹdʒəɫ/
-cordially	/ˈkɔɹdʒəɫi/
-cordials	/ˈkɔɹdʒəɫz/
-cordiant	/ˈkɔɹdiənt/
-cordiant's	/ˈkɔɹdiənts/
-cordie	/ˈkɔɹdi/
-cordier	/ˈkɔɹdiɝ/
-cordill	/ˈkɔɹdəɫ/
-cording	/ˈkɔɹdɪŋ/
-cordis	/ˈkɔɹdɪs/
-cordle	/ˈkɔɹdəɫ/
-cordless	/ˈkɔɹdɫəs/
-cordner	/ˈkɔɹdnɝ/
-cordon	/ˈkɔɹdən/
-cordone	/ˈkɔɹdən/
-cordoned	/ˈkɔɹdənd/
-cordover	/ˈkɔɹˌdoʊvɝ/
-cordray	/ˈkɔɹˌdɹeɪ/
-cordrey	/ˈkɔɹdɹi/
-cordry	/ˈkɔɹdɝi/
-cords	/ˈkɔɹdz/
-cordts	/ˈkɔɹdts/
-corduroy	/ˈkɔɹdɝˌɔɪ/
-cordy	/ˈkɔɹdi/
-core	/ˈkɔɹ/
-coren	/ˈkɔɹən/
-cores	/ˈkɔɹz/
-corestate	/ˈkɔɹˌsteɪt/
-corestates	/ˈkɔɹˌsteɪts/
-corestates'	/ˈkɔɹəˌsteɪts/
-coretech	/ˈkɔɹˌtɛk/
-corette	/ˈkɔˈɹɛt/
-corey	/ˈkɔɹi/
-corgi	/ˈkɔɹɡi/
-coria	/ˈkɔɹiə/
-coriell	/ˈkɔɹiɫ/
-corier	/ˈkɔɹiɝ/
-corinn	/ˈkɔɹɪn/
-corinn's	/ˈkɔɹɪnz/
-corinth	/ˈkɔɹənθ/
-corio	/ˈkɔɹioʊ/
-cork	/ˈkɔɹk/
-corken	/ˈkɔɹkən/
-corker	/ˈkɔɹkɝ/
-corkern	/ˈkɔɹkɝn/
-corkery	/ˈkɔɹkɝi/
-corkill	/ˈkɔɹˌkɪɫ/
-corking	/ˈkɔɹkɪŋ/
-corkins	/ˈkɔɹkɪnz/
-corkran	/ˈkɔɹkɹən/
-corks	/ˈkɔɹks/
-corkscrew	/ˈkɔɹksˌkɹu/
-corkum	/ˈkɔɹkəm/
-corkwood	/ˈkɔɹˌkwʊd/
-corky	/ˈkɔɹki/
-corl	/ˈkɔɹɫ/
-corle	/ˈkɔɹəɫ/
-corleone	/ˈkɔɹɫiˌoʊn/, /ˈkɔɹɫiˌoʊni/
-corless	/ˈkɔɹɫɪs/
-corlett	/ˈkɔɹɫɪt/
-corlew	/ˈkɔɹɫu/
-corley	/ˈkɔɹɫi/
-corliss	/ˈkɔɹɫɪs/
-corm	/ˈkɔɹm/
-cormac	/ˈkɔɹmək/
-cormack	/ˈkɔɹmək/
-corman	/ˈkɔɹmən/
-cormany	/ˈkɔɹməni/
-cormen	/ˈkɔɹmən/, /ˈkɔɹmɪn/
-cormican	/ˈkɔɹmɪkən/
-cormick	/ˈkɔɹmɪk/
-cormier	/ˈkɔɹmiɝ/
-cormorant	/ˈkɔɹmɝənt/
-cormorants	/ˈkɔɹmɝənts/
-corn	/ˈkɔɹn/
-corna	/ˈkɔɹnə/
-cornall	/ˈkɔɹnəɫ/
-cornblume	/ˈkɔɹnˌbɫum/
-cornbread	/ˈkɔɹnˌbɹɛd/
-corncob	/ˈkɔɹnˌkɑb/
-corncrib	/ˈkɔɹnˌkɹɪb/
-corne	/ˈkɔɹn/
-cornea	/ˈkɔɹniə/
-corneas	/ˈkɔɹniəz/
-cornel	/ˈkɔɹnəɫ/
-cornelious	/ˈkɔɹnɪɫiɪs/, /kɔɹˈniɫjɪs/
-corner	/ˈkɔɹnɝ/
-cornerback	/ˈkɔɹnɝˌbæk/
-cornered	/ˈkɔɹnɝd/
-cornering	/ˈkɔɹnɝɪŋ/
-corners	/ˈkɔɹnɝz/
-cornerstone	/ˈkɔɹnɝˌstoʊn/
-cornerstones	/ˈkɔɹnɝˌstoʊnz/
-cornett	/ˈkɔɹnɪt/
-corney	/ˈkɔɹni/
-cornfeld	/ˈkɔɹnˌfɛɫd/
-cornfield	/ˈkɔɹnˌfiɫd/
-cornfields	/ˈkɔɹnˈfiɫdz/
-cornflower	/ˈkɔɹnˌfɫaʊɝ/
-cornflowers	/ˈkɔɹnˌfɫaʊɝz/
-cornforth	/ˈkɔɹnfɝθ/
-cornhusk	/ˈkɔɹnˌhəsk/
-cornhusking	/ˈkɔɹnˌhəskɪŋ/
-cornhusks	/ˈkɔɹnˌhəsks/
-cornia	/ˈkɔɹniə/
-corniche	/ˈkɔɹnɪʃ/
-cornick	/ˈkɔɹnɪk/
-cornie	/ˈkɔɹni/
-corning	/ˈkɔɹnɪŋ/
-corning's	/ˈkɔɹnɪŋz/
-cornish	/ˈkɔɹnɪʃ/
-cornman	/ˈkɔɹnmən/
-cornmeal	/ˈkɔɹnˌmiɫ/
-corns	/ˈkɔɹnz/
-cornstalk	/ˈkɔɹnˌstɔk/
-cornstalks	/ˈkɔɹnˌstɔks/
-cornstarch	/ˈkɔɹnˌstɑɹtʃ/
-cornwall	/ˈkɔɹnwɔɫ/
-cornwall's	/ˈkɔɹnwɔɫz/
-cornwell	/ˈkɔɹnˌwɛɫ/
-corny	/ˈkɔɹni/
-corollaries	/ˈkɔɹəˌɫɛɹiz/
-corollary	/ˈkɔɹəˌɫɛɹi/
-coronary	/ˈkɔɹəˌnɛɹi/
-coroner	/ˈkɔɹənɝ/
-coroner's	/ˈkɔɹənɝz/
-coroners	/ˈkɔɹənɝz/
-coronet	/ˈkɔɹəˈnɛt/
-coronets	/ˈkɔɹəˈnɛts/
-corp	/ˈkɔɹp/, /ˈkɔɹpɝˈeɪʃən/
-corp.	/ˈkɔɹp/, /ˈkɔɹpɝˈeɪʃən/
-corp.'s	/ˈkɔɹpɝˈeɪʃənz/, /ˈkɔɹps/
-corp's	/ˈkɔɹpɝˈeɪʃənz/, /ˈkɔɹps/
-corpening	/ˈkɔɹpənɪŋ/
-corpora	/ˈkɔɹpɝə/
-corporal	/ˈkɔɹpɝəɫ/, /ˈkɔɹpɹəɫ/
-corporate	/ˈkɔɹpɝət/, /ˈkɔɹpɹət/
-corporates	/ˈkɔɹpɝəts/
-corporatewatch	/ˈkɔɹpɹətˌwɑtʃ/
-corporatewide	/ˈkɔɹpɝɪtˌwaɪd/
-corporatism	/ˈkɔɹpɝəˌtɪzəm/
-corporatist	/ˈkɔɹpɝətɪst/
-corps	/ˈkɔɹ/, /ˈkɔɹz/
-corps'	/ˈkɔɹz/
-corpse	/ˈkɔɹps/
-corpses	/ˈkɔɹpsəz/, /ˈkɔɹpsɪz/
-corpsman	/ˈkɔɹmən/
-corpulant	/ˈkɔɹpjəɫənt/
-corpus	/ˈkɔɹpəs/
-corpus-christi	/ˈkɔɹpəsˈkɹɪsti/
-corpuz	/ˈkɔɹpuz/
-corr	/ˈkɔɹ/
-corrao	/ˈkɔɹaʊ/
-correa	/ˈkɔɹiə/
-correale	/ˈkɔɹiəɫ/
-correlate	/ˈkɔɹəˌɫeɪt/, /ˈkɔɹəɫət/
-correlated	/ˈkɔɹəˌɫeɪtəd/
-correlates	/ˈkɔɹəɫeɪts/, /ˈkɔɹəɫəts/
-correlating	/ˈkɔɹəɫeɪtɪŋ/
-correne	/ˈkɔɹin/
-corrib	/ˈkɔɹɪb/
-corrick	/ˈkɔɹɪk/
-corridor	/ˈkɔɹədɝ/, /ˈkɔɹɪdɝ/
-corridors	/ˈkɔɹədɝz/, /ˈkɔɹɪdɝz/
-corrie	/ˈkɔɹi/
-corrigan	/ˈkɔɹɪɡən/
-corrigan's	/ˈkɔɹɪɡənz/
-corrigible	/ˈkɔɹədʒəbəɫ/
-corriher	/ˈkɔɹɪhɝ/
-corrin	/ˈkɔɹɪn/
-corrington	/ˈkɔɹɪŋtən/
-corriveau	/ˈkɔɹɪvoʊ/
-corrow	/ˈkɔɹoʊ/
-corrugate	/ˈkɔɹəˌɡeɪt/
-corrugated	/ˈkɔɹəˌɡeɪtɪd/
-corry	/ˈkɔɹi/
-corsa	/ˈkɔsə/
-corsair	/ˈkɔɹsɛɹ/
-corse	/ˈkɔɹs/
-corser	/ˈkɔɹsɝ/
-corset	/ˈkɔɹsət/
-corsi	/ˈkɔɹsi/
-corsica	/ˈkɔɹsɪkə/
-corsican	/ˈkɔɹsəkən/
-corsicas	/ˈkɔɹsɪkəz/
-corso	/ˈkɔɹsoʊ/
-corson	/ˈkɔɹsən/
-cort	/ˈkɔɹt/
-corte	/ˈkɔɹt/
-corteland	/ˈkɔɹtɫənd/
-cortelyou	/ˈkɔɹtɛɫˌju/
-corten	/ˈkɔɹtɛn/
-cortens	/ˈkɔɹtɛnz/
-cortens'	/ˈkɔɹtɛnz/
-corter	/ˈkɔɹtɝ/
-cortex	/ˈkɔɹtɛks/
-corti	/ˈkɔɹti/
-cortical	/ˈkɔɹtəkəɫ/
-cortin	/ˈkɔɹtɪn/
-cortinas	/ˈkɔɹtinəz/
-cortisol	/ˈkɔɹtɪˌsɔɫ/
-cortisone	/ˈkɔɹtəˌzoʊn/
-cortland	/ˈkɔɹtɫənd/
-cortner	/ˈkɔɹtnɝ/
-cortright	/ˈkɔɹtɹaɪt/
-corum	/ˈkɔɹəm/
-corva	/ˈkɔɹvə/
-corvin	/ˈkɔɹvɪn/
-corvo	/ˈkɔɹvoʊ/
-corvus	/ˈkɔɹvəs/
-corwin	/ˈkɔɹˌwɪn/
-cory	/ˈkɔˌɹi/
-corzo	/ˈkɔɹzoʊ/
-cos	/ˈkɔs/
+<!-- coil	/ˈkɔɪɫ/ -->
+<!-- coiled	/ˈkɔɪɫd/ -->
+<!-- coiling	/ˈkɔɪˌɫɪŋ/ -->
+<!-- coils	/ˈkɔɪɫz/ -->
+<!-- coin	/ˈkɔɪn/ -->
+<!-- coin's	/ˈkɔɪnz/ -->
+<!-- coinage	/ˈkɔɪnɪdʒ/ -->
+<!-- coined	/ˈkɔɪnd/ -->
+<!-- coiner	/ˈkɔɪnɝ/ -->
+<!-- coining	/ˈkɔɪnɪŋ/ -->
+<!-- coins	/ˈkɔɪnz/ -->
+<!-- coral	/ˈkɔɹəɫ/ -->
+<!-- cordial	/ˈkɔɹdʒəɫ/ -->
+<!-- cordially	/ˈkɔɹdʒəɫi/ -->
+<!-- cordials	/ˈkɔɹdʒəɫz/ -->
+<!-- cording	/ˈkɔɹdɪŋ/ -->
+<!-- cordless	/ˈkɔɹdɫəs/ -->
+<!-- cords	/ˈkɔɹdz/ -->
+<!-- core	/ˈkɔɹ/ -->
+<!-- cores	/ˈkɔɹz/ -->
+<!-- corey	/ˈkɔɹi/ -->
+<!-- corgi	/ˈkɔɹɡi/ -->
+<!-- cork	/ˈkɔɹk/ -->
+<!-- corker	/ˈkɔɹkɝ/ -->
+<!-- corking	/ˈkɔɹkɪŋ/ -->
+<!-- corks	/ˈkɔɹks/ -->
+<!-- corkscrew	/ˈkɔɹksˌkɹu/ -->
+<!-- corn	/ˈkɔɹn/ -->
+<!-- corner	/ˈkɔɹnɝ/ -->
+<!-- cornered	/ˈkɔɹnɝd/ -->
+<!-- cornering	/ˈkɔɹnɝɪŋ/ -->
+<!-- corners	/ˈkɔɹnɝz/ -->
+<!-- cornerstone	/ˈkɔɹnɝˌstoʊn/ -->
+<!-- cornerstones	/ˈkɔɹnɝˌstoʊnz/ -->
+<!-- cornfield	/ˈkɔɹnˌfiɫd/ -->
+<!-- cornfields	/ˈkɔɹnˈfiɫdz/ -->
+<!-- cornflower	/ˈkɔɹnˌfɫaʊɝ/ -->
+<!-- cornflowers	/ˈkɔɹnˌfɫaʊɝz/ -->
+<!-- cornhusk	/ˈkɔɹnˌhəsk/ -->
+<!-- cornhusking	/ˈkɔɹnˌhəskɪŋ/ -->
+<!-- cornhusks	/ˈkɔɹnˌhəsks/ -->
+<!-- cornmeal	/ˈkɔɹnˌmiɫ/ -->
+<!-- corns	/ˈkɔɹnz/ -->
+<!-- cornstalk	/ˈkɔɹnˌstɔk/ -->
+<!-- cornstalks	/ˈkɔɹnˌstɔks/ -->
+<!-- cornstarch	/ˈkɔɹnˌstɑɹtʃ/ -->
+<!-- cornwall	/ˈkɔɹnwɔɫ/ -->
+<!-- cornwall's	/ˈkɔɹnwɔɫz/ -->
+<!-- corny	/ˈkɔɹni/ -->
+<!-- corollaries	/ˈkɔɹəˌɫɛɹiz/ -->
+<!-- corollary	/ˈkɔɹəˌɫɛɹi/ -->
+<!-- coronary	/ˈkɔɹəˌnɛɹi/ -->
+<!-- coroner	/ˈkɔɹənɝ/ -->
+<!-- coroner's	/ˈkɔɹənɝz/ -->
+<!-- coroners	/ˈkɔɹənɝz/ -->
+<!-- coronet	/ˈkɔɹəˈnɛt/
+coronets	/ˈkɔɹəˈnɛts/ -->
+<!-- corp	/ˈkɔɹp/, /ˈkɔɹpɝˈeɪʃən/ -->
+<!-- corp.	/ˈkɔɹp/, /ˈkɔɹpɝˈeɪʃən/ -->
+<!-- corp.'s	/ˈkɔɹpɝˈeɪʃənz/, /ˈkɔɹps/ -->
+<!-- corp's	/ˈkɔɹpɝˈeɪʃənz/, /ˈkɔɹps/ -->
+<!-- corpora	/ˈkɔɹpɝə/ -->
+<!-- corporal	/ˈkɔɹpɝəɫ/, /ˈkɔɹpɹəɫ/ -->
+<!-- corporate	/ˈkɔɹpɝət/, /ˈkɔɹpɹət/ -->
+<!-- corporates	/ˈkɔɹpɝəts/ -->
+<!-- corporatewatch	/ˈkɔɹpɹətˌwɑtʃ/ -->
+<!-- corporatewide	/ˈkɔɹpɝɪtˌwaɪd/ -->
+<!-- corporatism	/ˈkɔɹpɝəˌtɪzəm/ -->
+<!-- corporatist	/ˈkɔɹpɝətɪst/ -->
+<!-- corps	/ˈkɔɹ/, /ˈkɔɹz/ -->
+<!-- corps'	/ˈkɔɹz/ -->
+<!-- corpse	/ˈkɔɹps/ -->
+<!-- corpses	/ˈkɔɹpsəz/, /ˈkɔɹpsɪz/ -->
+<!-- corpsman	/ˈkɔɹmən/ -->
+<!-- corpus	/ˈkɔɹpəs/ -->
+<!-- correlate	/ˈkɔɹəˌɫeɪt/, /ˈkɔɹəɫət/ -->
+<!-- correlated	/ˈkɔɹəˌɫeɪtəd/ -->
+<!-- correlates	/ˈkɔɹəɫeɪts/, /ˈkɔɹəɫəts/ -->
+<!-- correlating	/ˈkɔɹəɫeɪtɪŋ/ -->
+<!-- corsair	/ˈkɔɹsɛɹ/ -->
+<!-- corse	/ˈkɔɹs/ -->
+<!-- cortex	/ˈkɔɹtɛks/ -->
+<!-- cortical	/ˈkɔɹtəkəɫ/ -->
+<!-- cortisol	/ˈkɔɹtɪˌsɔɫ/ -->
+<!-- cortisone	/ˈkɔɹtəˌzoʊn/ -->
+<!-- cortland	/ˈkɔɹtɫənd/ -->
+<!-- corwin	/ˈkɔɹˌwɪn/ -->
+<!-- cory	/ˈkɔˌɹi/ -->
 cosby	/ˈkɔzbi/
 cosby's	/ˈkɔzbiz/
-cosmair	/ˈkɔzˌmɛɹ/
 cosmo	/ˈkɔzmoʊ/
 cosmodrome	/ˈkɔzməˌdɹoʊm/
 cosmonaut	/ˈkɔzməˌnɔt/
 cosmonauts	/ˈkɔzməˌnɔts/
 cosmonauts'	/ˈkɔzməˌnɔts/
-coss	/ˈkɔs/
-cossa	/ˈkɔsə/
-cossack	/ˈkɔsək/
-cossman	/ˈkɔsmən/
-costa	/ˈkɔstɑ/
-costa-rica	/ˈkɔstəˈɹikə/
-costabile	/ˈkɔstəˌbaɪɫ/
-costas	/ˈkɔstəz/
 costco	/ˈkɔstkoʊ/
 costcutting	/ˈkɔstˌkətɪŋ/
-costen	/ˈkɔstən/
-coster	/ˈkɔstɝ/
 costing	/ˈkɔstɪŋ/
 costlier	/ˈkɔstɫiɝ/
 costliest	/ˈkɔstɫiɪst/
-costlow	/ˈkɔstˌɫoʊ/
-costumed	/ˈkɔˌstumd/
-cotyledon	/ˈkɔtəˌɫidən/
 coughed	/ˈkɔft/
-coughlan	/ˈkɔɡɫən/
-coughlin	/ˈkɔɡɫɪn/
-coughran	/ˈkɔɡɹən/
 coughs	/ˈkɔfs/
-couric	/ˈkɔɹɪk/
-courington	/ˈkɔɹɪŋtən/
-cournoyer	/ˈkɔɹnɔɪɝ/
-course	/ˈkɔɹs/
-course's	/ˈkɔɹsɪz/
-coursen	/ˈkɔɹsən/
-courser	/ˈkɔɹsɝ/
-courses	/ˈkɔɹsəz/, /ˈkɔɹsɪz/
-coursey	/ˈkɔɹsi/
-coursing	/ˈkɔɹsɪŋ/
-courson	/ˈkɔɹsən/
-court	/ˈkɔɹt/
-court-martial	/ˈkɔɹtˌmɑɹʃəɫ/
-court's	/ˈkɔɹts/
-courtade	/ˈkɔɹteɪd/
-courtaulds	/ˈkɔɹˌtɔɫdz/
-courted	/ˈkɔɹtɪd/
-courter	/ˈkɔɹtɝ/
-courter's	/ˈkɔɹtɝz/
-courthouse	/ˈkɔɹtˌhaʊs/
-courthouses	/ˈkɔɹtˌhaʊsɪz/
-courtier	/ˈkɔɹtiɝ/
-courtiers	/ˈkɔɹtiɝz/
-courting	/ˈkɔɹtɪŋ/
-courtis	/ˈkɔɹtɪs/
-courtland	/ˈkɔɹtɫænd/
-courtly	/ˈkɔɹtɫi/
-courtney	/ˈkɔɹtni/
-courtois	/ˈkɔɹtwɑ/
-courtright	/ˈkɔɹˌtɹaɪt/
-courtroom	/ˈkɔɹˌtɹum/
-courtrooms	/ˈkɔɹˌtɹumz/
-courts	/ˈkɔɹts/
-courts'	/ˈkɔɹts/
-courtship	/ˈkɔɹˌtʃɪp/
-courtwright	/ˈkɔɹˌtɹaɪt/
-courtyard	/ˈkɔɹtˌjɑɹd/
-courtyards	/ˈkɔɹtˌjɑɹdz/
-coury	/ˈkɔɹi/
-coy	/ˈkɔɪ/
-coye	/ˈkɔɪ/
-coyer	/ˈkɔɪɝ/
-coyle	/ˈkɔɪɫ/
-coyly	/ˈkɔɪɫi/
-coym	/ˈkɔɪm/
-coyne	/ˈkɔɪn/
-coyner	/ˈkɔɪnɝ/
-ct	/ˈkɔɹt/
-curle	/ˈkɔɹəɫ/
-currin	/ˈkɔɹɪn/
-kalk	/ˈkɔk/
-kall	/ˈkɔɫ/
-kallen	/ˈkɔɫən/
-kallenberger	/ˈkɔɫənbɝɡɝ/
-kallman	/ˈkɔɫmən/
-kalt	/ˈkɔɫt/
-kalter	/ˈkɔɫtɝ/
-kaori	/ˈkɔɹi/
-kauble	/ˈkɔbəɫ/
-kaufer	/ˈkɔfɝ/
-kauffman	/ˈkɔfmən/
-kauffmann	/ˈkɔfmən/
-kaufhof	/ˈkɔfhɔf/
-kaufman	/ˈkɔfmən/
-kaufman's	/ˈkɔfmənz/
-kaufmann	/ˈkɔfmən/
-kauk	/ˈkɔk/
-kaul	/ˈkɔɫ/
-kaunda	/ˈkɔndə/
-kaup	/ˈkɔp/
-kaupp	/ˈkɔp/
-kauppi	/ˈkɔpi/
-kaus	/ˈkɔz/
-kauth	/ˈkɔθ/
-kautz	/ˈkɔts/
-khosla	/ˈkɔsɫə/
-kocher	/ˈkɔtʃɝ/
-koerber	/ˈkɔɹbɝ/
-koerner	/ˈkɔɹnɝ/
-koernke	/ˈkɔɹnəki/
-koester	/ˈkɔstɝ/
-koesters	/ˈkɔstɝz/
-koff	/ˈkɔf/
-koffman	/ˈkɔfmən/
-kohr	/ˈkɔɹ/
-kohring	/ˈkɔɹɪŋ/
-kohrs	/ˈkɔɹz/
-koido	/ˈkɔɪdoʊ/
-koike	/ˈkɔɪk/
-koito	/ˈkɔɪˌtoʊ/, /ˈkɔɪtoʊ/, /ˌkoʊˈiˌtoʊ/
-komatani	/ˈkɔməˈtɑˌni/
-kominek	/ˈkɔməˌnɛk/
+<!-- course	/ˈkɔɹs/ -->
+<!-- course's	/ˈkɔɹsɪz/ -->
+<!-- courser	/ˈkɔɹsɝ/ -->
+<!-- coursing	/ˈkɔɹsɪŋ/ -->
+<!-- court	/ˈkɔɹt/ -->
+<!-- court-martial	/ˈkɔɹtˌmɑɹʃəɫ/ -->
+<!-- court's	/ˈkɔɹts/ -->
+<!-- courted	/ˈkɔɹtɪd/ -->
+<!-- courthouse	/ˈkɔɹtˌhaʊs/ -->
+<!-- courthouses	/ˈkɔɹtˌhaʊsɪz/ -->
+<!-- courtier	/ˈkɔɹtiɝ/ -->
+<!-- courtiers	/ˈkɔɹtiɝz/ -->
+<!-- courting	/ˈkɔɹtɪŋ/ -->
+<!-- courtroom	/ˈkɔɹˌtɹum/ -->
+<!-- courtrooms	/ˈkɔɹˌtɹumz/ -->
+<!-- courts	/ˈkɔɹts/ -->
+<!-- courts'	/ˈkɔɹts/ -->
+<!-- courtship	/ˈkɔɹˌtʃɪp/ -->
+<!-- courtyard	/ˈkɔɹtˌjɑɹd/ -->
+<!-- courtyards	/ˈkɔɹtˌjɑɹdz/ -->
 kong	/ˈkɔŋ/, /ˈkɔŋɡ/
 kong's	/ˈkɔŋɡz/, /ˈkɔŋz/
-kongsberg	/ˈkɔŋɡzbɝɡ/, /ˈkɔŋzbɝɡ/
-kongsberg's	/ˈkɔŋɡzbɝɡz/, /ˈkɔŋzbɝɡz/
-kopf	/ˈkɔpf/
-kora	/ˈkɔɹə/
-koral	/ˈkɔɹəɫ/
-korb	/ˈkɔɹb/
-korba	/ˈkɔɹbə/
-korbel	/ˈkɔɹbəɫ/
-korber	/ˈkɔɹbɝ/
-korbren	/ˈkɔɹbɹɛn/
-korby	/ˈkɔɹbi/
-korczak	/ˈkɔɹtʃæk/
-korda	/ˈkɔɹdə/
-koreas	/ˈkɔɹiəz/, /kɝɹiəz/, /kɹiəz/
-korell	/ˈkɔɹɛɫ/
-koren	/ˈkɔɹən/
-korenek	/ˈkɔɹɪnɪk/
-koret	/ˈkɔɹət/
-korey	/ˈkɔɹi/
-korf	/ˈkɔɹf/
-korff	/ˈkɔɹf/
-korfhage	/ˈkɔɹfhɪdʒ/
-korhonen	/ˈkɔɹhənən/
-korinek	/ˈkɔɹɪnɪk/
-korman	/ˈkɔɹmən/
-kormos	/ˈkɔɹmoʊz/
-korn	/ˈkɔɹn/
-kornberg	/ˈkɔɹnbɝɡ/
-kornblum	/ˈkɔɹnbɫəm/
-kornbluth	/ˈkɔɹnbɫuθ/
-kornegay	/ˈkɔɹnɪɡeɪ/
-korner	/ˈkɔɹnɝ/
-kornfeld	/ˈkɔɹnfɛɫd/
-kornhauser	/ˈkɔɹnhaʊzɝ/
-kornreich	/ˈkɔɹnɹaɪk/
-korns	/ˈkɔnz/
-korol	/ˈkɔɹɔɫ/
-korotich	/ˈkɔɹətɪtʃ/
-korpi	/ˈkɔɹpi/
-korry	/ˈkɔɹi/
-korry's	/ˈkɔɹiz/
-korson	/ˈkɔɹsən/
-kort	/ˈkɔɹt/
-korte	/ˈkɔɹt/
-korten	/ˈkɔɹtən/
-korth	/ˈkɔɹθ/
-korthals	/ˈkɔɹθəɫz/
-kortman	/ˈkɔɹtmən/
-kortum	/ˈkɔɹtəm/
-kortz	/ˈkɔɹts/
-korva	/ˈkɔɹˌvɑ/
-korver	/ˈkɔɹˌvɝ/
-kory	/ˈkɔˌɹi/
-kosberg	/ˈkɔzbɝɡ/
-kosch	/ˈkɔʃ/
-koscheck	/ˈkɔstʃɛk/
-koscheck's	/ˈkɔstʃɛks/
-koss	/ˈkɔs/
-kossman	/ˈkɔsmən/
-kostmayer	/ˈkɔstˌmeɪɝ/
-koyo	/ˈkɔɪoʊ/
 
-calvani	/ˌkɔɫˈvɑni/
-calvino	/ˌkɔɫˈvinoʊ/
-caudillo	/ˌkɔˈdɪɫoʊ/
 causalities	/ˌkɔˈzæɫɪtiz/
 causality	/ˌkɔˈzɑɫɪti/
 causation	/ˌkɔˈzeɪʃən/
 cauterization	/ˌkɔtɝɪˈzeɪʃən/
-choreographer	/ˌkɔɹiˈɑɡɹəfɝ/
-choreographer's	/ˌkɔɹiˈɑɡɹəfɝz/
-choreographers	/ˌkɔɹiˈɑɡɹəfɝz/
-choreographic	/ˌkɔɹiəˈɡɹæfɪk/
-choreography	/ˌkɔɹiˈɑɡɹəfi/
-cockamamie	/ˌkɔkəˈmeɪmi/
-cointreau	/ˌkɔnˈtɹoʊ/
-compostela	/ˌkɔmpɔˈstɛɫə/
-corallo	/ˌkɔˈɹæɫoʊ/
-corbu	/ˌkɔɹˈbu/
-corbusier	/ˌkɔɹbˈjusjɝ/
-cordelia	/ˌkɔɹˈdiˌɫiə/
-cordell	/ˌkɔɹˈdɛɫ/
-cordoba	/ˌkɔɹˈdoʊbə/
-cordoba's	/ˌkɔɹˈdoʊbəz/
-cordobas	/ˌkɔɹˈdoʊbəz/
-cordova	/ˌkɔɹˈdoʊvə/
-cordovez	/ˌkɔɹˈdoʊvɛz/
-corel	/ˌkɔˈɹɛɫ/
-corell	/ˌkɔˈɹɛɫ/
-corespondent	/ˌkɔɹəˈspɑndənt/
-coriander	/ˌkɔɹiˈændɝ/
-corina	/ˌkɔˈɹinə/
-corinna	/ˌkɔˈɹɪnə/
-corinto	/ˌkɔˈɹɪntoʊ/
-corissa	/ˌkɔˈɹɪsə/
-corneal	/ˌkɔɹˈniɫ/
-corneliuson	/ˌkɔɹnɪɫiˈusən/
-corniel	/ˌkɔɹˈniɫ/
-corniel's	/ˌkɔɹˈniɫz/
-cornucopia	/ˌkɔɹnəˈkoʊpiə/
-coronation	/ˌkɔɹəˈneɪʃən/
-corporacion	/ˌkɔɹpɝˌɑsiˈoʊn/
-corporation	/ˌkɔɹpɝˈeɪʃən/
-corporation's	/ˌkɔɹpɝˈeɪʃənz/
-corporations	/ˌkɔɹpɝˈeɪʃənz/
-corporations'	/ˌkɔɹpɝˈeɪʃənz/
-correlation	/ˌkɔɹəˈɫeɪʃən/
-correlations	/ˌkɔɹəˈɫeɪʃənz/
-correspond	/ˌkɔɹəˈspɑnd/
-corresponded	/ˌkɔɹəˈspɑndɪd/
-correspondence	/ˌkɔɹəˈspɑndəns/
-correspondent	/ˌkɔɹəˈspɑndənt/
-correspondents	/ˌkɔɹəˈspɑndənts/
-correspondents'	/ˌkɔɹəˈspɑndənts/
-corresponding	/ˌkɔɹəˈspɑndɪŋ/
-correspondingly	/ˌkɔɹəˈspɑndɪŋɫi/
-corresponds	/ˌkɔɹəˈspɑndz/
-corriere	/ˌkɔɹˈjɛɹ/
-cortes	/ˌkɔɹˈtɛz/
-corticosteroid	/ˌkɔɹtɪkoʊˈstɛˌɹɔɪd/
-corticosteroids	/ˌkɔɹtɪkoʊˈstɛˌɹɔɪdz/
-corvallis	/ˌkɔɹˈvæɫɪs/
-corvettes	/ˌkɔɹˈvɛts/
-corvino	/ˌkɔɹˈvinoʊ/
-cosmetically	/ˌkɔzˈmɛtɪkɫi/
-cosmopulos	/ˌkɔzməpˈjuɫoʊs/
-cossiga	/ˌkɔˈsiɡə/
-costella	/ˌkɔˈstɛɫə/
-costello	/ˌkɔˈstɛɫoʊ/
-costello's	/ˌkɔˈstɛɫoʊz/
-courtemanche	/ˌkɔɹtˈmænʃ/, /ˌkɔɹtˈmɑnʃ/
-koivisto	/ˌkɔɪˈvɪstoʊ/
-koreagate	/ˌkɔˈɹiəˌɡeɪt/, /kɝˈɹiəˌɡeɪt/
-koresh	/ˌkɔˈɹɛʃ/
-koresh's	/ˌkɔˈɹɛʃəz/
-koryagin	/ˌkɔɹˈjɑɡɪn/
-korzeniewski	/ˌkɔɹzəˈnufski/, /kɝˌzɪniˈɛfski/
-koskotas	/ˌkɔˈskoʊtəs/
-kostrzewski	/ˌkɔstɝˈzɛwski/
+<!-- choreographer	/ˌkɔɹiˈɑɡɹəfɝ/ -->
+<!-- choreographer's	/ˌkɔɹiˈɑɡɹəfɝz/ -->
+<!-- choreographers	/ˌkɔɹiˈɑɡɹəfɝz/ -->
+<!-- choreographic	/ˌkɔɹiəˈɡɹæfɪk/ -->
+<!-- choreography	/ˌkɔɹiˈɑɡɹəfi/ -->
+<!-- corporation	/ˌkɔɹpɝˈeɪʃən/ -->
+<!-- corporation's	/ˌkɔɹpɝˈeɪʃənz/ -->
+<!-- corporations	/ˌkɔɹpɝˈeɪʃənz/ -->
+<!-- corporations'	/ˌkɔɹpɝˈeɪʃənz/ -->
+<!-- correlation	/ˌkɔɹəˈɫeɪʃən/ -->
+<!-- correlations	/ˌkɔɹəˈɫeɪʃənz/ -->
+<!-- correspond	/ˌkɔɹəˈspɑnd/ -->
+<!-- corresponded	/ˌkɔɹəˈspɑndɪd/ -->
+<!-- correspondence	/ˌkɔɹəˈspɑndəns/ -->
+<!-- correspondent	/ˌkɔɹəˈspɑndənt/ -->
+<!-- correspondents	/ˌkɔɹəˈspɑndənts/ -->
+<!-- correspondents'	/ˌkɔɹəˈspɑndənts/ -->
+<!-- corresponding	/ˌkɔɹəˈspɑndɪŋ/ -->
+<!-- correspondingly	/ˌkɔɹəˈspɑndɪŋɫi/ -->
+<!-- corresponds	/ˌkɔɹəˈspɑndz/ -->
 
-cabell	/kɑˈbɛɫ/
-cabrales	/kɑˈbɹɑɫɛs/
-cabrera	/kɑˈbɹɛɹə/
-caccamise	/kɑˈkɑmɪs/
-caccamo	/kɑˈkɑmoʊ/
-caccavale	/kɑkəˈvɑɫi/
-cacciatore	/kɑtʃəˈtɔɹi/
-cacciola	/kɑkˈtʃoʊɫə/
-caceres	/kɑˈsɛɹɛs/
-cacioppo	/kɑˈtʃoʊpoʊ/
-cadell	/kɑˈdeɪɫ/
-cadogan	/kɑdoʊˈɡɑn/
-cafarella	/kɑfɑˈɹɛɫə/
-cafarelli	/kɑfɑˈɹɛɫi/
-cafaro	/kɑˈfɑɹoʊ/
-caggiano	/kɑdʒiˈɑnoʊ/
-caiazzo	/kɑˈjɑzoʊ/
-calabrese	/kɑɫɑˈbɹeɪzi/
-calamari	/kɑɫɑˈmɑɹi/
-calame	/kɑˈɫɑmi/
-calcagni	/kɑɫˈkɑɡni/
-calcagno	/kɑɫˈkɑɡnoʊ/
-calcote	/kɑɫˈkoʊti/
-caldeira	/kɑɫˈdɛɹə/
-calderaro	/kɑɫdɝˈɑɹoʊ/
-calderone	/kɑɫdɝˈoʊni/
-caleca	/kɑˈɫɛkə/
-calida	/kɑˈɫidə/
-caliendo	/kɑɫiˈɛndoʊ/
-califano	/kɑɫiˈfɑnoʊ/
-caliri	/kɑˈɫɪɹi/
-callari	/kɑˈɫɑɹi/
-callegari	/kɑɫɛˈɡɑɹi/
-calleja	/kɑˈɫeɪjə/
-callejas	/kɑˈɫeɪjɑz/
-calogero	/kɑɫoʊˈdʒɛɹoʊ/
-caltabiano	/kɑɫtɑbiˈɑnoʊ/
-caltagirone	/kɑɫtɑdʒɪˈɹoʊni/
-calvano	/kɑɫˈvɑnoʊ/
-calvillo	/kɑɫˈvɪɫoʊ/
-calvina	/kɑɫˈvinə/
-calzada	/kɑɫˈzɑdə/
-camara	/kɑˈmɑɹə/
-camarata	/kɑmɑˈɹɑtə/
-camargo	/kɑˈmɑɹɡoʊ/
-camarillo	/kɑmɑˈɹɪɫoʊ/
-camejo	/kɑˈmeɪjoʊ/
-camilleri	/kɑmiˈɫɛɹi/
-caminiti	/kɑmiˈniti/
-camire	/kɑˈmɪɹi/
-cammarano	/kɑmɑˈɹɑnoʊ/
-cammarata	/kɑmɑˈɹɑtə/
-cammarota	/kɑmɑˈɹoʊtə/
-campana	/kɑmˈpænə/
-campanale	/kɑmpɑˈnɑɫi/
-campanaro	/kɑmpɑˈnɑɹoʊ/
-campanelli	/kɑmpɑˈnɛɫi/
-campione	/kɑmpiˈoʊni/
-campisi	/kɑmˈpisi/
-campobasso	/kɑmpoʊˈbɑsoʊ/
-campoli	/kɑmˈpoʊɫi/
-campopiano	/kɑmpoʊpiˈɑnoʊ/
-campuzano	/kɑmpuˈzɑnoʊ/
-camuso	/kɑˈmusoʊ/
-canace	/kɑˈnɑtʃi/
-canale	/kɑˈnɑɫi/
-canchola	/kɑnˈkoʊɫə/
-cancienne	/kɑnˈtʃiɛn/
-cancilla	/kɑnˈtʃɪɫə/
-cancino	/kɑnˈtʃinoʊ/
-candelaria	/kɑndɛˈɫɑɹiə/
-candelario	/kɑndɛˈɫɑɹioʊ/
-candella	/kɑnˈdɛɫə/
-canedo	/kɑˈneɪdoʊ/
-canepa	/kɑˈnɛpə/
-canevari	/kɑnɛˈvɑɹi/
-canez	/kɑˈnɛz/
-cangelosi	/kɑŋɡɛˈɫoʊsi/
-cangemi	/kɑŋˈɡɛmi/
-cangialosi	/kɑndʒəˈɫoʊsi/
-cangiano	/kɑŋɡiˈɑnoʊ/
-canida	/kɑˈnidə/
-canino	/kɑˈninoʊ/
-canipe	/kɑˈnipi/
-cannata	/kɑˈnɑtə/
-cannavo	/kɑˈnɑvoʊ/
-cannella	/kɑˈnɛɫə/
-cannizzaro	/kɑnitˈsɑɹoʊ/
-cannizzo	/kɑˈnizoʊ/
-cannone	/kɑˈnoʊni/
-canonico	/kɑnoʊˈnikoʊ/
-canova	/kɑˈnoʊvə/
-cantara	/kɑnˈtɑɹə/
-cantero	/kɑnˈtɛɹoʊ/
-cantin	/kɑnˈtin/
-cantone	/kɑnˈtoʊni/
-canzano	/kɑnˈzɑnoʊ/
-canzoneri	/kɑnzoʊˈnɛɹi/
-capaldi	/kɑˈpɑɫdi/
-capaldo	/kɑˈpɑɫdoʊ/
-capano	/kɑˈpɑnoʊ/
-capasso	/kɑˈpɑsoʊ/
-capell	/kɑˈpeɪɫ/
-capetillo	/kɑpɛˈtɪɫoʊ/
-capitano	/kɑpiˈtɑnoʊ/
-capito	/kɑˈpitoʊ/
-capizzi	/kɑˈpitsi/
-capobianco	/kɑpoʊbiˈɑnkoʊ/
-caponi	/kɑˈpoʊni/
-caponigro	/kɑpoʊˈniɡɹoʊ/
-caporale	/kɑpɔˈɹɑɫi/
-caporaso	/kɑpɔˈɹɑsoʊ/
-capozzoli	/kɑpoʊtˈsoʊɫi/
-cappadona	/kɑpɑˈdoʊnə/
-capparelli	/kɑpɑˈɹɛɫi/
-cappella	/kɑˈpɛɫə/
-cappelletti	/kɑpɛˈɫɛti/
-cappelli	/kɑˈpɛɫi/
-cappello	/kɑˈpɛɫoʊ/
-cappetta	/kɑˈpɛtə/
-cappiello	/kɑpiˈɛɫoʊ/
-cappuccio	/kɑˈputʃioʊ/
-capraro	/kɑˈpɹɑɹoʊ/
-capriotti	/kɑpɹiˈoʊti/
-capuano	/kɑpuˈɑnoʊ/
-caputi	/kɑˈputi/
-caputo	/kɑˈputoʊ/
-caracci	/kɑˈɹɑtʃi/
-caracciolo	/kɑɹɑkˈtʃoʊɫoʊ/
-caradine	/kɑɹɑˈdini/
-caradonna	/kɑɹɑˈdoʊnə/
-carangelo	/kɑɹɑŋˈɡɛɫoʊ/
-carano	/kɑˈɹɑnoʊ/
-caraveo	/kɑˈɹɑvioʊ/
-carbajal	/kɑɹbɑˈjæɫ/
-carballo	/kɑɹˈbɑɫoʊ/
 carbonara	/kɑɹboʊˈnɑɹə/
-carbonaro	/kɑɹboʊˈnɑɹoʊ/
-carboni	/kɑɹˈboʊni/
 carbonic	/kɑɹˈbɔnɪk/
-carboxylic	/kɑɹbɔkˈsɪɫɪk/
 carcinogen	/kɑɹˈsɪnədʒən/
 carcinogens	/kɑɹˈsɪnədʒənz/
-carcione	/kɑɹˈtʃoʊni/
-cardarelli	/kɑɹdɑˈɹɛɫi/
-cardell	/kɑɹˈdeɪɫ/
-cardenas	/kɑɹˈdinəs/
-cardenas's	/kɑɹˈdinəsɪz/
-cardinale	/kɑɹdiˈnɑɫi/
-cardinali	/kɑɹdiˈnɑˌɫi/
-cardon	/kɑɹˈdɔn/
-cardona	/kɑɹˈdoʊnə/
-cardone	/kɑɹˈdoʊni/
-cardoni	/kɑɹˈdoʊni/
-cardoon	/kɑɹˈdun/
-cardosa	/kɑɹˈdoʊsə/
-cardosi	/kɑɹˈdoʊsi/
-cardoso	/kɑɹˈdoʊsoʊ/
-cardoso's	/kɑɹˈdoʊsoʊz/
-cardoza	/kɑɹˈdoʊzə/
-cardozo	/kɑɹˈdoʊzoʊ/
-carducci	/kɑɹˈdutʃi/
-carel	/kɑˈɹɛɫ/
-carella	/kɑˈɹɛɫɑ/
-carelli	/kɑˈɹɛɫi/
-carfagno	/kɑɹˈfɑɡnoʊ/
-carfora	/kɑɹˈfɔɹɑ/
-cargal	/kɑɹˈɡæɫ/
-carico	/kɑˈɹikoʊ/
-caridi	/kɑˈɹidi/
-cariello	/kɑɹiˈɛɫoʊ/
-carilla	/kɑˈɹɪɫɑ/
-carillo	/kɑˈɹɪɫoʊ/
-carine	/kɑˈɹini/
-carini	/kɑˈɹini/
-carino	/kɑˈɹinoʊ/
-carissa	/kɑˈɹisə/
-carita	/kɑˈɹitə/
-carleen	/kɑɹˈɫin/
-carlini	/kɑɹˈɫini/
-carlino	/kɑɹˈɫinoʊ/
-carlisi	/kɑɹˈɫisi/
-carlita	/kɑɹˈɫitɑ/
-carlito	/kɑɹˈɫitoʊ/
-carlito's	/kɑɹˈɫitoʊz/
-carlone	/kɑɹˈɫoʊni/
-carloni	/kɑɹˈɫoʊni/
-carlotta	/kɑɹˈɫɔtɑ/
-carlucci	/kɑɹˈɫutʃi/
-carlyle's	/kɑɹˈɫaɪɫz/
-carmela	/kɑɹˈmɛɫɑ/
-carmelita	/kɑɹməˈɫitɑ/
-carmelo	/kɑɹˈmɛɫoʊ/
-carmita	/kɑɹˈmitɑ/
-carmona	/kɑɹˈmoʊnɑ/
-carmouche	/kɑɹˈmuʃ/
 carnation	/kɑɹˈneɪʃən/
 carnations	/kɑɹˈneɪʃənz/
-carnauba	/kɑɹˈnɔbɑ/
-carnaud	/kɑɹˈnɔ/
-carneiro	/kɑɹˈnɛɹoʊ/
-carnevale	/kɑɹneɪˈvɑɫeɪ/
-carnine	/kɑɹˈnini/
 carnivorous	/kɑɹˈnɪvɝəs/
-caron	/kɑˈɹɔn/
-carosella	/kɑɹoʊˈsɛɫə/
-caroselli	/kɑɹoʊˈsɛɫi/
-carotenuto	/kɑɹoʊtɛˈnutoʊ/
-carpencic	/kɑɹˈpɛntʃɪk/
-carpencic's	/kɑɹˈpɛntʃɪks/
-carpenito	/kɑɹpɛˈnitoʊ/
-carpentieri	/kɑɹpɛnˈtɪɹi/
-carpinelli	/kɑɹpiˈnɛɫi/
-carpino	/kɑɹˈpinoʊ/
-carranco	/kɑˈɹɑnkoʊ/
-carranza	/kɑˈɹɑnzə/
-carrasco	/kɑˈɹɑskoʊ/
-carreira	/kɑˈɹɛɹɑ/
-carreiro	/kɑˈɹɛɹoʊ/
-carrell	/kɑˈɹeɪɫ/
-carreno	/kɑˈɹɛˌnoʊ/
-carreon	/kɑɹeɪˈɔn/
-carrera	/kɑˈɹɛˌɹɑ/
-carreras	/kɑˈɹɛˌɹɑz/
-carrere	/kɑˈɹɛɹeɪ/
-carretta	/kɑˈɹɛtə/
-carrico	/kɑˈɹikoʊ/
-carriere	/kɑˈɹɪɹi/
-carriero	/kɑˈɹɪɹoʊ/
-carrizales	/kɑɹiˈzɑɫɛs/
-carrozza	/kɑˈɹoʊzə/
-carstarphen	/kɑɹˈstɑɹfən/
-carstensen	/kɑɹˈstɛnsən/
 cartel	/kɑɹˈtɛɫ/
 cartel's	/kɑɹˈtɛɫz/
 cartels	/kɑɹˈtɛɫz/
 cartesian	/kɑɹˈtiʒən/
-cartmell	/kɑɹtˈmeɪɫ/
 cartoon	/kɑɹˈtun/
 cartooning	/kɑɹˈtunɪŋ/
 cartoonist	/kɑɹˈtunəst/
 cartoonists	/kɑɹˈtunɪsts/
 cartoons	/kɑɹˈtunz/
-cartusciello	/kɑɹˌtusiˈɛɫoʊ/
-caruana	/kɑɹuˈænə/
-carucci	/kɑˈɹutʃi/
-carusone	/kɑɹuˈsoʊni/
-carvajal	/kɑɹvɑˈjæɫ/
-carvalho	/kɑɹˈvɑɫhoʊ/
-carvel	/kɑɹˈvɛɫ/
-carvell	/kɑɹˈveɪɫ/, /kɑɹˈvɛɫ/
-casada	/kɑˈsɑdɑ/
-casado	/kɑˈsɑdoʊ/
-casados	/kɑˈsɑdoʊz/
-casagrande	/kɑˈsɑɡɹændi/
-casal	/kɑˈsɑɫ/
-casale	/kɑˈsɑɫi/
-casali	/kɑˈsɑɫi/
-casalino	/kɑsɑˈɫinoʊ/
-casals	/kɑˈsɑɫz/, /kəˈsɑɫz/
-casares	/kɑˈsɑɹɛs/
-casarez	/kɑˈsɑɹɛz/
-casassa	/kɑˈsɑsə/
-casazza	/kɑˈsɑtsə/
-casciano	/kɑstʃiˈɑnoʊ/
-casciato	/kɑsˈtʃɑtoʊ/
-cascone	/kɑˈskoʊni/
-caserta	/kɑˈsɛɹtə/
-cashion	/kɑˈʃin/
-casiano	/kɑsiˈɑnoʊ/
-casias	/kɑˈsiəz/
-casillas	/kɑˈsɪɫəz/
-casimiro	/kɑsiˈmɪɹoʊ/
-casola	/kɑˈsoʊɫə/
-cassada	/kɑˈsɑdə/
-cassani	/kɑˈsɑni/
-cassano	/kɑˈsɑnoʊ/
-cassara	/kɑˈsɑɹə/
-cassarino	/kɑsɑˈɹinoʊ/
-cassaro	/kɑˈsɑɹoʊ/
-cassata	/kɑˈsɑtə/
-cassella	/kɑˈsɛɫə/
-cassese	/kɑˈseɪzi/
-cassetta	/kɑˈsɛtə/
-cassinelli	/kɑsiˈnɛɫi/
-cassone	/kɑˈsoʊni/
-castagna	/kɑˈstɑɡnə/
-castagno	/kɑˈstɑɡnoʊ/
-castagnola	/kɑstɑɡˈnoʊɫə/
-castaldi	/kɑˈstɑɫdi/
-castaldo	/kɑˈstɑɫdoʊ/
-castaneda	/kɑstɑˈnɛdə/
-castano	/kɑˈstɑnoʊ/
-castellana	/kɑstɛˈɫænə/
-castellani	/kɑstɛˈɫɑni/
-castellano	/kɑstɛˈɫɑnoʊ/
-castellanos	/kɑsteɪˈɫɑnoʊz/
-castelli	/kɑˈstɛɫi/
-castellucci	/kɑstɛˈɫutʃi/
-castelluccio	/kɑstɛˈɫutʃioʊ/
-castelo	/kɑˈstɛɫoʊ/
-castiglia	/kɑˈstiɡɫiə/
-castiglione	/kɑstiɡɫiˈoʊni/
-castilla	/kɑˈstɪɫə/
-castilleja	/kɑstiˈɫeɪjə/
-castine	/kɑˈstini/
-castoro	/kɑˈstɔɹoʊ/
-castruita	/kɑˈstɹutə/
-cataldi	/kɑˈtɑɫdi/
-cataldo	/kɑˈtɑɫdoʊ/
-catalfamo	/kɑtɑɫˈfɑmoʊ/
-catanese	/kɑtɑˈneɪzi/
-catano	/kɑˈtɑnoʊ/
-catanzaro	/kɑtɑnˈzɑɹoʊ/
-catapano	/kɑtɑˈpɑnoʊ/
-caterino	/kɑtɝˈinoʊ/
-catherina	/kɑθɝˈinə/
-catino	/kɑˈtinoʊ/
-cattaneo	/kɑˈtɑnioʊ/
-cattani	/kɑˈtɑni/
-cavagnaro	/kɑvɑɡˈnɑɹoʊ/
-cavaliere	/kɑvɑˈɫɪɹi/
-cavalieri	/kɑvɑˈɫɪɹi/
-cavallaro	/kɑvɑˈɫɑɹoʊ/
-cavallero	/kɑvɑˈɫɛɹoʊ/
-cavataio	/kɑvɑˈtɑioʊ/
-cazares	/kɑˈzɑɹɛs/
-chaparro	/kɑˈpɑɹoʊ/
-charissa	/kɑˈɹisə/
-charita	/kɑˈɹitə/
-chavira	/kɑˈvɪɹə/
 cognition	/kɑɡˈnɪʃən/
-collocation	/kɑɫəˈkeɪʃən/
-comandeer	/kɑmənˈdiɹ/
-comandeered	/kɑmənˈdiɹd/
-comandeers	/kɑmənˈdiɹz/
-commingled	/kɑˈmɪŋɡəɫd/, /koʊˈmɪŋɡəɫd/
-commingling	/kɑˈmɪŋɡəɫɪŋ/, /koʊˈmɪŋɡɫɪŋ/
-commitee	/kɑˈmɪti/, /kəˈmɪti/
-composite	/kɑmˈpɑzət/, /kəmˈpɑzət/
-composite's	/kɑmˈpɑzəts/, /kəmˈpɑzəts/
-composites	/kɑmˈpɑzəts/, /kəmˈpɑzəts/
-concavity	/kɑnˈkɑvəˌti/
+<!-- collocation	/kɑɫəˈkeɪʃən/ -->
+<!-- commingled	/kɑˈmɪŋɡəɫd/, /koʊˈmɪŋɡəɫd/ -->
+<!-- commingling	/kɑˈmɪŋɡəɫɪŋ/, /koʊˈmɪŋɡɫɪŋ/ -->
+<!-- commitee	/kɑˈmɪti/, /kəˈmɪti/ -->
+<!-- composite	/kɑmˈpɑzət/, /kəmˈpɑzət/ -->
+<!-- composite's	/kɑmˈpɑzəts/, /kəmˈpɑzəts/ -->
+<!-- composites	/kɑmˈpɑzəts/, /kəmˈpɑzəts/ -->
+<!-- concavity	/kɑnˈkɑvəˌti/ -->
 concertina	/kɑnsɝˈtinə/
 concubinage	/kɑnˈkjubənədʒ/
 confluent	/kɑnˈfɫuənt/
-conforti	/kɑnˈfɔɹti/
-conradi	/kɑnˈɹɑdi/
-consalvo	/kɑnˈsɑɫvoʊ/
-conseco	/kɑnˈseɪkoʊ/, /kənˈseɪkoʊ/
-conseco's	/kɑnˈseɪkoʊz/, /kənˈseɪkoʊz/
-consentino	/kɑnsɛnˈtinoʊ/
-consiglio	/kɑnˈsiɡɫioʊ/
-consolata	/kɑnsoʊˈɫɑtə/
-consoli	/kɑnˈsoʊɫi/
-consolo	/kɑnˈsoʊɫoʊ/
-constanta	/kɑnˈstɑntə/
-constantina	/kɑnstɑnˈtinə/
-contino	/kɑnˈtinoʊ/
-contreras	/kɑnˈtɹɛɹɑz/
-convair	/kɑnˈvɛɹ/
-convoke	/kɑnˈvoʊk/
-convoked	/kɑnˈvoʊkt/
 cosmetic	/kɑzˈmɛtɪk/
 cosmetics	/kɑzˈmɛtɪks/
-kaneko	/kɑˈneɪkoʊ/
-kaneshiro	/kɑneɪˈʃɪɹoʊ/
-kania	/kɑˈniə/
-kaniewski	/kɑniˈɛfski/, /kɑniˈuski/
-kanouse	/kɑnoʊˈuseɪ/
-karabin	/kɑˈɹɑbin/
-karachi	/kɑˈɹɑtʃi/
-karadzic	/kɑˈɹɑdʒɪk/
-karadzic's	/kɑˈɹɑdʒɪks/
-karimi	/kɑˈɹimi/
-karina	/kɑˈɹinə/
-karnicki	/kɑɹˈnɪki/
-kartasasmita	/kɑɹˌtæsəsˈmitə/
-kataoka	/kɑtɑˈoʊkə/
-katayama	/kɑtɑˈjɑmə/
-katona	/kɑˈtoʊnə/
-kawai	/kɑˈwɑi/
-kawamoto	/kɑwɑˈmoʊtoʊ/
-kawano	/kɑˈwɑnoʊ/
-kawecki	/kɑˈvɛtski/
-kaweske	/kɑˈvɛski/, /kəˈwɛski/
 
-
-ca	/ˈkɑ/, /ˈkə/, /ˈsiˈeɪ/
-caan	/ˈkɑn/
-caba	/ˈkɑbə/
-caccia	/ˈkɑtʃə/
-cada	/ˈkɑdə/
-caen	/ˈkæn/, /ˈkɑn/
-caen's	/ˈkænz/, /ˈkɑnz/
-caguas	/ˈkɑˌɡwɑs/
-cahners	/ˈkɑnɝz/
-cala	/ˈkɑɫə/
-calaway	/ˈkɑɫəweɪ/
-calbos	/ˈkɑɫboʊs/
-cali	/ˈkæɫi/, /ˈkɑɫi/
-calia	/ˈkɑɫiə/
-calise	/ˈkɑɫaɪz/
-call's	/ˈkɑɫz/, /ˈkɔɫz/
-calm	/ˈkɑɫm/, /ˈkɑm/
-calma	/ˈkɑɫmə/
-calmark	/ˈkɑɫˌmɑɹk/
-calmart	/ˈkæɫˌmɑɹt/, /ˈkɑɫˌmɑɹt/
-calmart's	/ˈkæɫˌmɑɹts/, /ˈkɑɫˌmɑɹts/
 calmed	/ˈkɑɫmd/, /ˈkɑmd/
 calmer	/ˈkɑɫmɝ/, /ˈkɑmɝ/
-calmes	/ˈkɑɫmɛs/
 calmest	/ˈkɑɫməst/, /ˈkɑməst/
 calming	/ˈkɑɫmɪŋ/, /ˈkɑmɪŋ/
 calmly	/ˈkɑɫmɫi/, /ˈkɑmɫi/
 calmness	/ˈkɑɫmnəs/, /ˈkɑmnəs/
 calms	/ˈkɑɫmz/, /ˈkɑmz/
-calo	/ˈkɑɫoʊ/
-calvi	/ˈkɑɫvi/
-calvo	/ˈkɑɫvoʊ/
-cama	/ˈkɑmə/, /ˈsiˈeɪˈɛˈmeɪ/
-campau	/ˈkɑmpaʊ/
-campise	/ˈkɑmpaɪz/
-canape	/ˈkɑnəˌpeɪ/
-canapes	/ˈkɑnəˌpeɪz/
-cancro	/ˈkɑnkɹoʊ/
-cano	/ˈkɑnoʊ/
-capcha	/ˈkɑptʃə/
-capo	/ˈkɑpoʊ/
 car	/ˈkɑɹ/
 car's	/ˈkɑɹz/
-caras	/ˈkɑɹəz/
 carb	/ˈkɑɹb/
-carbary	/ˈkɑɹbɛɹi/
-carbaugh	/ˈkɑɹˌbɔ/
-carberry	/ˈkɑɹˌbɛɹi/
-carberry's	/ˈkɑɹˌbɛɹiz/
 carbide	/ˈkɑɹˌbaɪd/
 carbide's	/ˈkɑɹˌbaɪdz/
-carbin	/ˈkɑɹbɪn/
 carbine	/ˈkɑɹˌbaɪn/
-carbo	/ˈkɑɹboʊ/
 carbon	/ˈkɑɹbən/
 carbonate	/ˈkɑɹbəˌneɪt/
 carbonated	/ˈkɑɹbəˌneɪtɪd/
 carbonates	/ˈkɑɹbəˌneɪts/
-carbondale	/ˈkɑɹbənˌdeɪɫ/
-carbone	/ˈkɑɹˌboʊn/
 carbonize	/ˈkɑɹbəˌnaɪz/
 carbonized	/ˈkɑɹbəˌnaɪzd/
-carbonneau	/ˈkɑɹbəˌnoʊ/
 carbons	/ˈkɑɹbənz/
-carboy	/ˈkɑɹˌbɔɪ/
 carbs	/ˈkɑɹbz/
-carburete	/ˈkɑɹbjɝˌɛt/
-carbureted	/ˈkɑɹbjɝˌɛtɪd/
 carburetor	/ˈkɑɹbɝˌeɪtɝ/
 carburetors	/ˈkɑɹbɝˌeɪtɝz/
-carby	/ˈkɑɹˌbi/
 carcass	/ˈkɑɹkəs/
 carcasses	/ˈkɑɹkəsɪz/
 card	/ˈkɑɹd/
 card's	/ˈkɑɹdz/
-carda	/ˈkɑɹdə/
 cardboard	/ˈkɑɹdˌbɔɹd/
-cardboards	/ˈkɑɹdˌbɔɹdz/
 carded	/ˈkɑɹdɪd/
-carden	/ˈkɑɹdən/
-carder	/ˈkɑɹdɝ/
 cardholder	/ˈkɑɹdˌhoʊɫdɝ/
 cardholders	/ˈkɑɹdˌhoʊɫdɝz/
-cardia	/ˈkɑɹdiə/
 cardiac	/ˈkɑɹdiˌæk/
-cardiel	/ˈkɑɹˌdiɫ/
-cardiff	/ˈkɑɹdɪf/
 cardigan	/ˈkɑɹdɪɡən/
 cardigans	/ˈkɑɹdɪɡənz/
-cardiges	/ˈkɑɹdɪdʒɪz/
-cardin	/ˈkɑɹdɪn/
 cardinal	/ˈkɑɹdənəɫ/, /ˈkɑɹdɪnəɫ/
 cardinal's	/ˈkɑɹdənəɫz/
 cardinals	/ˈkɑɹdənəɫz/
 cardinals'	/ˈkɑɹdɪnəɫz/
 cardio	/ˈkɑɹdioʊ/
-cardis	/ˈkɑɹdɪs/
-cardiss	/ˈkɑɹdɪs/
-cardoen	/ˈkɑɹˌdoʊən/
 cards	/ˈkɑɹdz/
 cards'	/ˈkɑɹdz/
-cardwell	/ˈkɑɹdˌwɛɫ/
-cardy	/ˈkɑɹdi/
-caresse	/ˈkɑɹɛs/
-cargile	/ˈkɑɹdʒəɫ/
-cargill	/ˈkɑɹˌɡɪɫ/
 cargo	/ˈkɑɹˌɡoʊ/
 cargo's	/ˈkɑɹˌɡoʊz/
-cargoes	/ˈkɑɹˌɡoʊz/
-cargonoff	/ˈkɑɹɡəˌnɔf/
-cargos	/ˈkɑɹˌɡoʊz/
-carhart	/ˈkɑɹˌhɑɹt/
 carjack	/ˈkɑɹˌdʒæk/
 carjacked	/ˈkɑɹˌdʒækt/
 carjacker	/ˈkɑɹˌdʒækɝ/
@@ -1175,113 +289,42 @@ carjackers	/ˈkɑɹˌdʒækɝz/
 carjacking	/ˈkɑɹˌdʒækɪŋ/
 carjackings	/ˈkɑɹˌdʒækɪŋz/
 carjacks	/ˈkɑɹˌdʒæks/
-carkhuff	/ˈkɑɹkhəf/
 carl	/ˈkɑɹɫ/
 carl's	/ˈkɑɹɫz/
-carla	/ˈkɑɹɫɑ/
-carla's	/ˈkɑɹɫəz/
-carlan	/ˈkɑɹɫən/
-carland	/ˈkɑɹɫənd/
-carlberg	/ˈkɑɹɫbɝɡ/
-carle	/ˈkɑɹəɫ/
-carlen	/ˈkɑɹɫən/
-carlene	/ˈkɑɹˌɫin/
-carles	/ˈkɑɹɫz/
-carleton	/ˈkɑɹɫtən/
-carley	/ˈkɑɹɫi/
-carli	/ˈkɑɹɫi/
-carlile	/ˈkɑɹˌɫaɪɫ/
 carlin	/ˈkɑɹɫɪn/
 carlin's	/ˈkɑɹɫɪnz/
-carliner	/ˈkɑɹˌɫaɪnɝ/
-carling	/ˈkɑɹɫɪŋ/
-carling's	/ˈkɑɹɫɪŋz/
-carlisle	/ˈkɑɹˌɫaɪɫ/
-carll	/ˈkɑɹɫ/
-carlo	/ˈkɑɹɫoʊ/
 carload	/ˈkɑɹˌɫoʊd/
-carloading	/ˈkɑɹˌɫoʊdɪŋ/
-carloadings	/ˈkɑɹˌɫoʊdɪŋz/
 carloads	/ˈkɑɹˌɫoʊdz/
-carlock	/ˈkɑɹˌɫɑk/
-carlon	/ˈkɑɹɫən/
 carlos	/ˈkɑɹɫoʊs/
-carlough	/ˈkɑɹɫoʊ/
-carlow	/ˈkɑɹˌɫoʊ/
-carls	/ˈkɑɹɫz/
 carlsbad	/ˈkɑɹɫsbæd/
-carlsberg	/ˈkɑɹɫzbɝɡ/
-carlsen	/ˈkɑɹɫsən/
 carlson	/ˈkɑɹɫsən/
 carlson's	/ˈkɑɹɫsənz/
-carlsson	/ˈkɑɹɫsən/
-carlstadt	/ˈkɑɹɫˌstæt/
-carlston	/ˈkɑɹɫstən/
-carlstrom	/ˈkɑɹɫstɹəm/
-carlton	/ˈkɑɹɫtən/
-carlton's	/ˈkɑɹɫtənz/
 carly	/ˈkɑɹɫi/
-carlyle	/ˈkɑɹˌɫaɪɫ/
-carlyon	/ˈkɑɹɫiɑn/
-carlzon	/ˈkɑɹɫzɑn/
-carma	/ˈkɑɹmɑ/
-carmack	/ˈkɑɹmək/
 carmaker	/ˈkɑɹˌmeɪkɝ/
 carmaker's	/ˈkɑɹˌmeɪkɝz/
 carmakers	/ˈkɑɹˌmeɪkɝz/
 carmakers'	/ˈkɑɹˌmeɪkɝz/
 carman	/ˈkɑɹmən/
-carmany	/ˈkɑɹməˌni/
-carmean	/ˈkɑɹˌmiən/
 carmel	/ˈkɑɹməɫ/, /kɑɹˈmɛɫ/
 carmelite	/ˈkɑɹməˌɫaɪt/
 carmen	/ˈkɑɹmən/
-carmer	/ˈkɑɹmɝ/
-carmical	/ˈkɑɹmɪkəɫ/
 carmichael	/ˈkɑɹˌmaɪkəɫ/
-carmickle	/ˈkɑɹmɪkəɫ/
-carmie	/ˈkɑɹˌmi/
-carmike	/ˈkɑɹˌmaɪk/
-carmine	/ˈkɑɹmən/
-carmody	/ˈkɑɹmədi/
-carmon	/ˈkɑɹmən/
-carmony	/ˈkɑɹmoʊˌni/
-carmoy	/ˈkɑɹmɔɪ/
-carmy	/ˈkɑɹmi/
-carn	/ˈkɑɹn/
 carnage	/ˈkɑɹnɪdʒ/
-carnahan	/ˈkɑɹnəhæn/
-carnahan's	/ˈkɑɹnəhænz/
-carnal	/ˈkɑɹnəɫ/
-carnathan	/ˈkɑɹnəθæn/
-carne	/ˈkɑɹn/
-carneal	/ˈkɑɹnəɫ/
 carnegie	/ˈkɑɹnəɡi/, /ˌkɑɹˈneɪɡi/
 carnegie-mellon	/ˈkɑɹnəɡiˈmɛɫən/, /ˌkɑɹˈneɪɡiˈmɛɫən/
 carnegie's	/ˈkɑɹnəɡiz/, /ˌkɑɹˈneɪɡiz/
-carnegies	/ˈkɑɹnəɡiz/, /ˌkɑɹˈneɪɡiz/
-carnell	/ˈkɑɹnəɫ/
-carner	/ˈkɑɹnɝ/
-carnes	/ˈkɑɹnz/
-carnett	/ˈkɑɹnət/
-carney	/ˈkɑɹni/
 carnival	/ˈkɑɹnəvəɫ/
 carnival's	/ˈkɑɹnəvəɫz/
 carnivals	/ˈkɑɹnəvəɫz/
 carnivore	/ˈkɑɹnɪˌvɔɹ/
 carnivores	/ˈkɑɹnəˌvɔɹz/
-carnley	/ˈkɑɹnɫi/
-carns	/ˈkɑɹnz/
-caro	/ˈkɑɹoʊ/
 carp	/ˈkɑɹp/
 carpal	/ˈkɑɹpəɫ/
 carpe-diem	/ˈkɑɹpəˈdiəm/
 carpenter	/ˈkɑɹpəntɝ/
 carpenter's	/ˈkɑɹpəntɝz/
 carpenters	/ˈkɑɹpəntɝz/
-carpentier	/ˈkɑɹpəntiɝ/
 carpentry	/ˈkɑɹpəntɹi/
-carper	/ˈkɑɹpɝ/
 carpet	/ˈkɑɹpət/
 carpetbagger	/ˈkɑɹpətˌbæɡɝ/
 carpetbaggers	/ˈkɑɹpətˌbæɡɝz/
@@ -1289,75 +332,41 @@ carpeted	/ˈkɑɹpətɪd/
 carpeting	/ˈkɑɹpətɪŋ/
 carpets	/ˈkɑɹpəts/
 carping	/ˈkɑɹpɪŋ/
-carpio	/ˈkɑɹpioʊ/
 carpool	/ˈkɑɹˌpuɫ/
 carport	/ˈkɑɹˌpɔɹt/
 carports	/ˈkɑɹˌpɔɹts/
-carr	/ˈkɑɹ/
-carr's	/ˈkɑɹz/
-carra	/ˈkɑɹə/
-carre	/ˈkɑɹ/, /ˌkɑˈɹeɪ/
-carro	/ˈkɑɹoʊ/
 cars	/ˈkɑɹz/, /ˈkɑz/
 cars'	/ˈkɑɹz/
-carse	/ˈkɑɹs/
-carsey	/ˈkɑɹsi/
 carsick	/ˈkɑɹsɪk/
 carson	/ˈkɑɹsən/, /ˈkɑɹzən/
 carson's	/ˈkɑɹsənz/
-carsten	/ˈkɑɹstən/
-carstens	/ˈkɑɹstənz/
-carswell	/ˈkɑɹˌswɛɫ/
 cart	/ˈkɑɹt/
-carta	/ˈkɑɹtə/
-carte	/ˈkɑɹt/
 carted	/ˈkɑɹtɪd/
-cartee	/ˈkɑɹˈti/
 carter	/ˈkɑɹtɝ/
 carter's	/ˈkɑɹtɝz/
-carteret	/ˈkɑɹtɝɪt/
-carters	/ˈkɑɹtɝz/
 cartersville	/ˈkɑɹtɝzˌvɪɫ/
 carthage	/ˈkɑɹθədʒ/, /ˈkɑɹθɪdʒ/
 cartier	/ˈkɑɹtiɝ/
 cartilage	/ˈkɑɹtəɫədʒ/, /ˈkɑɹtəɫɪdʒ/
 carting	/ˈkɑɹtɪŋ/
-cartland	/ˈkɑɹtɫənd/
-cartledge	/ˈkɑɹtˌɫɛdʒ/
-cartlidge	/ˈkɑɹtɫɪdʒ/
-cartmill	/ˈkɑɹtˌmɪɫ/
-cartner	/ˈkɑɹtnɝ/
 carton	/ˈkɑɹtən/
-cartonnage	/ˈkɑɹtənədʒ/
 cartons	/ˈkɑɹtənz/
 cartridge	/ˈkɑɹtɹədʒ/, /ˈkɑɹtɹɪdʒ/
 cartridges	/ˈkɑɹtɹədʒəz/
 carts	/ˈkɑɹts/
 cartwheel	/ˈkɑɹtˌwiɫ/
 cartwheels	/ˈkɑɹtˌwiɫz/
-cartwright	/ˈkɑɹˌtɹaɪt/
-carty	/ˈkɑɹti/
 carve	/ˈkɑɹv/
 carved	/ˈkɑɹvd/
 carver	/ˈkɑɹvɝ/
 carver's	/ˈkɑɹvɝz/
 carvers	/ˈkɑɹvɝz/
 carves	/ˈkɑɹvz/
-carvey	/ˈkɑɹvi/
 carville	/ˈkɑɹˌvɪɫ/
 carville's	/ˈkɑɹˌvɪɫz/
-carvin	/ˈkɑɹvɪn/
 carving	/ˈkɑɹvɪŋ/
 carvings	/ˈkɑɹvɪŋz/
-carwell	/ˈkɑɹˌwɛɫ/
-carwile	/ˈkɑɹˌwaɪɫ/
-caryn	/ˈkɑɹɪn/
-casa	/ˈkɑsə/
-casas	/ˈkɑsəz/
-caso	/ˈkɑsoʊ/
-castorena	/ˈkɑstɔɹnə/
 caucus	/ˈkɑkəs/, /ˈkɔkəs/
-caudal	/ˈkɑdəɫ/, /ˈkɔdəɫ/
 caught	/ˈkɑt/, /ˈkɔt/
 caul	/ˈkɑɫ/, /ˈkɔɫ/
 cauldron	/ˈkɑɫdɹən/, /ˈkɔɫdɹən/
@@ -1372,17 +381,7 @@ causing	/ˈkɑzɪŋ/, /ˈkɔzɪŋ/
 caustic	/ˈkɑstɪk/, /ˈkɔstɪk/
 caution	/ˈkɑʃən/, /ˈkɔʃən/
 cautioned	/ˈkɑʃənd/, /ˈkɔʃənd/
-cava	/ˈkɑvə/
-cavaness	/ˈkɑvənɪs/
-cawood	/ˈkɑwʊd/
-champa	/ˈkɑmpə/
 cholera	/ˈkɑɫɝə/
-choleric	/ˈkɑɫɝɪk/
-cob	/ˈkɑb/
-cobaugh	/ˈkɑbɔ/
-cobb	/ˈkɑb/
-cobbett	/ˈkɑbɪt/
-cobbins	/ˈkɑbɪnz/
 cobble	/ˈkɑbəɫ/
 cobbled	/ˈkɑbəɫd/
 cobbler	/ˈkɑbɫɝ/
@@ -1390,108 +389,43 @@ cobbler's	/ˈkɑbɫɝz/
 cobblers	/ˈkɑbɫɝz/
 cobblestone	/ˈkɑbəɫˌstoʊn/
 cobblestones	/ˈkɑbəɫˌstoʊnz/
-cobbs	/ˈkɑbz/
-cobern	/ˈkɑbɝn/
-cobert	/ˈkɑbɝt/
-cobleigh	/ˈkɑbɫə/
-coblentz	/ˈkɑbɫɪnts/
-cobliner	/ˈkɑbɫaɪnɝ/
-cobre	/ˈkɑbɹə/
-cobrin	/ˈkɑbɹɪn/
 cobs	/ˈkɑbz/
 cobweb	/ˈkɑbˌwɛb/
 cobwebs	/ˈkɑbˌwɛbz/
-cocanougher	/ˈkɑkəˌnəfɝ/
-coccus	/ˈkɑkəs/
-cochenour	/ˈkɑʃɪnʊɹ/
-cochlea	/ˈkɑkɫiə/
-cochlear	/ˈkɑkɫiɝ/
-cochles	/ˈkɑkəɫz/
-cochran	/ˈkɑkɹən/
-cochran's	/ˈkɑkɹənz/
-cochrane	/ˈkɑkɹən/
-cochranton	/ˈkɑkɹəntən/
+<!-- cochlea	/ˈkɑkɫiə/ -->
+<!-- cochlear	/ˈkɑkɫiɝ/ -->
 cock	/ˈkɑk/
 cockatoo	/ˈkɑkəˌtu/
 cockatoos	/ˈkɑkəˌtuz/
-cockburn	/ˈkɑkˌbɝn/
-cockburn's	/ˈkɑkˌbɝnz/, /ˈkoʊbɝnz/
 cocked	/ˈkɑkt/, /ˈkɔkt/
 cocker	/ˈkɑkɝ/
-cockerell	/ˈkɑkɝˌɛɫ/
-cockerham	/ˈkɑkɝˌhæm/
-cockerill	/ˈkɑkɝˌɪɫ/
-cockey	/ˈkɑki/
 cockeyed	/ˈkɑˌkaɪd/
-cockfield	/ˈkɑkˌfiɫd/
 cockiness	/ˈkɑkinəs/
 cocking	/ˈkɑkɪŋ/
 cockle	/ˈkɑkəɫ/
 cockles	/ˈkɑkəɫz/
-cocklin	/ˈkɑkɫɪn/
-cockman	/ˈkɑkmən/
 cockney	/ˈkɑkni/
 cockpit	/ˈkɑkˌpɪt/
 cockpits	/ˈkɑkˌpɪts/
-cockran	/ˈkɑkɹən/
-cockrell	/ˈkɑkɹəɫ/
-cockrill	/ˈkɑkɹəɫ/
 cockroach	/ˈkɑˌkɹoʊtʃ/
 cockroaches	/ˈkɑˌkɹoʊtʃɪz/
-cockroft	/ˈkɑkɹəft/
-cockrum	/ˈkɑkɹəm/
 cocks	/ˈkɑks/
 cocksucker	/ˈkɑkˌsəkɝ/
 cocktail	/ˈkɑkˌteɪɫ/
 cocktails	/ˈkɑkˌteɪɫz/
-cockwell	/ˈkɑˌkwɛɫ/
-cockwell's	/ˈkɑˌkwɛɫz/
 cocky	/ˈkɑki/
 cod	/ˈkɑd/, /ˈsiˈoʊˈdi/
-codd	/ˈkɑd/
-codding	/ˈkɑdɪŋ/
-coddington	/ˈkɑdɪŋtən/
 coddle	/ˈkɑdəɫ/
 coddled	/ˈkɑdəɫd/
 coddling	/ˈkɑdəɫɪŋ/, /ˈkɑdɫɪŋ/
 codified	/ˈkɑdəˌfaɪd/
-codlin	/ˈkɑdɫɪn/
-codner	/ˈkɑdnɝ/
 coffee	/ˈkɑfi/, /ˈkɔfi/
 coffee's	/ˈkɑfiz/, /ˈkɔfiz/
-coffel	/ˈkɑfəɫ/
-coffelt	/ˈkɑfɪɫt/
 coffers	/ˈkɑfɝz/, /ˈkɔfɝz/
 coffey	/ˈkɑfi/
-coffield	/ˈkɑfiɫd/
-cogbill	/ˈkɑɡˌbɪɫ/
-cogburn	/ˈkɑɡˌbɝn/
-cogdell	/ˈkɑɡdəɫ/
-cogdill	/ˈkɑɡdəɫ/
-coggeshall	/ˈkɑɡɪʃɔɫ/
-coggin	/ˈkɑɡɪn/
-coggins	/ˈkɑɡɪnz/
-coghill	/ˈkɑɡˌhɪɫ/
-coghlan	/ˈkɑɡɫən/
-cogitate	/ˈkɑdʒɪˌteɪt/
-cogley	/ˈkɑɡɫi/
-cognac	/ˈkɑnˌjæk/, /ˈkoʊnˌjæk/
-cognex	/ˈkɑɡnɛks/
 cognitive	/ˈkɑɡnɪtɪv/
 cognizance	/ˈkɑɡnəzəns/
 cognizant	/ˈkɑɡnəzənt/
-cogswell	/ˈkɑɡˌswɛɫ/
-cohea	/ˈkɑhiə/
-cohee	/ˈkɑhi/
-cohick	/ˈkɑhɪk/
-cohron	/ˈkɑɹən/
-cokley	/ˈkɑkɫi/
-colander	/ˈkɑɫəndɝ/
-colanders	/ˈkɑɫəndɝz/
-colbeck	/ˈkɑɫbɛk/
-colberg	/ˈkɑɫbɝɡ/
-coleson	/ˈkɑɫɪsən/, /ˈkoʊɫsən/
-coll	/ˈkɑɫ/
 collagen	/ˈkɑɫəɡən/
 collar	/ˈkɑɫɝ/
 collarbone	/ˈkɑɫɝˌboʊn/
@@ -1509,47 +443,15 @@ college's	/ˈkɑɫɪdʒɪz/
 colleges	/ˈkɑɫɪdʒɪz/
 colleges'	/ˈkɑɫɪdʒɪz/
 collegeville	/ˈkɑɫədʒvɪɫ/
-collen	/ˈkɑɫən/
 collender	/ˈkɑɫəndɝ/
-coller	/ˈkɑɫɝ/
-colleran	/ˈkɑɫɝæn/
-collet	/ˈkɑɫɪt/
-collett	/ˈkɑɫɪt/
-colley	/ˈkɑɫi/
-collick	/ˈkɑɫɪk/
-collie	/ˈkɑɫi/
 collier	/ˈkɑɫjɝ/
 collier's	/ˈkɑɫjɝz/
 colliers	/ˈkɑɫjɝz/
 collies	/ˈkɑɫiz/
-colligan	/ˈkɑɫɪɡæn/
-collin	/ˈkɑɫɪn/
-colling	/ˈkɑɫɪŋ/
-collinge	/ˈkɑɫɪndʒ/
-collings	/ˈkɑɫɪŋz/
-collingwood	/ˈkɑɫɪŋˌwʊd/
 collins	/ˈkɑɫɪnz/
 collins'	/ˈkɑɫɪnz/
 collins's	/ˈkɑɫɪnz/, /ˈkɑɫɪnzɪz/
-collinson	/ˈkɑɫɪnsən/
-collis	/ˈkɑɫɪs/
 collison	/ˈkɑɫɪsən/
-collister	/ˈkɑɫɪstɝ/
-colliver	/ˈkɑɫɪvɝ/
-collman	/ˈkɑɫmən/
-colloid	/ˈkɑɫɔɪd/
-collom	/ˈkɑɫəm/
-collomb	/ˈkɑɫɑm/
-colloquy	/ˈkɑɫəkwi/
-collor	/ˈkɑɫɝ/, /ˈkɔɫɝ/
-collor's	/ˈkɑɫɝz/
-collum	/ˈkɑɫəm/
-collums	/ˈkɑɫəmz/
-collura	/ˈkɑɫʊɹə/
-collver	/ˈkɑɫvɝ/
-colly	/ˈkɑɫi/
-collyer	/ˈkɑɫiɝ/
-colomb	/ˈkɑɫəm/
 colonies	/ˈkɑɫəniz/
 colonist	/ˈkɑɫənɪst/
 colonists	/ˈkɑɫənɪsts/
@@ -1567,44 +469,25 @@ columned	/ˈkɑɫəmd/
 columnist	/ˈkɑɫəmnəst/
 columnists	/ˈkɑɫəmnəsts/
 columns	/ˈkɑɫəmz/
-colvard	/ˈkɑɫvɝd/
-colvert	/ˈkɑɫvɝt/
-colville	/ˈkɑɫvɪɫ/
 com	/ˈkɑm/
 com's	/ˈkɑmz/
-comair	/ˈkɑˈmɛɹ/
 combat	/ˈkɑmbæt/, /kəmˈbæt/
-combee	/ˈkɑmˌbi/
-combine	/ˈkɑmbaɪn/, /kəmˈbaɪn/
+<!-- combine	/ˈkɑmbaɪn/, /kəmˈbaɪn/ -->
 combo	/ˈkɑmˌboʊ/
-comby	/ˈkɑmbi/
 comcast	/ˈkɑmˌkæst/
 comcast's	/ˈkɑmˌkæsts/
-comdata	/ˈkɑmˌdædə/, /ˈkɑmˌdeɪdə/
-comden	/ˈkɑmdɪn/
-comdex	/ˈkɑmdəks/
-comecon	/ˈkɑməˌkɑn/
 comedies	/ˈkɑmədiz/
 comedy	/ˈkɑmədi/
 comedy's	/ˈkɑmədiz/
-comegys	/ˈkɑmɪdʒiz/
 comet	/ˈkɑmət/
 comet's	/ˈkɑməts/
 cometary	/ˈkɑməˌtɛɹi/
 comets	/ˈkɑməts/
-comex	/ˈkɑˌmɛks/
-comex's	/ˈkɑˌmɛksɪz/
-comfed	/ˈkɑmˌfɛd/
-comfinance	/ˈkɑmfɪnəns/
 comic	/ˈkɑmɪk/
 comical	/ˈkɑmɪkəɫ/
 comically	/ˈkɑmɪkəɫi/, /ˈkɑmɪkɫi/
 comics	/ˈkɑmɪks/
-comley	/ˈkɑmɫi/
-comly	/ˈkɑmɫi/
-comm	/ˈkɑm/
 comma	/ˈkɑmə/
-commack	/ˈkɑmək/
 commas	/ˈkɑməz/
 comment	/ˈkɑmɛnt/
 commentaries	/ˈkɑmənˌtɛɹiz/
@@ -1619,12 +502,8 @@ commenting	/ˈkɑmɛntɪŋ/
 comments	/ˈkɑmɛnts/
 commerce	/ˈkɑmɝs/
 commerce's	/ˈkɑmɝsɪz/
-commerford	/ˈkɑmɝfɝd/
-commerzbank	/ˈkɑmɝzˌbæŋk/
-commerzbank's	/ˈkɑmɝzˈbæŋks/
 commie	/ˈkɑmi/
 commies	/ˈkɑmiz/
-commins	/ˈkɑmɪnz/
 commissar	/ˈkɑməˌsɑɹ/
 commissaries	/ˈkɑməˌsɛɹiz/
 commissars	/ˈkɑmɪsɑz/
@@ -1655,8 +534,6 @@ compaq	/ˈkɑmˌpæk/
 compaq's	/ˈkɑmˌpæks/
 comparable	/ˈkɑmpɝəbəɫ/, /kəmˈpɛɹəbəɫ/, /kəmpɹəbəɫ/
 comparably	/ˈkɑmpɝəbɫi/, /ˈkɑmpɹəbɫi/
-compas	/ˈkɑmpəs/
-compean	/ˈkɑmpən/
 compensate	/ˈkɑmpənˌseɪt/
 compensated	/ˈkɑmpənˌseɪtəd/
 compensates	/ˈkɑmpənˌseɪts/
@@ -1666,8 +543,7 @@ competencies	/ˈkɑmpətɪnsiz/
 competency	/ˈkɑmpətɪnsi/
 competent	/ˈkɑmpətɪnt/
 competently	/ˈkɑmpətɪntɫi/
-compher	/ˈkɑmfɝ/
-complainers	/ˈkɑmˌpɫeɪnɝz/
+<!-- complainers	/ˈkɑmˌpɫeɪnɝz/ -->
 complement	/ˈkɑmpɫəmənt/
 complemented	/ˈkɑmpɫəˌmɛntɪd/
 complementing	/ˈkɑmpɫəˌmɛntɪŋ/
@@ -1682,104 +558,51 @@ compliment	/ˈkɑmpɫəmɛnt/
 complimented	/ˈkɑmpɫəˌmɛntɪd/
 complimenting	/ˈkɑmpɫəˌmɛntɪŋ/
 compliments	/ˈkɑmpɫəmɛnts/
-compo	/ˈkɑmˌpoʊ/
 compost	/ˈkɑmpoʊst/
 composting	/ˈkɑmˌpoʊstɪŋ/
 composts	/ˈkɑmpoʊsts/
-compote	/ˈkɑmpoʊt/
 compound	/ˈkɑmpaʊnd/, /kəmˈpaʊnd/
 compounds	/ˈkɑmpaʊndz/, /kəmˈpaʊndz/
-compress	/ˈkɑmpɹɛs/, /kəmˈpɹɛs/
-compresses	/ˈkɑmpɹɛsəz/, /kəmˈpɹɛsəz/, /kəmˈpɹɛsɪz/
-comprint	/ˈkɑmˌpɹɪnt/
+<!-- compress	/ˈkɑmpɹɛs/, /kəmˈpɹɛs/ -->
+<!-- compresses	/ˈkɑmpɹɛsəz/, /kəmˈpɹɛsəz/, /kəmˈpɹɛsɪz/ -->
 compromise	/ˈkɑmpɹəˌmaɪz/
 compromised	/ˈkɑmpɹəˌmaɪzd/
 compromiser	/ˈkɑmpɹəˌmaɪzɝ/
 compromises	/ˈkɑmpɹəˌmaɪzɪz/
 compromising	/ˈkɑmpɹəˌmaɪzɪŋ/
-compston	/ˈkɑmpstən/
-comptek	/ˈkɑmpˌtɛk/
 compton	/ˈkɑmptən/
 compton's	/ˈkɑmptənz/
 comptroller	/ˈkɑmˌtɹoʊɫɝ/, /kəmˈtɹoʊɫɝ/
 comptroller's	/ˈkɑmˌtɹoʊɫɝz/, /kəmˈtɹoʊɫɝz/
-compu	/ˈkɑmpju/
-compuadd	/ˈkɑmpjuˌæd/
-compuchem	/ˈkɑmpjuˌkɛm/
-compudyne	/ˈkɑmpjuˌdaɪn/
-compufund	/ˈkɑmpjuˌfənd/
-compumat	/ˈkɑmpjuˌmæt/
-compus	/ˈkɑmpjuz/
-compusa	/ˈkɑmˈpjuˈɛˈseɪ/
-compusa's	/ˈkɑmˈpjuˈɛˈseɪz/
-compuserve	/ˈkɑmpjusɝv/
-compuserve's	/ˈkɑmpjusɝvz/
-computalog	/ˈkɑmpjuˌtæɫɔɡ/
-computrac	/ˈkɑmpjuˌtɹæk/
-compuware	/ˈkɑmpjuˌwɛɹ/
 comrade	/ˈkɑmˌɹæd/
 comrades	/ˈkɑmˌɹædz/
-comrie	/ˈkɑmɝi/
-coms	/ˈkɑmz/
-comsat	/ˈkɑmsæt/
-comsat's	/ˈkɑmsæts/
-comstock	/ˈkɑmˌstɑk/
-comtrex	/ˈkɑmˌtɹɛks/
-con	/ˈkɑn/
-conahan	/ˈkɑnəhæn/
-conair	/ˈkɑˌnɛɹ/
-conard	/ˈkɑnɝd/
-conatser	/ˈkɑnətsɝ/
-conaty	/ˈkɑnəti/
-conaway	/ˈkɑnəweɪ/
-conboy	/ˈkɑnbɔɪ/
-conca	/ˈkɑŋkə/
 concave	/ˈkɑnkeɪv/, /kɑnˈkeɪv/
 concentrate	/ˈkɑnsənˌtɹeɪt/
 concentrated	/ˈkɑnsənˌtɹeɪtɪd/
 concentrates	/ˈkɑnsənˌtɹeɪts/
 concentrating	/ˈkɑnsənˌtɹeɪtɪŋ/
-concept	/ˈkɑnsɛpt/
 concepts	/ˈkɑnsɛps/, /ˈkɑnsɛpts/
 concert	/ˈkɑnsɝt/, /kənˈsɝt/
 concertmaster	/ˈkɑnsɝtˌmæstɝ/
 concerts	/ˈkɑnsɝts/, /kənˈsɝts/
 conch	/ˈkɑntʃ/, /ˈkɑŋk/
-concha	/ˈkɑntʃə/
 conchoid	/ˈkɑntʃɔɪd/
-conclave	/ˈkɑnˌkɫeɪv/
 concord	/ˈkɑnˌkɔɹd/, /ˈkɑnkɝd/
 concord's	/ˈkɑnˌkɔɹdz/, /ˈkɑnkɝdz/
-concorde	/ˈkɑnˌkɔɹd/
 concourse	/ˈkɑnˌkɔɹs/
 concourses	/ˈkɑnˌkɔɹsɪz/
 concrete	/ˈkɑnkɹit/, /kənˈkɹit/
 concretely	/ˈkɑnˌkɹitɫi/
 concubine	/ˈkɑnkjəˌbaɪn/
 concubines	/ˈkɑnkjəˌbaɪnz/
-conde	/ˈkɑnd/
 condensate	/ˈkɑndənˌseɪt/
 condensates	/ˈkɑndənˌseɪts/
-conder	/ˈkɑndɝ/
-condie	/ˈkɑndi/
 condiment	/ˈkɑndəmənt/
 condiments	/ˈkɑndəmənts/
-condit	/ˈkɑndɪt/
-conditt	/ˈkɑndɪt/
 condo	/ˈkɑndoʊ/
 condom	/ˈkɑndəm/
 condoms	/ˈkɑndəmz/
-condon	/ˈkɑndən/
-condor	/ˈkɑndɝ/
-condors	/ˈkɑndɝz/
-condos	/ˈkɑndoʊz/
-condra	/ˈkɑndɹə/
-condray	/ˈkɑndɹeɪ/
-condren	/ˈkɑndɝən/
-condrey	/ˈkɑndɹi/
-condron	/ˈkɑndɹən/
-condry	/ˈkɑndɝi/
-conduct	/ˈkɑndəkt/, /kɑnˈdəkt/
+<!-- conduct	/ˈkɑndəkt/, /kɑnˈdəkt/ -->
 conduit	/ˈkɑnduɪt/, /ˈkɑndwɪt/, /ˈkɑndʒuɪt/
 conduits	/ˈkɑnduəts/, /ˈkɑndwəts/
 confair	/ˈkɑnˌfɛɹ/
@@ -1802,11 +625,7 @@ confiscating	/ˈkɑnfəˌskeɪtɪŋ/
 conflict	/ˈkɑnfɫɪkt/, /kənˈfɫɪkt/
 conflicts	/ˈkɑnfɫɪks/, /ˈkɑnfɫɪkts/, /kənˈfɫɪks/, /kənˈfɫɪkts/
 confluence	/ˈkɑnfɫuəns/
-confound	/ˈkɑnˌfaʊnd/, /kɑnˈfaʊnd/, /kənˈfaʊnd/
-confrere	/ˈkɑnfɹɛɹ/
-confreres	/ˈkɑnfɹɛɹz/
-congdon	/ˈkɑŋdən/
-congleton	/ˈkɑŋɡəɫtɑn/
+<!-- confound	/ˈkɑnˌfaʊnd/, /kɑnˈfaʊnd/, /kənˈfaʊnd/ -->
 congo	/ˈkɑŋɡoʊ/
 congo's	/ˈkɑŋɡoʊz/
 congregant	/ˈkɑŋɡɹəɡənt/
@@ -1826,19 +645,16 @@ congresspersons	/ˈkɑŋɡɹəˌspɝsənz/
 congresswoman	/ˈkɑŋɡɹəˌswʊmən/
 congresswoman's	/ˈkɑŋɡɹəˌswʊmənz/
 congresswomen	/ˈkɑŋɡɹəˌswɪmɪn/
-congrove	/ˈkɑŋɡɹəv/
 conic	/ˈkɑnɪk/, /ˈkoʊnɪk/
 conical	/ˈkɑnɪkəɫ/, /ˈkoʊnɪkəɫ/
 conics	/ˈkɑnɪks/, /ˈkoʊnɪks/
 conifer	/ˈkɑnəfɝ/
 conifer's	/ˈkɑnəfɝz/
 conifers	/ˈkɑnəfɝz/
-coniston	/ˈkɑnəstən/
 conjugal	/ˈkɑndʒəɡəɫ/
 conjugate	/ˈkɑndʒəˌɡeɪt/, /ˌkɑndʒəˈɡeɪt/
 conjugated	/ˈkɑndʒəˌɡeɪtɪd/, /ˌkɑndʒəˈɡeɪtɪd/
 conjugates	/ˈkɑndʒəˌɡeɪts/, /ˌkɑndʒəˈɡeɪts/
-conjul	/ˈkɑndʒəɫ/
 conjure	/ˈkɑndʒɝ/
 conjured	/ˈkɑndʒɝd/
 conjurer	/ˈkɑndʒəˌɹəɹ/
@@ -1846,112 +662,27 @@ conjures	/ˈkɑndʒɝz/
 conjuring	/ˈkɑndʒɝɪŋ/
 conjuror	/ˈkɑndʒɝɝ/
 conk	/ˈkɑŋk/
-conkel	/ˈkɑŋkəɫ/
-conkey	/ˈkɑnki/
-conkin	/ˈkɑŋkɪn/
-conkle	/ˈkɑŋkəɫ/
-conklin	/ˈkɑŋkɫɪn/
-conkling	/ˈkɑŋkɫɪŋ/
-conkright	/ˈkɑŋˌkɹaɪt/
-conlan	/ˈkɑnɫən/
-conlee	/ˈkɑnɫi/
-conley	/ˈkɑnɫi/
-conlin	/ˈkɑnɫɪn/
-conlon	/ˈkɑnɫən/
-conlow	/ˈkɑnɫoʊ/
-conly	/ˈkɑnɫi/
-conn	/ˈkɑn/
-conn.	/ˈkɑn/, /kəˈnɛtəkət/
-connally	/ˈkɑnəɫi/
-connally's	/ˈkɑnəɫiz/
-connan	/ˈkɑnən/
-connaught	/ˈkɑnɔt/
-connaught's	/ˈkɑnɔts/
-connaughton	/ˈkɑnɔtɑn/
-connaway	/ˈkɑnəˌweɪ/
-conned	/ˈkɑnd/
-connell	/ˈkɑnəɫ/
-connelley	/ˈkɑnɪɫi/
-connelly	/ˈkɑnəɫi/
-connelly's	/ˈkɑnəɫiz/
-connely	/ˈkɑnɫi/
-conner	/ˈkɑnɝ/
-conner's	/ˈkɑnɝz/
-connerly	/ˈkɑnɝɫi/
-conners	/ˈkɑnɝz/
-connery	/ˈkɑnɝi/
-connery's	/ˈkɑnɝiz/
-connett	/ˈkɑnɪt/
-connick	/ˈkɑnɪk/
-conniff	/ˈkɑnɪf/
-conning	/ˈkɑnɪŋ/
-connole	/ˈkɑnəɫ/
-connon	/ˈkɑnən/
-connor	/ˈkɑnɝ/
-connors	/ˈkɑnɝz/
-conny	/ˈkɑni/
-conoco	/ˈkɑnəkoʊ/, /kəˈnɑkoʊ/
-conoco's	/ˈkɑnəkoʊz/
-conolly	/ˈkɑnoʊɫi/
-conoly	/ˈkɑnoʊɫi/
-conover	/ˈkɑnəvɝ/
-conquer	/ˈkɑŋkɝ/
-conquered	/ˈkɑŋkɝd/
-conquering	/ˈkɑŋkɝɪŋ/
-conqueror	/ˈkɑŋkɝɝ/
-conqueror's	/ˈkɑŋkɝɝz/
-conquerors	/ˈkɑŋkɝɝz/
-conquers	/ˈkɑŋkɝz/
-conquest	/ˈkɑŋkwɛst/
-conquest's	/ˈkɑŋkwɛsts/
-conquests	/ˈkɑnˌkwɛsts/
-conrac	/ˈkɑnɹæk/
-conrad	/ˈkɑnɹæd/
-conrad's	/ˈkɑnɹædz/
-conradine	/ˈkɑnɹəˌdaɪn/
-conrads	/ˈkɑnɹædz/
-conradt	/ˈkɑnɹæt/
-conrail	/ˈkɑnˌɹeɪɫ/
-conrail's	/ˈkɑnˌɹeɪɫz/
-conran	/ˈkɑnɹən/
-conrath	/ˈkɑnɹəθ/
-conrey	/ˈkɑnɹi/
-conroe	/ˈkɑnɹoʊ/
-conrow	/ˈkɑnɹoʊ/
-conry	/ˈkɑnɹi/
 cons	/ˈkɑnz/
 conscience	/ˈkɑnʃəns/
 consciences	/ˈkɑntʃɪnsɪz/
 conscious	/ˈkɑnʃəs/
 consciously	/ˈkɑnʃəsɫi/
 consciousness	/ˈkɑnʃəsnəs/
-conscript	/ˈkɑnsˌkɹɪpt/, /kənsˈkɹɪpt/
-conscripts	/ˈkɑnskɹɪpts/
 consecrate	/ˈkɑnsəˌkɹeɪt/
 consecrated	/ˈkɑnsəˌkɹeɪtɪd/
 consequence	/ˈkɑnsəkwəns/
 consequences	/ˈkɑnsəˌkwɛnsəz/
 consequent	/ˈkɑnsəkwənt/
 consequently	/ˈkɑnsəˌkwɛntɫi/, /ˈkɑnsəkwəntɫi/
-conser	/ˈkɑnsɝ/
-considine	/ˈkɑnsɪˌdaɪn/
-consis	/ˈkɑnsɪs/
-consob	/ˈkɑnsɑb/
-consol	/ˈkɑnsɑɫ/
-consol's	/ˈkɑnsɑɫz/
 console	/ˈkɑnsoʊɫ/, /kənˈsoʊɫ/
 consonant	/ˈkɑnsənənt/
 consonants	/ˈkɑnsənənts/
-constable	/ˈkɑnstəbəɫ/
-constables	/ˈkɑnstəbəɫz/
-constance	/ˈkɑnstəns/
 constancy	/ˈkɑnstənsi/
 constant	/ˈkɑnstənt/
 constant's	/ˈkɑnstənts/
 constantine	/ˈkɑnstənˌtaɪn/, /ˈkɑnstənˌtin/
 constantly	/ˈkɑnstəntɫi/
 constants	/ˈkɑnstənts/
-constar	/ˈkɑnˌstɑɹ/
 constipate	/ˈkɑnstəˌpeɪt/
 constipated	/ˈkɑnstəˌpeɪtəd/
 constipates	/ˈkɑnstəˌpeɪts/
@@ -1959,10 +690,8 @@ constitute	/ˈkɑnstəˌtut/
 constituted	/ˈkɑnstəˌtutəd/
 constitutes	/ˈkɑnstəˌtuts/
 constituting	/ˈkɑnstəˌtutɪŋ/
-construct	/ˈkɑnstɹəkt/, /kənˈstɹəkt/
-constructs	/ˈkɑnstɹəkts/, /kənˈstɹəkts/
-consul	/ˈkɑnsəɫ/
-consular	/ˈkɑnsəɫɝ/
+<!-- construct	/ˈkɑnstɹəkt/, /kənˈstɹəkt/ -->
+<!-- constructs	/ˈkɑnstɹəkts/, /kənˈstɹəkts/ -->
 consulate	/ˈkɑnsəɫət/
 consulates	/ˈkɑnsəɫəts/
 consuls	/ˈkɑnsəɫz/
@@ -1971,14 +700,11 @@ consummate	/ˈkɑnsəˌmeɪt/, /ˈkɑnsəmət/
 consummated	/ˈkɑnsəˌmeɪtəd/
 consummates	/ˈkɑnsəˌmeɪts/
 consummating	/ˈkɑnsəˌmeɪtɪŋ/
-contac	/ˈkɑntæk/
 contact	/ˈkɑnˌtækt/
 contacted	/ˈkɑnˌtæktɪd/
 contacting	/ˈkɑnˌtæktɪŋ/
 contactless	/ˈkɑntæktˌɫɛs/
 contacts	/ˈkɑnˌtæks/, /ˈkɑnˌtækts/
-contant	/ˈkɑntənt/
-contel	/ˈkɑnˌtɛɫ/
 contemplate	/ˈkɑntəmˌpɫeɪt/
 contemplated	/ˈkɑntəmˌpɫeɪtɪd/
 contemplates	/ˈkɑntəmˌpɫeɪts/
@@ -1990,18 +716,13 @@ contest's	/ˈkɑntɛsts/
 contests	/ˈkɑntɛs/, /ˈkɑntɛsts/, /kənˈtɛs/, /kənˈtɛsts/
 context	/ˈkɑntɛkst/
 contexts	/ˈkɑnˌtɛksts/
-conti	/ˈkɑnti/
-contibel	/ˈkɑntɪbəɫ/
 continent	/ˈkɑntənənt/
 continent's	/ˈkɑntənənts/
 continents	/ˈkɑntənənts/
-contos	/ˈkɑntoʊz/
 contour	/ˈkɑnˌtʊɹ/
 contoured	/ˈkɑnˌtʊɹd/
 contours	/ˈkɑnˌtʊɹz/
-contra	/ˈkɑntɹə/
 contraband	/ˈkɑntɹəˌbænd/
-contrabassoon	/ˈkɑntɹəbæˈsun/
 contract	/ˈkɑnˌtɹækt/, /kənˈtɹækt/
 contract's	/ˈkɑnˌtɹækts/
 contracted	/ˈkɑntɹæktəd/
@@ -2010,65 +731,32 @@ contractor	/ˈkɑnˌtɹæktɝ/
 contractor's	/ˈkɑnˌtɹæktɝz/
 contractors	/ˈkɑnˌtɹæktɝz/
 contracts	/ˈkɑnˌtɹækts/, /kənˈtɹækts/
-contran	/ˈkɑnˌtɹæn/
 contrariness	/ˈkɑntɹɛɹinəs/
 contrary	/ˈkɑntɹɛɹi/, /kənˈtɹɛɹi/
-contras	/ˈkɑntɹəz/, /ˈkɔntɹəz/
-contras'	/ˈkɑntɹəz/
 contrast	/ˈkɑntɹæst/, /kənˈtɹæst/
 contrasts	/ˈkɑntɹæs/, /ˈkɑntɹæsts/, /kənˈtɹæs/, /kənˈtɹæsts/
-contravene	/ˈkɑntɹəˌvin/
-contretemps	/ˈkɑntɹəˌtɛmps/
-controls'	/ˈkɑntɹɑɫz/
 controversies	/ˈkɑntɹəˌvɝsiz/
 controversy	/ˈkɑntɹəˌvɝsi/
-convent	/ˈkɑnˌvɛnt/, /ˈkɑnvənt/
-convents	/ˈkɑnˌvɛnts/, /ˈkɑnvənts/
-converse	/ˈkɑnvɝs/, /kənˈvɝs/
-conversely	/ˈkɑnvɝsɫi/
-converses	/ˈkɑnvɝsəz/, /kənˈvɝsəz/
-convert	/ˈkɑnvɝt/, /kənˈvɝt/
-converts	/ˈkɑnvɝts/, /kənˈvɝts/
-convery	/ˈkɑnvɝi/
-convex	/ˈkɑnˌvɛks/, /kənˈvɛks/
-convict	/ˈkɑnvɪkt/, /kənˈvɪkt/
-convict's	/ˈkɑnvɪkts/
-convicts	/ˈkɑnvɪkts/, /kənˈvɪkts/
-conville	/ˈkɑnvɪɫ/
+<!-- converse	/ˈkɑnvɝs/, /kənˈvɝs/ -->
+<!-- conversely	/ˈkɑnvɝsɫi/ -->
+<!-- converses	/ˈkɑnvɝsəz/, /kənˈvɝsəz/ -->
+<!-- convert	/ˈkɑnvɝt/, /kənˈvɝt/ -->
+<!-- converts	/ˈkɑnvɝts/, /kənˈvɝts/ -->
+<!-- convex	/ˈkɑnˌvɛks/, /kənˈvɛks/ -->
+<!-- convict	/ˈkɑnvɪkt/, /kənˈvɪkt/ -->
+<!-- convict's	/ˈkɑnvɪkts/ -->
+<!-- convicts	/ˈkɑnvɪkts/, /kənˈvɪkts/ -->
 convolute	/ˈkɑnvəˌɫut/
 convoluted	/ˈkɑnvəˌɫutəd/
 convolution	/ˈkɑnvəˌɫuʃən/
 convoy	/ˈkɑnˌvɔɪ/
 convoys	/ˈkɑnˌvɔɪz/
-conway	/ˈkɑnˌweɪ/
-conwell	/ˈkɑnˌwɛɫ/
-conyer	/ˈkɑnjɝ/
-conyers	/ˈkɑnjɝz/
 cop	/ˈkɑp/
-copco	/ˈkɑpkoʊ/
-copelan	/ˈkɑpɪɫæn/
-copelin	/ˈkɑpɪɫɪn/
-copher	/ˈkɑfɝ/
 copied	/ˈkɑpid/
 copier	/ˈkɑpiɝ/
 copiers	/ˈkɑpiɝz/
 copies	/ˈkɑpiz/
-coplan	/ˈkɑpɫən/
-copland	/ˈkɑpɫənd/
-coplen	/ˈkɑpəɫən/
-copley	/ˈkɑpɫi/
-copley's	/ˈkɑpɫiz/
-copleys	/ˈkɑpɫiz/
-coplin	/ˈkɑpɫɪn/
-copp	/ˈkɑp/
-coppage	/ˈkɑpɪdʒ/
-copped	/ˈkɑpt/
-coppedge	/ˈkɑpɪdʒ/
-coppee	/ˈkɑˈpi/
-coppel	/ˈkɑpəɫ/
-coppens	/ˈkɑpənz/
 copper	/ˈkɑpɝ/
-copper-green	/ˈkɑpɝˌɡɹin/
 copper's	/ˈkɑpɝz/
 copperfield	/ˈkɑpɝˌfiɫd/
 copperfield's	/ˈkɑpɝˌfiɫdz/
@@ -2077,28 +765,13 @@ copperfields'	/ˈkɑpɝˌfiɫdz/
 copperhead	/ˈkɑpɝˌhɛd/
 copperheads	/ˈkɑpɝˌhɛdz/
 copperman	/ˈkɑpɝmən/
-coppers	/ˈkɑpɝz/
 coppersmith	/ˈkɑpɝsˌmɪθ/
-copperweld	/ˈkɑpɝˌwɛɫd/
-coppery	/ˈkɑpɝi/
-coppess	/ˈkɑpəs/
-coppin	/ˈkɑpɪn/
-copping	/ˈkɑpɪŋ/
-coppinger	/ˈkɑpɪŋɝ/
-coppins	/ˈkɑpɪnz/
-copple	/ˈkɑpəɫ/
-coppock	/ˈkɑpək/
-copps	/ˈkɑps/
 cops	/ˈkɑps/
-copsey	/ˈkɑpsi/
-coptic	/ˈkɑptɪk/
 copulate	/ˈkɑpjəˌɫeɪt/
 copy	/ˈkɑpi/
 copycat	/ˈkɑpiˌkæt/
 copycats	/ˈkɑpiˌkæts/
 copycatting	/ˈkɑpiˌkætɪŋ/
-copycode	/ˈkɑpiˌkoʊd/
-copycodes	/ˈkɑpiˌkoʊdz/
 copying	/ˈkɑpiɪŋ/
 copyreader	/ˈkɑpiˌɹidɝ/
 copyreaders	/ˈkɑpiˌɹidɝz/
@@ -2106,463 +779,66 @@ copyright	/ˈkɑpiˌɹaɪt/
 copyrightable	/ˈkɑpiˌɹaɪtəbəɫ/
 copyrighted	/ˈkɑpiˌɹaɪtɪd/
 copyrights	/ˈkɑpiˌɹaɪts/
-copytele	/ˈkɑpiˌtɛɫə/
 copywrite	/ˈkɑpiˌɹaɪt/
 copywrited	/ˈkɑpiˌɹaɪtɪd/
 copywriter	/ˈkɑpiˌɹaɪtɝ/
 copywriters	/ˈkɑpiˌɹaɪtɝz/
-cosgriff	/ˈkɑsɡɹɪf/
-cosgrove	/ˈkɑsɡɹəv/
-cosic	/ˈkɑsɪk/, /ˈkoʊsɪk/, /ˈkoʊzɪk/
-coslett	/ˈkɑsɫɪt/
-cosman	/ˈkɑsmən/
 cosmic	/ˈkɑzmɪk/
 cosmo's	/ˈkɑzmoʊz/
 cosmos	/ˈkɑzmoʊs/
-cosner	/ˈkɑsnɝ/
-cosper	/ˈkɑspɝ/
-cossacks	/ˈkɑsæks/
-cossairt	/ˈkɑsɝt/
-cossat	/ˈkɑsæt/
-cosset	/ˈkɑsət/
-cossey	/ˈkɑsi/
-cossin	/ˈkɑsɪn/
 cost	/ˈkɑst/, /ˈkɔst/
-costales	/ˈkɑstəɫz/
 costed	/ˈkɑstɪd/
-costigan	/ˈkɑstɪɡæn/
-costilow	/ˈkɑstɪɫoʊ/
-costin	/ˈkɑstɪn/
-costley	/ˈkɑstɫi/
 costly	/ˈkɑstɫi/, /ˈkɔstɫi/
 costner	/ˈkɑstnɝ/
 costner's	/ˈkɑstnɝz/
-coston	/ˈkɑstən/
-costra	/ˈkɑstɹə/
 costs	/ˈkɑsts/, /ˈkɔsts/
 costume	/ˈkɑstum/, /kɑˈstum/
 costumer	/ˈkɑstumɝ/
 costumers	/ˈkɑstumɝz/
 costumes	/ˈkɑstumz/, /kɑˈstumz/
-cot	/ˈkɑt/
-cotham	/ˈkɑθəm/
-cothran	/ˈkɑθɹən/
-cothren	/ˈkɑθɝən/
-cothron	/ˈkɑθɹən/
-cotler	/ˈkɑtɫɝ/, /ˈkoʊtəɫɝ/
-cotman	/ˈkɑtmən/
-cotner	/ˈkɑtnɝ/
-cotney	/ˈkɑtni/
-cotret	/ˈkɑtɹət/
 cots	/ˈkɑts/
-cott	/ˈkɑt/
-cotta	/ˈkɑtə/
 cottage	/ˈkɑtədʒ/, /ˈkɑtɪdʒ/
 cottages	/ˈkɑtɪdʒɪz/
-cottam	/ˈkɑtəm/
-cotten	/ˈkɑtən/
-cotter	/ˈkɑtɝ/
-cotterill	/ˈkɑtɝɪɫ/
-cotterman	/ˈkɑtɝmən/
-cottier	/ˈkɑtiɝ/
-cottingham	/ˈkɑtɪŋˌhæm/
-cottle	/ˈkɑtəɫ/
-cottman	/ˈkɑtmən/
 cottom	/ˈkɑtəm/
 cotton	/ˈkɑtən/, /ˈkɔtən/
 cotton's	/ˈkɑtənz/
 cottoned	/ˈkɑtənd/
 cottonmouth	/ˈkɑtənˌmaʊθ/
-cottons	/ˈkɑtənz/
 cottonseed	/ˈkɑtənˌsid/
 cottonwood	/ˈkɑtənˌwʊd/
 cottonwoods	/ˈkɑtənˌwʊdz/
-cottrill	/ˈkɑtɹəɫ/
-cotty	/ˈkɑti/
 cough	/ˈkɑf/, /ˈkɔf/
 coughing	/ˈkɑfɪŋ/, /ˈkɔfɪŋ/
-covell	/ˈkɑvəɫ/
-coveney	/ˈkɑvɪni/
-covill	/ˈkɑvəɫ/
-cowell	/ˈkɑwɛɫ/
-cowher	/ˈkɑwɝ/
-cox	/ˈkɑks/
-cox's	/ˈkɑksɪz/
-coxe	/ˈkɑks/
-coxen	/ˈkɑksən/
-coxon	/ˈkɑksən/
-coxwell	/ˈkɑkˌswɛɫ/
-coz	/ˈkɑz/
-cozart	/ˈkɑzɑɹt/
-cozby	/ˈkɑzbi/
-cozzens	/ˈkɑzənz/
-current	/ˈkɑɹənt/, /ˈkɝənt/, /ˈkɝnt/
-ka	/ˈkɑ/
-kaas	/ˈkɑs/
-kaatz	/ˈkɑts/
-kabi	/ˈkæbi/, /ˈkɑbi/
-kabul	/ˈkɑbʊɫ/
-kaczmarczyk	/ˈkɑtʃmɝtʃɪk/
-kaczor	/ˈkɑtʃɝ/
-kadlec	/ˈkɑdɫɪk/
-kadow	/ˈkɑdoʊ/
-kafka	/ˈkɑfkə/
-kafka's	/ˈkɑfkəz/
-kafkaesque	/ˈkɑfkəˈɛsk/
-kah	/ˈkɑ/
-kahl	/ˈkɑɫ/
-kahle	/ˈkɑɫ/
-kahler	/ˈkɑɫɝ/
-kahley	/ˈkɑɫi/
-kahn	/ˈkɑn/
-kahn's	/ˈkɑnz/
-kahng	/ˈkɑŋ/
-kahr	/ˈkɑɹ/
-kahr's	/ˈkɑɹz/
-kahre	/ˈkɑɹ/, /ˈkɛɹ/
-kahrs	/ˈkɑɹz/
-kaji	/ˈkɑdʒi/
-kalas	/ˈkɑɫəz/
-kali	/ˈkɑˌɫi/
-kalisz	/ˈkɑɫɪʃ/
-kaltenbacher	/ˈkɑɫtənˌbɑkɝ/
-kama	/ˈkɑmə/
-kamel	/ˈkɑməɫ/
-kamen	/ˈkɑmɛn/, /ˈkeɪmɛn/
-kamens	/ˈkɑmɛnz/, /ˈkeɪmɛnz/
-kamin	/ˈkæˌmɪn/, /ˈkɑmin/, /ˈkeɪˌmɪn/
-kang	/ˈkæŋ/, /ˈkɑŋ/
-kannan	/ˈkɑnən/
-kano	/ˈkɑnoʊ/
-kanzi	/ˈkɑnzi/
-kaplowitz	/ˈkɑpɫəwɪts/
-karakos	/ˈkɑɹəˌkɔs/
-karas	/ˈkɑɹəz/
-karban	/ˈkɑɹbən/
-karber	/ˈkɑɹbɝ/
-karch	/ˈkɑɹk/
-karcher	/ˈkɑɹtʃɝ/
-karcz	/ˈkɑɹtʃ/
-kardashian	/ˈkɑdəˌʃeɪn/
-kardashian's	/ˈkɑdəˌʃeɪnz/
-kardell	/ˈkɑɹdəɫ/
-kardos	/ˈkɑɹdoʊz/
-karg	/ˈkɑɹɡ/
-karger	/ˈkɑɹɡɝ/
-karges	/ˈkɑɹdʒɪz/
-kargonaov	/ˈkɑɹɡəˌnɔv/
 karl	/ˈkɑɹɫ/
 karl's	/ˈkɑɹɫz/
-karla	/ˈkɑɹɫə/
-karle	/ˈkɑɹəɫ/
-karlen	/ˈkɑɹɫən/
-karlheinz	/ˈkɑɹɫˈhaɪnz/
-karlik	/ˈkɑɹɫɪk/
-karlin	/ˈkɑɹɫɪn/
-karline	/ˈkɑɹˌɫaɪn/
-karlow	/ˈkɑɹɫoʊ/
-karls	/ˈkɑɹɫz/
-karlsen	/ˈkɑɹɫsən/
-karlson	/ˈkɑɹɫsən/
-karlsruhe	/ˈkɑɹɫzˌɹu/
-karlsson	/ˈkɑɹɫsən/
-karma	/ˈkɑɹmə/
-karman	/ˈkɑɹmən/
-karn	/ˈkɑɹn/
-karnal	/ˈkɑɹnəɫ/
-karner	/ˈkɑɹnɝ/
-karnes	/ˈkɑɹnz/
-karney	/ˈkɑɹni/
-karnow	/ˈkɑɹnaʊ/, /ˈkɑɹnoʊ/
-karns	/ˈkɑɹnz/
-karnsund	/ˈkɑɹnsənd/
-karos	/ˈkɑɹoʊs/
-karow	/ˈkɑɹoʊ/
-karp	/ˈkɑɹp/
-karpel	/ˈkɑɹpəɫ/
-karpen	/ˈkɑɹpən/
-karpf	/ˈkɑɹpf/
-karpov	/ˈkɑɹˌpɑv/
-karpowicz	/ˈkɑɹpəvɪtʃ/
-karr	/ˈkɑɹ/
-karraker	/ˈkɑɹəkɝ/
-karrer	/ˈkɑɹɝ/
-karsh	/ˈkɑɹʃ/
-karshner	/ˈkɑɹʃnɝ/
-karson	/ˈkɑɹsən/
-karst	/ˈkɑɹst/
-karstadt	/ˈkɑɹˌstæt/
 karsten	/ˈkɑɹstən/
-karstens	/ˈkɑɹstənz/
-karstetter	/ˈkɑɹstɪtɝ/
-kartchner	/ˈkɑɹtʃnɝ/
-karter	/ˈkɑɹtɝ/
-kartes	/ˈkɑɹts/
-karvonen	/ˈkɑɹvənən/
-kasha	/ˈkɑʃə/
-kasi	/ˈkɑzi/
-kasich	/ˈkɑsɪtʃ/
-kasich's	/ˈkɑsɪtʃɪz/
-kasick	/ˈkɑsɪk/
-kasik	/ˈkɑsɪk/
-kaska	/ˈkɑskə/
-kasprowicz	/ˈkɑspɹəvɪtʃ/
-kasprzak	/ˈkɑspɝzək/
-kasprzyk	/ˈkɑspɝzɪk/
-kasun	/ˈkɑsun/
-kasza	/ˈkɑʃə/
-katayan	/ˈkɑtəjɑn/
-katia	/ˈkɑtiə/
-katja	/ˈkɑtjə/
-katya	/ˈkɑtjə/
-kawa	/ˈkɑwə/
-kaya	/ˈkɑjə/
-kazda	/ˈkɑzdə/
-kazee	/ˈkɑzi/
-kazmierczak	/ˈkɑzmɪɹtʃæk/
-khaki	/ˈkæki/, /ˈkɑki/
-khalid	/ˈhɑɫɪd/, /ˈkɑɫɪd/
-khalid's	/ˈhɑɫɪdz/, /ˈkɑɫɪdz/
-khalsa	/ˈkɑɫsə/
 khan	/ˈkɑn/
 khan's	/ˈkɑnz/
-khanate	/ˈkɑneɪt/
-kharg	/ˈkɑɹɡ/
-khat	/ˈkɑt/
-kobren	/ˈkɑbɹən/
-kobrin	/ˈkɑbɹɪn/
-kobrin's	/ˈkɑbɹɪnz/
-kobs	/ˈkɑbz/
-kobza	/ˈkɑbzə/
-kochan	/ˈkɑkən/
-kochanek	/ˈkɑkənɪk/
-kochel	/ˈkɑkəɫ/
-kochendorfer	/ˈkɑkɪndɔɹfɝ/
-kochis	/ˈkɑkɪs/
-kochman	/ˈkɑkmən/
-kock	/ˈkɑk/
-kocsis	/ˈkɑksɪs/
-koeneman	/ˈkɑinmən/
-koffler	/ˈkɑfəɫɝ/, /ˈkɑfɫɝ/
-kofron	/ˈkɑfɹən/
-koglin	/ˈkɑɡɫɪn/
-kohn	/ˈkɑn/
-kohnke	/ˈkɑŋk/
-kok	/ˈkɑk/
-kokesh	/ˈkɑkɪʃ/
-kokusai	/ˈkɑkjuˌsaɪ/
-kolander	/ˈkɑɫəndɝ/
-kolbeck	/ˈkɑɫbɛk/
-kolich	/ˈkɑɫɪh/
-koll	/ˈkɑɫ/
-kollar	/ˈkɑɫɝ/
-kollasch	/ˈkɑɫəʃ/
-kollath	/ˈkɑɫəθ/
-kolle	/ˈkɑɫ/
-koller	/ˈkɑɫɝ/
-kolli	/ˈkɑɫi/
-kolling	/ˈkɑɫɪŋ/
-kollman	/ˈkɑɫmən/
-kollmann	/ˈkɑɫmən/
-kollmeyer	/ˈkɑɫmaɪɝ/
-kolman	/ˈkɑɫmən/
-kolokoff	/ˈkɑɫəˌkɔf/
-kolowich	/ˈkɑɫəwɪtʃ/
-kombat	/ˈkɑmbæt/
-komineft	/ˈkɑmɪnɛft/
-komisar	/ˈkɑmɪsɑɹ/, /kəˈmɪsɝ/
-kommer	/ˈkɑmɝ/
-komp	/ˈkɑmp/
-komsomol	/ˈkɑmsoʊməɫ/
-komsomol's	/ˈkɑmsoʊməɫz/
-kon	/ˈkɑn/
-konczal	/ˈkɑntʃəɫ/
-kondas	/ˈkɑndəz/
-kondo	/ˈkɑndoʊ/
-kondrat	/ˈkɑndɹət/
-konen	/ˈkɑnən/
-konger	/ˈkɑŋɡɝ/
-kongers	/ˈkɑŋɡɝz/
-konica	/ˈkɑnɪkə/
-konicek	/ˈkɑnɪˌtʃɛk/
-konig	/ˈkɑnɪɡ/
-konitzer	/ˈkɑnɪtzɝ/
-konkel	/ˈkɑŋkəɫ/
-konkle	/ˈkɑŋkəɫ/
-konkol	/ˈkɑŋkɔɫ/
-konner	/ˈkɑnɝ/
-konold	/ˈkɑnoʊɫd/
-konrad	/ˈkɑnɹəd/
-konrath	/ˈkɑnɹəθ/
-konstantin	/ˈkɑnstɪnˌtin/
-kontos	/ˈkɑntoʊz/
-kontra	/ˈkɑntɹə/
-kontras	/ˈkɑntɹəs/
-kontrollbank	/ˈkɑntɹəɫˌbæŋk/
-konz	/ˈkɑnz/
-konzen	/ˈkɑnzən/
-konzi	/ˈkɑnzi/
-konzi's	/ˈkɑnziz/
-kooyman	/ˈkɑɔɪmən/
-kopacz	/ˈkɑpətʃ/
-kopchev	/ˈkɑptʃəv/
-kopit	/ˈkɑpɪt/
-koplan	/ˈkɑpɫən/
-koplin	/ˈkɑpɫɪn/
-koplovitz	/ˈkɑpɫəvɪts/
-kopp	/ˈkɑp/
-koppe	/ˈkɑp/
-koppel	/ˈkɑpəɫ/
-koppel's	/ˈkɑpəɫz/
-koppell	/ˈkɑpəɫ/
-koppelman	/ˈkɑpəɫmən/
-koppen	/ˈkɑpən/
-koppenhaver	/ˈkɑpɪnhəvɝ/
-kopper	/ˈkɑpɝ/
-koppers	/ˈkɑpɝz/
-koppers'	/ˈkɑpɝz/
-koppes	/ˈkɑps/
-kopple	/ˈkɑpəɫ/
-kopplin	/ˈkɑpɫɪn/
-kopriva	/ˈkɑpɹɪvə/
-kops	/ˈkɑps/
-kopy	/ˈkɑpi/
-kos	/ˈkɑs/
-kosanke	/ˈkɑsəŋk/
-kosbie	/ˈkɑzbi/
-kosh	/ˈkɑʃ/
-koskey	/ˈkɑski/
-koskinen	/ˈkɑskɪnən/
-kosky	/ˈkɑski/
-koslow	/ˈkɑsɫoʊ/
-koslow's	/ˈkɑzˌɫoʊz/
-kosman	/ˈkɑsmən/
-kossow	/ˈkɑsoʊ/
-kossuth	/ˈkɑsəθ/
-kost	/ˈkɑst/
-kostal	/ˈkɑstəɫ/
-kostek	/ˈkɑstɛk/
-koster	/ˈkɑstɝ/
-kostic	/ˈkɑstɪk/
-kostka	/ˈkɑstkə/
-kostoff	/ˈkɑstɔf/
-kot	/ˈkɑt/
-kotch	/ˈkɑtʃ/
-koteles	/ˈkɑtɛɫɛz/
-koth	/ˈkɑθ/
-kothari	/ˈkɑθɝi/
-kotlarz	/ˈkɑtɫɝz/
-kotler	/ˈkɑtɫɝ/, /ˈkoʊtəɫɝ/
-kotlowitz	/ˈkɑtɫəwɪts/
-kott	/ˈkɑt/
-kotter	/ˈkɑtɝ/
-kottke	/ˈkɑtki/
-kottler	/ˈkɑtɫɝ/
-kottwitz	/ˈkɑtwɪts/
-kotz	/ˈkɑts/
-kotzebue	/ˈkɑtsəbˌju/
-kovacik	/ˈkɑvətʃɪk/
-kovack	/ˈkɑvək/
-kovalcik	/ˈkɑvəɫtʃɪk/
-kovatch	/ˈkɑvətʃ/
-kovich	/ˈkɑvɪtʃ/
-kowalke	/ˈkɑˌwɔk/
-kowalkowski	/ˈkɑwɔˌkɔfski/
-kowitz	/ˈkɑwɪts/
-kozberg	/ˈkɑzbɝɡ/
-koziel	/ˈkɑziɫ/
-koziol	/ˈkɑziɔɫ/
-kozlik	/ˈkɑzɫɪk/
-kozloff	/ˈkɑzɫɔf/
-kozlow	/ˈkɑzɫoʊ/
-kozuch	/ˈkɑzəh/
-kozyrev	/ˈkɑzɝˌɛv/
-kozyrev's	/ˈkɑzɝˌɛvz/
-qana	/ˈkɑnə/
-qantas	/ˈkæntəs/, /ˈkɑntəs/
-qawi	/ˈkɑwi/
-qom	/ˈkɑm/
-tkacz	/ˈkɑtʃ/
 
-cabela	/ˌkɑˈbɛɫə/
-cabela's	/ˌkɑˈbɛɫə/
-caldrello	/ˌkɑɫˈdɹɛɫoʊ/
-camaraderie	/ˌkɑmɝˈɑdɝi/
-camarena	/ˌkɑmɝˈeɪnə/, /kɑmɑˈɹɛnə/
-canterra	/ˌkɑnˈtɛɹə/
-caprese	/ˌkɑˈpɹeɪseɪ/
-cara'veras	/ˌkɑɹəˈvɛɹəz/
-caracara	/ˌkɑɹəˈkɑɹə/
 carbohydrate	/ˌkɑɹboʊˈhaɪˌdɹeɪt/, /ˌkɑɹboʊˈhaɪdɹət/
 carbohydrates	/ˌkɑɹboʊˈhaɪdɹeɪts/
-carbonell	/ˌkɑɹbəˈnɛɫ/
-carbonetto	/ˌkɑɹboʊˈnɛtoʊ/
-carboniferous	/ˌkɑɹbəˈnɪfɝəs/
-carborundum	/ˌkɑɹbɝˈəndəm/
-carburetion	/ˌkɑɹbjɝˈiʃən/
-carcinogenic	/ˌkɑɹsənoʊˈdʒɛnɪk/
-carcinoma	/ˌkɑɹsəˈnoʊmə/
-cardella	/ˌkɑɹˈdɛɫə/
-cardello	/ˌkɑɹˈdɛɫoʊ/
-cardillo	/ˌkɑɹˈdɪɫoʊ/
 cardiologist	/ˌkɑɹdiˈɑɫədʒɪst/
 cardiologists	/ˌkɑɹdiˈɑɫədʒɪsts/
 cardiology	/ˌkɑɹdiˈɑɫədʒi/
-cardiopulmonary	/ˌkɑɹdioʊˈpʊɫməˌnɛɹi/
-cardiovascular	/ˌkɑɹdioʊˈvæskjəɫɝ/
-cardizem	/ˌkɑɹdɪˈzɛm/
-carnicero	/ˌkɑɹnɪˈsɛɹoʊ/
-carrano	/ˌkɑˈɹɑnoʊ/
-carrara	/ˌkɑˈɹɑɹə/
-carrero	/ˌkɑˈɹɛɹoʊ/
-carrino	/ˌkɑˈɹinoʊ/
-carrubba	/ˌkɑˈɹubə/
-cartagena	/ˌkɑɹtəˈdʒinə/
-cartaya	/ˌkɑɹˈtaɪə/
-cartera	/ˌkɑɹˈtɛɹə/
-carteret's	/ˌkɑɹtɝˈɛts/
-carthaginian	/ˌkɑɹθəˈdʒɪniən/
-cartoneros	/ˌkɑɹˌtoʊˈnɛɹoʊs/
-cartrette	/ˌkɑɹˈtɹɛt/
-catalano	/ˌkɑtɑˈɫɑˌnoʊ/
-catalanotto	/ˌkɑtɑɫɑˈnoʊtoʊ/
 codification	/ˌkɑdəfəˈkeɪʃən/
 cogitation	/ˌkɑdʒɪˈteɪʃən/
-cognetics	/ˌkɑɡˈnɛtɪks/
-cognoscenti	/ˌkɑɡnɔˈʃɛnˌti/
 coliseum	/ˌkɑɫəˈsiəm/
-collaborations	/ˌkɑɫəbɝˈeɪʃənz/
+<!-- collaborations	/ˌkɑɫəbɝˈeɪʃənz/ -->
 colleen	/ˌkɑˈɫin/
-colombari	/ˌkɑɫɑmˈbɑɹi/
 colonization	/ˌkɑɫənɪˈzeɪʃən/
-colonnade	/ˌkɑɫəˈneɪd/
 coloradan	/ˌkɑɫɝˈɑdən/
 coloradans	/ˌkɑɫɝˈɑdənz/
 colorado	/ˌkɑɫɝˈædoʊ/, /ˌkɑɫɝˈɑdoʊ/
 colorado's	/ˌkɑɫɝˈædoʊz/, /ˌkɑɫɝˈɑdoʊz/
 colosseum	/ˌkɑɫəˈsiəm/
-combative	/ˌkɑmˈbæˌtɪv/, /kəmˈbætɪv/
+<!-- combative	/ˌkɑmˈbæˌtɪv/, /kəmˈbætɪv/ -->
 combination	/ˌkɑmbəˈneɪʃən/
 combinations	/ˌkɑmbəˈneɪʃənz/
-comdisco	/ˌkɑmˈdɪskoʊ/
-comicopia	/ˌkɑmɪˈkoʊpiə/
-commandant	/ˌkɑmənˈdɑnt/
-commandeer	/ˌkɑmənˈdɪɹ/
-commandeered	/ˌkɑmənˈdɪɹd/
-commendation	/ˌkɑmənˈdeɪʃən/
-commentariat	/ˌkɑmənˈtæˌɹiət/
-commercebancorp	/ˌkɑmɝsˈbænˌkɔɹp/
 commonalities	/ˌkɑməˈnæɫətiz/
 commonality	/ˌkɑməˈnæɫəti/
 commonsense	/ˌkɑmənˈsɛns/
 commonsensical	/ˌkɑmənˈsɛnsɪkəɫ/
 communization	/ˌkɑmjənəˈzeɪʃən/
-commutate	/ˌkɑmjəˈteɪt/
-commutation	/ˌkɑmjəˈteɪʃən/
-companero	/ˌkɑmpənˈjɛˌɹoʊ/
-compaore	/ˌkɑmpəˈɔɹi/
-comparability	/ˌkɑmpɝəˈbɪɫɪˌti/
-compartmentalized	/ˌkɑmpɑɹtˈmɛntəɫaɪzd/
 compensation	/ˌkɑmpənˈseɪʃən/
 compensations	/ˌkɑmpənˈseɪʃənz/
 competition	/ˌkɑmpəˈtɪʃən/
@@ -2586,20 +862,12 @@ comprehensible	/ˌkɑmpɹiˈhɛnsəbəɫ/
 comprehension	/ˌkɑmpɹiˈhɛnʃən/
 comprehensive	/ˌkɑmpɹiˈhɛnsɪv/
 comprehensively	/ˌkɑmpɹɪˈhɛnsɪvɫi/
-comptronix	/ˌkɑmpˈtɹɑˌnɪks/
-compugraphic	/ˌkɑmpjuˈɡɹæfɪk/
 computation	/ˌkɑmpjəˈteɪʃən/
 computational	/ˌkɑmpjuˈteɪʃənəɫ/
 computations	/ˌkɑmpjuˈteɪʃənz/
-conagra	/ˌkɑˈnæɡɹə/
-conagra's	/ˌkɑˈnæɡɹəz/
-conasupo	/ˌkɑnəˈsupoʊ/
 concentration	/ˌkɑnsənˈtɹeɪʃən/
 concentrations	/ˌkɑnsənˈtɹeɪʃənz/
-conchemco	/ˌkɑnˈtʃɛmkoʊ/
 concierge	/ˌkɑnsiˈɛɹʒ/
-concomitant	/ˌkɑnˈkɑmətənt/, /ˌkɑnkəˈmɪtənt/
-concomitantly	/ˌkɑnˈkɑmətəntɫi/, /ˌkɑnkəˈmɪtəntɫi/
 condemnation	/ˌkɑndəmˈneɪʃən/
 condemnations	/ˌkɑndəmˈneɪʃənz/
 condensation	/ˌkɑndənˈseɪʃən/
@@ -2609,8 +877,6 @@ condescending	/ˌkɑndɪˈsɛndɪŋ/
 condescension	/ˌkɑndəˈsɛnʃən/
 condominium	/ˌkɑndəˈmɪniəm/
 condominiums	/ˌkɑndəˈmɪniəmz/
-condracky	/ˌkɑnˈdɹæki/
-condracky's	/ˌkɑnˈdɹækiz/
 conductivity	/ˌkɑnˌdəkˈtɪvəti/
 conestoga	/ˌkɑnəˈstoʊɡə/
 conferee	/ˌkɑnfɝˈi/
@@ -2618,26 +884,20 @@ conferees	/ˌkɑnfɝˈiz/
 confidential	/ˌkɑnfəˈdɛnʃəɫ/
 confidentiality	/ˌkɑnfəˌdɛnʃiˈæɫəti/, /ˌkɑnfəˌdɛntʃiˈæɫəti/
 confidentially	/ˌkɑnfəˈdɛnʃəɫi/
-confindustria	/ˌkɑnfɪnˈdəstɹiə/
 confirmation	/ˌkɑnfɝˈmeɪʃən/
 confirmations	/ˌkɑnfɝˈmeɪʃənz/
 confiscation	/ˌkɑnfəˈskeɪʃən/
-confiterias	/ˌkɑnfɪˈtɪɹiəz/
-conflagration	/ˌkɑnfɫəˈɡɹeɪʃən/
-conformational	/ˌkɑnfɝˈmeɪʃənəɫ/
 confrontation	/ˌkɑnfɹənˈteɪʃən/
 confrontational	/ˌkɑnfɹənˈteɪʃənəɫ/
 confrontations	/ˌkɑnfɹənˈteɪʃənz/
-congolese	/ˌkɑnɡəˈɫiz/
 congregation	/ˌkɑŋɡɹəˈɡeɪʃən/
 congregation's	/ˌkɑŋɡɹəˈɡeɪʃənz/
 congregational	/ˌkɑŋɡɹəˈɡeɪʃənəɫ/
 congregations	/ˌkɑŋɡɹəˈɡeɪʃənz/
-conjoin	/ˌkɑnˈdʒɔɪn/
-conjoined	/ˌkɑnˈdʒɔɪnd/
+<!-- conjoin	/ˌkɑnˈdʒɔɪn/ -->
+<!-- conjoined	/ˌkɑnˈdʒɔɪnd/ -->
 conjugation	/ˌkɑndʒəˈɡeɪʃən/
 conjugations	/ˌkɑndʒəˈɡeɪʃənz/
-conjunctiva	/ˌkɑndʒəŋkˈtaɪvə/
 connoisseur	/ˌkɑnəˈsɝ/
 connoisseurs	/ˌkɑnəˈsɝz/
 connotation	/ˌkɑnəˈteɪʃən/
@@ -2648,17 +908,11 @@ conscientiously	/ˌkɑntʃiˈɛntʃəsɫi/
 consecration	/ˌkɑnsəˈkɹeɪʃən/
 consecrations	/ˌkɑnsəˈkɹeɪʃənz/
 consequential	/ˌkɑnsəˈkwɛnʃəɫ/
-conservation	/ˌkɑnsɝˈveɪʃən/
+<!-- conservation	/ˌkɑnsɝˈveɪʃən/ -->
 conservationist	/ˌkɑnsɝˈveɪʃənɪst/
 conservationists	/ˌkɑnsɝˈveɪʃənɪsts/
-conshohocken	/ˌkɑnʃəˈhɑkən/
 consolation	/ˌkɑnsəˈɫeɪʃən/
 consolations	/ˌkɑnsəˈɫeɪʃənz/
-consonantal	/ˌkɑnsəˈnɑnəɫ/, /ˌkɑnsəˈnɑntəɫ/
-constantinides	/ˌkɑnstæntəˈnidiz/, /kɑnstəntəˈnidəs/
-constantino	/ˌkɑnstənˈtinoʊ/
-constantinople	/ˌkɑnstæntəˈnoʊpəɫ/
-constantinos	/ˌkɑnstənˈtinoʊs/
 constellation	/ˌkɑnstəˈɫeɪʃən/
 constellation's	/ˌkɑnstəˈɫeɪʃənz/
 constellations	/ˌkɑnstəˈɫeɪʃənz/
@@ -2676,11 +930,8 @@ constitutive	/ˌkɑnˈstɪtuˌtɪv/
 consultation	/ˌkɑnsəɫˈteɪʃən/
 consultations	/ˌkɑnsəɫˈteɪʃənz/
 consummation	/ˌkɑnsəˈmeɪʃən/
-contadora	/ˌkɑntəˈdɔɹə/
 contemplation	/ˌkɑntəmˈpɫeɪʃən/
-contempo	/ˌkɑnˈtɛmpoʊ/
-contextual	/ˌkɑnˈtɛksˌtʃuəɫ/
-conticommodity	/ˌkɑntɪkəˈmɑdɪti/
+<!-- contextual	/ˌkɑnˈtɛksˌtʃuəɫ/ -->
 continental	/ˌkɑntəˈnɛnəɫ/, /ˌkɑntəˈnɛntəɫ/
 continental's	/ˌkɑntəˈnɛntəɫz/
 continentally	/ˌkɑntəˈnɛnəɫi/, /ˌkɑntəˈnɛntəɫi/
@@ -2697,12 +948,10 @@ contradictions	/ˌkɑntɹəˈdɪkʃənz/
 contradictorily	/ˌkɑntɹəˈdɪktɝəɫi/
 contradictory	/ˌkɑntɹəˈdɪktɝi/
 contradicts	/ˌkɑntɹəˈdɪkts/
-contrarian	/ˌkɑnˈtɹɛɹiən/
-contravention	/ˌkɑntɹəˈvɛntʃən/
+<!-- contrarian	/ˌkɑnˈtɹɛɹiən/ -->
 contribution	/ˌkɑntɹəbˈjuʃən/
 contributions	/ˌkɑntɹəbˈjuʃənz/
 controversial	/ˌkɑntɹəˈvɝʃəɫ/
-contura	/ˌkɑnˈtʊɹə/
 convalesce	/ˌkɑnvəˈɫɛs/
 convalescence	/ˌkɑnvəˈɫɛsəns/
 convalescent	/ˌkɑnvəˈɫɛsənt/
@@ -2714,54 +963,3 @@ convertibility	/ˌkɑnvɝtɪˈbɪɫɪti/
 convocation	/ˌkɑnvəˈkeɪʃən/
 cosmetology	/ˌkɑzməˈtɑɫədʒi/
 cosmopolitan	/ˌkɑzməˈpɑɫətən/
-cottrell	/ˌkɑˈtɹɛɫ/
-kageyama	/ˌkɑɡiˈɑmə/
-kahalani	/ˌkɑhəˈɫɑni/
-kajima	/ˌkɑˈdʒimə/
-kakadu	/ˌkɑˈkɑdu/
-kakimoto	/ˌkɑkɪˈmoʊtoʊ/
-kakumaru	/ˌkɑkuˈmɑɹu/
-kamakau	/ˌkɑməˈkɑu/
-kamakau's	/ˌkɑməˈkɑuz/
-kamikaze	/ˌkɑməˈkɑzi/
-kanawa	/ˌkɑˈnɑwə/
-kanazawa	/ˌkɑnɑˈzɑwə/
-kanemaru's	/ˌkɑneɪˈmɑɹuz/
-kankaku	/ˌkɑnˈkɑku/
-karasawa	/ˌkɑɹəˈsɑwə/
-karbassioun	/ˌkɑɹˈbæsiˌun/
-kariotis	/ˌkɑɹiˈoʊtɪs/
-karpatkin	/ˌkɑɹˈpætkɪn/
-kashiwahara	/ˌkɑʃiwəˈhɑɹə/
-kashiwahara's	/ˌkɑʃiwəˈhɑɹəz/
-kashiyama	/ˌkɑʃiˈjɑmə/
-katana	/ˌkɑˈtɑˌnɑ/
-katarina	/ˌkɑtɝˈinə/
-katarina's	/ˌkɑtɝˈinəz/
-katragadda	/ˌkɑtɹəˈɡɑdə/
-katsuhiko	/ˌkɑtsuˈhikoʊ/
-katsumi	/ˌkɑtˈsumi/
-kawaguchi	/ˌkɑwɑˈɡutʃi/
-kawahara	/ˌkɑwɑˈhɑɹə/
-kawakami	/ˌkɑwɑˈkɑmi/
-kawasaki	/ˌkɑwɑˈsɑki/
-kawashima	/ˌkɑwɑˈʃimə/
-kawate	/ˌkɑˈwɑˌteɪ/
-kazakhstan	/ˌkɑzɑkˈstɑn/, /kəˌzækˈstæn/
-kazakhstan's	/ˌkɑzɑkˈstɑnz/, /kəˌzækˈstænz/
-kazakhstana	/ˌkɑzɑkˈstɑnə/, /kəˌzækˈstænə/
-kazuhiko	/ˌkɑzuˈhikoʊ/
-kazuo	/ˌkɑˈzuoʊ/
-khartoum	/ˌkɑɹˈtum/
-khasbulatov	/ˌkɑsbəˈɫɑtɑf/
-khasbulatov's	/ˌkɑsbəˈɫɑtɑfs/
-kompanek	/ˌkɑmˈpɑˌnɛk/
-koninklijke	/ˌkɑnɪŋˈkɫiki/
-konishiroku	/ˌkɑˌnɪʃɪˈɹoʊˌku/
-konsultat	/ˌkɑnsəɫˈtɑt/
-kosmetsky	/ˌkɑzˈmɛtski/
-kosmetsky's	/ˌkɑzˈmɛtskiz/
-kosnovsky	/ˌkɑzˈnɑfski/
-kosnovsky's	/ˌkɑzˈnɑfskiz/
-koznovsky	/ˌkɑzˈnɑfski/
-koznovsky's	/ˌkɑzˈnɑfskiz/

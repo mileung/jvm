@@ -1,20 +1,10 @@
-george	/ˈdʒɔɹdʒ/
-george's	/ˈdʒɔɹdʒəz/, /ˈdʒɔɹdʒɪz/
-georgene	/ˈdʒɔɹˌdʒin/
-georges	/ˈdʒɔɹdʒəz/, /ˈdʒɔɹdʒɪz/
-georgeson	/ˈdʒɔɹdʒɪsən/, /ˈdʒɔɹdʒsən/
-georgetown	/ˈdʒɔɹdʒˌtaʊn/
-georgia	/ˈdʒɔɹdʒə/
-georgia's	/ˈdʒɔɹdʒəz/
-georgian	/ˈdʒɔɹdʒən/
-georgians	/ˈdʒɔɹdʒənz/
-georgie	/ˈdʒɔɹdʒi/
-georgio	/ˈdʒɔɹˌdʒioʊ/
-georgy	/ˈdʒɔɹdʒi/
-giorgi	/ˈdʒɔɹdʒi/
-giorgia	/ˈdʒɔɹdʒə/
-giorgio	/ˈdʒɔɹdʒioʊ/
-jauch	/ˈdʒɔtʃ/
+<!-- george	/ˈdʒɔɹdʒ/ -->
+<!-- george's	/ˈdʒɔɹdʒəz/, /ˈdʒɔɹdʒɪz/ -->
+<!-- georgetown	/ˈdʒɔɹdʒˌtaʊn/ -->
+<!-- georgia	/ˈdʒɔɹdʒə/ -->
+<!-- georgia's	/ˈdʒɔɹdʒəz/ -->
+<!-- georgian	/ˈdʒɔɹdʒən/ -->
+<!-- georgians	/ˈdʒɔɹdʒənz/ -->
 jaundice	/ˈdʒɔndəs/
 jaundiced	/ˈdʒɔndɪst/
 jaunt	/ˈdʒɔnt/
@@ -32,65 +22,36 @@ jocelyn	/ˈdʒɔˌsɫɪn/
 jocelyne	/ˈdʒɔˌsɫɪn/
 jocylan	/ˈdʒɔsɫən/
 jocylan's	/ˈdʒɔsɫənz/
-jodhpur	/ˈdʒɔdpɝ/
-joerg	/ˈdʒɔɹɡ/
 joffrey	/ˈdʒɔfɹi/
-joice	/ˈdʒɔɪs/
-join	/ˈdʒɔɪn/
-joined	/ˈdʒɔɪnd/
-joiner	/ˈdʒɔɪnɝ/
-joinery	/ˈdʒɔɪnɝi/
-joines	/ˈdʒɔɪnz/
-joining	/ˈdʒɔɪnɪŋ/
-joins	/ˈdʒɔɪnz/
-joint	/ˈdʒɔɪnt/
-jointed	/ˈdʒɔɪnɪd/, /ˈdʒɔɪntəd/, /ˈdʒɔɪntɪd/
-jointly	/ˈdʒɔɪntɫi/
-jointness	/ˈdʒɔɪntnəs/
-joints	/ˈdʒɔɪnts/
-joist	/ˈdʒɔɪst/
-joists	/ˈdʒɔɪsts/
-jonbenet	/ˈdʒɔnbəˈneɪ/
-jonbenet's	/ˈdʒɔnbəˈneɪs/
+<!-- joice	/ˈdʒɔɪs/ -->
+<!-- join	/ˈdʒɔɪn/ -->
+<!-- joined	/ˈdʒɔɪnd/ -->
+<!-- joiner	/ˈdʒɔɪnɝ/ -->
+<!-- joinery	/ˈdʒɔɪnɝi/ -->
+<!-- joines	/ˈdʒɔɪnz/ -->
+<!-- joining	/ˈdʒɔɪnɪŋ/ -->
+<!-- joins	/ˈdʒɔɪnz/ -->
+<!-- joint	/ˈdʒɔɪnt/ -->
+<!-- jointed	/ˈdʒɔɪnɪd/, /ˈdʒɔɪntəd/, /ˈdʒɔɪntɪd/ -->
+<!-- jointly	/ˈdʒɔɪntɫi/ -->
+<!-- jointness	/ˈdʒɔɪntnəs/ -->
+<!-- joints	/ˈdʒɔɪnts/ -->
+<!-- joist	/ˈdʒɔɪst/ -->
+<!-- joists	/ˈdʒɔɪsts/ -->
 jong	/ˈdʒɔŋ/
-jordache	/ˈdʒɔɹˌdæʃ/
-jordahl	/ˈdʒɔɹdɑɫ/
-jordan	/ˈdʒɔɹdən/
-jordan's	/ˈdʒɔɹdənz/
-jordans	/ˈdʒɔɹdənz/
-jorde	/ˈdʒɔɹd/
-jorden	/ˈdʒɔɹdən/
-jordi	/ˈdʒɔɹdi/
-jordie	/ˈdʒɔɹdi/
-jordon	/ˈdʒɔɹdən/
-jordy	/ˈdʒɔɹdi/
-jorgensen	/ˈdʒɔɹɡɪnsən/
-jorgenson	/ˈdʒɔɹɡɪnsən/
-jorio	/ˈdʒɔɹioʊ/
-jornal	/ˈdʒɔɹnəɫ/
-jorstad	/ˈdʒɔɹstəd/
-jory	/ˈdʒɔɹi/
-joske's	/ˈdʒɔskiz/
-joslyn	/ˈdʒɔsɫɪn/
+<!-- jordan	/ˈdʒɔɹdən/ -->
+<!-- jordan's	/ˈdʒɔɹdənz/ -->
+<!-- jordans	/ˈdʒɔɹdənz/ -->
+<!-- jorgensen	/ˈdʒɔɹɡɪnsən/ -->
+<!-- jorgenson	/ˈdʒɔɹɡɪnsən/ -->
 joss	/ˈdʒɔs/
-jostens	/ˈdʒɔstənz/
-joy	/ˈdʒɔɪ/
-joy-thrill	/ˈdʒɔɪˌθɹɪɫ/
-joy's	/ˈdʒɔɪz/
-joyal	/ˈdʒɔɪəɫ/
-joyce	/ˈdʒɔɪs/
-joyce's	/ˈdʒɔɪsɪz/
-joycelyn	/ˈdʒɔɪˌsɫɪn/
-joycelyn's	/ˈdʒɔɪˌsɫɪnz/
-joye	/ˈdʒɔɪ/
-joyful	/ˈdʒɔɪfəɫ/
-joyfully	/ˈdʒɔɪfəɫi/
-joying	/ˈdʒɔɪɪŋ/
-joyner	/ˈdʒɔɪnɝ/
-joynes	/ˈdʒɔɪnz/
-joynt	/ˈdʒɔɪnt/
-joyous	/ˈdʒɔɪəs/
-joyride	/ˈdʒɔɪˌɹaɪd/
-joyriding	/ˈdʒɔɪˌɹaɪdɪŋ/
-joys	/ˈdʒɔɪz/
-joystick	/ˈdʒɔɪˌstɪk/
+<!-- joy	/ˈdʒɔɪ/ -->
+<!-- joy-thrill	/ˈdʒɔɪˌθɹɪɫ/ -->
+<!-- joy's	/ˈdʒɔɪz/ -->
+<!-- joyful	/ˈdʒɔɪfəɫ/ -->
+<!-- joyfully	/ˈdʒɔɪfəɫi/ -->
+<!-- joying	/ˈdʒɔɪɪŋ/ -->
+<!-- joyride	/ˈdʒɔɪˌɹaɪd/ -->
+<!-- joyriding	/ˈdʒɔɪˌɹaɪdɪŋ/ -->
+<!-- joys	/ˈdʒɔɪz/ -->
+<!-- joystick	/ˈdʒɔɪˌstɪk/ -->

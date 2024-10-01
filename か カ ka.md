@@ -369,7 +369,7 @@ carvings	/ˈkɑɹvɪŋz/
 caucus	/ˈkɑkəs/, /ˈkɔkəs/
 caught	/ˈkɑt/, /ˈkɔt/
 caul	/ˈkɑɫ/, /ˈkɔɫ/
-cauldron	/ˈkɑɫdɹən/, /ˈkɔɫdɹən/
+<!-- cauldron	/ˈkɑɫdɹən/, /ˈkɔɫdɹən/ -->
 cauliflower	/ˈkɑɫəˌfɫaʊɝ/
 caulk	/ˈkɑk/, /ˈkɔk/
 causative	/ˈkɑzətɪv/, /ˈkɔzətɪv/

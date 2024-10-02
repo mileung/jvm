@@ -1,0 +1,121 @@
+gionfriddo	/dʒoʊnˈfɹidoʊ/
+giovanelli	/dʒoʊvɑˈnɛɫi/
+giovanetti	/dʒoʊvɑˈnɛti/
+giovannetti	/dʒoʊvɑˈnɛti/
+giovanniello	/dʒoʊˌvɑniˈɛɫoʊ/
+giovannini	/dʒoʊvɑˈnini/
+giovannoni	/dʒoʊvɑˈnoʊni/
+giovenco	/dʒoʊˈvɛnkoʊ/
+giovinazzo	/dʒoʊviˈnɑzoʊ/
+joanna	/dʒoʊˈænə/
+jobete	/dʒoʊˈbit/
+joelle	/dʒoʊˈɛɫ/
+joette	/dʒoʊˈɛt/, /ʒoʊˈɛt/
+johannes	/dʒoʊˈhænəs/
+jolene	/dʒoʊˈɫin/
+joletta	/dʒoʊˈɫɛtə/
+josefina	/dʒoʊzəˈfinə/, /joʊsɪˈfinə/
+josepha	/dʒoʊˈsɛfə/
+josephus	/dʒoʊˈsifəs/
+josiah	/dʒoʊˈsaɪə/
+jovanovich	/dʒoʊˈvænəvɪtʃ/
+jovito	/dʒoʊˈvitoʊ/
+
+gioia	/ˈdʒoʊjə/
+jo	/ˈdʒoʊ/
+joan	/ˈdʒoʊn/
+joanie	/ˈdʒoʊˌni/
+joanou	/ˈdʒoʊˌnu/
+joao	/ˈdʒoʊoʊ/
+jobe	/ˈdʒoʊb/
+jobes	/ˈdʒoʊbz/
+jobin	/ˈdʒoʊbɪn/
+jochen	/ˈdʒoʊkən/
+jodi	/ˈdʒoʊdi/
+jodie	/ˈdʒoʊdi/
+jody	/ˈdʒoʊdi/
+joe	/ˈdʒoʊ/
+joe's	/ˈdʒoʊz/
+joedicke	/ˈdʒoʊdɪk/
+joel	/ˈdʒoʊəɫ/
+joel's	/ˈdʒoʊəɫz/
+joelson	/ˈdʒoʊɫsən/
+joens	/ˈdʒoʊnz/
+joers	/ˈdʒoʊɝz/
+joes	/ˈdʒoʊz/
+joey	/ˈdʒoʊi/
+joey's	/ˈdʒoʊiz/
+joh	/ˈdʒoʊ/
+joke	/ˈdʒoʊk/
+jokebook	/ˈdʒoʊkˌbʊk/
+jokebooks	/ˈdʒoʊkˌbʊks/
+joked	/ˈdʒoʊkt/
+joker	/ˈdʒoʊkɝ/
+jokers	/ˈdʒoʊkɝz/
+jokes	/ˈdʒoʊks/
+jokester	/ˈdʒoʊkstɝ/
+joki	/ˈdʒoʊki/
+joking	/ˈdʒoʊkɪŋ/
+jokingly	/ˈdʒoʊkɪŋɫi/
+joles	/ˈdʒoʊɫz/
+joliet	/ˈdʒoʊɫiˌɛt/
+jolin	/ˈdʒoʊɫɪn/
+jolla	/ˈdʒoʊɫə/, /ˈhɔɪjə/
+jolson	/ˈdʒoʊɫsən/
+jolt	/ˈdʒoʊɫt/
+jolted	/ˈdʒoʊɫtɪd/
+jolting	/ˈdʒoʊɫtɪŋ/
+jolts	/ˈdʒoʊɫts/
+joly	/ˈdʒoʊɫi/
+jonah	/ˈdʒoʊnə/
+jonas	/ˈdʒoʊnəs/
+jone	/ˈdʒoʊn/
+jones	/ˈdʒoʊnz/
+jones'	/ˈdʒoʊnz/
+jones's	/ˈdʒoʊnzɪz/
+jonesboro	/ˈdʒoʊnzbəɹoʊ/
+joneses	/ˈdʒoʊnzɪz/
+jonestown	/ˈdʒoʊnztaʊn/
+joni	/ˈdʒoʊni/
+jopling	/ˈdʒoʊpəɫɪŋ/, /ˈdʒoʊpɫɪŋ/
+jos	/ˈdʒoʊz/
+josef	/ˈdʒoʊsəf/
+joseph	/ˈdʒoʊsəf/, /ˈdʒoʊzəf/
+joseph's	/ˈdʒoʊzəfs/
+josephine	/ˈdʒoʊsəˌfin/
+josephine's	/ˈdʒoʊsəˌfinz/
+josephs	/ˈdʒoʊsɪfs/, /ˈdʒoʊzɪfs/
+josephson	/ˈdʒoʊsəfsən/
+josephthal	/ˈdʒoʊsəfˌθɔɫ/
+joser	/ˈdʒoʊzɝ/
+joser's	/ˈdʒoʊzɝz/
+josey	/ˈdʒoʊzi/
+joshi	/ˈdʒoʊʃi/
+josie	/ˈdʒoʊzi/
+jostes	/ˈdʒoʊsts/
+jovan	/ˈdʒoʊvən/
+jovi	/ˈdʒoʊvi/
+jovial	/ˈdʒoʊviəɫ/
+jovian	/ˈdʒoʊviən/
+jowley	/ˈdʒoʊɫi/
+jozef	/ˈdʒoʊzəf/
+
+dzhokhar	/ˌdʒoʊˈkɑɹ/
+dzhokhar's	/ˌdʒoʊˈkɑɹz/
+dzokhar	/ˌdʒoʊˈkɑɹ/
+joakima	/ˌdʒoʊˈkimə/, /ˌwɑˈkimə/
+joann	/ˌdʒoʊˈæn/
+joanne	/ˌdʒoʊˈæn/
+johannesburg	/ˌdʒoʊˈhænɪsbɝɡ/
+johannesburg's	/ˌdʒoʊˈhænɪsbɝɡz/
+johannesen	/ˌdʒoʊˈhænɪsən/
+johannessen	/ˌdʒoʊˈhænɪsən/
+johanning	/ˌdʒoʊˈhænɪŋ/, /ˌjoʊˈhænɪŋ/
+johannsen	/ˌdʒoʊˈhænsən/
+johansen	/ˌdʒoʊˈhænsən/
+johanson	/ˌdʒoʊˈhænsən/
+johansson	/ˌdʒoʊˈhɑnsən/, /ˌjoʊˈhɑnsən/
+jolette	/ˌdʒoʊˈɫɛt/
+jolie	/ˌdʒoʊˈɫi/
+jonassaint	/ˌdʒoʊnəˈseɪnt/
+jonassaint's	/ˌdʒoʊnəˈseɪnts/

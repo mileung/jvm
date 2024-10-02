@@ -6,6 +6,7 @@ sardine	/sɑɹˈdin/
 sardines	/sɑɹˈdinz/
 sardonic	/sɑɹˈdɑnɪk/
 sardonically	/sɑɹˈdɑnɪkəɫi/, /sɑɹˈdɑnɪkɫi/
+sardoodledom	/ˌsɑɹˈdudəɫdəm/
 sartorial	/sɑɹˈtɔɹiəɫ/
 sartorius	/sɑɹˈtɔɹiɪs/
 sombrero	/sɑmˈbɹɛɹoʊ/

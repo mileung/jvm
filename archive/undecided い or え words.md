@@ -1,3 +1,5 @@
+innervate
+
 if	/ˈɪf/, /ɪf/
 ifill	/ɪˈfiɫ/
 igushi	/ɪˈɡuˌʃi/

@@ -1,40 +1,10 @@
-cecola	/sɛˈkoʊɫə/
-cementos	/sɛˈmɛntoʊs/
-centanni	/sɛnˈtɑni/, /tʃɛnˈtɑni/
 centauri	/sɛnˈtɑɹi/
-centavos	/sɛnˈtɑˌvoʊs/
 centennial	/sɛnˈtɛniəɫ/
 centennial's	/sɛnˈtɛniəɫz/
-centeno	/sɛnˈtɛnoʊ/, /tʃɛnˈtɛnoʊ/
-centrale	/sɛnˈtɹɑɫ/
-centralia	/sɛnˈtɹeɪɫiə/
 centrality	/sɛnˈtæɫɪti/
-centuri	/sɛnˈtʊɹi/
 centurion	/sɛnˈtʊɹiən/
-cerritos	/sɛˈɹitoʊs/
-cervantes	/sɛɹˈvɑntɛs/
-cervantez	/sɛɹˈvɑntɛz/
-cervenka	/sɛɹˈveɪŋkə/
-sebastopol	/sɛˈbɑstəˌpɔɫ/
-sebesta	/sɛˈbɛstə/
 sectarian	/sɛkˈtɛɹiən/
 sectarianism	/sɛkˈtɛɹiəˌnɪzəm/
-secteur	/sɛkˈtuɹ/
-sedillo	/sɛˈdɪɫoʊ/
-sedita	/sɛˈditə/
-sedor	/sɛˈdɔɹ/
-sedore	/sɛˈdɔɹi/
-segarra	/sɛˈɡɑɹə/
-segovia	/sɛˈɡoʊviə/
-segreto	/sɛˈɡɹɛtoʊ/
-selinda	/sɛˈɫində/
-selowsky	/sɛˈɫaʊski/
-selvaggio	/sɛɫˈvɑdʒioʊ/
-semenza	/sɛˈmɛnzə/
-semira	/sɛˈmɪɹə/
-senatore	/sɛnɑˈtɔɹi/
-sendawal	/sɛnˈdɑwəɫ/
-sendero	/sɛnˈdɛɹoʊ/
 sensation	/sɛnˈseɪʃən/
 sensational	/sɛnˈseɪʃənəɫ/
 sensationalism	/sɛnˈseɪʃənəˌɫɪzəm/
@@ -45,94 +15,39 @@ sensationalized	/sɛnˌseɪʃənəˈɫaɪzd/
 sensationalizes	/sɛnˌseɪʃənəˈɫaɪzɪz/
 sensationalizing	/sɛnˌseɪʃənəˈɫaɪzɪŋ/
 sensations	/sɛnˈseɪʃənz/
-sentelle	/sɛnˈtɛɫ/
-sephardim	/sɛˌfɑɹˈdim/, /sɪˈfɑɹdɪm/
 sephora	/sɛˈfɔɹə/
-seppala	/sɛˈpɑɫə/
 september	/sɛpˈtɛmbɝ/
 september's	/sɛpˈtɛmbɝz/
-septima	/sɛpˈtimə/
-septuagenarian	/sɛpˌtʃuədʒəˈnɛɹiən/
-seratti	/sɛˈɹɑti/
-sereno	/sɛˈɹeɪnoʊ/
-seroka	/sɛˈɹoʊkə/
-serological	/sɛɹəˈɫɔdʒɪkəɫ/
-serologist	/sɛˈɹɑɫədʒɪst/
-serology	/sɛˈɹɑɫədʒi/
-seshadri	/sɛˈʃɑdɹi/
-sestanovich	/sɛˈstænəvɪtʃ/
-sestito	/sɛˈstitoʊ/
-setaro	/sɛˈtɑɹoʊ/
-settanni	/sɛˈtɑni/
-severini	/sɛvɝˈiˌni/
-severino	/sɛvɝˈinoʊ/
-severovic	/sɛˈvɝoʊvɪk/
-sevilla	/sɛˈvɪɫə/
 
-cecchi	/ˈsɛki/
-cech	/ˈsɛk/
-ceci	/ˈsɛsi/
-cecin	/ˈsɛsɪn/
-cederquist	/ˈsɛdɝkwɪst/, /ˈsidɝkwɪst/
-cedric	/ˈsɛdɹɪk/, /ˈsidɹɪk/
-cel	/ˈsɛɫ/, /ˈsiˈiˈɛɫ/
-cela	/ˈsɛɫə/
-celadon	/ˈsɛɫəˌdɑn/
 celandine	/ˈsɛɫənˌdaɪn/
-celanese	/ˈsɛɫəˌniz/
-celebate	/ˈsɛɫəbət/
 celebrant	/ˈsɛɫəbɹənt/
 celebrants	/ˈsɛɫəbɹənts/
 celebrate	/ˈsɛɫəˌbɹeɪt/
 celebrated	/ˈsɛɫəˌbɹeɪtɪd/
 celebrates	/ˈsɛɫəˌbɹeɪts/
 celebrating	/ˈsɛɫəˌbɹeɪtɪŋ/
-celebre	/ˈsɛɫəbɹə/
-celeron	/ˈsɛɫɝɑn/
 celery	/ˈsɛɫɝi/
-celestin	/ˈsɛɫɪstɪn/
 celibacy	/ˈsɛɫəbəsi/
 celibate	/ˈsɛɫɪbət/
 celica	/ˈsɛɫɪkə/
-celie	/ˈsɛɫi/
-celimene	/ˈsɛɫɪˌmin/
-celis	/ˈsɛɫɪs/
 cell	/ˈsɛɫ/
 cell's	/ˈsɛɫz/
-cella	/ˈsɛɫə/
 cellar	/ˈsɛɫɝ/
 cellars	/ˈsɛɫɝz/
 celled	/ˈsɛɫd/
-cellmark	/ˈsɛɫˌmɑɹk/
-cellmark's	/ˈsɛɫˌmɑɹks/
-cellnet	/ˈsɛɫˌnɛt/
 cellophane	/ˈsɛɫəˌfeɪn/
 cellphone	/ˈsɛɫfoʊn/
 cellphones	/ˈsɛɫˌfoʊnz/
-cellpro	/ˈsɛɫpɹoʊ/
 cells	/ˈsɛɫz/
 cells'	/ˈsɛɫz/
-cellstar	/ˈsɛɫˌstɑɹ/
 cellular	/ˈsɛɫjəɫɝ/
 cellular's	/ˈsɛɫjəɫɝz/
 celluloid	/ˈsɛɫəˌɫɔɪd/
 cellulose	/ˈsɛɫjəˌɫoʊs/
-celmer	/ˈsɛɫmɝ/
-celnik	/ˈsɛɫnɪk/
-celo	/ˈsɛɫoʊ/, /ˈsiˈiˈɛˈɫoʊ/, /ˈsiɫoʊ/
-cels	/ˈsɛɫz/
-celsius	/ˈsɛɫsiəs/
-celso	/ˈsɛɫsoʊ/
 celtics	/ˈsɛɫtɪks/
 celtics'	/ˈsɛɫtɪks/
 cemeteries	/ˈsɛməˌtɛɹiz/
 cemetery	/ˈsɛməˌtɛɹi/, /ˈsɛmɪˌtɛɹi/
-cemp	/ˈsɛmp/
-cencall	/ˈsɛnˌsɛɫ/
-cencor	/ˈsɛnˌkɔɹ/
-cenergy	/ˈsɛnɝdʒi/
-cenith	/ˈsɛnɪθ/
-cenith's	/ˈsɛnɪθs/
 censer	/ˈsɛnsɝ/
 censor	/ˈsɛnsɝ/
 censored	/ˈsɛnsɝd/
@@ -147,24 +62,17 @@ cent	/ˈsɛnt/
 centaur	/ˈsɛnˌtɔɹ/
 centaur's	/ˈsɛnˌtɔɹz/
 centaurs	/ˈsɛnˌtɔɹz/
-centel	/ˈsɛnˌtɛɫ/
-centel's	/ˈsɛnˌtɛɫz/
 centenary	/ˈsɛntəˌnɛɹi/
 center	/ˈsɛnɝ/, /ˈsɛntɝ/
 center's	/ˈsɛnɝz/, /ˈsɛntɝz/
-centerbanc	/ˈsɛntɝbæŋk/
-centerbank	/ˈsɛntɝˌbæŋk/
 centered	/ˈsɛntɝd/
 centerfielder	/ˈsɛntɝˌfiɫdɝ/
 centerfold	/ˈsɛntɝˌfoʊɫd/
 centering	/ˈsɛntɝɪŋ/
 centerpiece	/ˈsɛntɝˌpis/
-centerre	/ˈsɛntɝ/
-centerre's	/ˈsɛntɝz/
 centers	/ˈsɛnɝz/, /ˈsɛntɝz/
 centers'	/ˈsɛnɝz/, /ˈsɛntɝz/
 centerville	/ˈsɛntɝvɪɫ/
-centex	/ˈsɛnˌtɛks/
 centigrade	/ˈsɛntəˌɡɹeɪd/
 centigram	/ˈsɛntəˌɡɹæm/
 centime	/ˈsɛnˌtaɪm/
@@ -174,9 +82,6 @@ centimeters	/ˈsɛntəˌmitɝz/
 centimetre	/ˈsɛntəˌmitɝ/
 centimetres	/ˈsɛntəˌmitɝz/
 centipede	/ˈsɛntɪˌpid/
-centner	/ˈsɛntnɝ/
-centocor	/ˈsɛntəˌkɔɹ/
-centocor's	/ˈsɛntəˌkɔɹz/
 central	/ˈsɛntɹəɫ/
 central's	/ˈsɛntɹəɫz/
 centralism	/ˈsɛntɹəˌɫɪzəm/
@@ -185,90 +90,37 @@ centralize	/ˈsɛntɹəˌɫaɪz/
 centralized	/ˈsɛntɹəˌɫaɪzd/
 centralizing	/ˈsɛntɹəˌɫaɪzɪŋ/
 centrally	/ˈsɛntɹəɫi/
-centram	/ˈsɛnˌtɹæm/
 centre	/ˈsɛntɝ/
 centres	/ˈsɛntɝz/
-centrex	/ˈsɛntɹəks/
 centrifugal	/ˈsɛntɹɪfˌjuɡəɫ/
 centrifuge	/ˈsɛntɹəfˌjudʒ/
 centrifuges	/ˈsɛntɹəfˌjudʒɪz/
 centrist	/ˈsɛntɹɪst/
 centrists	/ˈsɛntɹɪsts/
-centro	/ˈsɛntɹoʊ/
-centromin	/ˈsɛntɹəmɪn/
-centrust	/ˈsɛnˌtɹəst/
-centrust's	/ˈsɛnˌtɹəsts/
 cents	/ˈsɛns/, /ˈsɛnts/
 centuries	/ˈsɛntʃɝiz/
 century	/ˈsɛntʃɝi/
 century's	/ˈsɛntʃɝiz/
-cenvill	/ˈsɛnvɪɫ/
-cep	/ˈsɛp/
-cephalon	/ˈsɛfəˌɫɑn/
-cephalopod	/ˈsɛfəɫəˌpɑd/
-cephas	/ˈsɛfəz/
-cephus	/ˈsɛfəs/
-cera	/ˈsɛɹə/
-ceradyne	/ˈsɛɹəˌdaɪn/
-cerebral	/ˈsɛɹəbɹəɫ/, /sɝˈibɹəɫ/
-ceredase	/ˈsɛɹəˌdeɪz/
-ceremonies	/ˈsɛɹəˌmoʊniz/
-ceremony	/ˈsɛɹəˌmoʊni/
-cero	/ˈsɛˌɹoʊ/
-cerra	/ˈsɛɹə/
-cerro	/ˈsɛɹoʊ/
-cerus	/ˈsɛɹəs/
-ceryl	/ˈsɛɹəɫ/
+<!-- cerebral	/ˈsɛɹəbɹəɫ/, /sɝˈibɹəɫ/ -->
+<!-- ceremonies	/ˈsɛɹəˌmoʊniz/ -->
+<!-- ceremony	/ˈsɛɹəˌmoʊni/ -->
 cessna	/ˈsɛsnə/, /ˈsɛznə/
 cessna's	/ˈsɛsnəz/, /ˈsɛznəz/
 cesspool	/ˈsɛsˌpuɫ/
-ceta	/ˈsɛtə/, /ˈsiˈiˈtiˈeɪ/
-cetera	/ˈsɛtɝə/
-cevaxs	/ˈsɛvæksɪz/
-psencik	/ˈsɛnsɪk/
-saeger	/ˈsɛɡɝ/
-saelens	/ˈsɛɫənz/
-saenger	/ˈsɛndʒɝ/
 said	/ˈsɛd/
 sara	/ˈsɛɹə/
 sara-lee	/ˈsɛɹəˈɫi/
 sara's	/ˈsɛɹəz/
-saracens	/ˈsɛɹəsənz/
 sarah	/ˈsɛɹə/
 sarah's	/ˈsɛɹəz/
-sarandon	/ˈsɛɹəndɪn/, /ˌsɛˈɹændɪn/
-sarasin	/ˈsɛɹɪsɪn/
 saratov	/ˈsɛɹəˌtɔf/, /ˈsɛɹəˌtɔv/
 sarawak	/ˈsɛɹəwɑk/
-sarazen	/ˈsɛɹəzən/
-sare	/ˈsɛɹ/
-sarokin	/ˈsɛɹəkɪn/
-sayre	/ˈsɛɹ/
-sayres	/ˈsɛɹz/
 says	/ˈsɛz/, /ˈsɪz/
 scent	/ˈsɛnt/
 scented	/ˈsɛntɪd/
 scents	/ˈsɛnts/
 sceptre	/ˈsɛptɝ/, /ˈskɛptɝ/
 sczechuan	/ˈsɛtʃuɑn/
-sebby	/ˈsɛbi/
-sebek	/ˈsɛbɪk/
-sebert	/ˈsɛbɝt/
-sebi	/ˈsɛbi/
-sebo	/ˈsɛboʊ/
-sebold	/ˈsɛboʊɫd/
-sec	/ˈsɛk/
-secchia	/ˈsɛkiə/
-sechler	/ˈsɛkɫɝ/
-sechrest	/ˈsɛkɝɪst/
-sechrist	/ˈsɛkɝɪst/, /ˈsiˌkɹɪst/
-seck	/ˈsɛk/
-seckel	/ˈsɛkəɫ/
-seckinger	/ˈsɛkɪŋɝ/
-seckler	/ˈsɛkɫɝ/
-seckman	/ˈsɛkmən/
-seco	/ˈsɛkoʊ/
-secom	/ˈsɛkɑm/
 second	/ˈsɛkənd/
 second's	/ˈsɛkəndz/
 secondaries	/ˈsɛkənˌdɛɹiz/
@@ -277,14 +129,10 @@ seconded	/ˈsɛkəndɪd/
 secondhand	/ˈsɛkəndˌhænd/
 secondly	/ˈsɛkəndɫi/
 seconds	/ˈsɛkəndz/
-secor	/ˈsɛkɝ/
-secoy	/ˈsɛkɔɪ/
-secrest	/ˈsɛkɝɪst/
 secretaries	/ˈsɛkɹəˌtɛɹiz/
 secretaries'	/ˈsɛkɹɪˌtɛɹiz/
 secretary	/ˈsɛkɹəˌtɛɹi/
 secretary's	/ˈsɛkɹəˌtɛɹiz/
-secrist	/ˈsɛkɝɪst/
 sect	/ˈsɛkt/
 sect's	/ˈsɛkts/
 section	/ˈsɛkʃən/
@@ -303,97 +151,43 @@ secularism	/ˈsɛkjəɫɝˌɪzəm/
 secularist	/ˈsɛkjəɫɝɪst/
 secularists	/ˈsɛkjəɫɝɪsts/
 secularized	/ˈsɛkjəɫɝaɪzd/
-seculow	/ˈsɛkjəɫoʊ/
-sedam	/ˈsɛdəm/
 sedative	/ˈsɛdətɪv/
-sedberry	/ˈsɛdˌbɛɹi/
-sedco	/ˈsɛdkoʊ/
-seddon	/ˈsɛdən/
 sedentary	/ˈsɛdənˌtɛɹi/
-sedge	/ˈsɛdʒ/
-sedgewick	/ˈsɛdʒwɪk/
-sedgley	/ˈsɛdʒɫi/
-sedgwick	/ˈsɛdʒwɪk/
 sediment	/ˈsɛdəmənt/
 sediments	/ˈsɛdəmənts/
-sedivy	/ˈsɛdɪvi/
-sedlacek	/ˈsɛdɫəsɪk/
-sedlack	/ˈsɛdɫək/
-sedlak	/ˈsɛdɫək/
-sedlar	/ˈsɛdɫɝ/
-sedler	/ˈsɛdɫɝ/
-sedlock	/ˈsɛdɫək/
-sedum	/ˈsɛdəm/
-sedums	/ˈsɛdəmz/
-sedwick	/ˈsɛdwɪk/
-sefcik	/ˈsɛfsɪk/
-seff	/ˈsɛf/
-sefton	/ˈsɛftən/
-segalas	/ˈsɛɡəɫəs/
-segars	/ˈsɛɡɝz/
-sege	/ˈsɛdʒ/
-segerstrom	/ˈsɛɡɝstɹəm/
-segler	/ˈsɛɡɫɝ/
 segment	/ˈsɛɡmənt/, /ˌsɛɡˈmɛnt/
 segment's	/ˈsɛɡmənts/
 segmented	/ˈsɛɡˌmɛnɪd/, /ˈsɛɡˌmɛntɪd/, /ˌsɛɡˈmɛnɪd/, /ˌsɛɡˈmɛntɪd/
 segments	/ˈsɛɡmənts/, /ˌsɛɡˈmɛnts/
-segner	/ˈsɛɡnɝ/
 segregate	/ˈsɛɡɹəˌɡeɪt/
 segregated	/ˈsɛɡɹəˌɡeɪtɪd/
 segregating	/ˈsɛɡɹɪˌɡeɪtɪŋ/
-segrest	/ˈsɛɡɝɪst/, /ˈsiˌɡɹɛst/
 segue	/ˈsɛɡ/, /ˈsɛɡweɪ/
 segway	/ˈsɛˌɡweɪ/
 segways	/ˈsɛˌɡweɪz/
-seher	/ˈsɛhɝ/
-sehnert	/ˈsɛnɝt/
-sehorn	/ˈsɛhɝn/
-sehr	/ˈsɛɹ/
-sekerak	/ˈsɛkɝək/
-seko	/ˈsɛkoʊ/
-seko's	/ˈsɛkoʊz/
-sekulow	/ˈsɛkuɫoʊ/
-sel	/ˈsɛɫ/
-sela	/ˈsɛɫə/
-selander	/ˈsɛɫəndɝ/
-selas	/ˈsɛɫəs/
-selbe	/ˈsɛɫb/
-selberg	/ˈsɛɫbɝɡ/
-selby	/ˈsɛɫbi/
-selchow	/ˈsɛɫtʃaʊ/
-selda	/ˈsɛɫdə/
-seldane	/ˈsɛɫˌdeɪn/
-selden	/ˈsɛɫdən/
-selders	/ˈsɛɫdɝz/
-seldin	/ˈsɛɫdɪn/
 seldom	/ˈsɛɫdəm/
-seldon	/ˈsɛɫdən/
-selenite	/ˈsɛɫɪˌnaɪt/
-seles	/ˈsɛɫɛs/
-seles'	/ˈsɛɫɛs/
 self	/ˈsɛɫf/
-self-aggrandizement	/ˈsɛɫˈfæɡɹənˌdaɪzmənt/
-self-aggrandizing	/ˈsɛɫfəˈɡɹænˌdaɪzɪŋ/
-self-centered	/ˈsɛɫfˈsɛntɝd/
-self-contained	/ˈsɛɫfkənˈteɪnd/
-self-destruct	/ˈsɛɫfdɪˈstɹəkt/
-self-destructing	/ˈsɛɫfdɪˈstɹəktɪŋ/
-self-destruction	/ˈsɛɫfdɪˈstɹəkts/
-self-destructs	/ˈsɛɫfdɪˈstɹəkts/
-self-determination	/ˈsɛɫfdɪˌtɝməˈneɪʃən/
-self-dormant	/ˈsɛɫfˈdɔɹmənt/
-self-energizing	/ˈsɛɫˈfɛnɝˌdʒaɪzɪŋ/
-self-fertilizing	/ˈsɛɫfˈfɝtəˌɫaɪzɪŋ/
-self-fruitful	/ˈsɛɫfˈfɹutfəɫ/
-self-govern	/ˈsɛɫfˈɡəvɝn/
-self-governing	/ˈsɛɫfˈɡəvɝnɪŋ/
-self-government	/ˈsɛɫfˈɡəvɝnmənt/
-self-help	/ˈsɛɫfˈhɛɫp/
-self-improvement	/ˈsɛɫfɪmˈpɹuvmənt/
-self-interest	/ˈsɛɫˈfɪntɹəst/
-self-organization	/ˈsɛɫˌfɔɹɡənəˈzeɪʃən/
-self-organizing	/ˈsɛɫˈfɔɹɡəˌnaɪzɪŋ/
+<!-- self-aggrandizement	/ˈsɛɫˈfæɡɹənˌdaɪzmənt/ -->
+<!-- self-aggrandizing	/ˈsɛɫfəˈɡɹænˌdaɪzɪŋ/ -->
+<!-- self-centered	/ˈsɛɫfˈsɛntɝd/ -->
+<!-- self-contained	/ˈsɛɫfkənˈteɪnd/ -->
+<!-- self-destruct	/ˈsɛɫfdɪˈstɹəkt/ -->
+<!-- self-destructing	/ˈsɛɫfdɪˈstɹəktɪŋ/ -->
+<!-- self-destruction	/ˈsɛɫfdɪˈstɹəkts/ -->
+<!-- self-destructs	/ˈsɛɫfdɪˈstɹəkts/ -->
+<!-- self-determination	/ˈsɛɫfdɪˌtɝməˈneɪʃən/ -->
+<!-- self-dormant	/ˈsɛɫfˈdɔɹmənt/ -->
+<!-- self-energizing	/ˈsɛɫˈfɛnɝˌdʒaɪzɪŋ/ -->
+<!-- self-fertilizing	/ˈsɛɫfˈfɝtəˌɫaɪzɪŋ/ -->
+<!-- self-fruitful	/ˈsɛɫfˈfɹutfəɫ/ -->
+<!-- self-govern	/ˈsɛɫfˈɡəvɝn/ -->
+<!-- self-governing	/ˈsɛɫfˈɡəvɝnɪŋ/ -->
+<!-- self-government	/ˈsɛɫfˈɡəvɝnmənt/ -->
+<!-- self-help	/ˈsɛɫfˈhɛɫp/ -->
+<!-- self-improvement	/ˈsɛɫfɪmˈpɹuvmənt/ -->
+<!-- self-interest	/ˈsɛɫˈfɪntɹəst/ -->
+<!-- self-organization	/ˈsɛɫˌfɔɹɡənəˈzeɪʃən/ -->
+<!-- self-organizing	/ˈsɛɫˈfɔɹɡəˌnaɪzɪŋ/ -->
 self's	/ˈsɛɫfs/
 selfie	/ˈsɛɫˌfi/
 selfies	/ˈsɛɫˌfiz/
@@ -401,93 +195,31 @@ selfish	/ˈsɛɫfɪʃ/
 selfishness	/ˈsɛɫfɪʃnəs/
 selfless	/ˈsɛɫfɫəs/
 selflessness	/ˈsɛɫfɫəsnɪs/
-selfridge	/ˈsɛɫfɹɪdʒ/
 selfs	/ˈsɛɫfs/
-selia	/ˈsɛɫiə/
-selie	/ˈsɛɫi/
-selies	/ˈsɛɫiz/
-selies'	/ˈsɛɫiz/
-selig	/ˈsɛɫɪɡ/
-seliga	/ˈsɛɫɪɡə/
-seliger	/ˈsɛɫɪɡɝ/
-seligman	/ˈsɛɫɪɡmən/
-seligmann	/ˈsɛɫɪɡmən/
-seligson	/ˈsɛɫɪɡsən/
-selikoff	/ˈsɛɫɪˌkɔf/
-selin	/ˈsɛɫɪn/
-selinger	/ˈsɛɫɪŋɝ/
-seljuk	/ˈsɛɫdʒək/
-selk	/ˈsɛɫk/
-selke	/ˈsɛɫk/
-selkin	/ˈsɛɫkɪn/
 selkirk	/ˈsɛɫkɝk/
 selkirk's	/ˈsɛɫkɝks/
 sell	/ˈsɛɫ/
 sell-out	/ˈsɛˌɫaʊt/
-sella	/ˈsɛɫə/
-selland	/ˈsɛɫənd/
-sellards	/ˈsɛɫɝdz/
-sellars	/ˈsɛɫɝz/
-sellars's	/ˈsɛɫɝzɪz/
-selle	/ˈsɛɫ/
-selleck	/ˈsɛɫɪk/
-sellen	/ˈsɛɫən/
 seller	/ˈsɛɫɝ/
 seller's	/ˈsɛɫɝz/
 sellers	/ˈsɛɫɝz/
 sellers'	/ˈsɛɫɝz/
-selley	/ˈsɛɫi/
-sellick	/ˈsɛɫɪk/
-sellier	/ˈsɛɫjɝ/
-sellin	/ˈsɛɫɪn/
 selling	/ˈsɛɫɪŋ/
-sellinger	/ˈsɛɫɪŋɝ/
-sellings	/ˈsɛɫɪŋz/
-sellman	/ˈsɛɫmən/
-sellmeyer	/ˈsɛɫmaɪɝ/
-sellner	/ˈsɛɫnɝ/
 selloff	/ˈsɛˌɫɔf/
 selloffs	/ˈsɛˌɫɔfs/
-sellon	/ˈsɛɫən/
 sellout	/ˈsɛˌɫaʊt/
 sellouts	/ˈsɛˌɫaʊts/
 sells	/ˈsɛɫz/
 selma	/ˈsɛɫmə/
-selman	/ˈsɛɫmən/
-selmer	/ˈsɛɫmɝ/
-selmon	/ˈsɛɫmən/
-selner	/ˈsɛɫnɝ/
-selover	/ˈsɛɫəvɝ/
-selph	/ˈsɛɫf/
-selsor	/ˈsɛɫsɝ/
-seltz	/ˈsɛɫts/
 seltzer	/ˈsɛɫtsɝ/
 selvage	/ˈsɛɫvɪdʒ/
 selves	/ˈsɛɫvz/
-selvey	/ˈsɛɫvi/
-selvidge	/ˈsɛɫvɪdʒ/
-selvig	/ˈsɛɫvɪɡ/
-selway	/ˈsɛɫˌweɪ/
-selwin	/ˈsɛɫwɪn/
-selwitz	/ˈsɛɫwɪts/
-selwyn	/ˈsɛɫwɪn/
-selz	/ˈsɛɫz/
-selzer	/ˈsɛɫzɝ/
-selzer's	/ˈsɛɫzɝz/
-sematech	/ˈsɛməˌtɛk/
-sember	/ˈsɛmbɝ/
 semblance	/ˈsɛmbɫəns/
-semegran	/ˈsɛməɡɹən/
-semel	/ˈsɛməɫ/
 semele	/ˈsɛməˌɫi/
-semerad	/ˈsɛmɝæd/
 semi	/ˈsɛmaɪ/, /ˈsɛmi/
 semi-colon	/ˈsɛməˈkoʊɫən/, /ˈsɛmiˈkoʊɫən/
 semi-height	/ˈsɛmaɪˈhaɪt/, /ˈsɛmiˈhaɪt/, /ˈsɛmɪˈhaɪt/
 semi-heights	/ˈsɛmaɪˈhaɪts/, /ˈsɛmiˈhaɪts/, /ˈsɛmɪˈhaɪts/
-semiclad	/ˈsɛmaɪˌkɫæd/, /ˈsɛməˌkɫæd/, /ˈsɛmiˌkɫæd/
-semicon	/ˈsɛmɪˌkɑn/
-semien	/ˈsɛmin/
 seminal	/ˈsɛmənəɫ/
 seminar	/ˈsɛməˌnɑɹ/
 seminaries	/ˈsɛməˌnɛɹiz/
@@ -498,19 +230,7 @@ seminoles	/ˈsɛmɪˌnoʊɫz/
 semis	/ˈsɛmaɪz/
 semite	/ˈsɛmaɪt/
 semitism	/ˈsɛmɪˌtɪzəm/
-semler	/ˈsɛmɫɝ/
-semmel	/ˈsɛməɫ/
-semmens	/ˈsɛmənz/
-semmes	/ˈsɛmz/
-semmler	/ˈsɛmɫɝ/
-semon	/ˈsɛmən/
-semple	/ˈsɛmpəɫ/
-semrad	/ˈsɛmɹəd/
-semrau	/ˈsɛmɹaʊ/
-semrow	/ˈsɛmɹoʊ/
-semtex	/ˈsɛmtɛks/
 sen	/ˈsɛn/
-sena	/ˈsɛnə/
 senate	/ˈsɛnət/, /ˈsɛnɪt/
 senate's	/ˈsɛnɪts/
 senator	/ˈsɛnətɝ/
@@ -518,39 +238,11 @@ senator's	/ˈsɛnətɝz/
 senators	/ˈsɛnətɝz/
 senators'	/ˈsɛnətɝz/
 send	/ˈsɛnd/
-sendak	/ˈsɛndæk/
-sendelbach	/ˈsɛndɪɫbɑk/
 sender	/ˈsɛndɝ/
 senders	/ˈsɛndɝz/
 sending	/ˈsɛndɪŋ/
-sendo	/ˈsɛndoʊ/
 sends	/ˈsɛndz/
 seneca	/ˈsɛnəkə/
-senecal	/ˈsɛnɪkəɫ/
-senechal	/ˈsɛnɪkəɫ/
-seneff	/ˈsɛnəf/
-seneker	/ˈsɛnəkɝ/
-senesac	/ˈsɛnɪsæk/
-senese	/ˈsɛniz/
-seney	/ˈsɛni/
-senf	/ˈsɛnf/
-senff	/ˈsɛnf/
-senft	/ˈsɛnft/
-seng	/ˈsɛŋ/
-senger	/ˈsɛŋɝ/
-sengers	/ˈsɛŋɝz/
-senk	/ˈsɛŋk/
-senkbeil	/ˈsɛŋkˌbaɪɫ/
-senko	/ˈsɛŋkoʊ/
-senn	/ˈsɛn/
-senna	/ˈsɛnə/
-senne	/ˈsɛn/
-senner	/ˈsɛnɝ/
-sennet	/ˈsɛnət/
-sennett	/ˈsɛnɪt/
-sennott	/ˈsɛnət/
-sens	/ˈsɛnz/
-sensabaugh	/ˈsɛnsəˌbɔ/
 sense	/ˈsɛns/
 sense-data	/ˈsɛnsˌdætə/, /ˈsɛnsˌdeɪtə/
 sense-datas	/ˈsɛnsˈdætəz/, /ˈsɛnsˈdeɪtəz/
@@ -558,9 +250,6 @@ sense-datum	/ˈsɛnsˈdætəm/, /ˈsɛnsˈdeɪtəm/
 sensed	/ˈsɛnst/
 sensei	/ˈsɛnˌseɪ/
 senseless	/ˈsɛnsɫəs/
-sensenbrenner	/ˈsɛnsənˌbɹɛnɝ/
-senseney	/ˈsɛnsɪni/
-sensenig	/ˈsɛnsɪnɪɡ/
 senses	/ˈsɛnsɪz/
 sensible	/ˈsɛnsəbəɫ/
 sensibly	/ˈsɛnsəbɫi/
@@ -570,7 +259,6 @@ sensitively	/ˈsɛnsɪtɪvɫi/
 sensitiveness	/ˈsɛnsətɪvnəs/
 sensitize	/ˈsɛnsəˌtaɪz/
 sensitized	/ˈsɛnsəˌtaɪzd/
-senske	/ˈsɛnsk/
 sensor	/ˈsɛnsɝ/
 sensor's	/ˈsɛnsɝz/
 sensors	/ˈsɛnsɝz/
@@ -578,24 +266,16 @@ sensory	/ˈsɛnsɝi/
 sensual	/ˈsɛnʃəwəɫ/
 sensuous	/ˈsɛnʃəwəs/
 sent	/ˈsɛnt/
-sentell	/ˈsɛntəɫ/
 sentence	/ˈsɛntəns/
 sentenced	/ˈsɛntənst/
 sentences	/ˈsɛntənsəz/, /ˈsɛntənsɪz/
 sentencing	/ˈsɛntənsɪŋ/
-senter	/ˈsɛntɝ/
-senters	/ˈsɛntɝz/
 sentiment	/ˈsɛnəmənt/, /ˈsɛntəmənt/
 sentiments	/ˈsɛnəmənts/, /ˈsɛntəmənts/
 sentinel	/ˈsɛntənəɫ/
 sentinels	/ˈsɛntənəɫz/
-sentman	/ˈsɛntmən/
-sentra	/ˈsɛntɹə/
-sentras	/ˈsɛntɹəs/
 sentries	/ˈsɛntɹiz/
 sentry	/ˈsɛntɹi/
-senty	/ˈsɛnti/
-sentz	/ˈsɛnts/
 separate	/ˈsɛpɝˌeɪt/, /ˈsɛpɝɪt/, /ˈsɛpɹət/
 separated	/ˈsɛpɝˌeɪtɪd/
 separately	/ˈsɛpɝətɫi/, /ˈsɛpɹətɫi/
@@ -607,57 +287,21 @@ separatist	/ˈsɛpɝətɪst/
 separatists	/ˈsɛpɝətɪsts/, /ˈsɛpɹətɪsts/
 separator	/ˈsɛpəˌɹeɪtɝ/
 separators	/ˈsɛpəˌɹeɪtɝz/
-sephlon	/ˈsɛfɫɔn/
-sephlon's	/ˈsɛfɫɔnz/
-sepich	/ˈsɛpɪtʃ/
-sepik	/ˈsɛpɪk/
-sepp	/ˈsɛp/
-seppi	/ˈsɛpi/
 sepsis	/ˈsɛpsɪs/
 sept	/ˈsɛpt/
 septa	/ˈsɛptə/
-septer	/ˈsɛptɝ/
 septic	/ˈsɛptɪk/
-septimus	/ˈsɛptɪmɪs/
-sequa	/ˈsɛkwə/
-sequa's	/ˈsɛkwəz/
 sequitur	/ˈsɛkwɪtɝ/
 sequiturs	/ˈsɛkwɪtɝz/
-serafin	/ˈsɛɹəfɪn/
-seragut	/ˈsɛɹəˌɡət/
-serda	/ˈsɛɹdə/
-serex	/ˈsɛɹəks/
-serfin	/ˈsɛɹfɪn/, /ˈsɝfɪn/
 sergei	/ˈsɛɹˌɡeɪ/, /sɝˈɡeɪ/
 sergey	/ˈsɛɹdʒi/, /ˈsɛɹɡeɪ/
-sergi	/ˈsɛɹdʒi/
-serlo	/ˈsɛɹɫoʊ/
-serna	/ˈsɛɹnə/
-serpa	/ˈsɛɹpə/
-serr	/ˈsɛɹ/
-serra	/ˈsɛɹə/
-serra's	/ˈsɛɹəz/
-serrao	/ˈsɛɹaʊ/
 serrate	/ˈsɛˌɹeɪt/
 serrated	/ˈsɛˌɹeɪtɪd/
-serres	/ˈsɛɹɛs/
 sesame	/ˈsɛsəmi/
-sesdaq	/ˈsɛsdæk/
-sesit	/ˈsɛzɪt/
-seskar	/ˈsɛsˌkɑɹ/
-seskar's	/ˈsɛsˌkɑɹz/
-sesler	/ˈsɛsəɫɝ/, /ˈsɛsɫɝ/
-sesno	/ˈsɛsˌnoʊ/
-sesno's	/ˈsɛsˌnoʊz/
-sessa	/ˈsɛsə/
 session	/ˈsɛʃən/
 session's	/ˈsɛʃənz/
 sessions	/ˈsɛʃənz/
 sessions'	/ˈsɛʃənz/
-sessler	/ˈsɛsɫɝ/
-sessoms	/ˈsɛsəmz/
-sessums	/ˈsɛsəmz/
-sestak	/ˈsɛstək/
 set	/ˈsɛt/
 set-up	/ˈsɛˌtəp/
 set-ups	/ˈsɛˌtəps/
@@ -665,17 +309,8 @@ setback	/ˈsɛtˌbæk/
 setbacks	/ˈsɛtˌbæks/
 seth	/ˈsɛθ/
 seth's	/ˈsɛθs/
-sether	/ˈsɛðɝ/
-sethi	/ˈsɛθi/
-sethness	/ˈsɛθnəs/
-seti	/ˈsɛˌti/
-setliff	/ˈsɛtɫɪf/
-seto	/ˈsɛtoʊ/
 sets	/ˈsɛts/
-setser	/ˈsɛtsɝ/
-sette	/ˈsɛt/
 setter	/ˈsɛtɝ/
-setterlund	/ˈsɛtɝɫənd/
 setters	/ˈsɛtɝz/
 setting	/ˈsɛtɪŋ/
 settings	/ˈsɛtɪŋz/
@@ -684,22 +319,13 @@ settled	/ˈsɛtəɫd/
 settlement	/ˈsɛtəɫmənt/
 settlement's	/ˈsɛtəɫmənts/
 settlements	/ˈsɛtəɫmənts/
-settlemire	/ˈsɛtəɫˌmaɪɹ/
-settlemyre	/ˈsɛtəɫˌmaɪɹ/
 settler	/ˈsɛtəɫɝ/, /ˈsɛtɫɝ/
 settlers	/ˈsɛtəɫɝz/, /ˈsɛtɫɝz/
 settlers'	/ˈsɛtɫɝz/
 settles	/ˈsɛtəɫz/
 settling	/ˈsɛtəɫɪŋ/, /ˈsɛtɫɪŋ/
-settsu	/ˈsɛtsu/
-setty	/ˈsɛti/
 setup	/ˈsɛˌtəp/
 setups	/ˈsɛˌtəps/
-setzer	/ˈsɛtzɝ/
-setzler	/ˈsɛtsɫɝ/
-sevareid	/ˈsɛvəˌɹaɪd/
-sevcik	/ˈsɛvsɪk/
-seve	/ˈsɛveɪ/
 seven	/ˈsɛvən/
 seven's	/ˈsɛvənz/
 sevenfold	/ˈsɛvənˌfoʊɫd/
@@ -720,19 +346,10 @@ severally	/ˈsɛvɹəɫi/
 severance	/ˈsɛˌvɝəns/, /ˈsɛvɹəns/
 severed	/ˈsɛvɝd/
 severer	/ˈsɛˌvɪɹɝ/
-severin	/ˈsɛvɝɪn/
 severing	/ˈsɛvɝɪŋ/
 severn	/ˈsɛvɝn/
-severns	/ˈsɛvɝnz/
 severs	/ˈsɛvɝz/
-severson	/ˈsɛvɝsən/
-severt	/ˈsɛvɝt/
-severtson	/ˈsɛvɝtsən/
-sevick	/ˈsɛvɪk/
-sevier	/ˈsɛvjɝ/
-sevin	/ˈsɛvɪn/
 sex	/ˈsɛks/
-sexauer	/ˈsɛksaʊɝ/
 sexed	/ˈsɛkst/
 sexes	/ˈsɛksəz/, /ˈsɛksɪz/
 sexier	/ˈsɛksiɝ/
@@ -741,40 +358,20 @@ sexiness	/ˈsɛksinəs/
 sexism	/ˈsɛksɪzəm/
 sexist	/ˈsɛksɪst/
 sexless	/ˈsɛksɫɪs/
-sexson	/ˈsɛksən/
 sexting	/ˈsɛkˌstɪŋ/
 sexton	/ˈsɛkstən/
-sextus	/ˈsɛkstəs/
 sexual	/ˈsɛkʃuəɫ/
 sexually	/ˈsɛkʃuəɫi/
 sexy	/ˈsɛksi/
-silva	/ˈsɛɫvə/, /ˈsɪɫvə/
-tseng	/ˈsɛŋ/, /ˈtsɛŋ/
 
 celebration	/ˌsɛɫəˈbɹeɪʃən/
 celebrations	/ˌsɛɫəˈbɹeɪʃənz/
-cellulosa	/ˌsɛɫuˈɫoʊsə/
 centenarian	/ˌsɛntəˈnɛɹiən/
 centenarians	/ˌsɛntəˈnɛɹiənz/
-centerior	/ˌsɛnˈtɪɹiɝ/
-centoxin	/ˌsɛnˈtɑksɪn/
 centralization	/ˌsɛntɹəɫɪˈzeɪʃən/
-centrella	/ˌsɛnˈtɹɛɫə/
-centronics	/ˌsɛnˈtɹɑnɪks/
-cephalosporin	/ˌsɛfəˈɫɔˌspɔɹɪn/
-cerankosky	/ˌsɛɹəŋˈkɔˌski/
 ceremonial	/ˌsɛɹəˈmoʊniəɫ/
-cerezo	/ˌsɛˈɹeɪzoʊ/, /sɝˈeɪzoʊ/
-cervesato	/ˌsɛɹvɛˈsɑˌtoʊ/
-cerveza	/ˌsɛɹˈveɪzə/, /ˌsɝˈveɪzə/
 cessation	/ˌsɛˈseɪʃən/
-cezanne	/ˌsɛˈzæn/
-cezanne's	/ˌsɛˈzænz/
-psarouthakis	/ˌsɛɹuˈθɑkɪs/
-sarasota	/ˌsɛɹəˈsoʊtə/
 saratoga	/ˌsɛɹəˈtoʊɡə/
-sarofim	/ˌsɛɹəˈfim/
-secomerica	/ˌsɛkoʊˈmɛɹɪkə/
 secondarily	/ˌsɛkənˈdɛɹəɫi/
 secretarial	/ˌsɛkɹəˈtɛɹiəɫ/
 secretariat	/ˌsɛkɹɪˈtɛɹiət/
@@ -843,11 +440,8 @@ semifinish	/ˌsɛmaɪˈfɪnɪʃ/, /ˌsɛmiˈfɪnɪʃ/, /ˌsɛmɪˈfɪnɪʃ/
 semifinished	/ˌsɛmaɪˈfɪnɪʃt/, /ˌsɛmiˈfɪnɪʃt/, /ˌsɛmɪˈfɪnɪʃt/
 semigloss	/ˌsɛmiˈɡɫɑs/, /ˌsɛmɪˈɡɫɑs/
 semilegendary	/ˌsɛmiˈɫɛdʒənˌdɛɹi/, /ˌsɛmɪˈɫɛdʒənˌdɛɹi/
-seminara	/ˌsɛmɪˈnɑɹə/
 seminarian	/ˌsɛməˈnɛɹiən/
 seminarians	/ˌsɛməˈnɛɹiənz/
-seminario	/ˌsɛmɪˈnɛɹioʊ/
-semionenkov	/ˌsɛmioʊˈnɛŋkɑv/
 semiotic	/ˌsɛmiˈɑtɪk/
 semiotics	/ˌsɛmiˈɑtɪks/
 semipermanent	/ˌsɛmaɪˈpɝmənənt/, /ˌsɛmiˈpɝmənənt/, /ˌsɛmɪˈpɝmənənt/
@@ -865,22 +459,18 @@ sensibilities	/ˌsɛnsɪˈbɪɫɪtiz/
 sensibility	/ˌsɛnsɪˈbɪɫɪti/
 sensitivities	/ˌsɛnsɪˈtɪvɪtiz/
 sensitivity	/ˌsɛnsɪˈtɪvɪti/
-sensormatic	/ˌsɛnsɝˈmætɪk/
 sensuality	/ˌsɛnˌʃuˈæɫəˌti/
 sentimental	/ˌsɛnəˈmɛnəɫ/, /ˌsɛnəˈmɛntəɫ/, /ˌsɛntəˈmɛnəɫ/, /ˌsɛntəˈmɛntəɫ/
 sentimentality	/ˌsɛnəmɛnˈtæɫɪti/, /ˌsɛntəmɛnˈtæɫɪti/
 separation	/ˌsɛpɝˈeɪʃən/
 separations	/ˌsɛpɝˈeɪʃənz/
-sequestration	/ˌsɛkwəˈstɹeɪʃən/
+<!-- sequestration	/ˌsɛkwəˈstɹeɪʃən/ -->
 serenade	/ˌsɛɹəˈneɪd/
 serenaded	/ˌsɛɹəˈneɪdɪd/
 serenading	/ˌsɛɹəˈneɪdɪŋ/
 serendipitous	/ˌsɛɹənˈdɪpɪtəs/
 serendipity	/ˌsɛɹənˈdɪpɪti/
 serengeti	/ˌsɛɹənˈɡɛti/
-serono	/ˌsɛˈɹɑnoʊ/
-serritella	/ˌsɛɹɪˈtɛɫə/
-sethuraman	/ˌsɛθɝˈɑmɑn/
 sevastopol	/ˌsɛvəˈstɔpəɫ/
 sevruga	/ˌsɛvˈɹuɡə/
 sextet	/ˌsɛkˈstɛt/

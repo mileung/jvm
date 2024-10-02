@@ -1,113 +1,23 @@
 zezima
 
-zelina	/zɛˈɫinə/
-zembriski	/zɛmˈbɹɪski/
-zenina	/zɛˈninə/
-
 xebec	/ˈzɛbək/
-xenophon	/ˈzɛnəfən/
-xeriscape	/ˈzɛɹɪˌskeɪp/
-xero	/ˈzɛɹoʊ/
-zared	/ˈzɛɹd/
-zarett	/ˈzɛɹət/
-zaring	/ˈzɛɹɪŋ/
 zealot	/ˈzɛɫət/, /ˈziɫət/
 zealotry	/ˈzɛɫətɹi/
 zealots	/ˈzɛɫəts/, /ˈziɫəts/
 zealous	/ˈzɛɫəs/
 zealously	/ˈzɛɫəsɫi/, /ˈziɫəsɫi/
-zebley	/ˈzɛbɫi/
-zecca	/ˈzɛkə/
-zech	/ˈzɛk/
-zecher	/ˈzɛkɝ/
-zechman	/ˈzɛkmən/
-zeck	/ˈzɛk/
-zeckendorf	/ˈzɛkənˌdɔɹf/
 zed	/ˈzɛd/
-zeff	/ˈzɛf/
-zeglin	/ˈzɛɡɫɪn/
-zeh	/ˈzɛ/
-zehnder	/ˈzɛndɝ/
-zehner	/ˈzɛnɝ/
-zehntel	/ˈzɛnˌtɛɫ/
-zehr	/ˈzɛɹ/
-zehren	/ˈzɛɹən/
-zehring	/ˈzɛɹɪŋ/
-zel	/ˈzɛɫ/
 zelda	/ˈzɛɫdə/
-zeldin	/ˈzɛɫdɪn/
-zelek	/ˈzɛɫɪk/
-zelem	/ˈzɛɫəm/
-zelenak	/ˈzɛɫɪnək/
-zelia	/ˈzɛɫiə/
-zelie	/ˈzɛɫi/
-zeliff	/ˈzɛɫɪf/
-zelikow	/ˈzɛɫɪkoʊ/
-zelko	/ˈzɛɫkoʊ/
-zell	/ˈzɛɫ/
-zellars	/ˈzɛɫɝz/
 zelle	/ˈzɛɫ/
-zeller	/ˈzɛɫɝ/
-zellerbach	/ˈzɛɫɝˌbɑk/
-zellers	/ˈzɛɫɝz/
-zellman	/ˈzɛɫmən/
-zellmer	/ˈzɛɫmɝ/
-zellner	/ˈzɛɫnɝ/
-zelma	/ˈzɛɫmə/
-zelman	/ˈzɛɫmən/
-zelnick	/ˈzɛɫnɪk/
-zelotes	/ˈzɛɫəts/
-zeltner	/ˈzɛɫtnɝ/
-zeltzer	/ˈzɛɫtsɝ/
-zelvin	/ˈzɛɫvɪn/
-zemanek	/ˈzɛmənɪk/
-zemba	/ˈzɛmbə/
-zembower	/ˈzɛmˌbaʊɝ/
-zemel	/ˈzɛməɫ/
-zemke	/ˈzɛmk/
-zempel	/ˈzɛmpəɫ/
 zen	/ˈzɛn/
-zenchu	/ˈzɛnˌtʃu/
-zenda	/ˈzɛndə/
-zender	/ˈzɛndɝ/
-zeneca	/ˈzɛnəkə/
-zeneca's	/ˈzɛnəkəz/
-zeng	/ˈzɛŋ/
-zenica	/ˈzɛnɪkə/
-zenk	/ˈzɛŋk/
-zenker	/ˈzɛŋkɝ/
-zenna	/ˈzɛnə/
-zenner	/ˈzɛnɝ/
-zenor	/ˈzɛnɝ/
 zens	/ˈzɛnz/
-zent	/ˈzɛnt/
-zentec	/ˈzɛnˌtɛk/
-zentner	/ˈzɛntnɝ/
-zentralsparkasse	/ˈzɛntɹəɫˌspɑɹˌkɑzɪ/
-zentz	/ˈzɛnts/
-zenz	/ˈzɛnz/
-zepa	/ˈzɛpə/, /ˈziˈiˈpiˈeɪ/, /ˈzipə/
 zephyr	/ˈzɛfɝ/
 zephyrs	/ˈzɛfɝz/
-zepp	/ˈzɛp/
 zeppelin	/ˈzɛpɪɫɪn/
 zeppenfeld	/ˈzɛpəˌfɛɫd/
-zera	/ˈzɛɹə/
-zeringue	/ˈzɛɹɪŋ/
 zest	/ˈzɛst/
 zestful	/ˈzɛstfəɫ/
-zettel	/ˈzɛtəɫ/
-zettle	/ˈzɛtəɫ/
-zettlemoyer	/ˈzɛtəɫmɔɪɝ/
-zettler	/ˈzɛtɫɝ/
-zev	/ˈzɛv/
-zewe	/ˈzɛˌweɪ/, /ˈziˌwi/
 zheng	/ˈzɛŋ/
 
-xenophobia	/ˌzɛnəˈfoʊbiə/
-xenophobic	/ˌzɛnəˈfɑbɪk/
-zedekiah	/ˌzɛdəˈkaɪə/
-zeffirelli	/ˌzɛfɪˈɹɛɫi/
-zelaputon	/ˌzɛɫəpˈjutən/
-zemaitis	/ˌzɛˈmaɪtəs/
-zeroual	/ˌzɛɹuˈɑɫ/
+<!-- xenophobia	/ˌzɛnəˈfoʊbiə/ -->
+<!-- xenophobic	/ˌzɛnəˈfɑbɪk/ -->

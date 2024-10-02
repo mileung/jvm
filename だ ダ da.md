@@ -1,8 +1,6 @@
 dobby
 doxx
-
-datsun	/ˈdætsən/, /ˈdɑtsən/
-datsun's	/ˈdætsənz/, /ˈdɑtsənz/
+domicile
 
 darnell	/dɑɹˈnɛɫ/
 docility	/dɑˈsɪɫəti/
@@ -186,26 +184,15 @@ domination	/ˌdɑməˈneɪʃən/
 domineer	/ˌdɑməˈnɪɹ/
 domineering	/ˌdɑməˈnɪɹɪŋ/
 
-d'andrea	/ˈdænˌdɹiə/
 dab	/ˈdæb/
-dabah	/ˈdæbə/, /dəˈbɑ/
 dabbing	/ˈdæbɪŋ/
 dabble	/ˈdæbəɫ/
 dabbled	/ˈdæbəɫd/
 dabbles	/ˈdæbəɫz/
 dabbling	/ˈdæbəɫɪŋ/, /ˈdæbɫɪŋ/
-dabbs	/ˈdæbz/
 dabchick	/ˈdæbtʃɪk/
-dabhol	/ˈdæboʊɫ/
-dabney	/ˈdæbni/
 dac	/ˈdæk/
-dachau	/ˈdækaʊ/
-dack	/ˈdæk/
-dacquisto	/ˈdækwɪstoʊ/
-dacron	/ˈdæˌkɹɑn/
-dacs	/ˈdæks/
 dactyl	/ˈdæktɪɫ/
-dacus	/ˈdækɪs/
 dad	/ˈdæd/
 dad's	/ˈdædz/
 daddies	/ˈdædiz/
@@ -213,97 +200,36 @@ daddy	/ˈdædi/
 daddy-o	/ˈdædioʊ/
 daddy-o's	/ˈdædioʊz/
 daddy's	/ˈdædiz/
-dadfar	/ˈdædˌfɑɹ/
-dadisman	/ˈdædɪsmən/
 dads	/ˈdædz/
-daffern	/ˈdæfɝn/
-daffin	/ˈdæfɪn/
 daffodil	/ˈdæfəˌdɪɫ/
 daffodils	/ˈdæfəˌdɪɫz/
-daffron	/ˈdæfɹən/
 daffy	/ˈdæfi/
-dafna	/ˈdæfnə/
-dafoe	/ˈdæfoʊ/
-dafsa	/ˈdæfsə/
 daft	/ˈdæft/
 dag	/ˈdæɡ/
-dagen	/ˈdæɡən/
-dagenais	/ˈdæʒɪneɪ/
-dagenham	/ˈdæɡənˌhæm/
-dagenhart	/ˈdæɡənˌhɑɹt/
-dagestan	/ˈdæɡɛˌstæn/
-dagg	/ˈdæɡ/
 dagger	/ˈdæɡɝ/
 daggers	/ˈdæɡɝz/
-daggett	/ˈdæɡɪt/
-daggs	/ˈdæɡz/
-daggy	/ˈdæɡi/
-dagley	/ˈdæɡɫi/
-dagmar	/ˈdæɡˌmɑɹ/
 dagwood	/ˈdæˌɡwʊd/
-dahlgren	/ˈdæɫɡɹɪn/
-dahlia	/ˈdæɫjə/
-dahm	/ˈdæm/
-dahn	/ˈdæn/, /ˈdɑn/
-dahnke	/ˈdæŋk/
-daiquiri	/ˈdækɝi/
-dak	/ˈdæk/, /ˈdiˈeɪˈkeɪ/
-dal	/ˈdæɫ/
-dalafield	/ˈdæɫəˌfiɫd/
-dalai	/ˈdæˌɫeɪ/, /ˈdɑˌɫi/, /ˈdɔˌɫaɪ/
-dalbar	/ˈdæɫbɑɹ/
-dalbec	/ˈdæɫbɪk/
-dalbert	/ˈdæɫbɝt/
-dalbey	/ˈdæɫbi/
-daleiden	/ˈdæɫaɪdən/
-dalen	/ˈdæɫən/
-dalfen	/ˈdæɫfən/
-dalgleish	/ˈdæɫˌɡɫɪʃ/, /ˈdæɫɡəɫɪʃ/
-dalis	/ˈdæɫɪs/
-dalkon	/ˈdæɫkən/
-dalla	/ˈdæɫə/
 dallas	/ˈdæɫəs/
 dallas'	/ˈdæɫəs/
 dallas's	/ˈdæɫəsɪz/
-dalley	/ˈdæɫi/
 dalliance	/ˈdæɫiəns/
 dallied	/ˈdæɫid/
 dally	/ˈdæɫi/
-dalman	/ˈdæɫmən/
-dalrymple	/ˈdæɫɹɪmpəɫ/
-dalzell	/ˈdæɫzəɫ/
-dalziel	/ˈdæɫˌziɫ/
 dam	/ˈdæm/
 dam's	/ˈdæmz/
-damaclean	/ˈdæməkɫin/
 damage	/ˈdæmədʒ/, /ˈdæmɪdʒ/
 damaged	/ˈdæmədʒd/, /ˈdæmɪdʒd/
 damages	/ˈdæmədʒəz/, /ˈdæmɪdʒɪz/
 damaging	/ˈdæmɪdʒɪŋ/
 damask	/ˈdæməsk/
 damasks	/ˈdæməsks/
-dambach	/ˈdæmˌbɑk/
-dambacher	/ˈdæmˌbɑkɝ/
-dambra	/ˈdæmbɹə/
-damerlin	/ˈdæmɝɫɪn/, /ˈdeɪmɝɫɪn/
-damgard	/ˈdæmˌɡɑɹd/
-damitz	/ˈdæmɪts/
-damm	/ˈdæm/
-dammam	/ˈdæməm/
-damman	/ˈdæmən/
-dammann	/ˈdæmən/
-damme	/ˈdæm/, /ˈdeɪm/
 dammed	/ˈdæmd/
-dammen	/ˈdæmən/
-dammer	/ˈdæmɝ/
-dammerman	/ˈdæmɝmən/
 damming	/ˈdæmɪŋ/
 dammit	/ˈdæmɪt/
 damn	/ˈdæm/
 damned	/ˈdæmd/
 damning	/ˈdæmɪŋ/
 damns	/ˈdæmz/
-damocles	/ˈdæməˌkɫiz/
 damp	/ˈdæmp/
 damped	/ˈdæmpt/
 dampen	/ˈdæmpən/
@@ -311,22 +237,15 @@ dampened	/ˈdæmpənd/
 dampening	/ˈdæmpənɪŋ/, /ˈdæmpnɪŋ/
 damper	/ˈdæmpɝ/
 dampers	/ˈdæmpɝz/
-dampier	/ˈdæmpiɝ/
 damping	/ˈdæmpɪŋ/
 dampness	/ˈdæmpnɪs/
 damps	/ˈdæmps/
-damron	/ˈdæmɹən/
-damrow	/ˈdæmˌɹoʊ/
 dams	/ˈdæmz/
 damsel	/ˈdæmzəɫ/
 damson	/ˈdæmsən/
-damuth	/ˈdæmuθ/
 dan	/ˈdæn/
 dan's	/ˈdænz/
-danaher	/ˈdænəhɝ/
-danahy	/ˈdænəhi/
 danbury	/ˈdænbɝi/
-danby	/ˈdænbi/
 dance	/ˈdæns/
 danced	/ˈdænst/
 dancer	/ˈdænsɝ/
@@ -337,30 +256,18 @@ dances	/ˈdænsəz/, /ˈdænsɪz/
 dancey	/ˈdænsi/
 dancin'	/ˈdænsɪn/
 dancing	/ˈdænsɪŋ/
-dancsak	/ˈdænksæk/
 dancy	/ˈdænsi/
 dandelion	/ˈdændəˌɫaɪən/
 dandelions	/ˈdændəˌɫaɪənz/
-dandeneau	/ˈdændɪnoʊ/
-dando	/ˈdændoʊ/
-dandrea	/ˈdændɹiə/
-dandridge	/ˈdændɹɪdʒ/
 dandruff	/ˈdændɹəf/
-dandurand	/ˈdændɝənd/
 dandy	/ˈdændi/
 dandyism	/ˈdændiˌɪzəm/
-danek	/ˈdænɪk/
-danford	/ˈdænfɝd/
-danforth	/ˈdænfɝθ/
-dang	/ˈdæŋ/
-dangelo	/ˈdændʒəɫoʊ/
-dangle	/ˈdæŋɡəɫ/
-dangled	/ˈdæŋɡəɫd/
-dangler	/ˈdæŋɡəɫɝ/, /ˈdæŋɡɫɝ/
-dangles	/ˈdæŋɡəɫz/
-dangling	/ˈdæŋɡəɫɪŋ/, /ˈdæŋɡɫɪŋ/
-dango	/ˈdæŋɡoʊ/
-danica	/ˈdænɪkə/
+<!-- dang	/ˈdæŋ/ -->
+<!-- dangle	/ˈdæŋɡəɫ/ -->
+<!-- dangled	/ˈdæŋɡəɫd/ -->
+<!-- dangler	/ˈdæŋɡəɫɝ/, /ˈdæŋɡɫɝ/ -->
+<!-- dangles	/ˈdæŋɡəɫz/ -->
+<!-- dangling	/ˈdæŋɡəɫɪŋ/, /ˈdæŋɡɫɪŋ/ -->
 daniel	/ˈdænjəɫ/
 daniel's	/ˈdænjəɫz/
 daniell	/ˈdæniɫ/
@@ -368,157 +275,41 @@ daniels	/ˈdænjəɫz/
 daniels's	/ˈdænjəɫzɪz/, /ˌdænˈjɛɫzɪz/
 danielsen	/ˈdænjəɫsən/
 danielson	/ˈdænjəɫsən/
-daniloff	/ˈdænəɫɔf/
-danju	/ˈdændʒu/
-danju's	/ˈdændʒuz/
-danjub	/ˈdændʒub/
-danjub's	/ˈdændʒubz/
-danjube	/ˈdændʒub/
-danjube's	/ˈdændʒubz/
-danjus	/ˈdændʒəs/, /ˈdændʒuz/
-dank	/ˈdæŋk/
-danker	/ˈdæŋkɝ/
-dankert	/ˈdæŋkɝt/
-dankner	/ˈdæŋknɝ/
-danko	/ˈdæŋkoʊ/
-danks	/ˈdæŋks/
-danley	/ˈdænɫi/
-danly	/ˈdænɫi/
-dann	/ˈdæn/
-danna	/ˈdænə/
-dannelly	/ˈdænəɫi/
-dannels	/ˈdænəɫz/
-dannemeyer	/ˈdænˌmaɪɹ/, /ˈdænəˌmaɪɹ/
-dannemiller	/ˈdænˌmɪɫɝ/, /ˈdænəˌmɪɫɝ/
-dannen	/ˈdænən/
-dannenberg	/ˈdænənbɝɡ/
-danner	/ˈdænɝ/
-danners	/ˈdænɝz/
+<!-- dank	/ˈdæŋk/ -->
+<!-- danker	/ˈdæŋkɝ/ -->
 dannie	/ˈdæni/
 danny	/ˈdæni/
 danny's	/ˈdæniz/
-dansby	/ˈdænsbi/
-danser	/ˈdænsɝ/
-dansereau	/ˈdænsɝˌoʊ/
-dansforth	/ˈdænsˈfɔɹθ/
-dansforth's	/ˈdænsˈfɔɹθs/
-dansie	/ˈdænsi/
-danske	/ˈdænsk/
-danskin	/ˈdænskɪn/
-dansky	/ˈdænski/
-danso	/ˈdænsoʊ/
-danson	/ˈdænsən/
-danstett	/ˈdænstɛt/
-dansville	/ˈdænzvɪɫ/
-dansville's	/ˈdænzvɪɫz/
-dant	/ˈdænt/
 dante's	/ˈdæntiz/
-dantin	/ˈdæntɪn/
-danton	/ˈdæntən/
-dantzler	/ˈdæntsɫɝ/
-danube	/ˈdænjub/
-danvers	/ˈdænvɝz/
 danville	/ˈdænˌvɪɫ/
-danvy	/ˈdænvi/
-danz	/ˈdænz/
-danza	/ˈdænzə/
-danzer	/ˈdænzɝ/
-danzig	/ˈdænzɪɡ/
-danziger	/ˈdænzɪɡɝ/
-danzy	/ˈdænzi/
 daphne	/ˈdæfni/
 daphne's	/ˈdæfniz/
 daphnis	/ˈdæfnəs/
 dapp	/ˈdæp/
 dapper	/ˈdæpɝ/
-dara	/ˈdæɹə/
-daren	/ˈdæɹɪn/
-darensbourg	/ˈdæɹənzbɝɡ/, /ˈdæɹɪnsbɝɡ/
-darin	/ˈdæɹɪn/
-darity	/ˈdæɹɪti/
-darrah	/ˈdæɹə/
-darrick	/ˈdæɹɪk/
-darrin	/ˈdæɹɪn/
 darrington	/ˈdæɹɪŋtən/
-darroch	/ˈdæɹək/
-darrough	/ˈdæɹaʊ/
 das	/ˈdæs/, /ˈdɑs/
 dasa	/ˈdæsə/, /ˈdɑsə/
-dasburg	/ˈdæsbɝɡ/
-dasch	/ˈdæʃ/
-daschle	/ˈdæʃɫi/
 dash	/ˈdæʃ/
 dashboard	/ˈdæʃˌbɔɹd/
 dashboards	/ˈdæʃˌbɔɹdz/
 dashed	/ˈdæʃt/
-dashel	/ˈdæʃəɫ/
-dashell	/ˈdæʃəɫ/
 dasher	/ˈdæʃɝ/
 dashes	/ˈdæʃɪz/
-dashiell	/ˈdæʃiɫ/
 dashing	/ˈdæʃɪŋ/
-dashnaw	/ˈdæʃnɔ/
-dashner	/ˈdæʃnɝ/
-dashville	/ˈdæʃˌvɪɫ/
-dashwood	/ˈdæʃˌwʊd/
-daspin	/ˈdæspɪn/
-daspit	/ˈdæspɪt/
-dass	/ˈdæs/
-dassault	/ˈdæsɔɫt/
-dassault's	/ˈdæsɔɫts/
-dassler	/ˈdæsɫɝ/
-dassow	/ˈdæsoʊ/
 dastardly	/ˈdæstɝdɫi/
 dat	/ˈdæt/
-data	/ˈdætə/, /ˈdeɪtə/
-data's	/ˈdætəz/, /ˈdeɪtəz/
-database	/ˈdætəˌbeɪs/, /ˈdeɪtəˌbeɪs/
-databases	/ˈdætəˌbeɪsɪz/, /ˈdeɪtəˌbeɪsɪz/
-datacard	/ˈdætəˌkɑɹd/, /ˈdeɪtəˌkɑɹd/
-datacards	/ˈdætəˌkɑɹdz/, /ˈdeɪtəˌkɑɹdz/
-datacomm	/ˈdætəˌkɑm/, /ˈdeɪtəˌkɑm/
-datacomp	/ˈdætəˌkɑmp/, /ˈdeɪtəˌkɑmp/
-datacopy	/ˈdætəˌkɑpi/, /ˈdeɪtəˌkɑpi/
-datametrics	/ˈdætəˌmɛtɹɪks/, /ˈdeɪtəˌmɛtɹɪks/
-datapoint	/ˈdætəˈpɔɪnt/, /ˈdeɪtəˈpɔɪnt/
-datapoint's	/ˈdætəˈpɔɪnts/, /ˈdeɪtəˈpɔɪnts/
-datapoints	/ˈdætəˈpɔɪnts/, /ˈdeɪtəˈpɔɪnts/
-datapower	/ˈdætəˌpaʊɹ/, /ˈdeɪtəˌpaʊɹ/
-dataproducts'	/ˈdætəˌpɹɔdəkts/, /ˈdeɪtəˌpɹɔdəkts/
-dataquest	/ˈdætəˌkwɛst/, /ˈdeɪtəˌkwɛst/
-dataquest's	/ˈdætəˌkwɛsts/, /ˈdeɪtəˌkwɛsts/
-dataram	/ˈdætɝˌæm/, /ˈdeɪtɝˌæm/
-datarex	/ˈdætɝˌɛks/, /ˈdeɪtɝˌɛks/
-datas	/ˈdætəz/, /ˈdeɪtəz/
-datek	/ˈdætɛk/
-datext	/ˈdæˌtɛkst/
-datron	/ˈdætɹən/
-dats	/ˈdæts/
+<!-- data	/ˈdætə/, /ˈdeɪtə/ -->
+<!-- data's	/ˈdætəz/, /ˈdeɪtəz/ -->
+<!-- database	/ˈdætəˌbeɪs/, /ˈdeɪtəˌbeɪs/ -->
+<!-- databases	/ˈdætəˌbeɪsɪz/, /ˈdeɪtəˌbeɪsɪz/ -->
+<!-- datacard	/ˈdætəˌkɑɹd/, /ˈdeɪtəˌkɑɹd/ -->
+<!-- datacards	/ˈdætəˌkɑɹdz/, /ˈdeɪtəˌkɑɹdz/ -->
 datsun	/ˈdætsən/, /ˈdɑtsən/
 datsun's	/ˈdætsənz/, /ˈdɑtsənz/
-datum	/ˈdætəm/, /ˈdeɪtəm/
-datz	/ˈdæts/
-davco	/ˈdævkoʊ/
-davee	/ˈdævi/
+<!-- datum	/ˈdætəm/, /ˈdeɪtəm/ -->
 davenport	/ˈdævənˌpɔɹt/
 davenport's	/ˈdævənˌpɔɹts/
-davern	/ˈdævɝn/
-davidge	/ˈdævɪdʒ/
-davidow	/ˈdævɪdoʊ/
-davin	/ˈdævɪn/
-davio's	/ˈdævioʊz/
-davisson	/ˈdævɪsən/
-davlin	/ˈdævɫɪn/
-davox	/ˈdævɑks/
-dawit	/ˈdæwɪt/
-dax	/ˈdæks/
-dax'	/ˈdæks/
-dax's	/ˈdæksɪz/
-daxor	/ˈdæksɝ/
 dazzle	/ˈdæzəɫ/
 dazzled	/ˈdæzəɫd/
 dazzling	/ˈdæzəɫɪŋ/, /ˈdæzɫɪŋ/
-dazzo	/ˈdæzoʊ/
-deandrea	/ˈdædɹiə/, /ˌdiæˈdɹeɪə/
-deandrea's	/ˈdædɹiəz/, /ˌdiæˈdɹeɪəz/
-dhaka	/ˈdækæ/, /ˈdækə/, /ˈdɑkə/

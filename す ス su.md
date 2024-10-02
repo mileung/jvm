@@ -1,33 +1,8 @@
-souffle	/suˈfɫeɪ/
-soutar	/suˈtɑɹ/
-suata	/suˈɑtə/
-suata's	/suˈɑtəz/
-subia	/suˈbiə/
-subroto	/suˈbɹoʊtoʊ/
-suchard	/suˈʃɑɹd/
+sous vide
+
 sudan	/suˈdæn/
 sudan's	/suˈdænz/
-sudano	/suˈdɑnoʊ/
-sugihara	/suɡiˈhɑɹə/
-sugimoto	/suɡiˈmoʊtoʊ/
-sugiyama	/suɡiˈjɑmə/
-suharto	/suˈhɑɹtoʊ/
-suharto's	/suˈhɑɹtoʊz/
-suhud	/suˈhʊd/
-sukarno	/suˈkɑɹnoʊ/
-sukarno's	/suˈkɑɹnoʊz/
 sukiyaki	/sukiˈɑki/
-sukthankar	/sukˈtɑŋˌkɑɹ/
-sulpetro	/suɫˈpɛtɹoʊ/
-sumida	/suˈmidə/
-sumita	/suˈmitə/
-sumita's	/suˈmitəz/
-sumrell	/sumˈɹeɪɫ/
-sundararajan	/sunˌdɑɹəˈɹɑdʒən/
-suniga	/suˈniɡə/
-sunil	/suˈnɪɫ/
-sunobe	/suˈnoʊbi/
-sunobe's	/suˈnoʊbiz/
 supercollider	/supɝkəˈɫaɪdɝ/
 supercomputing	/supɝkəmˈpjutɪŋ/
 superconductive	/supɝkənˈdəktɪv/
@@ -36,106 +11,51 @@ superdelegates	/supɝˈdɛɫəɡəts/
 superior	/suˈpɪɹiɝ/
 superior's	/suˈpiɹiɝz/
 superiors	/suˈpɪɹiɝz/
-superregionals'	/supɝˈɹidʒənəɫz/
-supremacist	/suˈpɹɛməsɪst/
-supremacists	/suˈpɹɛməsɪsts/
+<!-- supremacist	/suˈpɹɛməsɪst/ -->
+<!-- supremacists	/suˈpɹɛməsɪsts/ -->
 supremely	/suˈpɹiməɫi/
 supremes	/suˈpɹimz/
-suprenant	/suˈpɹeɪnənt/
 susana	/suˈsɑnə/
 susanna	/suˈzænə/
-sustaita	/suˈsteɪtə/
-sutera	/suˈtɛɹə/
 suzanne	/suˈzæn/
 suzuana	/suzuˈɑnə/
-tsukamoto	/sukɑˈmoʊtoʊ/, /tsukɑˈmoʊtoʊ/
-tsunami	/suˈnɑmi/, /tsuˈnɑmi/
-tsurumi	/suˈɹumi/, /tsuˈɹumi/
+<!-- tsunami	/suˈnɑmi/, /tsuˈnɑmi/ -->
+<!-- tsurumi	/suˈɹumi/, /tsuˈɹumi/ -->
 
 pseudo	/ˈsudoʊ/
 pseudonym	/ˈsudəˌnɪm/
 pseudonyms	/ˈsudəˌnɪmz/
-seubert	/ˈsubɝt/
-seufert	/ˈsufɝt/
 seuss	/ˈsus/
 sewage	/ˈsuədʒ/, /ˈsuɪdʒ/
-sewald	/ˈsuəɫd/
-sewall	/ˈsuəɫ/
-seward	/ˈsuɝd/
-seward's	/ˈsuɝdz/
-sewell	/ˈsuəɫ/, /ˈsuɪɫ/
 sewer	/ˈsuɝ/
 sewerage	/ˈsuɝɪdʒ/
 sewers	/ˈsuɝz/
-siew	/ˈsu/
 sioux	/ˈsu/
-soo	/ˈsu/
-sood	/ˈsud/
-soohoo	/ˈsuˌhu/
 soon	/ˈsun/
 sooner	/ˈsunɝ/
 sooner's	/ˈsunɝz/
 sooners	/ˈsunɝz/
 soonest	/ˈsunəst/
-soong	/ˈsuŋ/
-soos	/ˈsuz/
 soothe	/ˈsuð/
 soothed	/ˈsuðd/
 soothes	/ˈsuðz/
 soothing	/ˈsuðɪŋ/
 soothingly	/ˈsuðɪŋɫi/
-sooty	/ˈsuti/
-sooy	/ˈsui/
-souccar	/ˈsuˌkɑɹ/
-souk	/ˈsuk/
-soules	/ˈsuɫz/
-soulier	/ˈsuˌɫiɝ/
-souljah	/ˈsuɫˌdʒɑ/
-soulliere	/ˈsuɫiɛɹ/
+<!-- sooty	/ˈsuti/ -->
 soup	/ˈsup/
 soup's	/ˈsups/
 souped	/ˈsupt/
 soups	/ˈsups/
 soupy	/ˈsuˌpi/
-souris	/ˈsuɹɪs/
 sous	/ˈsuz/
-sousa	/ˈsuzə/
-sousa's	/ˈsuzəz/
 sousaphone	/ˈsuzəˌfoʊn/
-souto	/ˈsutoʊ/
-souveroff	/ˈsuvɝɔf/
-souza	/ˈsuzə/
-souzas	/ˈsuzəz/
-su	/ˈsu/
-suard	/ˈsuɑɹd/, /ˈswɑɹd/
-suba	/ˈsubə/
-subaru	/ˈsubɝu/
-suber	/ˈsubɝ/
-subic	/ˈsubɪk/
-sublett	/ˈsubɫɪt/
-subra	/ˈsubɹə/
-sucralose	/ˈsukɹəˌɫoʊs/
-sucre	/ˈsukɝ/
 sucrose	/ˈsukɹoʊs/
-suda	/ˈsudə/
-sudafed	/ˈsudəˌfɛd/
-suder	/ˈsudɝ/
-suderman	/ˈsudɝmən/
-sudler	/ˈsudəɫɝ/, /ˈsudɫɝ/
-sudol	/ˈsudəɫ/
 sue	/ˈsu/
 sued	/ˈsud/
 sueker	/ˈsukɝ/
-suen	/ˈsun/
 sues	/ˈsuz/
-suey	/ˈsui/
 suez	/ˈsuɛz/
 suez's	/ˈsuɛzɪz/
-sugerman	/ˈsuɡɝmən/
-suhler	/ˈsuɫɝ/
-suhm	/ˈsum/
-suhua	/ˈsuhˈwɑ/
-sui	/ˈsui/, /swi/
 suicide	/ˈsuəˌsaɪd/, /ˈsuɪˌsaɪd/
 suicides	/ˈsuəˌsaɪdz/
 suing	/ˈsuɪŋ/
@@ -146,40 +66,15 @@ suitably	/ˈsutəbɫi/
 suitcase	/ˈsutˌkeɪs/
 suitcases	/ˈsutˌkeɪsɪz/
 suited	/ˈsutɪd/
-suiter	/ˈsutɝ/
 suiting	/ˈsutɪŋ/
 suitor	/ˈsutɝ/
 suitor's	/ˈsutɝz/
 suitors	/ˈsutɝz/
 suits	/ˈsuts/
-suitt	/ˈsut/
-sukey	/ˈsuki/
-suki	/ˈsuki/
-sukru	/ˈsukɹu/, /ˈsʊkɹu/
-sukup	/ˈsukəp/
-sulak	/ˈsuɫək/
-sulek	/ˈsuɫɪk/
-suleyman	/ˈsuɫimən/
-sulik	/ˈsuɫɪk/
-sullenger	/ˈsuɫɪndʒɝ/
-sullo	/ˈsuɫoʊ/
-sulya	/ˈsuɫjə/
-suma	/ˈsumə/
 sumac	/ˈsumæk/
-suman	/ˈsumən/
-summa	/ˈsumə/
 sumo	/ˈsumoʊ/
-sunau	/ˈsunaʊ/
-sundar	/ˈsundɑɹ/
-suni	/ˈsuni/
-sunia	/ˈsuniə/
 sunni	/ˈsuni/
-suny	/ˈsuˌni/
-suon	/ˈsuɔn/
-supak	/ˈsupək/
-supan	/ˈsupən/
 super	/ˈsupɝ/
-superbar	/ˈsupɝˌbɑɹ/
 superbly	/ˈsupɝbɫi/
 superbowl	/ˈsupɝˌboʊɫ/
 superbowl's	/ˈsupɝˌboʊɫz/
@@ -192,17 +87,12 @@ superconductors	/ˈsupɝkənˌdəktɝz/
 supercut	/ˈsupɝˌkət/
 supercuts	/ˈsupɝˌkəts/
 superdot	/ˈsupɝˌdɑt/
-superdrug	/ˈsupɝˌdɹəɡ/
 superfamily	/ˈsupɝˌfæmɫi/
 superfan	/ˈsupɝˌfæn/
 superfast	/ˈsupɝˌfæst/
 superficially	/ˈsupɝˌfɪʃəɫi/
 superfluous	/ˈsupɝfɫˌwəs/
-superfon	/ˈsupɝfɪn/
-superfreighter	/ˈsupɝˌfɹeɪtɝ/
-superfreighters	/ˈsupɝˌfɹeɪtɝz/
 supergiant	/ˈsupɝˈdʒaɪənt/
-supermac	/ˈsupɝˌmæk/
 supermajority	/ˈsupɝməˌdʒɔɹɪti/
 superman	/ˈsupɝˌmæn/, /ˈsupɝmən/
 superman's	/ˈsupɝmænz/
@@ -231,21 +121,14 @@ supervisor	/ˈsupɝˌvaɪzɝ/
 supervisors'	/ˈsupɝˌvaɪzɝz/
 superwoman	/ˈsupɝˌwʊmən/
 superwomen	/ˈsupɝˌwɪmɪn/
-superx	/ˈsupɝˌɛks/
 supine	/ˈsupaɪn/, /səˈpaɪn/
-suppa	/ˈsupə/
 supra	/ˈsupɹə/
 susa	/ˈsusə/
 susan	/ˈsuzən/
 susan's	/ˈsuzənz/
 sushi	/ˈsuʃi/
-susi	/ˈsusi/
 susie	/ˈsuzi/
 susie's	/ˈsuziz/
-susy	/ˈsuzi/
-suter	/ˈsutɝ/
-suto	/ˈsutoʊ/
-sutor	/ˈsutɝ/
 sutro	/ˈsutɹoʊ/
 sutro's	/ˈsutɹoʊz/
 suture	/ˈsutʃɝ/
@@ -254,43 +137,24 @@ sutures	/ˈsutʃɝz/
 suturing	/ˈsutʃɝɪŋ/
 suva	/ˈsuvə/
 suzhou	/ˈsuˌʒu/
-suzman	/ˈsuzmən/
 suzy	/ˈsuzi/
 suzy's	/ˈsuziz/
-tsuda	/ˈsudə/, /ˈtsudə/
-tsui	/ˈsui/, /ˈtsui/
-tsuji	/ˈsudʒi/, /ˈtsudʒi/
-tsuneo	/ˈsunioʊ/, /ˈtsunioʊ/
 
 pseudomonas	/ˌsudəˈmoʊnəz/
-pseudopodial	/ˌsudəˈpoʊdiəɫ/
 pseudoscience	/ˌsudoʊˈsaɪəns/
 pseudoscientific	/ˌsudoʊˌsaɪənˈtɪfɪk/
-soonyi	/ˌsunˈji/
-soonyi's	/ˌsunˈjiz/
 soothsayer	/ˌsuθˈseɪɝ/
 soothsayers	/ˌsuθˈseɪɝz/
 souvenir	/ˌsuvəˈnɪɹ/
 souvenirs	/ˌsuvəˈnɪɹz/
-subramanian	/ˌsubɹəˈmɑniən/
-suchinda	/ˌsuˈtʃɪndə/
 sudanese	/ˌsudəˈniz/
 suicidal	/ˌsuəˈsaɪdəɫ/
 suitability	/ˌsutəˈbɪɫɪti/
-sukhumi	/ˌsuˈkumi/
 sulawesi	/ˌsuɫəˈwɛsi/
-sumarlin	/ˌsuˈmɑɹɫɪn/
-sumatoma	/ˌsuməˈtoʊmə/
-sumatomo	/ˌsuməˈtoʊmoʊ/
 sumatra	/ˌsuˈmɑtɹə/
 sumatran	/ˌsuˈmɑtɹən/
-sumitomo	/ˌsumɪˈtoʊmoʊ/
-sumitomo's	/ˌsumɪˈtoʊmoʊz/
 super-imposition	/ˌsupɝˌɪmpəˈzɪʃən/
 super-position	/ˌsupɝpəˈzɪʃən/
-superabrasive	/ˌsupɝəˈbɹeɪsɪv/
-superabrasives	/ˌsupɝəˈbɹeɪsɪvz/
-superamerica	/ˌsupɝəˈmɛɹɪkə/
 supercalifragilistic	/ˌsupɝˌkæɫəˈfɹædʒəˌɫɪstɪk/
 supercharge	/ˌsupɝˈtʃɑɹdʒ/
 supercharged	/ˌsupɝˈtʃɑɹdʒd/
@@ -314,7 +178,6 @@ superhighways	/ˌsupɝˈhaɪˌweɪz/
 superhuman	/ˌsupɝˈhjumən/
 superimpose	/ˌsupɝəmˈpoʊz/
 superimposed	/ˌsupɝəmˈpoʊzd/
-superintendant	/ˌsupɝənˈtɛndənt/, /ˌsupɝɪnˈtɛndənt/
 superintendent	/ˌsupɝənˈtɛndənt/, /ˌsupɝɪnˈtɛndənt/
 superintendent's	/ˌsupɝɪnˈtɛndənts/
 superintendents	/ˌsupɝənˈtɛndənts/, /ˌsupɝɪnˈtɛndənts/
@@ -327,8 +190,6 @@ superoxide	/ˌsupɝˈɑkˌsaɪd/
 superpower	/ˌsupɝˈpaʊɝ/
 superpowers	/ˌsupɝˈpaʊɝz/
 superpremium	/ˌsupɝˈpɹimiəm/, /ˌsupɝˈpɹimjəm/
-superregional	/ˌsupɝˈɹidʒənəɫ/
-superregionals	/ˌsupɝˈɹidʒənəɫz/
 supersede	/ˌsupɝˈsid/
 superseded	/ˌsupɝˈsidɪd/
 supersedes	/ˌsupɝˈsidz/
@@ -341,21 +202,13 @@ superstation	/ˌsupɝˈsteɪʃən/
 superstition	/ˌsupɝˈstɪʃən/
 superstitions	/ˌsupɝˈstɪʃənz/
 superstitious	/ˌsupɝˈstɪʃəs/
-supervalu	/ˌsupɝˈvæɫju/
-supervalue	/ˌsupɝˈvæɫju/
 supervision	/ˌsupɝˈvɪʒən/
 supervisor's	/ˌsupɝˈvaɪzɝz/
 supervisors	/ˌsupɝˈvaɪzɝz/
 supervisory	/ˌsupɝˈvaɪzɝi/
-supervoting	/ˌsupɝˈvoʊtɪŋ/
-supranational	/ˌsupɹəˈnæʃənəɫ/
 susann	/ˌsuˈzæn/
 susannah	/ˌsuˈsænə/
 susanne	/ˌsuˈzæn/
-susette	/ˌsuˈzɛt/
 susquehanna	/ˌsuskwɛˈhænə/
 susquehanna's	/ˌsuskwɛˈhænəz/
-susumu	/ˌsuˈsumu/
-suzanna	/ˌsuˈzænə/
-suzette	/ˌsuˈzɛt/
-tsukuba	/ˌsukˈjubə/, /ˌtsukˈjubə/
+<!-- tsukuba	/ˌsukˈjubə/, /ˌtsukˈjubə/ -->

@@ -446,44 +446,29 @@ tanzania	/ˌtænˈzeɪnjə/, /ˌtænzəˈniə/, /tænˈzeɪniə/
 tanzania's	/ˌtænˈzeɪnjəz/, /ˌtænzəˈniəz/, /tænˈzeɪniəz/
 taxation	/tækˈseɪʃən/
 
-ptak	/ˈtæk/
-t'ang	/ˈtæŋ/
 tab	/ˈtæb/
-tabak	/ˈtæbæk/, /təˈbæk/
-tabb	/ˈtæb/
-tabbert	/ˈtæbɝt/
 tabbing	/ˈtæbɪŋ/
 tabby	/ˈtæbi/
 tabernacle	/ˈtæbɝˌnækəɫ/
-tabitha	/ˈtæbɪθə/
 tablature	/ˈtæbɫətʃɝ/
 tablet	/ˈtæbɫət/
 tablets	/ˈtæbɫəts/
 tabloid	/ˈtæbɫɔɪd/
 tabloids	/ˈtæbɫɔɪdz/
-taborn	/ˈtæbɝn/
-tabron	/ˈtæbɹən/
 tabs	/ˈtæbz/
 tabulate	/ˈtæbjəˌɫeɪt/
 tabulated	/ˈtæbjəˌɫeɪtɪd/
 tabulating	/ˈtæbjəˌɫeɪtɪŋ/
 tabulature	/ˈtæbjəɫətʃɝ/
-tac	/ˈtæk/, /ˈtiˈeɪˈsi/
 tacit	/ˈtæsɪt/
 tacitly	/ˈtæsɪtɫi/
 taciturn	/ˈtæsɪˌtɝn/
 tack	/ˈtæk/
-tacke	/ˈtæk/
 tacked	/ˈtækt/
-tacker	/ˈtækɝ/
-tackett	/ˈtækɪt/
-tacking	/ˈtækɪŋ/
-tackitt	/ˈtækɪt/
 tackle	/ˈtækəɫ/
 tackled	/ˈtækəɫd/
 tackles	/ˈtækəɫz/
 tackling	/ˈtækəɫɪŋ/, /ˈtækɫɪŋ/
-tacks	/ˈtæks/
 tacky	/ˈtæki/
 tact	/ˈtækt/
 tactful	/ˈtæktfəɫ/
@@ -495,100 +480,48 @@ tactics	/ˈtæktɪks/
 tactile	/ˈtækˌtaɪɫ/, /ˈtæktɪɫ/
 tactless	/ˈtæktɫəs/
 tad	/ˈtæd/
-tadd	/ˈtæd/
-taddei	/ˈtædaɪ/
-taddy	/ˈtædi/
-tadeusz	/ˈtædiuz/
-tadic	/ˈtædɪk/
-tadlock	/ˈtædɫək/
 tadpole	/ˈtædˌpoʊɫ/
 tadpoles	/ˈtædˌpoʊɫz/
-taekwondo	/ˈtæˌkwɑnˈdoʊ/, /taɪˈkwɑndoʊ/
-tafel	/ˈtæfəɫ/
-taff	/ˈtæf/
-taffe	/ˈtæf/
-taffel	/ˈtæfəɫ/
-taffeta	/ˈtæfətə/
+<!-- taekwondo	/ˈtæˌkwɑnˈdoʊ/, /taɪˈkwɑndoʊ/ -->
 taffy	/ˈtæfi/
 taft	/ˈtæft/
 taft's	/ˈtæfts/
 tag	/ˈtæɡ/
 tagalog	/ˈtæɡəˌɫɑɡ/
-tagamet	/ˈtæɡəˈmɛt/
-tagg	/ˈtæɡ/
-taggart	/ˈtæɡɝt/
-taggart's	/ˈtæɡɝts/
-tagge	/ˈtæɡ/
 tagged	/ˈtæɡd/
-taggert	/ˈtæɡɝt/
 tagging	/ˈtæɡɪŋ/
 tagline	/ˈtæˌɡɫaɪn/
 tagout	/ˈtæˌɡaʊt/
 tags	/ˈtæɡz/
 tahoe	/ˈtæhoʊ/
-tak	/ˈtæk/
-takach	/ˈtækək/
-takacs	/ˈtækəks/
-taki	/ˈtæˌki/
-taki's	/ˈtæˌkiz/
-takla-makan	/ˈtækɫəˈmeɪkən/
-talbert	/ˈtæɫbɝt/
-talbot	/ˈtæɫbət/
-talbot's	/ˈtæɫbəts/
-talbots	/ˈtæɫbəts/
-talbott	/ˈtæɫbət/
-talbott's	/ˈtæɫbəts/
 talc	/ˈtæɫk/
-talcott	/ˈtæɫkət/
-talcs	/ˈtæɫks/
 talcum	/ˈtæɫkəm/
 talent	/ˈtæɫənt/
 talented	/ˈtæɫəntɪd/
 talents	/ˈtæɫənts/
-talford	/ˈtæɫfɝd/
 taliban	/ˈtæɫɪˌbæn/
 taliban's	/ˈtæɫɪˌbænz/
 talibans	/ˈtæɫɪˌbænz/
-taligent	/ˈtæɫɪdʒɛnt/
 talisman	/ˈtæɫɪsmən/
 talitha	/ˈtæɫɪðə/
 talley	/ˈtæɫi/
 tallied	/ˈtæɫid/
 tallies	/ˈtæɫiz/
-tallmadge	/ˈtæɫmædʒ/
-tallo	/ˈtæɫoʊ/
 tallon	/ˈtæɫən/
 tallow	/ˈtæɫoʊ/
 tally	/ˈtæɫi/
 tallying	/ˈtæɫiɪŋ/
-talmadge	/ˈtæɫmædʒ/
-talmage	/ˈtæɫmɪdʒ/
-talman	/ˈtæɫmən/
-talmor	/ˈtæɫˌmɔɹ/
 talmud	/ˈtæɫməd/
 talon	/ˈtæɫən/
 talons	/ˈtæɫənz/
-talton	/ˈtæɫtən/
 tam	/ˈtæm/
 tamarac	/ˈtæmɝæk/
 tamarin	/ˈtæmɝən/
 tamarins	/ˈtæmɝənz/
 tamarisk	/ˈtæmɝɪsk/
 tamarisks	/ˈtæmɝɪsks/
-tamblyn	/ˈtæmbɫɪn/
-tambo	/ˈtæmboʊ/
-tambocor	/ˈtæmboʊˌkɔɹ/
-tambrands	/ˈtæmˌbɹændz/
-tambs	/ˈtæmz/
-tami	/ˈtæmi/
 tamil	/ˈtæmɪɫ/, /təˈmɪɫ/
 tamils	/ˈtæmɪɫz/, /təˈmɪɫz/
-tamke	/ˈtæmki/
-tamm	/ˈtæm/
-tammany	/ˈtæməni/
-tammen	/ˈtæmən/
-tammie	/ˈtæmi/
-tammo	/ˈtæmoʊ/
 tammy	/ˈtæmi/
 tamp	/ˈtæmp/
 tampa	/ˈtæmpə/
@@ -598,115 +531,55 @@ tamper	/ˈtæmpɝ/
 tampered	/ˈtæmpɝd/
 tampering	/ˈtæmpɝɪŋ/
 tamping	/ˈtæmpɪŋ/
-tamplin	/ˈtæmpɫɪn/
 tampon	/ˈtæmpɑn/
 tampons	/ˈtæmpɑnz/
 tamps	/ˈtæmps/
-tamraz	/ˈtæmɹæz/
-tamraz's	/ˈtæmɹæzəz/
-tamres	/ˈtæmɹɛz/
 tan	/ˈtæn/
 tandem	/ˈtændəm/
 tandem's	/ˈtændəmz/
 tandon	/ˈtændən/
-tandy	/ˈtændi/
-tandy's	/ˈtændiz/
-tandycraft	/ˈtændiˌkɹæft/
-tandycrafts	/ˈtændiˌkɹæfts/
-tanen	/ˈtænən/
-tanenbaum	/ˈtænənˌbaʊm/
 tang	/ˈtæŋ/, /ˈtɑŋ/
-tange	/ˈtændʒ/
 tangelo	/ˈtænˌdʒɛɫoʊ/
-tangen	/ˈtæŋən/
 tangent	/ˈtændʒənt/
 tangents	/ˈtændʒənts/
-tanger	/ˈtæŋɝ/
-tangerines	/ˈtændʒɝˌinz/
 tangible	/ˈtændʒəbəɫ/
 tangibles	/ˈtændʒəbəɫz/
 tangibly	/ˈtændʒəbɫi/
-tangle	/ˈtæŋɡəɫ/
-tangled	/ˈtæŋɡəɫd/
-tangles	/ˈtæŋɡəɫz/
-tanglewood	/ˈtæŋɡəɫˌwʊd/
-tangling	/ˈtæŋɡɫɪŋ/
-tangney	/ˈtæŋɡni/
-tango	/ˈtæŋɡoʊ/
-tangos	/ˈtæŋɡoʊz/
-tangqui	/ˈtæŋˈkwi/
-tangs	/ˈtæŋz/
-tanguay	/ˈtænɡeɪ/
-tanis	/ˈtænɪs/
-tanjug	/ˈtænˌdʒəɡ/
-tank	/ˈtæŋk/
-tank's	/ˈtæŋks/
-tankan	/ˈtæŋkən/
-tankard	/ˈtæŋkɝd/
-tanke	/ˈtæŋk/
-tanked	/ˈtæŋkt/
-tanker	/ˈtæŋkɝ/
-tankers	/ˈtæŋkɝz/
-tankersley	/ˈtæŋkɝsɫi/
-tanking	/ˈtæŋkɪŋ/
-tanks	/ˈtæŋks/
-tanksley	/ˈtæŋksɫi/
-tann	/ˈtæn/
-tannahill	/ˈtænəˌhɪɫ/
+<!-- tangle	/ˈtæŋɡəɫ/ -->
+<!-- tangled	/ˈtæŋɡəɫd/ -->
+<!-- tangles	/ˈtæŋɡəɫz/ -->
+<!-- tanglewood	/ˈtæŋɡəɫˌwʊd/ -->
+<!-- tangling	/ˈtæŋɡɫɪŋ/ -->
+<!-- tango	/ˈtæŋɡoʊ/ -->
+<!-- tangos	/ˈtæŋɡoʊz/ -->
+<!-- tank	/ˈtæŋk/ -->
+<!-- tank's	/ˈtæŋks/ -->
+<!-- tanked	/ˈtæŋkt/ -->
+<!-- tanker	/ˈtæŋkɝ/ -->
+<!-- tankers	/ˈtæŋkɝz/ -->
+<!-- tanking	/ˈtæŋkɪŋ/ -->
+<!-- tanks	/ˈtæŋks/ -->
 tanned	/ˈtænd/
-tannehill	/ˈtænɪhɪɫ/
-tannen	/ˈtænən/
-tannenbaum	/ˈtænənˌbaʊm/
 tanner	/ˈtænɝ/
 tannest	/ˈtænɪst/
-tanney	/ˈtæni/
-tannhauser	/ˈtænˌhaʊzɝ/
 tanning	/ˈtænɪŋ/
-tanqueray	/ˈtæŋkwɝˌeɪ/
 tans	/ˈtænz/
-tansey	/ˈtænzi/
-tanski	/ˈtænˌski/
-tansu	/ˈtænˌsu/
-tansy	/ˈtænzi/
-tant	/ˈtænt/
 tantalize	/ˈtænəˌɫaɪz/, /ˈtæntəˌɫaɪz/
 tantalized	/ˈtænəˌɫaɪzd/, /ˈtæntəˌɫaɪzd/
 tantalizes	/ˈtænəˌɫaɪzəz/, /ˈtæntəˌɫaɪzɪz/
 tantalizing	/ˈtænəˌɫaɪzɪŋ/, /ˈtæntəˌɫaɪzɪŋ/
 tantalizingly	/ˈtænəˌɫaɪzɪŋɫi/, /ˈtæntəˌɫaɪzɪŋɫi/
-tantalum	/ˈtæntəɫəm/
-tantalus	/ˈtæntəɫəs/
 tantamount	/ˈtæntəˌmaʊnt/
-tanton	/ˈtæntən/
 tantric	/ˈtæntɹɪk/
 tantrum	/ˈtæntɹəm/
 tantrums	/ˈtæntɹəmz/
-tanzer	/ˈtænzɝ/
-tanzi	/ˈtænzi/
 tap	/ˈtæp/
 tapestries	/ˈtæpəstɹiz/
 tapestry	/ˈtæpəstɹi/
-tapie	/ˈtæpi/
-tapley	/ˈtæpɫi/
-taplin	/ˈtæpɫɪn/
-tapp	/ˈtæp/
-tappan	/ˈtæpən/
-tappe	/ˈtæp/
 tapped	/ˈtæpt/
-tappen	/ˈtæpən/
 tapper	/ˈtæpɝ/
-tappet	/ˈtæpət/
-tappin	/ˈtæpɪn/
 tapping	/ˈtæpɪŋ/
 taps	/ˈtæps/
-tapscott	/ˈtæpskət/
-tasaday	/ˈtæsədeɪ/
-tasch	/ˈtæʃ/
-taschner	/ˈtæʃnɝ/
-tash	/ˈtæʃ/
-tasha	/ˈtæʃə/
-tashin	/ˈtæʃɪn/
-tashjian	/ˈtæʃdʒiən/
 task	/ˈtæsk/
 tasked	/ˈtæskt/
 tasker	/ˈtæskɝ/
@@ -714,23 +587,9 @@ taskforce	/ˈtæskˌfɔɹs/
 tasking	/ˈtæskɪŋ/
 taskmaster	/ˈtæskˌmæstɝ/
 tasks	/ˈtæsks/
-tasm	/ˈtæsəm/
-tasman	/ˈtæzmən/
-tass	/ˈtæs/
 tassel	/ˈtæsəɫ/
 tasseled	/ˈtæsəɫd/
-tassi	/ˈtæsi/
-tassin	/ˈtæsɪn/
-tasso	/ˈtæˌsoʊ/
 tat	/ˈtæt/
-tatem	/ˈtætɪm/
-tatham	/ˈtæθəm/
-tatlock	/ˈtætˌɫɑk/
-tatman	/ˈtætmən/
-tatom	/ˈtætəm/
-tatra	/ˈtæˌtɹɑ/
-tatro	/ˈtæˌtɹoʊ/
-tatsch	/ˈtætʃ/
 tatter	/ˈtætɝ/
 tattered	/ˈtætɝd/
 tatters	/ˈtætɝz/
@@ -738,13 +597,9 @@ tattersall	/ˈtætɝsəɫ/
 tattle	/ˈtætəɫ/
 tattled	/ˈtætəɫd/
 tattler	/ˈtætɫɝ/
-tatty	/ˈtæˌti/
-tavenner	/ˈtævɪnɝ/
 tavern	/ˈtævɝn/
 tavernier	/ˈtævɝniɝ/
 taverns	/ˈtævɝnz/
-tavist	/ˈtævɪst/
-tavlin	/ˈtævɫɪn/
 tax	/ˈtæks/
 tax's	/ˈtæksɪz/
 taxable	/ˈtæksəbəɫ/
@@ -777,35 +632,19 @@ taxpaying	/ˈtækˌspeɪɪŋ/
 tabloidization	/ˌtæbɫɔɪdəˈzeɪʃən/
 tabulation	/ˌtæbjəˈɫeɪʃən/
 tabulations	/ˌtæbjəˈɫeɪʃənz/
-takeshima	/ˌtækɪˈʃiˌmɑ/
 talladega	/ˌtæɫəˈdeɪɡə/
 tallahassean	/ˌtæɫəˈhæsiən/
 tallahasseans	/ˌtæɫəˈhæsiənz/
 tallahassee	/ˌtæɫəˈhæsi/
 tallahassee's	/ˌtæɫəˈhæsiz/
-tallulah	/ˌtæˈɫuɫə/
-tallyho	/ˌtæɫiˈhoʊ/
-tambourine	/ˌtæmbɝˈin/
-tamiami	/ˌtæmiˈæmi/
-tamoxifen	/ˌtæˈmɑksəfən/
-tampopo	/ˌtæmˈpoʊpoʊ/
-tamposi	/ˌtæmˈpoʊsi/
-tanartkit	/ˌtæˈnɑɹtˌkɪt/
-tancredo	/ˌtænˈkɹeɪdoʊ/
+<!-- tampopo	/ˌtæmˈpoʊpoʊ/ -->
 tangerine	/ˌtændʒɝˈin/
-tangiers	/ˌtænˈdʒɪɹz/
 tanzania	/ˌtænˈzeɪnjə/, /ˌtænzəˈniə/, /tænˈzeɪniə/
 tanzania's	/ˌtænˈzeɪnjəz/, /ˌtænzəˈniəz/, /tænˈzeɪniəz/
 tanzanian	/ˌtænˈzeɪniən/, /ˌtænˈzeɪnjən/
 taravella	/ˌtæɹəˈvɛɫə/
 tarot	/ˌtæˈɹoʊ/
 tarots	/ˌtæˈɹoʊz/
-tashkent	/ˌtæʃˈkɛnt/
-tasmania	/ˌtæzˈmeɪniə/
-tasmanian	/ˌtæzˈmeɪniən/
-tatiana	/ˌtæˌtiˈæˌnɑ/, /ˌtætˈjɑˌnɑ/
-tatjana	/ˌtætˈjɑˌnɑ/
-tatsuno	/ˌtætˈsuˌnoʊ/
 tattoo	/ˌtæˈtu/
 tattooed	/ˌtæˈtud/
 tattooing	/ˌtæˈtuɪŋ/

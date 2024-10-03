@@ -1,37 +1,4 @@
-chianti	/tʃiˈænti/
-chiapas	/tʃiˈɑpəs/
-chiapas'	/tʃiˈɑpəz/
-chiapparone	/tʃiˈæpɝˌoʊn/
-chiasso	/tʃiˈɑsoʊ/
-chiasson	/tʃiˈɑsən/
-chykatka	/tʃiˈkɑtkə/
-ciaccia	/siəˈsiə/, /tʃiəˈtʃiə/
-ciano	/tʃiˈɑnoʊ/
-cibula	/tʃiˈbuɫɑ/
-cicalese	/tʃikɑˈɫeɪzi/
-ciccarelli	/tʃikɝˈɛˌɫi/
-ciccarello	/tʃikɝˈɛˌɫoʊ/
-ciccone	/tʃiˈkoʊˌni/
-ciliberto	/tʃiɫiˈbɛɹˌtoʊ/
-cimini	/tʃiˈmini/
-cimino	/tʃiˈminoʊ/
-cimmino	/tʃiˈminoʊ/
-cimorelli	/tʃimɔˈɹɛɫi/
-cincotta	/tʃinˈkoʊtə/
-cinquemani	/tʃinkwɛˈmɑni/
-cioffi	/tʃiˈoʊfi/
-ciolek	/tʃiˈoʊɫɛk/
-cipriani	/tʃipɹiˈɑni/
-cipriano	/tʃipɹiˈɑnoʊ/
-citrano	/tʃiˈtɹɑnoʊ/
-cittadino	/tʃitɑˈdinoʊ/
-civitello	/tʃiviˈtɛɫoʊ/
-
-chea	/ˈtʃi/
 cheadle	/ˈtʃidəɫ/
-cheane	/ˈtʃin/
-cheane's	/ˈtʃinz/
-cheaney	/ˈtʃini/
 cheap	/ˈtʃip/
 cheapen	/ˈtʃipən/
 cheapened	/ˈtʃipənd/
@@ -47,42 +14,26 @@ cheat	/ˈtʃit/
 cheated	/ˈtʃitəd/, /ˈtʃitɪd/
 cheater	/ˈtʃitɝ/
 cheaters	/ˈtʃitɝz/
-cheatham	/ˈtʃitəm/
 cheating	/ˈtʃitɪŋ/
 cheats	/ˈtʃits/
-cheatum	/ˈtʃitəm/
-cheatwood	/ˈtʃitˌwʊd/
-chee	/ˈtʃi/
-cheech	/ˈtʃitʃ/
 cheek	/ˈtʃik/
 cheekbone	/ˈtʃikˌboʊn/
 cheekbones	/ˈtʃikˌboʊnz/
 cheeked	/ˈtʃikt/
 cheeks	/ˈtʃiks/
 cheeky	/ˈtʃiki/
-cheely	/ˈtʃiɫi/
 cheese	/ˈtʃiz/
 cheeseburger	/ˈtʃizbɝɡɝ/
 cheeseburgers	/ˈtʃizbɝɡɝz/
 cheesecake	/ˈtʃizˌkeɪk/
-cheeseman	/ˈtʃizmən/
-cheeser	/ˈtʃizɝ/
 cheeses	/ˈtʃizɪz/
 cheesier	/ˈtʃiziɝ/
 cheesiest	/ˈtʃiziɪst/
-cheesman	/ˈtʃizmən/
 cheesy	/ˈtʃizi/
 cheetah	/ˈtʃitə/
 cheetahs	/ˈtʃitəz/
-cheetal	/ˈtʃitəɫ/
-cheetan	/ˈtʃitən/
-cheetham	/ˈtʃiθəm/
-cheever	/ˈtʃivɝ/
-cheong	/ˈtʃiɔŋ/
-cheves	/ˈtʃivz/
-cheviots	/ˈtʃiviəts/
+<!-- cheong	/ˈtʃiɔŋ/ -->
 chia	/ˈtʃiə/
-chiat	/ˈtʃiæt/
 chiba	/ˈtʃibə/
 chichi	/ˈtʃitʃi/
 chico	/ˈtʃiˌkoʊ/
@@ -96,18 +47,9 @@ chiefs'	/ˈtʃifs/
 chieftain	/ˈtʃiftən/
 chieftain's	/ˈtʃiftənz/
 chieftains	/ˈtʃiftənz/
-chikos	/ˈtʃiˌkoʊs/
 chino	/ˈtʃinoʊ/
 chita	/ˈtʃitə/
 chivas	/ˈʃivəs/, /ˈtʃivəs/
-cima	/ˈtʃimə/
-cimo	/ˈtʃimoʊ/
-cina	/ˈtʃinə/
-cini	/ˈtʃini/
-cino	/ˈtʃinoʊ/
-cislo	/ˈtʃisɫoʊ/
 
-cheektowaga	/ˌtʃiktəˈwɑɡə/
-chichauha	/ˌtʃiˈtʃaʊə/
 chichauha's	/ˌtʃiˈtʃaʊəz/
 chihuahua	/ˌtʃiˈwɑwə/, /tʃəˈwɑˌwɑ/

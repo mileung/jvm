@@ -184,6 +184,12 @@ domination	/ˌdɑməˈneɪʃən/
 domineer	/ˌdɑməˈnɪɹ/
 domineering	/ˌdɑməˈnɪɹɪŋ/
 
+dalmatian	/dæɫˈmeɪʃən/
+dalmatians	/dæɫˈmeɪʃənz/
+damnation	/dæmˈneɪʃən/
+daniela	/dænˈjɛɫə/
+daniele	/dænˈjɛɫ/
+
 dab	/ˈdæb/
 dabbing	/ˈdæbɪŋ/
 dabble	/ˈdæbəɫ/
@@ -313,3 +319,6 @@ davenport's	/ˈdævənˌpɔɹts/
 dazzle	/ˈdæzəɫ/
 dazzled	/ˈdæzəɫd/
 dazzling	/ˈdæzəɫɪŋ/, /ˈdæzɫɪŋ/
+
+daniella	/ˌdænˈjɛɫə/
+danielle	/ˌdænˈjɛɫ/, /ˌdæniˈɛɫ/

@@ -1,0 +1,1 @@
+Refer to "じ ジ ji" words

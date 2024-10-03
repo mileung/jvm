@@ -5,6 +5,7 @@ chauffeurs	/ˈʃoʊfɝz/, /ʃoʊˈfɝz/
 chauvinism	/ˈʃoʊvəˌnɪzəm/
 chauvinist	/ˈʃoʊvənəst/
 chauvinists	/ˈʃoʊvənəsts/
+chauvinistic	/ˌtʃoʊvəˈnɪstɪk/
 chopin	/ˈʃoʊpæn/
 schoenberg	/ˈʃoʊnbɝɡ/
 <!-- shoebox	/ˈʃoʊbɑks/ -->

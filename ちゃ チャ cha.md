@@ -73,3 +73,46 @@ chopsticks	/ˈtʃɑpˌstɪks/
 
 chocolatology	/ˌtʃɑkɫəˈtɑɫədʒi/
 
+chalk	/ˈtʃɑk/, /ˈtʃɔk/
+chalked	/ˈtʃɔkt/
+chalker	/ˈtʃɔkɝ/
+chalking	/ˈtʃɔkɪŋ/
+chalks	/ˈtʃɔks/
+chaucer	/ˈtʃɔsɝ/
+chaucer's	/ˈtʃɔsɝz/
+chaudhry	/ˈtʃɔdɹi/
+chaumet	/ˈtʃɔmɪt/
+chaunce	/ˈtʃɔns/
+chauncey	/ˈtʃɔnsi/
+chauncy	/ˈtʃɔnsi/
+chaw	/ˈtʃɔ/
+chawla	/ˈtʃɔɫə/
+chocolate	/ˈtʃɔkɫət/
+chocolates	/ˈtʃɔkɫəts/
+choi	/ˈtʃɔɪ/
+choice	/ˈtʃɔɪs/
+choicer	/ˈtʃɔɪsɝ/
+choicers	/ˈtʃɔɪsɝz/
+choices	/ˈtʃɔɪsəz/, /ˈtʃɔɪsɪz/
+choicest	/ˈtʃɔɪsəst/
+choinski	/ˈtʃɔɪnski/
+chong	/ˈtʃɔŋ/
+chongqing	/ˈtʃɔŋˈkɪŋ/
+chore	/ˈtʃɔɹ/
+chores	/ˈtʃɔɹz/
+chorney	/ˈtʃɔɹni/
+chortle	/ˈtʃɔɹtəɫ/
+chortled	/ˈtʃɔɹtəɫd/
+chortles	/ˈtʃɔɹtəɫz/
+chortling	/ˈtʃɔɹtəɫɪŋ/, /ˈtʃɔɹtɫɪŋ/
+choy	/ˈtʃɔɪ/
+choyce	/ˈtʃɔɪs/
+ciaccio	/ˈtʃɔtʃioʊ/
+ciampa	/ˈtʃɔmpə/
+ciampi	/ˈtʃɔmpi/
+cianci	/ˈtʃɔntʃi/
+ciancio	/ˈtʃɔntʃioʊ/
+cianciola	/ˈtʃɔntʃoʊɫə/
+cianciolo	/ˈtʃɔntʃoʊɫoʊ/
+cianciulli	/ˈtʃɔntʃuɫi/
+ciani	/ˈtʃɔni/

@@ -54,37 +54,15 @@ chivas	/ˈʃivəs/, /ˈtʃivəs/
 chichauha's	/ˌtʃiˈtʃaʊəz/
 chihuahua	/ˌtʃiˈwɑwə/, /tʃəˈwɑˌwɑ/
 
-teegardin	/tiˈɡɑɹdɪn/
-tiananmen	/tiˈɛnænˌmɛn/
 tianjin	/tiˈændʒɪn/
-tiano	/tiˈɑnoʊ/
 tiara	/tiˈɑɹə/
 tiaras	/tiˈɑɹəz/
-tiberi	/tiˈbɛɹi/
-tieu	/tiˈu/
-tijerina	/tijɛˈɹinə/
-timor	/tiˈmɔɹ/
-timor's	/tiˈmɔɹz/
-timpone	/timˈpoʊni/
-tinajero	/tinɑˈjɛɹoʊ/
-tinoco	/tiˈnoʊkoʊ/
 
-t	/ˈti/
 t-bone	/ˈtiˌboʊn/
-t-lam	/ˈtiˈɫæm/
 t-mobile	/ˈtiˈmoʊbiɫ/
 t-shirt	/ˈtiˌsɝt/
 t-shirts	/ˈtiˌsɝts/
-t.	/ˈti/
-t.'s	/ˈtiz/
-t.s	/ˈtiz/
-t's	/ˈtiz/
-tac	/ˈtæk/, /ˈtiˈeɪˈsi/
-tb	/ˈtiˈbi/
-tcas	/ˈtiˈsiˈeɪˈɛs/
-te	/ˈti/
 tea	/ˈti/
-teac	/ˈtiæk/, /ˈtik/
 teach	/ˈtitʃ/
 teachable	/ˈtitʃəbəɫ/
 teacher	/ˈtitʃɝ/
@@ -92,22 +70,12 @@ teacher's	/ˈtitʃɝz/
 teachers	/ˈtitʃɝz/
 teachers'	/ˈtitʃɝz/
 teaches	/ˈtitʃəz/, /ˈtitʃɪz/
-teachey	/ˈtitʃi/
 teaching	/ˈtitʃɪŋ/
 teachings	/ˈtitʃɪŋz/
-teachout	/ˈtiˌtʃaʊt/
 teacup	/ˈtiˌkəp/
-teaford	/ˈtiˌfɔɹd/, /ˈtifɝd/
-teagarden	/ˈtiˌɡɑɹdən/
-teagle	/ˈtiɡəɫ/
-teague	/ˈtiɡ/
-teahan	/ˈtiən/
 teak	/ˈtik/
-teakamp	/ˈtikæmp/
 teakwood	/ˈtiˌkwʊd/
 teal	/ˈtiɫ/
-teale	/ˈtiɫ/
-teall	/ˈtiɫ/
 team	/ˈtim/
 team's	/ˈtimz/
 teamed	/ˈtimd/
@@ -122,61 +90,37 @@ teamster's	/ˈtimstɝz/
 teamsters	/ˈtimstɝz/
 teamsters'	/ˈtimstɝz/
 teamwork	/ˈtimˌwɝk/
-teaneck	/ˈtiˌnɛk/
-teaney	/ˈtini/
 teapot	/ˈtiˌpɑt/
-teare	/ˈtiɹ/
 teas	/ˈtiz/
-teasdale	/ˈtizˌdeɪɫ/
 tease	/ˈtiz/
 teased	/ˈtizd/
 teaser	/ˈtizɝ/
 teases	/ˈtizɪz/
 teasing	/ˈtizɪŋ/
-teasley	/ˈtizɫi/
-teason	/ˈtisɔn/
 teaspoon	/ˈtiˌspun/
 teaspoonful	/ˈtiˌspunfəɫ/
 teaspoons	/ˈtiˌspunz/
-teast	/ˈtist/
-teaster	/ˈtistɝ/
 teat	/ˈtit/
-teate	/ˈtiˌeɪt/
-teater	/ˈtitɝ/
-teatro	/ˈtitɹoʊ/
 teats	/ˈtits/
-teco	/ˈtikoʊ/
-tecos	/ˈtikoʊs/
 tedious	/ˈtidiəs/
 tediously	/ˈtidiəsɫi/
 tedium	/ˈtidiəm/
 tee	/ˈti/
 teed	/ˈtid/
-teegarden	/ˈtiˌɡɑɹdən/
-teehan	/ˈtiən/
 teeing	/ˈtiɪŋ/
-teel	/ˈtiɫ/
-teele	/ˈtiɫ/
-teeley	/ˈtiɫi/
-teeling	/ˈtiɫɪŋ/
 teem	/ˈtim/
 teeming	/ˈtimɪŋ/
 teems	/ˈtimz/
 teen	/ˈtin/
-teena	/ˈtinə/
 teenage	/ˈtiˌneɪdʒ/
 teenaged	/ˈtiˌneɪdʒd/
 teenager	/ˈtiˌneɪdʒɝ/
 teenager's	/ˈtiˌneɪdʒɝz/
 teenagers	/ˈtiˌneɪdʒɝz/
-teenie	/ˈtini/
 teens	/ˈtinz/
 teensy	/ˈtinsi/
 teeny	/ˈtini/
-teeple	/ˈtipəɫ/
-teeples	/ˈtipəɫz/
 tees	/ˈtiz/
-teet	/ˈtit/
 teeter	/ˈtitɝ/
 teeter's	/ˈtitɝz/
 teetered	/ˈtitɝd/
@@ -185,67 +129,23 @@ teeters	/ˈtitɝz/
 teeth	/ˈtiθ/
 teethe	/ˈtið/
 teething	/ˈtiðɪŋ/
-teets	/ˈtits/
-teig	/ˈtiɡ/
-tejas	/ˈtidʒəs/
-telander	/ˈtiɫændɝ/, /tɪˈɫændɝ/
-teleology	/ˈtiɫiˌɔɫəˌdʒi/
-tepe	/ˈtip/
-teper	/ˈtipɝ/
-tese	/ˈtis/
-tesol	/ˈtisɔɫ/
-teter	/ˈtitɝ/
-teters	/ˈtitɝz/
+<!-- tejas	/ˈtidʒəs/ -->
+<!-- teleology	/ˈtiɫiˌɔɫəˌdʒi/ -->
 teton	/ˈtitɑn/, /ˈtitən/
 tetons	/ˈtitɑnz/, /ˈtitənz/
-teves	/ˈtivz/
-tew	/ˈtiˈiˈdəbəɫˌju/, /ˈtʃu/, /ˈtu/
-th	/ˈtiˈeɪtʃ/
-thibeault	/ˈtiboʊ/
-ti	/ˈti/
-tia	/ˈtiə/
-tiaacref	/ˈtiəˌkɹɛf/
-tiaacref's	/ˈtiəˌkɹɛfs/
-tiburon	/ˈtibəˌɹɔn/
-tiede	/ˈtid/
-tiedeman	/ˈtidmən/
-tiedemann	/ˈtidmən/
-tiedt	/ˈtidt/
-tiegs	/ˈtiɡz/
-tieken	/ˈtikən/
-tieman	/ˈtimən/
-tiemann	/ˈtimən/
-tiemeyer	/ˈtimaɪɝ/
 tier	/ˈtiɹ/
 tierce	/ˈtiɹs/
-tierco	/ˈtiɹkoʊ/
 tiered	/ˈtiɹd/
 tiers	/ˈtiɹz/
-tieszen	/ˈtiʃən/
-tietje	/ˈtitdʒ/
-tietjen	/ˈtitdʒən/
-tietmeyer	/ˈtaɪtˌmaɪɹ/, /ˈtitˌmaɪɹ/
-tietz	/ˈtits/
-tietze	/ˈtitz/, /ˈtitzi/
-tigue	/ˈtiɡ/
 tiki	/ˈtiˈki/
 tina	/ˈtinə/
 tina's	/ˈtinəz/
-tino	/ˈtinoʊ/
-tipo	/ˈtipoʊ/
-tita	/ˈtitə/
-tito	/ˈtitoʊ/
-tito's	/ˈtitoʊz/
 ts	/ˈtiˈɛs/
-tsetse	/ˈtitsi/, /ˈtsitsi/
+<!-- tsetse	/ˈtitsi/, /ˈtsitsi/ -->
 tt's	/ˈtiˈtiz/
 tv	/ˈtiˈvi/, /ˌtɛɫəˈvɪʒən/
 tv's	/ˈtiˈviz/
-tvs	/ˈtiˈviz/
-tyo	/ˈtaɪoʊ/, /ˈtiˈwaɪˈoʊ/
 
 teetotaler	/ˌtiˌtoʊˈteɪɫɝ/
-teleological	/ˌtiɫiəˈɫɔdʒɪkəɫ/
-teodoro	/ˌtioʊˈdɔɹoʊ/
-timorese	/ˌtimɔˈɹiz/
+<!-- teleological	/ˌtiɫiəˈɫɔdʒɪkəɫ/ -->
 tlc	/ˌtiˌɛɫˈsi/

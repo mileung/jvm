@@ -1,3 +1,5 @@
+cbdc
+
 chic	/ˈʃik/
 she	/ˈʃi/
 she'd	/ˈʃid/
@@ -42,95 +44,25 @@ shields	/ˈʃiɫdz/
 shiva	/ˈʃivə/
 xi	/ˈʃi/
 
-cdebaca	/sidɪˈbɑkə/
-cebu	/siˈbu/
-cebu's	/siˈbuz/
-cetacean	/siˈteɪʃən/, /sɪˈteɪʃən/
-ceylon	/siˈɫɑn/, /sɪˈɫɑn/
-ciaccia	/siəˈsiə/, /tʃiəˈtʃiə/
-cifuentes	/sifˈwɛntɛs/
-sciarra	/siˈɑɹɑ/
-scioli	/siˈoʊɫi/
-sciortino	/siɔɹˈtinoʊ/
-sciulli	/siˈuɫi/
-sciullo	/siˈuɫoʊ/
-sciuto	/siˈutoʊ/
+<!-- ceylon	/siˈɫɑn/, /sɪˈɫɑn/ -->
 seasonality	/ˈsizəˌnæɫɪti/, /sizəˈnæɫɪti/
 seattle	/siˈætəɫ/
 seattle's	/siˈætəɫz/
 seniority	/sinˈjɔɹɪti/
-siano	/siˈɑˌnoʊ/
-sibilia	/siˈbiɫiə/
-siciliano	/sitʃiɫiˈɑnoʊ/
-siconolfi	/sikoʊˈnoʊɫfi/
-siddiqi	/siˈdiki/
-siddiqui	/siˈdikwi/
-sidonia	/siˈdoʊniə/
-sidoti	/siˈdoʊti/
-siedlecki	/sidˈɫɛtski/
-siekierski	/siˈkɪɹski/
-sielaff	/siˈɫæf/
-sieminski	/siˈmɪnski/
-sienko	/siˈɛŋkoʊ/
 sienna	/siˈɛnə/
 sienna's	/siˈɛnəz/
 sierra	/siˈɛɹə/
 sierra's	/siˈɛɹəz/
-sierracin	/siˈɛɹəsɪn/
 sierras	/siˈɛɹəz/
-siese	/siˈɛs/
-sietsema	/sitˈsimə/
-sifuentes	/sifˈwɛntɛs/
-sigala	/siˈɡɑɫə/
-sigfreda	/siɡˈfɹɛdə/
-signore	/sinˈjɔɹeɪ/
-signorelli	/siɡnɔˈɹɛɫi/
-signori	/sinˈjɔˈɹi/, /sɪɡˈnɔɹi/
-silguero	/siɫˈɡɛɹoʊ/
-silmon	/siɫˈmɔn/
-silveira	/siɫˈvɛɹə/
-silvera	/siɫˈvɛɹə/
-silveri	/siɫˈvɛɹi/
-silveria	/siɫˈvɛɹiə/
-silverio	/siɫˈvɛɹioʊ/
-silvestre	/siɫˈveɪstɹeɪ/
-silvestri	/siɫˈvɛstɹi/
-silvestro	/siɫˈveɪstɹoʊ/
-simonetta	/siməˈnɛtə/
-simonetti	/simoʊˈnɛti/
-simoni	/siˈmoʊni/
-sincavage	/sinˈkɑvɪdʒ/
-sindoni	/sinˈdoʊni/
-sinopoli	/siˈnɑpoʊɫi/, /sinoʊˈpoʊɫi/
-sistare	/siˈstɑɹi/
-siuda	/siˈudə/
 
-c	/ˈsi/
-c-code	/ˈsiˈkoʊd/
-c-codes	/ˈsiˈkoʊdz/
 c-span	/ˈsiˌspæn/
 c-span's	/ˈsiˌspænz/
-c.	/ˈsi/
-c.'s	/ˈsiz/
-c.d.s	/ˈsiˈdiz/
-c.o.d.	/ˈsiˈoʊˈdi/
-c.s	/ˈsiz/
-c's	/ˈsiz/
-ca	/ˈkɑ/, /ˈkə/, /ˈsiˈeɪ/
-cabo	/ˈsiˈeɪˈbiˈoʊ/, /kæˈboʊ/
-cac	/ˈkæk/, /ˈsiˈeɪˈsi/
-cacld	/ˈkækəɫd/, /ˈsiˈeɪˈsiˈɛɫˈdi/
 caesar	/ˈsizɝ/
 caesar's	/ˈsizɝz/
 caesars	/ˈsizɝz/
 caesars'	/ˈsizɝz/
-cama	/ˈkɑmə/, /ˈsiˈeɪˈɛˈmeɪ/
 ccs	/ˈsiˈsiˈɛs/, /ˈsiˈsiz/
 cctv	/ˈsiˌsiˈtiˌvi/
-cdrom	/ˈsiˈdiˈɹɑm/
-cdroms	/ˈsiˈdiˈɹɑmz/
-cea	/ˈsiə/, /ˌsiˌiˈeɪ/
-ceara	/ˈsiɹə/
 cease	/ˈsis/
 cease-fire	/ˈsisˈfaɪɝ/
 ceased	/ˈsist/
@@ -138,179 +70,85 @@ ceasefire	/ˈsisˈfaɪɝ/
 ceasefires	/ˈsisˈfaɪɝz/
 ceaseless	/ˈsisɫɪs/
 ceaselessly	/ˈsizɫəsɫi/
-ceaser	/ˈsisɝ/
 ceases	/ˈsisɪz/
 ceasing	/ˈsisɪŋ/
-cece	/ˈsis/
 cecil	/ˈsisəɫ/
 cecil's	/ˈsisəɫz/
-ceco	/ˈsikoʊ/
-cecos	/ˈsikoʊs/
 cedar	/ˈsidɝ/
 cedar-rapids	/ˈsidɝˈæpɪdz/, /ˈsidɝˈɹæpɪdz/
 cedars	/ˈsidɝz/
 cede	/ˈsid/
 ceded	/ˈsidəd/, /ˈsidɪd/
 ceder	/ˈsidɝ/
-cederberg	/ˈsidɝbɝɡ/
-cedergren	/ˈsidɝɡɹɛn/
-cederholm	/ˈsidɝhoʊm/
-cederquist	/ˈsɛdɝkwɪst/, /ˈsidɝkwɪst/
 cedes	/ˈsidz/
 ceding	/ˈsidɪŋ/
-cedric	/ˈsɛdɹɪk/, /ˈsidɹɪk/
-cees	/ˈsiz/
 ceiling	/ˈsiɫɪŋ/
 ceilings	/ˈsiɫɪŋz/
-cel	/ˈsɛɫ/, /ˈsiˈiˈɛɫ/
-cele	/ˈsiɫ/
-celia	/ˈsiɫjə/
-celio	/ˈsiɫioʊ/
-celium	/ˈsiˌɫiəm/
-celo	/ˈsɛɫoʊ/, /ˈsiˈiˈɛˈɫoʊ/, /ˈsiɫoʊ/
 ceo	/ˈsiˌiˈoʊ/
-cesar	/ˈsizɝ/
 cesium	/ˈsiziəm/
-ceta	/ˈsɛtə/, /ˈsiˈiˈtiˈeɪ/
-cetec	/ˈsiˌtɛk/
 cetus	/ˈsitəs/
 cetus's	/ˈsitəsɪz/
 cfo	/ˈsiˌɛˈfoʊ/
 cia	/ˈsiˈaɪˈeɪ/
-ciba	/ˈsaɪbə/, /ˈsibə/
-ciba's	/ˈsaɪbəz/, /ˈsibəz/
-cie	/ˈsi/, /ˈsiˈaɪˈi/
-ciel	/ˈsiɫ/
-ciera	/ˈsiɹɑ/
-cieri	/ˈsiɹi/
-ciga	/ˈsiɡɑ/
-cizik	/ˈsizɪk/
-cluj	/ˈkɫudʒ/, /ˈsiˈɛɫˈjuˈdʒeɪ/
-cmos	/ˈsiˈɛˈmoʊˈɛs/, /ˈsimoʊs/
 cmu	/ˈsiˈɛmˈju/
 cnbc's	/ˈsiˈɛnˈbiˈsiz/
 cnet	/ˈsiˌnɛt/
 cnn	/ˈsiˈɛˈnɛn/
 cnn.com	/ˈsiˈɛˈnɛnˈdɑtˈkɑm/
 cnn's	/ˈsiˈɛˈnɛnz/
-cnnfn	/ˈsiˈɛˈnɛˈnɛˈfɛn/
-cod	/ˈkɑd/, /ˈsiˈoʊˈdi/
-coelacanth	/ˈsiɫəˌkænθ/
 cps	/ˈsiˌpiˈɛs/
 crm	/ˈsiˈɑˈɹɛm/
 csi	/ˈsiˌɛˈsaɪ/
 cspan	/ˈsiˈspæn/
-cspi	/ˈsiˈɛsˈpiˈaɪ/
 csv	/ˈsiˈɛsˈvi/
-cus	/ˈkəs/, /ˈsiˈjuˈɛs/
-cxc	/ˈsiˈɛkˈsi/, /ˈsiˈɛksˈsi/
-cyb	/ˈsaɪb/, /ˈsiˈwaɪˈbi/
-saechao	/ˈsitʃaʊ/
-saenz	/ˈsinz/
-saez	/ˈsiz/
 scene	/ˈsin/
 sceneries	/ˈsinɝiz/
 scenery	/ˈsinɝi/
 scenes	/ˈsinz/
 scenic	/ˈsinɪk/
-sci	/ˈɛsˈsiˈaɪ/, /ˈsi/
-scitex	/ˈsiˌtɛks/
 sea	/ˈsi/
 sea's	/ˈsiz/
-seabaugh	/ˈsiˌbɔ/
-seabeach	/ˈsiˌbitʃ/
 seabed	/ˈsiˌbɛd/
-seabee	/ˈsibi/
-seabees	/ˈsibiz/
-seaberg	/ˈsibɝɡ/
-seaberry	/ˈsiˌbɛɹi/
-seabert	/ˈsibɝt/
 seaboard	/ˈsiˌbɔɹd/
-seabold	/ˈsiˌboʊɫd/
-seabolt	/ˈsiˌboʊɫt/
-seaborn	/ˈsibɝn/
 seaborne	/ˈsiˌbɔɹn/
-seabright	/ˈsiˌbɹaɪt/
-seabrook	/ˈsiˌbɹʊk/
-seabrook's	/ˈsiˌbɹʊks/
-seabrooks	/ˈsiˌbɹʊks/
-seaburg	/ˈsibɝɡ/
-seabury	/ˈsiˌbɛɹi/
-seaco	/ˈsikoʊ/
 seacoast	/ˈsiˌkoʊst/
-seader	/ˈsidɝ/
-seadrift	/ˈsiˌdɹɪft/
 seafarer	/ˈsiˌfɛɹɝ/
 seafarers	/ˈsiˌfɛɹɝz/
-seafirst	/ˈsiˌfɝst/
 seafood	/ˈsiˌfud/
 seafoods	/ˈsiˌfudz/
-seaford	/ˈsifɝd/
 seafront	/ˈsifɹənt/
-seaga	/ˈsiɡə/
 seagate	/ˈsiˌɡeɪt/
 seagate's	/ˈsiˌɡeɪts/
-seager	/ˈsiɡɝ/
-seagle	/ˈsiɡəɫ/
-seago	/ˈsiˌɡoʊ/
 seagoing	/ˈsiˌɡoʊɪŋ/
-seagram	/ˈsiɡɹəm/
-seagram's	/ˈsiɡɹəmz/
-seagrams	/ˈsiɡɹəmz/
-seagrams'	/ˈsiɡɹəmz/
-seagrave	/ˈsiˌɡɹeɪv/
-seagraves	/ˈsiˌɡɹeɪvz/
-seagren	/ˈsiɡɹɛn/
-seagrove	/ˈsiˌɡɹoʊv/
-seagroves	/ˈsiˌɡɹoʊvz/
 seagull	/ˈsiˌɡəɫ/
 seagull's	/ˈsiˌɡəɫz/
 seagulls	/ˈsiˌɡəɫz/
 seahawk	/ˈsiˌhɔk/
 seahawks	/ˈsiˌhɔks/
-seaholm	/ˈsiˌhoʊm/
 seal	/ˈsiɫ/
 seal's	/ˈsiɫz/
 sealand	/ˈsiˌɫænd/
 sealand's	/ˈsiˌɫændz/
 sealant	/ˈsiɫənt/
 sealants	/ˈsiɫənts/
-seale	/ˈsiɫ/
 sealed	/ˈsiɫd/
 sealer	/ˈsiɫɝ/
-seales	/ˈsiɫz/
-sealey	/ˈsiɫi/
-sealey's	/ˈsiɫiz/
-sealift	/ˈsiˌɫɪft/
 sealing	/ˈsiɫɪŋ/
-sealock	/ˈsiˌɫɑk/
 seals	/ˈsiɫz/
-sealtest	/ˈsiɫˌtɛst/
-sealy	/ˈsiɫi/
 seam	/ˈsim/
 seaman	/ˈsimən/
 seaman's	/ˈsimənz/
-seamans	/ˈsimənz/
 seamen	/ˈsimən/
 seamen's	/ˈsimənz/
 seamless	/ˈsimɫəs/
 seamlessly	/ˈsimɫəsɫi/
-seamon	/ˈsimən/
-seamons	/ˈsimənz/
 seams	/ˈsimz/
 seamster	/ˈsimstɝ/
 seamstress	/ˈsimstɹɪs/
 seamstresses	/ˈsimstɹəsəz/
-seamy	/ˈsimi/
-seanor	/ˈsinɝ/
 seaport	/ˈsiˌpɔɹt/
 seaports	/ˈsiˌpɔɹts/
-seapower	/ˈsiˌpaʊɝ/
-seaq	/ˈsik/
-seaquest	/ˈsiˌkwɛst/
-seaquist	/ˈsiˌkwɪst/
 seas	/ˈsiz/
-sease	/ˈsiz/
 seashell	/ˈsiˌʃɛɫ/
 seashells	/ˈsiˌʃɛɫz/
 seashore	/ˈsiˌʃɔɹ/
@@ -326,8 +164,6 @@ seasoned	/ˈsizənd/
 seasoning	/ˈsizənɪŋ/
 seasonings	/ˈsizənɪŋz/
 seasons	/ˈsizənz/
-seastrand	/ˈsiˌstɹænd/
-seastrom	/ˈsistɹəm/
 seat	/ˈsit/
 seat's	/ˈsits/
 seatbelt	/ˈsitˌbɛɫt/
@@ -336,29 +172,14 @@ seated	/ˈsitɪd/
 seater	/ˈsitɝ/
 seating	/ˈsitɪŋ/
 seatings	/ˈsitɪŋz/
-seato	/ˈsitoʊ/
-seaton	/ˈsitən/
-seatrain	/ˈsiˌtɹeɪn/
 seats	/ˈsits/
-seaver	/ˈsivɝ/
-seavers	/ˈsivɝz/
-seavey	/ˈsivi/
 seaward	/ˈsiwɝd/
 seawater	/ˈsiˌwɑtɝ/, /ˈsiˌwɔtɝ/
 seaway	/ˈsiˌweɪ/
 seaweed	/ˈsiˌwid/
 seaweeds	/ˈsiˌwidz/
-seawell	/ˈsiˌwɛɫ/
-seawolf	/ˈsiˌwʊɫf/
-seawolf's	/ˈsiˌwʊɫfs/
 seaworthy	/ˈsiˌwɔɹði/
-seawright	/ˈsiˌɹaɪt/
-sebald	/ˈsibɔɫd/
-seber	/ˈsibɝ/
 sebring	/ˈsibɹɪŋ/
-sechrist	/ˈsɛkɝɪst/, /ˈsiˌkɹɪst/
-secord	/ˈsikɔɹd/
-secord's	/ˈsikɔɹdz/
 secrecy	/ˈsikɹəsi/
 secret	/ˈsikɹət/, /ˈsikɹɪt/
 secret's	/ˈsikɹəts/
@@ -367,61 +188,26 @@ secretiveness	/ˈsikɹətɪvnəs/
 secretly	/ˈsikɹɪtɫi/
 secrets	/ˈsikɹəts/, /ˈsikɹɪts/
 see	/ˈsi/
-see-kiong	/ˈsikˈjɔŋ/
-seebach	/ˈsiˌbɑk/
-seebeck	/ˈsiˌbɛk/
-seeber	/ˈsibɝ/
-seeberger	/ˈsibɝɡɝ/
-seebold	/ˈsiˌboʊɫd/
-seeburger	/ˈsibɝɡɝ/
 seed	/ˈsid/
 seed's	/ˈsidz/
-seedeater	/ˈsiˌditɝ/
-seedeaters	/ˈsiˌditɝz/
 seeded	/ˈsidɪd/
 seeding	/ˈsidɪŋ/
 seedling	/ˈsidɫɪŋ/
 seedlings	/ˈsidɫɪŋz/
-seedorf	/ˈsidɔɹf/
 seedpod	/ˈsidˌpɑd/
 seeds	/ˈsidz/
 seedsman	/ˈsidzmən/
 seedy	/ˈsidi/
-seefeld	/ˈsiˌfɛɫd/
-seefeldt	/ˈsifɪɫt/
-seegars	/ˈsiɡɝz/
-seeger	/ˈsiɡɝ/
-seegers	/ˈsiɡɝz/
-seegert	/ˈsiɡɝt/
-seegmiller	/ˈsiɡmɪɫɝ/
-seehafer	/ˈsihəfɝ/
-seehusen	/ˈsihusən/
 seeing	/ˈsiɪŋ/
 seek	/ˈsik/
-seekamp	/ˈsiˌkæmp/
 seeker	/ˈsikɝ/
 seeker's	/ˈsikɝz/
 seekers	/ˈsikɝz/
 seeking	/ˈsikɪŋ/
-seekins	/ˈsikɪnz/
-seekonk	/ˈsikɑŋk/
 seeks	/ˈsiks/
 seel	/ˈsiɫ/
-seelbach	/ˈsiɫˌbɑk/
-seelert	/ˈsiɫɝt/
-seeley	/ˈsiɫi/
-seelig	/ˈsiɫɪɡ/
-seelig's	/ˈsiɫɪɡz/
 seeling	/ˈsiɫɪŋ/
-seelinger	/ˈsiɫɪŋɝ/
-seelman	/ˈsiɫmən/
-seely	/ˈsiɫi/
-seelye	/ˈsiˌɫaɪ/
 seem	/ˈsim/
-seema	/ˈsimɑ/
-seemala	/ˈsiməɫə/
-seeman	/ˈsimən/
-seemann	/ˈsimən/
 seemed	/ˈsimd/
 seeming	/ˈsimɪŋ/
 seemingly	/ˈsimɪŋɫi/
@@ -434,66 +220,25 @@ seeping	/ˈsipɪŋ/
 seeps	/ˈsips/
 seer	/ˈsiɹ/
 seers	/ˈsiɹz/
-seery	/ˈsiɹi/
 sees	/ˈsiz/
 seesaw	/ˈsiˌsɔ/
 seesawed	/ˈsiˌsɔd/
 seesawing	/ˈsiˌsɔɪŋ/
-seese	/ˈsiz/
 seethe	/ˈsið/
 seething	/ˈsiðɪŋ/
-seetin	/ˈsitɪn/
-seeton	/ˈsitən/
-seever	/ˈsivɝ/
-seevers	/ˈsivɝz/
-seewald	/ˈsiˌwɔɫd/
-sega	/ˈseɪɡə/, /ˈsiɡə/
-segal	/ˈsiɡəɫ/
-segar	/ˈsiɡɝ/
-segel	/ˈsiɡəɫ/
-seger	/ˈsiɡɝ/
-segers	/ˈsiɡɝz/
-sego	/ˈsiˌɡoʊ/
-segrest	/ˈsɛɡɝɪst/, /ˈsiˌɡɹɛst/
-seguin	/ˈsiɡən/, /səˈɡin/
-seib	/ˈsib/
-seif	/ˈsif/
-seife	/ˈsif/
-seigal	/ˈsiɡəɫ/
+<!-- sega	/ˈseɪɡə/, /ˈsiɡə/ -->
 seige	/ˈsidʒ/
-seigel	/ˈsaɪɡəɫ/, /ˈsiɡəɫ/
-seigle	/ˈsiɡəɫ/
-seigler	/ˈsaɪɡəɫɝ/, /ˈsiɡəɫɝ/, /ˈsiɡɫɝ/
-seip	/ˈsip/
-seiple	/ˈsipəɫ/
-seipp	/ˈsip/
-seis	/ˈsis/
-seitel	/ˈsiˌtɛɫ/
-seith	/ˈsiθ/
-seitman	/ˈsitmən/
-seix	/ˈsiks/
-seixas	/ˈsiksəs/
-seiyu	/ˈsiju/
 seize	/ˈsiz/
 seized	/ˈsizd/
 seizes	/ˈsizɪz/
 seizing	/ˈsizɪŋ/
 seizure	/ˈsiʒɝ/
 seizures	/ˈsiʒɝz/
-seley	/ˈsiɫi/
-sema	/ˈsimə/
-seman	/ˈsimən/
-semans	/ˈsimənz/
 semen	/ˈsimən/
 senile	/ˈsiˌnaɪɫ/
 senior	/ˈsinjɝ/
-seniornet	/ˈsinjɝˌnɛt/
 seniors	/ˈsinjɝz/
-seo	/ˈseɪoʊ/, /ˈsioʊ/
-seow	/ˈsiaʊ/, /ˈsioʊ/
-seow's	/ˈsiˌoʊz/
-sepe	/ˈsip/
-sepia	/ˈsipiə/
+<!-- sepia	/ˈsipiə/ -->
 sequel	/ˈsikwəɫ/
 sequels	/ˈsikwəɫz/
 sequence	/ˈsikwəns/
@@ -503,125 +248,28 @@ sequent	/ˈsikwənt/
 sequin	/ˈsikwən/, /ˈsikwɪn/
 sequined	/ˈsikwənd/
 sequins	/ˈsikwənz/, /ˈsikwɪnz/
-seres	/ˈsiɹz/
-serio	/ˈsiɹioʊ/
-sese	/ˈsisi/
-seton	/ˈsitən/
-sevy	/ˈsivi/
-seymore	/ˈsimɔɹ/
 seymour	/ˈsimɔɹ/
 seymour's	/ˈsimɔɹz/
-si	/ˈsi/
-sica	/ˈsikə/
-sie	/ˈsi/
-siebe	/ˈsib/
 siebel	/ˈsibəɫ/
-siebels	/ˈsibəɫz/
-sieben	/ˈsibən/
-siebenaler	/ˈsibɪˌnɑɫɝ/, /ˈsibɪnəɫɝ/
-sieber	/ˈsibɝ/
-siebers	/ˈsibɝz/
-siebert	/ˈsibɝt/
-siebold	/ˈsiˌboʊɫd/
-siebrecht	/ˈsibɹɪkt/
-sieck	/ˈsik/
-siecle	/ˈsikəɫ/
-siedenburg	/ˈsidənbɝɡ/
-siedschlag	/ˈsidʃɫəɡ/
-siefert	/ˈsifɝt/
-siefert's	/ˈsifɝts/
-siefken	/ˈsifkən/
-siefker	/ˈsifkɝ/
-sieg	/ˈsiɡ/
-siegal	/ˈsiɡəɫ/
-siegan	/ˈsiɡən/
-siegan's	/ˈsiɡənz/
 siege	/ˈsidʒ/
-siegecraft	/ˈsidʒˌkɹæft/
-siegel	/ˈsiɡəɫ/
-siegel's	/ˈsiɡəɫz/
-siegell	/ˈsiɡəɫ/
-siegelman	/ˈsiɡəɫmən/
-siegenthaler	/ˈsiɡɪnθəɫɝ/
-sieger	/ˈsiɡɝ/
-siegert	/ˈsiɡɝt/
 sieges	/ˈsidʒɪz/
 siegfried	/ˈsiɡˌfɹid/
-siegle	/ˈsiɡəɫ/
-siegler	/ˈsiɡɫɝ/
-siegman	/ˈsiɡmən/
-siegmann	/ˈsiɡmən/
-siegmund	/ˈsiɡmənd/
-siegrist	/ˈsiɡɹɪst/
-sieh	/ˈsi/
-siek	/ˈsik/
-siekman	/ˈsikmən/
-sieler	/ˈsiɫɝ/
-sieling	/ˈsiɫɪŋ/
-sieloff	/ˈsiɫɔf/
-sielski	/ˈsiɫski/
-siem	/ˈsim/
-siemel	/ˈsiməɫ/
 siemens	/ˈsimənz/
 siemens's	/ˈsimənz/, /ˈsimənzɪz/
-siemer	/ˈsimɝ/
-siemers	/ˈsimɝz/
-siemon	/ˈsimən/
-siems	/ˈsimz/
-siemsen	/ˈsimsən/
-sierchio	/ˈsiɹtʃioʊ/
-siers	/ˈsiɹz/
-sies	/ˈsiz/
-siess	/ˈsis/
-siever	/ˈsivɝ/
-sievers	/ˈsivɝz/
-sievert	/ˈsivɝt/
-siewert	/ˈsiwɝt/
-signor	/ˈsinjɔɹ/
-sihanouk	/ˈsiəˌnʊk/
 sikh	/ˈsik/
 sikhism	/ˈsikɪzm/
 sikhs	/ˈsiks/
 sima	/ˈsimə/
-simi	/ˈsimi/
-simo	/ˈsimoʊ/
-sipa	/ˈsipə/
-sisco	/ˈsiskoʊ/
-siska	/ˈsiskə/
-sito	/ˈsitoʊ/
-sito's	/ˈsitoʊz/
-siu	/ˈsiu/
-sql	/ˈsikwʊɫ/, /ˌɛsˌkjuˈɛɫ/
-sr	/ˈsinjɝ/, /ˈsɪstɝ/
-tse	/ˈsi/, /ˈtsi/
+<!-- sql	/ˈsikwʊɫ/, /ˌɛsˌkjuˈɛɫ/ -->
 
-cb	/ˌsiˈbi/
-cbc	/ˌsiˌbiˈsi/
 cbs	/ˌsiˌbiˈɛs/
 cc	/ˌsiˈsi/
 ccd	/ˌsiˌsiˈdi/
 cd	/ˌsiˈdi/
 cdc	/ˌsiˌdiˈsi/
 cds	/ˌsiˈdiz/
-ce	/ˌsiˈi/
-cea	/ˈsiə/, /ˌsiˌiˈeɪ/
 cenozoic	/ˌsinəˈzoʊɪk/
 cgi	/ˌsiˌɡiˈaɪ/
-cialis	/ˌsiˈɑɫəs/
-ciminero	/ˌsimɪˈnɛɹoʊ/
-cio	/ˌsiˌaɪˈoʊ/
-cit	/ˌsiˌaɪˈti/
-ciudad	/ˌsiuˈdæd/
-civiletti	/ˌsivɪˈɫɛti/
-clo	/ˌsiˌɛˈɫoʊ/
-cmudict	/ˌsiˌɛmˈjuˌdɪkt/
 cpu	/ˌsiˌpiˈju/
 cv	/ˌsiˈvi/
-sciaroni	/ˌsiɝˈoʊni/
 seigniorage	/ˌsiɡˈniɝɪdʒ/
-senor	/ˌsinˈjɔɹ/
-senora	/ˌsinˈjɔɹə/
-sian	/ˌsiˈɑn/
-simione	/ˌsimiˈoʊni/
-simonelli	/ˌsimoʊˈnɛɫi/
-sitiveni	/ˌsitɪˈvini/

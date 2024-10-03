@@ -1,18 +1,6 @@
-nabil	/nɑˈbi/
-naccarato	/nɑkɝˈɑtoʊ/
-naclerio	/nɑˈkɫɛɹiˌoʊ/
-nadal	/nɑˈdæɫ/
-nadel	/nɑˈdɛɫ/
-nadell	/nɑˈdeɪɫ/
-nagai	/nɑˈɡɑi/
-nagano	/nɑˈɡɑnoʊ/
-nagao	/nɑˈɡɑoʊ/
-nagata	/nɑˈɡɑtə/
-naively	/nɑˈivɫi/
-naivete	/nɑˌivəˈteɪ/
-najar	/nɑˈjɑɹ/
-najera	/nɑˈdʒɛɹə/
-najjar	/nɑˈjɑɹ/
+<!-- nagano	/nɑˈɡɑnoʊ/ -->
+<!-- naively	/nɑˈivɫi/ -->
+<!-- naivete	/nɑˌivəˈteɪ/ -->
 nakagawa	/nɑkɑˈɡɑwə/
 nakahara	/nɑkɑˈhɑɹə/
 nakai	/nɑˈkɑi/
@@ -32,45 +20,9 @@ nanez	/nɑˈnɛz/
 nanninga	/nɑˈniŋɡə/
 nannini	/nɑˈnini/
 naoma	/nɑˈoʊmə/
-napierala	/nɑpɪˈɹɑɫə/
-napoletano	/nɑˌpoʊɫɛˈtɑnoʊ/
-napolitan	/nɑˌpoʊɫiˈtɑn/
-napolitano	/nɑˌpoʊɫiˈtɑnoʊ/
-napora	/nɑˈpɔɹə/
-naramore	/nɑˈɹɑmɔɹ/
-naranja	/nɑˈɹɑnjə/
-naranjo	/nɑˈɹɑnjoʊ/
-narayan	/nɑˈɹɑjɑn/
-narciso	/nɑɹˈtʃisoʊ/
 narcissus	/nɑɹˈsɪsəs/
 narcotic	/nɑɹˈkɑtɪk/
 narcotics	/nɑɹˈkɑtɪks/
-nardelli	/nɑɹˈdɛɫi/
-nardiello	/nɑɹdiˈɛɫoʊ/
-nardini	/nɑɹˈdini/
-nardone	/nɑɹˈdoʊni/
-nardozzi	/nɑɹˈdoʊtsi/
-narducci	/nɑɹˈdutʃi/
-naron	/nɑˈɹɔn/
-narramore	/nɑˈɹɑmɔɹ/
-naruhito	/nɑɹuˈhitoʊ/
-narvaez	/nɑɹˈvɑɛz/
-nastasi	/nɑˈstɑsi/
-natala	/nɑˈtɑɫə/
-natale	/nɑˈtɑɫi/
-natali	/nɑˈtɑɫi/
-natoli	/nɑˈtoʊɫi/
-nauta	/nɑˈutə/
-navar	/nɑˈvɑɹ/
-navarra	/nɑˈvɑɹə/
-navarre	/nɑˈvɑɹ/
-navickas	/nɑˈvikɑz/
-navin	/nɑˈvin/
-nawrocki	/nɑvˈɹoʊtski/
-nazar	/nɑˈzɑɹ/
-nazario	/nɑˈzɑɹioʊ/
-nazionale	/nɑtsioʊˈnɑɫi/
-nazzaro	/nɑtˈsɑɹoʊ/
 nocturnal	/nɑkˈtɝnəɫ/
 non-academic	/nɑˌnækəˈdɛmɪk/
 non-biting	/nɑnˈbaɪtɪŋ/
@@ -155,9 +107,6 @@ non-voting	/nɑnˈvoʊtɪŋ/
 non-zero	/nɑnˈziɹoʊ/
 non-zero-sum	/nɑnˈziɹoʊˌsəm/
 nonacademic	/nɑˌnækəˈdɛmɪk/
-nonbiting	/nɑnˈbaɪtɪŋ/
-noncallable	/nɑnˈkɔɫəbəɫ/
-noncolor	/nɑnˈkəɫɝ/
 noncompete	/nɑnkəmˈpit/
 noncontract	/nɑnˈkɑnˌtɹækt/
 noncontroversial	/nɑnˌkɑntɹəˈvɝʃəɫ/
@@ -191,7 +140,6 @@ nonpartisan	/nɑnˈpɑɹtəzən/
 nonpaying	/nɑnˈpeɪɪŋ/
 nonpayment	/nɑnˈpeɪmənt/
 nonperforming	/nɑnpɝˈfɔɹmɪŋ/
-nonplanar	/nɑnˈpɫeɪnɝ/
 nonpluss	/nɑnˈpɫəs/
 nonplussed	/nɑnˈpɫəst/
 nonpoisonous	/nɑnˈpɔɪzənəs/
@@ -235,24 +183,14 @@ noxell	/nɑkˈsɛɫ/
 noxema	/nɑkˈsimə/
 
 gnarl	/ˈnɑɹɫ/
-gnarle	/ˈnɑɹɫ/
 gnarled	/ˈnɑɹɫd/
 gnarling	/ˈnɑɹɫɪŋ/
 gnarls	/ˈnɑɹɫz/
 gnarly	/ˈnɑɹɫi/
 gnosticism	/ˈnɑstɪˌsɪzəm/
-knaack	/ˈnɑk/
-knaak	/ˈnɑk/
 knob	/ˈnɑb/
-knobbe	/ˈnɑb/
 knobby	/ˈnɑbi/
-knoblauch	/ˈnɑbɫaʊk/
-knobloch	/ˈnɑbɫək/
-knoblock	/ˈnɑbɫɑk/
 knobs	/ˈnɑbz/
-knoch	/ˈnɑk/
-knoche	/ˈnɑtʃ/
-knochel	/ˈnɑkəɫ/
 knock	/ˈnɑk/
 knockdown	/ˈnɑkˌdaʊn/
 knocked	/ˈnɑkt/
@@ -262,97 +200,40 @@ knockoffs	/ˈnɑˌkɔfs/
 knockout	/ˈnɑˌkaʊt/
 knockouts	/ˈnɑˌkaʊts/
 knocks	/ˈnɑks/
-knop	/ˈnɑp/
-knopf	/ˈnɑf/, /ˈnɑpf/
-knopp	/ˈnɑp/
-knost	/ˈnɑst/
 knot	/ˈnɑt/
-knoth	/ˈnɑθ/
 knots	/ˈnɑts/
-knott	/ˈnɑt/
-knott's	/ˈnɑts/
 knotted	/ˈnɑtɪd/
-knotts	/ˈnɑts/
 knotty	/ˈnɑti/
 knowledge	/ˈnɑɫədʒ/, /ˈnɑɫɪdʒ/
 knowledgeable	/ˈnɑɫədʒəbəɫ/
 knowledgeably	/ˈnɑɫɪdʒəbɫi/
-knowledgeware	/ˈnɑɫɪdʒˌwɛɹ/
 knox	/ˈnɑks/
 knox's	/ˈnɑksɪz/
 knoxville	/ˈnɑksvɪɫ/
-na	/ˈnɑ/
-naab	/ˈnɑb/
-naas	/ˈnɑz/
-nabi	/ˈnɑˌbi/, /ˈneɪˌbi/
 nacho	/ˈnæˌtʃoʊ/, /ˈnɑˌtʃoʊ/
 nachos	/ˈnæˌtʃoʊz/, /ˈnɑˌtʃoʊz/
-nada	/ˈnɑdɑ/
 nadia	/ˈnædjə/, /ˈnɑdjə/
-nadjen	/ˈnɑdʒən/
-nagi	/ˈnɑɡi/
-nah	/ˈnɑ/
-nahas	/ˈnɑhəz/
-nahm	/ˈnæm/, /ˈnɑm/
-nahmias	/ˈnɑmiəz/
-naish	/ˈnɑɪʃ/, /ˈneɪʃ/
-naldo	/ˈnɑɫdoʊ/
-namaste	/ˈnɑmɑˌsteɪ/
-nandi	/ˈnɑndi/
-nania	/ˈnɑniə/
-nano	/ˈnænoʊ/, /ˈnɑnoʊ/
+<!-- nah	/ˈnɑ/ -->
+<!-- nano	/ˈnænoʊ/, /ˈnɑnoʊ/ -->
 nanogram	/ˈnænoʊɡɹæm/, /ˈnɑnoʊɡɹæm/
-nanos	/ˈnænoʊz/, /ˈnɑnoʊz/
-napea	/ˈnɑpiə/
-naqvi	/ˈnækvi/, /ˈnɑkvi/
 nara	/ˈnɑɹə/
-naral	/ˈnɑɹɑɫ/
 narc	/ˈnɑɹk/
-narcisse	/ˈnɑɹsɪs/
 narcissism	/ˈnɑɹsɪˌsɪzəm/
 narcissist	/ˈnɑɹsɪsɪst/
 narco	/ˈnɑɹkoʊ/
 narcolepsy	/ˈnɑɹkəˌɫɛpsi/
 narcos	/ˈnɑɹkoʊs/
 nard	/ˈnɑɹd/
-narda	/ˈnɑɹdə/
-nardi	/ˈnɑɹdi/
-nardo	/ˈnɑɹdoʊ/
-narjes	/ˈnɑɹjəs/
-narlikar	/ˈnɑɹɫɪˌkɑɹ/
-narlock	/ˈnɑɹɫək/
-narly	/ˈnɑɹɫi/
 narnia	/ˈnɑɹˌniɑ/
-naro	/ˈnɑɹoʊ/
-nars	/ˈnɑɹz/
-narveson	/ˈnɑɹvɪsən/
-nasca	/ˈnɑskə/
-naso	/ˈnɑsoʊ/
-nasr	/ˈnɑsɝ/
-nata	/ˈnɑtə/
-nava	/ˈnɑvə/
 navajo	/ˈnævəˌhoʊ/, /ˈnɑvəˌhoʊ/
 navajos	/ˈnævəˌhoʊz/, /ˈnɑvəˌhoʊz/
-navas	/ˈnɑvəs/
-navin-chandr	/ˈnɑˌvɪnˈtʃɑndɝ/
-navin-chandra	/ˈnɑˌvɪnˈtʃɑndɹə/
-navis	/ˈnɑvɪs/
 naw	/ˈnɑ/
 nazi	/ˈnɑtsi/
 nazi's	/ˈnɑtsiz/
 nazis	/ˈnɑtsiz/
 nazis'	/ˈnɑtsiz/
-nobbe	/ˈnɑb/
-nobile	/ˈnɑbəɫ/
-noblet	/ˈnɑbɫət/
-noblett	/ˈnɑbɫɪt/
-noblin	/ˈnɑbɫɪn/
-noblitt	/ˈnɑbɫɪt/
-nobly	/ˈnɑbɫi/
-nobrega	/ˈnɑbɹɪɡə/
-nobriga	/ˈnɑbɹɪɡə/
+<!-- nobly	/ˈnɑbɫi/ -->
 nock	/ˈnɑk/
-nockard	/ˈnɑkɝd/
 nod	/ˈnɑd/
 nodded	/ˈnɑdəd/, /ˈnɑdɪd/
 nodding	/ˈnɑdɪŋ/
@@ -360,14 +241,6 @@ nods	/ˈnɑdz/
 nodular	/ˈnɑdʒəɫɝ/
 nodule	/ˈnɑdʒuɫ/
 nodules	/ˈnɑdʒuɫz/
-noffke	/ˈnɑfk/
-noffsinger	/ˈnɑfsɪndʒɝ/
-nofsinger	/ˈnɑfsɪndʒɝ/
-noggle	/ˈnɑɡəɫ/
-nolen	/ˈnɑɫən/
-nolie	/ˈnɑɫi/
-nollan	/ˈnɑɫən/
-nolley	/ˈnɑɫi/
 nom	/ˈnɑm/
 nominal	/ˈnɑmənəɫ/
 nominally	/ˈnɑmənəɫi/
@@ -444,7 +317,6 @@ nonfarm	/ˈnɑnˈfɑɹm/
 nonfat	/ˈnɑnˈfæt/
 nonfatal	/ˈnɑnˈfeɪtəɫ/
 nonfood	/ˈnɑnˈfud/
-nonie	/ˈnɑni/
 nonjet	/ˈnɑnˈdʒɛt/
 nonjets	/ˈnɑnˈdʒɛts/
 nonnative	/ˈnɑˈneɪtɪv/
@@ -460,7 +332,6 @@ nonwhite	/ˈnɑnˈwaɪt/, /ˈnɑnhˈwaɪt/
 nonwhites	/ˈnɑnˈwaɪts/, /ˈnɑnhˈwaɪts/
 nonwoven	/ˈnɑnˈwoʊvɪn/
 nonwovens	/ˈnɑnˈwoʊvənz/
-nostrand	/ˈnɑstɹənd/
 nostril	/ˈnɑstɹɪɫ/
 nostrils	/ˈnɑstɹəɫz/
 nostrums	/ˈnɑstɹəmz/
@@ -468,21 +339,8 @@ not	/ˈnɑt/
 notch	/ˈnɑtʃ/
 notched	/ˈnɑtʃt/
 notches	/ˈnɑtʃəz/, /ˈnɑtʃɪz/
-noteboom	/ˈnɑtɪbum/, /ˈnutɪbum/
-noth	/ˈnɑθ/
-nothdurft	/ˈnɑθdɝft/
-nothin	/ˈnɑθɪn/
-nothnagel	/ˈnɑθnəɡəɫ/
-nothstein	/ˈnɑθˌstaɪn/, /ˈnɑθˌstin/
 nots	/ˈnɑts/
-nott	/ˈnɑt/
-nottage	/ˈnɑtɪdʒ/
-notte	/ˈnɑt/
-notter	/ˈnɑtɝ/
 nottingham	/ˈnɑtɪŋˌhæm/
-notz	/ˈnɑts/
-novacek	/ˈnɑvətʃɛk/
-novack	/ˈnɑvək/
 novel	/ˈnɑvəɫ/
 novel's	/ˈnɑvəɫz/
 novelist	/ˈnɑvəɫəst/
@@ -493,26 +351,15 @@ novelty	/ˈnɑvəɫti/
 novgorod	/ˈnɑvɡɝˌɑd/
 novice	/ˈnɑvəs/
 novices	/ˈnɑvəsɪz/
-novick	/ˈnɑvɪk/, /ˈnoʊvɪk/
-novosad	/ˈnɑvəsæd/
-novosel	/ˈnɑvəsɛɫ/
-novotney	/ˈnɑvətni/
 noxious	/ˈnɑkʃəs/
-noxon	/ˈnɑksən/
-noxso	/ˈnɑksoʊ/
 nozzle	/ˈnɑzəɫ/
 nozzles	/ˈnɑzəɫz/
 
 nagasaki	/ˌnɑɡɑˈsɑki/
 nakasone	/ˌnɑkəˈsoʊni/
 nakasone's	/ˌnɑkəˈsoʊniz/
-narasimha	/ˌnɑɹəˈsɪmˌhɑ/
-narasimhan	/ˌnɑɹəˈsɪmˌhɑn/
-narayanan	/ˌnɑɹaɪˈɑnən/
 narazaki	/ˌnɑɹɑˈzɑki/
 narcissistic	/ˌnɑɹsɪˈsɪstɪk/
-nardella	/ˌnɑɹˈdɛɫə/
-nazarbayev	/ˌnɑzəɹˈbaɪjɛv/
 nomination	/ˌnɑməˈneɪʃən/
 nominations	/ˌnɑməˈneɪʃənz/
 nominee	/ˌnɑməˈni/
@@ -557,8 +404,6 @@ non-stops	/ˌnɑnˈstɑps/
 non-traditional	/ˌnɑntɹəˈdɪʃənəɫ/
 non-transferable	/ˌnɑnˌtɹænsˈfɝəbəɫ/
 non-utility	/ˌnɑnjuˈtɪɫɪti/
-nonaccrual	/ˌnɑnəˈkɹuəɫ/
-nonaccruing	/ˌnɑnəˈkɹuɪŋ/
 nonaggression	/ˌnɑnəˈɡɹɛʃən/
 nonagricultural	/ˌnɑˌnæɡɹɪˈkəɫtʃɝəɫ/
 nonalcoholic	/ˌnɑˌnæɫkəˈhɑɫɪk/

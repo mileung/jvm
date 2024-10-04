@@ -1,41 +1,14 @@
-baldassarre	/bɔɫdəˈsɑɹi/
 ballgame	/bɔɫˈɡeɪm/
 ballplayers	/bɔɫˈpɫeɪɝz/
-baudouin	/bɔˈduɪn/
-bautista	/bɔˈtistə/
-boilard	/bɔɪˈɫɑɹd/
-boitnott	/bɔɪtˈnɑt/
-boivin	/bɔɪˈvæn/
-bordallo	/bɔɹˈdæɫoʊ/
-bordeaux	/bɔɹˈdoʊ/
-bordello	/bɔɹˈdɛˌɫoʊ/
-bordenave	/ˈbɔɹdɛˌnɑv/, /bɔɹdɛˈnɑv/
-bordonaro	/bɔɹdoʊˈnɑɹoʊ/
-borella	/bɔˈɹɛɫə/
-borelli	/bɔˈɹɛɫi/
-borello	/bɔˈɹɛɫoʊ/
-boroian	/bɔˈɹɔɪən/
-borquez	/bɔɹˈkwɛz/
-borrego	/bɔˈɹɛɡoʊ/
-borrell	/bɔˈɹeɪɫ/
-borrelli	/bɔˈɹɛɫi/
-borrero	/bɔˈɹɛɹoʊ/
-borunda	/bɔˈɹundə/
-bourguiba	/bɔɹˈɡwibə/
-boyajian	/bɔɪˈædʒiən/
-boyum	/bɔɪˈəm/
+<!-- bordeaux	/bɔɹˈdoʊ/ -->
+<!-- bordello	/bɔɹˈdɛˌɫoʊ/ -->
 
-balazs	/ˈbɔɫəʃ/
 bald	/ˈbɔɫd/
 balder	/ˈbɔɫdɝ/
 balderdash	/ˈbɔɫdɝˌdæʃ/
 balding	/ˈbɔɫdɪŋ/
-baldinger	/ˈbɔɫdɪŋɝ/
 baldly	/ˈbɔɫdɫi/
 baldness	/ˈbɔɫdnəs/
-baldor	/ˈbɔɫdɝ/
-baldrige	/ˈbɔɫdɹɪdʒ/
-baldry	/ˈbɔɫdɹi/
 baldwin	/ˈbɔɫdwən/, /ˈbɔɫdwɪn/
 baldwin's	/ˈbɔɫdwənz/
 balk	/ˈbɑɫk/, /ˈbɔk/
@@ -49,15 +22,11 @@ balks	/ˈbɔks/
 balky	/ˈbɔki/
 ball	/ˈbɔɫ/
 ball's	/ˈbɔɫz/
-ballclub	/ˈbɔɫkɫəb/
 ballcock	/ˈbɔɫˈkɑk/
 ballcocks	/ˈbɔɫˈkɑks/
 balled	/ˈbɔɫd/
 baller	/ˈbɔɫɝ/
 balling	/ˈbɔɫɪŋ/
-ballinger	/ˈbɔˌɫɪndʒɝ/
-ballman	/ˈbɔɫmən/
-ballor	/ˈbɔɫɝ/
 ballpark	/ˈbɔɫˌpɑɹk/
 ballparks	/ˈbɔɫˌpɑɹks/
 ballplayer	/ˈbɔɫˌpɫeɪɝ/
@@ -68,355 +37,134 @@ ballrooms	/ˈbɔɫˌɹumz/
 balls	/ˈbɔɫz/
 balsa	/ˈbɔɫsə/
 balsam	/ˈbɔɫsəm/
-balsbaugh	/ˈbɔɫzˌbɔ/
-balt's	/ˈbɔɫts/
-balter	/ˈbɔɫtɝ/
 baltic	/ˈbɔɫtɪk/
 baltics	/ˈbɔɫtɪks/
 baltimore	/ˈbɔɫtəˌmɔɹ/
 baltimore's	/ˈbɔɫtəˌmɔɹz/
-baltsa	/ˈbɔɫtsə/
-balz	/ˈbɔɫz/
-batus	/ˈbætəs/, /ˈbɔtəs/
 bauble	/ˈbɔbəɫ/
 baubles	/ˈbɔbəɫz/
-bauch	/ˈbɔtʃ/
 baud	/ˈbɔd/
-baugh	/ˈbɔ/
-baughan	/ˈbɔən/
-baugher	/ˈbɔɝ/
-baughman	/ˈbɔmən/
-baughn	/ˈbɔn/
-baugus	/ˈbɔɡəs/
-bauknight	/ˈbɔkˌnaɪt/
 baum	/ˈbaʊm/, /ˈbɔm/
-baun	/ˈbɔn/
-baur	/ˈbaʊɝ/, /ˈbɔɹ/
-baus	/ˈbɔz/
-bautz	/ˈbɔts/
 bauxite	/ˈbɔksaɪt/
 bawd	/ˈbɔd/
-bawden	/ˈbɔdən/
 bawdy	/ˈbɔdi/
-bawer	/ˈbɔɝ/
 bawl	/ˈbɔɫ/
 bawled	/ˈbɔɫd/
 bawls	/ˈbɔɫz/
-beauregard	/ˈboʊɹɪˌɡɑɹd/, /ˈbɔɹɪˌɡɑɹd/
-beucler	/ˈbɔɪkəɫɝ/, /ˈbɔɪkɫɝ/
-beutler	/ˈbɔɪtəɫɝ/, /ˈbɔɪtɫɝ/
-bhosle	/ˈbɔsəɫ/
-boar	/ˈbɔɹ/
-board	/ˈbɔɹd/
-board's	/ˈbɔɹdz/
-boarda	/ˈbɔɹdə/
-boardbent	/ˈbɔɹdˌbɛnt/
-boarded	/ˈbɔɹdəd/, /ˈbɔɹdɪd/
-boarder	/ˈbɔɹdɝ/
-boarders	/ˈbɔɹdɝz/
-boardgame	/ˈbɔɹdˌɡeɪm/
-boardgames	/ˈbɔɹdˌɡeɪmz/
-boarding	/ˈbɔɹdɪŋ/
-boardinghouse	/ˈbɔɹdɪŋˌhaʊs/
-boardinghouses	/ˈbɔɹdɪŋˌhaʊsɪz/
-boardingpass	/ˈbɔɹdɪnɡˌpæs/
-boardingpasses	/ˈbɔɹdɪnɡˌpæsɪz/
-boardings	/ˈbɔɹdɪŋz/
-boardman	/ˈbɔɹdmən/
-boardroom	/ˈbɔɹˌdɹum/
-boardrooms	/ˈbɔɹˌdɹumz/
-boards	/ˈbɔɹdz/
-boardwalk	/ˈbɔɹdˌwɔk/
-boardwalks	/ˈbɔɹdˌwɔks/
-boarman	/ˈbɔɹmən/
-boart	/ˈbɔɹt/
+<!-- boar	/ˈbɔɹ/ -->
+<!-- board	/ˈbɔɹd/ -->
+<!-- board's	/ˈbɔɹdz/ -->
+<!-- boarded	/ˈbɔɹdəd/, /ˈbɔɹdɪd/ -->
+<!-- boarder	/ˈbɔɹdɝ/ -->
+<!-- boarders	/ˈbɔɹdɝz/ -->
+<!-- boardgame	/ˈbɔɹdˌɡeɪm/ -->
+<!-- boardgames	/ˈbɔɹdˌɡeɪmz/ -->
+<!-- boarding	/ˈbɔɹdɪŋ/ -->
+<!-- boardinghouse	/ˈbɔɹdɪŋˌhaʊs/ -->
+<!-- boardinghouses	/ˈbɔɹdɪŋˌhaʊsɪz/ -->
+<!-- boardingpass	/ˈbɔɹdɪnɡˌpæs/ -->
+<!-- boardingpasses	/ˈbɔɹdɪnɡˌpæsɪz/ -->
+<!-- boardings	/ˈbɔɹdɪŋz/ -->
+<!-- boardman	/ˈbɔɹdmən/ -->
+<!-- boardroom	/ˈbɔɹˌdɹum/ -->
+<!-- boardrooms	/ˈbɔɹˌdɹumz/ -->
+<!-- boards	/ˈbɔɹdz/ -->
+<!-- boardwalk	/ˈbɔɹdˌwɔk/ -->
+<!-- boardwalks	/ˈbɔɹdˌwɔks/ -->
 bobble	/ˈbɔbəɫ/
 bobbled	/ˈbɔbəɫd/
 bobbles	/ˈbɔbəɫz/
 bobbling	/ˈbɔbɫɪŋ/
-bodziak	/ˈbɔdziæk/
-bodziak's	/ˈbɔdziæks/
-boehringer	/ˈbɔɹɪŋɝ/
-boer	/ˈbɔɹ/
-boerger	/ˈbɔɹɡɝ/
-boerman	/ˈbɔɹmən/
-boerner	/ˈbɔɹnɝ/
-boers	/ˈbɔɹz/
-boersma	/ˈbɔɹsmə/
-boff	/ˈbɔf/
-boffo	/ˈbɔfoʊ/
 bog	/ˈbɑɡ/, /ˈbɔɡ/
 bogged	/ˈbɑɡd/, /ˈbɔɡd/
 bogging	/ˈbɔɡɪŋ/
-boggs	/ˈbɔɡz/
 bogs	/ˈbɑɡz/, /ˈbɔɡz/
-bohnomie	/ˈbɔnɔˌmi/
-bohr	/ˈbɔɹ/
-bohren	/ˈbɔɹən/
-bohrer	/ˈbɔɹɝ/
-boice	/ˈbɔɪs/
-boies	/ˈbɔɪz/
-boik	/ˈbɔɪk/
-boike	/ˈbɔɪk/
-boil	/ˈbɔɪɫ/
-boiled	/ˈbɔɪɫd/
-boiler	/ˈbɔɪɫɝ/
-boilermaker	/ˈbɔɪɫɝˌmeɪkɝ/
-boilerplate	/ˈbɔɪɫɝˌpɫeɪt/
-boilerplates	/ˈbɔɪɫɝˌpɫeɪts/
-boilers	/ˈbɔɪɫɝz/
-boiling	/ˈbɔɪɫɪŋ/
-boils	/ˈbɔɪɫz/
-boink	/ˈbɔɪnk/
-boipatong	/ˈbɔɪpətɔŋ/
-boise	/ˈbɔɪsi/, /ˈbɔɪzi/
-boise's	/ˈbɔɪsiz/, /ˈbɔɪziz/
-boisen	/ˈbɔɪsən/
-boisi	/ˈbɔɪsi/
-boisjoly	/ˈbɔɪsdʒəɫi/
-boisterous	/ˈbɔɪstɝəs/, /ˈbɔɪstɹəs/
+<!-- boil	/ˈbɔɪɫ/ -->
+<!-- boiled	/ˈbɔɪɫd/ -->
+<!-- boiler	/ˈbɔɪɫɝ/ -->
+<!-- boilermaker	/ˈbɔɪɫɝˌmeɪkɝ/ -->
+<!-- boilerplate	/ˈbɔɪɫɝˌpɫeɪt/ -->
+<!-- boilerplates	/ˈbɔɪɫɝˌpɫeɪts/ -->
+<!-- boilers	/ˈbɔɪɫɝz/ -->
+<!-- boiling	/ˈbɔɪɫɪŋ/ -->
+<!-- boils	/ˈbɔɪɫz/ -->
+<!-- boink	/ˈbɔɪnk/ -->
+<!-- boise	/ˈbɔɪsi/, /ˈbɔɪzi/ -->
+<!-- boise's	/ˈbɔɪsiz/, /ˈbɔɪziz/ -->
 bollocks	/ˈbɔɫɔks/
-bolly	/ˈbɔˌɫi/
 bollywood	/ˈbɑˌɫiwʊd/, /ˈbɔɫɪˌwʊd/
 bollywood's	/ˈbɔɫɪˌwʊdz/
 bomb	/ˈbɑm/, /ˈbɔm/
-bongers	/ˈbɔŋɝz/
-bongjin	/ˈbɔŋˈdʒɪn/
 bonker	/ˈbɔŋkɝ/
 bonner	/ˈbɔnɝ/
-bonnes	/ˈbɔnz/
-boortz	/ˈbɔɹts/
-bora	/ˈbɔɹə/
-borah	/ˈbɔɹə/
-borak	/ˈbɔɹək/
-boral	/ˈbɔɹəɫ/
-borax	/ˈbɔˌɹæks/
-borba	/ˈbɔɹbə/
-borchelt	/ˈbɔɹkɪɫt/
-borcherding	/ˈbɔɹkɝdɪŋ/
-borchers	/ˈbɔɹkɝz/
-borchert	/ˈbɔɹkɝt/
-borck	/ˈbɔɹk/
-borda	/ˈbɔɹdə/
-borda's	/ˈbɔɹdəz/
-bordas	/ˈbɔɹdəz/
-bordelon	/ˈbɔɹdɪɫɑn/
-borden	/ˈbɔɹdən/
-borden's	/ˈbɔɹdənz/
-bordenave	/ˈbɔɹdɛˌnɑv/, /bɔɹdɛˈnɑv/
-border	/ˈbɔɹdɝ/
-border's	/ˈbɔɹdɝz/
-bordered	/ˈbɔɹdɝd/
-bordering	/ˈbɔɹdɝɪŋ/
-borderline	/ˈbɔɹdɝˌɫaɪn/
-borders	/ˈbɔɹdɝz/
-bordes	/ˈbɔɹdz/
-bordman	/ˈbɔɹdmən/
-bordner	/ˈbɔɹdnɝ/
-bordwell	/ˈbɔɹdwɛɫ/
-bore	/ˈbɔɹ/
-bored	/ˈbɔɹd/
-boredom	/ˈbɔɹdəm/
-borek	/ˈbɔɹɪk/
-borel	/ˈbɔɹəɫ/
-borell	/ˈbɔɹəɫ/
-boren	/ˈbɔɹən/
-boren's	/ˈbɔɹənz/
-borenstein	/ˈbɔɹənˌstaɪn/, /ˈbɔɹənˌstin/
-borer	/ˈbɔɹɝ/
-bores	/ˈbɔɹz/
-borg	/ˈbɔɹɡ/
-borge	/ˈbɔɹdʒ/
-borgelt	/ˈbɔɹɡɪɫt/
-borgen	/ˈbɔɹɡən/
-borger	/ˈbɔɹɡɝ/
-borgerding	/ˈbɔɹɡɝdɪŋ/
-borgert	/ˈbɔɹɡɝt/
-borges	/ˈbɔɹɡeɪs/
-borgeson	/ˈbɔɹɡɪsən/
-borgess	/ˈbɔɹɡɪs/
-borghi	/ˈbɔɹɡi/
-borgia	/ˈbɔɹdʒə/
-borgman	/ˈbɔɹɡmən/
-borgmann	/ˈbɔɹɡmən/
-borgmeyer	/ˈbɔɹɡmaɪɝ/
-borgstrom	/ˈbɔɹɡstɹəm/
-borgwardt	/ˈbɔɹˌɡwɔɹt/
-boric	/ˈbɔɹɪk/
-borin	/ˈbɔɹɪn/
-boring	/ˈbɔɹɪŋ/
-boris	/ˈbɔɹɪs/
-boris'	/ˈbɔɹɪs/
-boris's	/ˈbɔɹɪsɪz/
-borja	/ˈbɔɹjə/
-borjas	/ˈbɔɹjəz/
-bork	/ˈbɔɹk/
-bork's	/ˈbɔɹks/
-borkenhagen	/ˈbɔɹkɪnˌhɑɡən/, /ˈbɔɹkɪnˌheɪɡən/
-borland	/ˈbɔɹɫənd/
-borland's	/ˈbɔɹɫəndz/
-borman	/ˈbɔɹmən/
-borman's	/ˈbɔɹmənz/
-bormann	/ˈbɔɹmən/
-born	/ˈbɔɹn/
-born's	/ˈbɔɹnz/
-borne	/ˈbɔɹn/
-borneman	/ˈbɔɹnmən/
-bornemann	/ˈbɔɹnmən/
-borneo	/ˈbɔɹniˌoʊ/
-borner	/ˈbɔɹnɝ/
-bornholdt	/ˈbɔɹnhoʊɫt/
-bornhorst	/ˈbɔɹnhɔɹst/
-bornman	/ˈbɔɹnmən/
-borns	/ˈbɔɹnz/
-bornstein	/ˈbɔɹnˈstaɪn/, /ˈbɔɹnˈstin/
-borntrager	/ˈbɔɹntɹeɪɡɝ/
-boroff	/ˈbɔɹɔf/
-boron	/ˈbɔˌɹɑn/
-borosage	/ˈbɔɹəsɪdʒ/
-borras	/ˈbɔɹəz/
-borre	/ˈbɔɹ/
-borris	/ˈbɔɹɪs/
-borroff	/ˈbɔɹɔf/
-borror	/ˈbɔɝɹ/
+<!-- bora	/ˈbɔɹə/ -->
+<!-- borax	/ˈbɔˌɹæks/ -->
+<!-- borden	/ˈbɔɹdən/ -->
+<!-- borden's	/ˈbɔɹdənz/ -->
+<!-- border	/ˈbɔɹdɝ/ -->
+<!-- border's	/ˈbɔɹdɝz/ -->
+<!-- bordered	/ˈbɔɹdɝd/ -->
+<!-- bordering	/ˈbɔɹdɝɪŋ/ -->
+<!-- borderline	/ˈbɔɹdɝˌɫaɪn/ -->
+<!-- borders	/ˈbɔɹdɝz/ -->
+<!-- bore	/ˈbɔɹ/ -->
+<!-- bored	/ˈbɔɹd/ -->
+<!-- boredom	/ˈbɔɹdəm/ -->
+<!-- borer	/ˈbɔɹɝ/ -->
+<!-- bores	/ˈbɔɹz/ -->
+<!-- borg	/ˈbɔɹɡ/ -->
+<!-- boring	/ˈbɔɹɪŋ/ -->
+<!-- boris	/ˈbɔɹɪs/ -->
+<!-- boris'	/ˈbɔɹɪs/ -->
+<!-- boris's	/ˈbɔɹɪsɪz/ -->
+<!-- bork	/ˈbɔɹk/ -->
+<!-- bork's	/ˈbɔɹks/ -->
+<!-- borland	/ˈbɔɹɫənd/ -->
+<!-- borland's	/ˈbɔɹɫəndz/ -->
+<!-- born	/ˈbɔɹn/ -->
+<!-- born's	/ˈbɔɹnz/ -->
+<!-- borne	/ˈbɔɹn/ -->
+<!-- boron	/ˈbɔˌɹɑn/ -->
+<!-- borris	/ˈbɔɹɪs/ -->
 borrowers'	/ˈbɔɹəɝz/
-bors	/ˈbɔɹz/
-borsch	/ˈbɔɹʃ/
-borscht	/ˈbɔɹʃt/
-borse	/ˈbɔɹs/
-borseth	/ˈbɔɹsɪθ/
-borski	/ˈbɔɹski/
-borst	/ˈbɔɹst/
-borsuk	/ˈbɔɹsək/
-bort	/ˈbɔɹt/
-bortel	/ˈbɔɹˌtɛɫ/
-borten	/ˈbɔɹtən/
-borth	/ˈbɔɹθ/
-borthwick	/ˈbɔɹθwɪk/
-bortle	/ˈbɔɹtəɫ/
-bortner	/ˈbɔɹtnɝ/
-bortnick	/ˈbɔɹtnɪk/
-borton	/ˈbɔɹtən/
-bortz	/ˈbɔɹts/
-boruch	/ˈbɔɹək/
-boruff	/ˈbɔɹəf/
-borum	/ˈbɔɹəm/
-borup	/ˈbɔɹəp/
-borys	/ˈbɔɹiz/
 bosch	/ˈbɔʃ/
-boschee	/ˈbɔʃi/
-boschen	/ˈbɔʃən/
-boschert	/ˈbɔʃɝt/
-boschwitz	/ˈbɔʃwɪts/
-bosco	/ˈbɔskoʊ/
-boskin	/ˈbɔskɪn/
 boss	/ˈbɑs/, /ˈbɔs/
 boss'	/ˈbɔs/
 boss's	/ˈbɔsɪz/
-bosserman	/ˈbɔsɝmən/
 bosses	/ˈbɔsɪz/
 bosses'	/ˈbɔsɪz/
-bosshardt	/ˈbɔsˌhɑɹt/
-bosshart	/ˈbɔsˌhɑɹt/
-bossidy	/ˈbɔsɪdi/
-bossie	/ˈbɔsi/
 bossier	/ˈbɔsiɝ/
 bossman	/ˈbɔsmən/
 bossy	/ˈbɔsi/
 boston	/ˈbɑstən/, /ˈbɔstən/
 boston's	/ˈbɔstənz/
-bosworth	/ˈbɔzwɝθ/
 bot	/ˈbɔt/
 bots	/ˈbɔts/
-botvinick	/ˈbɔtvɪnɪk/
 boucher	/ˈbaʊtʃɝ/, /ˈbɔtʃɝ/, /ˈbuʃə/
 bought	/ˈbɑt/, /ˈbɔt/
 boughten	/ˈbɔtən/
-boughter	/ˈbɔtɝ/
-bourg	/ˈbɔɹɡ/
-bourn	/ˈbɔɹn/
-bourne	/ˈbɔɹn/
-bournewood	/ˈbɔɹnˌwʊd/
-bournias	/ˈbɔɹniəs/
-bournonville	/ˈbɔɹnənˌvɪɫ/
-bourse	/ˈbɔɹs/
-bourse's	/ˈbɔɹsɪz/
-bourses	/ˈbɔɹsɪz/
-bouyer	/ˈbɔɪɝ/
-bouygues	/ˈbɔɪˈɡɛz/, /ˈbɔɪˈʒeɪ/
-boy	/ˈbɔɪ/
-boy-ar-dee	/ˈbɔɪˈɑɹˈdi/
-boy-scout	/ˈbɔɪskaʊt/
-boy's	/ˈbɔɪz/
-boyack	/ˈbɔɪək/
-boyan	/ˈbɔɪɑn/
-boyce	/ˈbɔɪs/
-boycott	/ˈbɔɪˌkɑt/
-boycotted	/ˈbɔɪˌkɑtɪd/
-boycotting	/ˈbɔɪˌkɑtɪŋ/
-boycotts	/ˈbɔɪˌkɑts/
-boyd	/ˈbɔɪd/
-boyd's	/ˈbɔɪdz/
-boyde	/ˈbɔɪd/
-boyden	/ˈbɔɪdən/
-boydston	/ˈbɔɪdstən/
-boydstun	/ˈbɔɪdstən/
-boye	/ˈbɔɪ/
-boyea	/ˈbɔɪiə/
-boyer	/ˈbɔɪɝ/
-boyers	/ˈbɔɪɝz/
-boyertown	/ˈbɔɪɝtaʊn/
-boyes	/ˈbɔɪz/
-boyett	/ˈbɔɪɪt/
-boyette	/ˈbɔɪˈɛt/
-boyfriend	/ˈbɔɪˌfɹɛnd/
-boyfriend's	/ˈbɔɪˌfɹɛndz/
-boyfriends	/ˈbɔɪˌfɹɛndz/
-boyhood	/ˈbɔɪˌhʊd/
-boyington	/ˈbɔɪɪŋtən/
-boyish	/ˈbɔɪɪʃ/
-boykin	/ˈbɔɪkɪn/
-boykins	/ˈbɔɪkɪnz/
-boyko	/ˈbɔɪkoʊ/
-boylan	/ˈbɔɪɫən/
-boyland	/ˈbɔɪɫənd/
-boyle	/ˈbɔɪɫ/
-boylen	/ˈbɔɪɫən/
-boyles	/ˈbɔɪɫz/
-boyleston	/ˈbɔɪɫstən/
-boyleston's	/ˈbɔɪɫstənz/
-boylls	/ˈbɔɪɫz/
-boylston	/ˈbɔɪɫstən/
-boylston's	/ˈbɔɪɫstənz/
-boyne	/ˈbɔɪn/
-boynton	/ˈbɔɪntən/
-boys	/ˈbɔɪz/
-boys'	/ˈbɔɪz/
-boysel	/ˈbɔɪsəɫ/
-boysen	/ˈbɔɪsən/
-boyson	/ˈbɔɪzən/
-boyt	/ˈbɔɪt/
-boyte	/ˈbɔɪt/
-boyter	/ˈbɔɪtɝ/
-boytoy	/ˈbɔɪˌtɔɪ/
-boytoys	/ˈbɔɪˌtɔɪz/
-boyz	/ˈbɔɪz/
-buoyancy	/ˈbɔɪənsi/
-buoyant	/ˈbɔɪənt/
-buoying	/ˈbɔɪɪŋ/
-burridge	/ˈbɔɹɪdʒ/
-burright	/ˈbɔɹaɪt/
-burrill	/ˈbɔɹəɫ/
+<!-- bourne	/ˈbɔɹn/ -->
+<!-- boy	/ˈbɔɪ/ -->
+<!-- boy-ar-dee	/ˈbɔɪˈɑɹˈdi/ -->
+<!-- boy-scout	/ˈbɔɪskaʊt/ -->
+<!-- boy's	/ˈbɔɪz/ -->
+<!-- boyack	/ˈbɔɪək/ -->
+<!-- boycott	/ˈbɔɪˌkɑt/ -->
+<!-- boycotted	/ˈbɔɪˌkɑtɪd/ -->
+<!-- boycotting	/ˈbɔɪˌkɑtɪŋ/ -->
+<!-- boycotts	/ˈbɔɪˌkɑts/ -->
+<!-- boyfriend	/ˈbɔɪˌfɹɛnd/ -->
+<!-- boyfriend's	/ˈbɔɪˌfɹɛndz/ -->
+<!-- boyfriends	/ˈbɔɪˌfɹɛndz/ -->
+<!-- boyhood	/ˈbɔɪˌhʊd/ -->
+<!-- boyish	/ˈbɔɪɪʃ/ -->
+<!-- boyle	/ˈbɔɪɫ/ -->
+<!-- boys	/ˈbɔɪz/ -->
+<!-- boys'	/ˈbɔɪz/ -->
+<!-- buoyancy	/ˈbɔɪənsi/ -->
+<!-- buoyant	/ˈbɔɪənt/ -->
+<!-- buoying	/ˈbɔɪɪŋ/ -->
 
 balkanization	/ˌbɔɫkənɪˈzeɪʃən/
-baltodano	/ˌbɔɫtoʊˈdɑnoʊ/
-boileau	/ˌbɔɪˈɫoʊ/
-boitano	/ˌbɔɪˈtɑnoʊ/
-borealis	/ˌbɔɹiˈæɫəs/
-borrello	/ˌbɔˈɹɛɫoʊ/
-borruso	/ˌbɔˈɹusoʊ/
-borsod	/ˌbɔɹˈsɔd/
-borsodi	/ˌbɔɹˈsɔˌdi/
-boslego	/ˌbɔˈsɫeɪɡoʊ/
+<!-- borealis	/ˌbɔɹiˈæɫəs/ -->
 bostonian	/ˌbɔˈstoʊniən/
-bottecelli	/ˌbɔtəˈtʃɛɫi/

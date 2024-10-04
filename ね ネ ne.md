@@ -115,43 +115,13 @@ nevermind	/ˈnɛvɝˌmaɪnd/
 nevermore	/ˈnɛvɝˌmɔɹ/
 nevers	/ˈnɛvɝz/
 neville	/ˈnɛvɪɫ/
-nevills	/ˈnɛvɪɫz/
-nevils	/ˈnɛvəɫz/
-nevin	/ˈnɛvɪn/
-nevin's	/ˈnɛvɪnz/
-nevins	/ˈnɛvɪnz/
-nevis	/ˈnɛvɪs/
-nevitt	/ˈnɛvɪt/
-neworld	/ˈnɛˈwɝɫd/, /ˈnuˈɝɫd/
-nex	/ˈnɛks/
-nexgen	/ˈnɛksˌdʒɛn/
-nexis	/ˈnɛksɪs/
-nexrad	/ˈnɛksɹæd/
 next	/ˈnɛks/, /ˈnɛkst/
 next's	/ˈnɛksts/
-nextel	/ˈnɛkˌstɛɫ/
-nextel's	/ˈnɛkˌstɛɫz/
-nextstep	/ˈnɛkˌstɛp/, /ˈnɛkstˌstɛp/
 nexus	/ˈnɛksəs/
-nez	/ˈnɛz/
 
 narragansett	/ˌnɛɹəˈɡænsət/
 necessarily	/ˌnɛsəˈsɛɹəɫi/
-nechayev	/ˌnɛˈtʃaɪɛv/
-nechyba	/ˌnɛˈtʃibə/
-necmettin	/ˌnɛdʒˈmɛtɪn/
-nederlandsche	/ˌnɛdɝˈɫændʃi/
-nederlandse	/ˌnɛdɝˈɫændsi/
 negativity	/ˌnɛɡəˈtɪvəti/
-negroni	/ˌnɛˈɡɹoʊni/
-negropalpus	/ˌnɛɡɹəˈpɑɫpəs/
-nellette	/ˌnɛˈɫɛt/
-nelliana	/ˌnɛɫiˈænə/
 nepalese	/ˌnɛpəˈɫiz/
-nepenthe	/ˌnɛˈpɛnθi/
-netanyahu	/ˌnɛtənˈjɑˌhu/
-netanyahu's	/ˌnɛtənˈjɑˌhuz/
-nethuva	/ˌnɛˈθuvə/
-nethuva's	/ˌnɛˈθuvəz/
 never-ending	/ˌnɛvɝˈɛndɪŋ/
 nevertheless	/ˌnɛvɝðəˈɫɛs/

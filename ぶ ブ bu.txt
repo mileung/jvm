@@ -1,75 +1,19 @@
-beukema	/buˈkimə/
 boolean	/buˈɫiən/
-bouchard	/buˈʃɑɹd/
-bouchey	/buˈʃi/
-boudoin	/buˈdɔɪn/
-bouffard	/buˈfɑɹd/
-bouie	/buˈi/
-boulais	/buˈɫeɪ/
-boulay	/buˈɫeɪ/
-boulet	/buˈɫɛt/
-bouley	/buˈɫi/
-boulos	/buˈɫoʊz/
-bouman	/buˈmæn/
 bouquet	/buˈkeɪ/
 bouquets	/boʊˈkeɪz/, /buˈkeɪz/
-bousquet	/buˈskɛt/
-boutell	/buˈtɛɫ/
-boutin	/buˈtæn/
 boutique	/buˈtik/
 boutiques	/buˈtiks/
-bucaro	/buˈkɑɹoʊ/
-buccellato	/butʃɛˈɫɑtoʊ/
-buccheri	/buˈkɛɹi/
-bucciarelli	/butʃɝˈɛɫi/
-buccieri	/buˈtʃɪɹi/
-buccino	/buˈtʃinoʊ/
-buccola	/buˈkoʊɫə/
-budai	/buˈdɑi/
-buentello	/bunˈtɛɫoʊ/
-bufano	/buˈfɑnoʊ/
-buffone	/buˈfoʊni/
-bugliosi	/buɡɫiˈoʊsi/
-bugliosi's	/buɡɫiˈoʊsiz/
-bugojno	/buˈɡoʊʒnoʊ/
-buie	/ˈbwi/, /buˈi/
-bujumbura	/budʒəmˈbʊɹə/
-bukavu	/buˈkɑˌvu/
-bukavu's	/buˈkɑˌvuz/
-bukovsky	/buˈkɑvski/
-bulimic	/bjuˈɫɪmɪk/, /buˈɫɪmɪk/
-bultema	/buɫˈtɛmə/
-busalacchi	/busɑˈɫɑki/
-buscaglia	/buˈskɑɡɫiə/
-buscemi	/busˈtʃɛmi/
-bustillo	/buˈstɪɫoʊ/
-butala	/buˈtɑɫə/
-butare	/bjuˈtɑɹi/, /buˈtɑɹi/
-butare's	/bjuˈtɑɹiz/, /buˈtɑɹiz/
-butera	/buˈtɛɹə/
-buttacavoli	/butɑkɑˈvoʊɫi/
-buttafuoco	/butəfˈwoʊkoʊ/
-buttafuoco's	/butəfˈwoʊkoʊz/
-buttitta	/buˈtitə/
-buzzelli	/butˈsɛɫi/
 
-beu	/ˈbu/
-beula	/ˈbuɫə/
-bhutto	/ˈbutoʊ/
-bhutto's	/ˈbutoʊz/
 boo	/ˈbu/
 boob	/ˈbub/
 boobs	/ˈbubz/
 booby	/ˈbubi/
-boock	/ˈbuk/
 boodle	/ˈbudəɫ/
 boodles	/ˈbudəɫz/
-boody	/ˈbudi/
 booed	/ˈbud/
 booee	/ˈbui/
 boogie	/ˈbuɡi/, /ˈbʊɡi/
 boogie-woogie	/ˈbuɡiˈwuɡi/, /ˈbʊɡiˈwʊɡi/
-booher	/ˈbuɝ/
 booing	/ˈbuɪŋ/
 boole	/ˈbuɫ/
 boom	/ˈbum/
@@ -80,7 +24,6 @@ boomerang	/ˈbumɝˌæŋ/
 boomeranged	/ˈbumɝˌæŋd/
 boomers	/ˈbumɝz/
 boomers'	/ˈbumɝz/
-boomershine	/ˈbumɝˌʃaɪn/
 boomhower	/ˈbumhoʊɝ/
 booming	/ˈbumɪŋ/
 boomlet	/ˈbumɫət/
@@ -91,13 +34,8 @@ boon	/ˈbun/
 boondocks	/ˈbunˌdɑks/
 boone	/ˈbun/
 boons	/ˈbunz/
-boonstra	/ˈbunstɹə/
-boonton	/ˈbuntən/
-boonville	/ˈbunvɪɫ/
 boop	/ˈbup/
-boorstin	/ˈbuɹstɪn/
 boos	/ˈbuz/
-boose	/ˈbus/
 boost	/ˈbust/
 boosted	/ˈbustɪd/
 booster	/ˈbustɝ/
@@ -107,14 +45,8 @@ boosters	/ˈbustɝz/
 boosting	/ˈbustɪŋ/
 boosts	/ˈbusts/
 boot	/ˈbut/
-boote	/ˈbut/
 booted	/ˈbutɪd/
-booten	/ˈbutən/
 booth	/ˈbuθ/
-boothby	/ˈbuθbi/
-boothe	/ˈbuð/
-boothman	/ˈbuθmən/
-boothroyd	/ˈbuˌθɹɔɪd/
 booths	/ˈbuθs/
 bootie	/ˈbuti/
 booties	/ˈbutiz/
@@ -124,83 +56,37 @@ bootlegger	/ˈbutˌɫɛɡɝ/
 bootleggers	/ˈbutˌɫɛɡɝz/
 bootlegging	/ˈbutˌɫɛɡɪŋ/
 bootlegs	/ˈbutˌɫɛɡz/
-booton	/ˈbutən/
 boots	/ˈbuts/
 bootstrap	/ˈbutˌstɹæp/
 bootstraps	/ˈbutˌstɹæps/
 booty	/ˈbuti/
-bootz	/ˈbuts/
 booz	/ˈbuz/
 booze	/ˈbuz/
 boozer	/ˈbuzɝ/
 boozier	/ˈbuziɝ/
 boozing	/ˈbuzɪŋ/
 boozy	/ˈbuzi/
-boucher	/ˈbaʊtʃɝ/, /ˈbɔtʃɝ/, /ˈbuʃə/
 boudin	/ˈbudɪn/
 boudoir	/ˈbuˌdɔɪɹ/
 bougainville	/ˈbuɡɪnˌvɪɫ/
 bougie	/ˈbuˌʒi/
-bouillabaise	/ˈbuɫjəˌbeɪs/
-boulalas	/ˈbuɫəɫəs/
 boule	/ˈbuɫ/
 boulez	/ˈbuˌɫɛz/
-boulier	/ˈbuɫiɝ/
-boullion	/ˈbuɫjən/
-boursicot	/ˈbəɹsəkɔt/, /ˈbuɹsɪˌkɔt/
-bouska	/ˈbuskə/
-boussac	/ˈbusæk/
-boustany	/ˈbustəni/
-boutros	/ˈbuˌtɹoʊs/
-boutte	/ˈbut/
-bouwsma	/ˈbuzmə/
-bouza	/ˈbuzə/
-bubar	/ˈbubɝ/
-bubeck	/ˈbubɛk/
-bubel	/ˈbubəɫ/
-buber	/ˈbuˌbɝ/
-bucci	/ˈbutʃi/
-bucco	/ˈbukoʊ/
-bucek	/ˈbutʃɛk/
 bucharest	/ˈbjukɝˌɛst/, /ˈbukɝˌɛst/
-buchi	/ˈbətʃi/, /ˈbutʃi/
-buchi's	/ˈbətʃiz/, /ˈbutʃiz/
 budapest	/ˈbudəˌpɛst/, /ˈbudəˌpɛʃt/
 budapest's	/ˈbudəˌpɛsts/, /ˈbudəˌpɛʃts/
-buday	/ˈbudeɪ/
 buddha	/ˈbudə/
 buddha's	/ˈbudəz/
 buddhism	/ˈbudɪzəm/
 buddhist	/ˈbudəst/
 buddhists	/ˈbudəsts/
-budin	/ˈbudɪn/
-budyonnovsk	/ˈbudjəˌnɑvsk/
-bueche	/ˈbutʃ/
-buege	/ˈbudʒ/
-buelow	/ˈbuɫoʊ/
 buena	/ˈbunə/
-buendia	/ˈbundiə/
-buer	/ˈbuɝ/
-buetow	/ˈbutoʊ/
 buffo	/ˈbufoʊ/
-bugaj	/ˈbuɡədʒ/
-buhler	/ˈbuɫɝ/
-buist	/ˈbuɪst/
-bujak	/ˈbujək/
-bulat	/ˈbuɫət/
 bullitt	/ˈbuɫɪt/
 bullseye	/ˈbuɫzaɪ/
-bunni	/ˈbuni/
 buoy	/ˈbui/
 buoyed	/ˈbuid/
 buoys	/ˈbuiz/
-buscher	/ˈbuʃɝ/
-bussa	/ˈbusə/
-butan	/ˈbuˌtɑn/
-buth	/ˈbuθ/
-butros	/ˈbuˌtɹoʊs/, /ˈbutɹəs/
-buus	/ˈbuz/
-buzek	/ˈbuzɛk/
 
 bhutan	/ˌbuˈtæn/, /bəˈtɑn/
 boondoggle	/ˌbunˈdɑɡəɫ/
@@ -209,18 +95,3 @@ boudreau	/ˌbuˈdɹoʊ/
 boudreaux	/ˌbuˈdɹoʊ/
 bougainvillea	/ˌbuˌɡeɪnˈvɪɫiə/
 bouillon	/ˌbuˈwɪɫən/
-boulangerie	/ˌbuˈɫæŋɡɝi/
-boulette	/ˌbuˈɫɛt/
-boutelle	/ˌbuˈtɛɫ/
-bouvier	/ˌbuviˈeɪ/
-bukkake	/ˌbuˈkɑˌkɛ/
-bukovina	/ˌbukɔˈvɪnɑ/
-bumiputra	/ˌbumipˈjutɹə/
-bunowski	/ˌbuˈnaʊski/
-bustamante	/ˌbustəˈmɑnti/
-buteco	/ˌbuˈtɛkoʊ/
-buthan	/ˌbuˈtɑn/
-buthelezi	/ˌbutəˈɫeɪzi/
-buthelezi's	/ˌbutəˈɫeɪziz/
-butulesi	/ˌbutəˈɫeɪzi/
-butulesi's	/ˌbutəˈɫeɪziz/

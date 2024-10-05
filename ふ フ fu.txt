@@ -1,7 +1,3 @@
-fountaine	/funˈteɪn/
-fudala	/fuˈdɑɫə/
-fujii	/fuˈdʒii/
-fujita	/fuˈdʒitə/
 fujitsu	/fuˈdʒɪtsu/
 fujitsu's	/fuˈdʒɪtsuz/
 fujiwara	/fudʒiˈwɑɹə/
@@ -11,14 +7,6 @@ fukui	/fuˈkui/
 fukumoto	/fukuˈmoʊtoʊ/
 fukunaga	/fukuˈnɑɡə/
 fukushima	/fukuˈʃimə/
-fullilove	/fuɫiˈɫoʊvi/
-funari	/fuˈnɑɹi/
-funaro	/fuˈnɑɹoʊ/
-funaro's	/fuˈnɑɹoʊz/
-fundora	/funˈdɔɹə/
-fuoco	/fuˈoʊkoʊ/
-fusaro	/fuˈsɑɹoʊ/
-phuong	/fuˈɔŋ/
 
 foo	/ˈfu/
 foobar	/ˈfuˈbɑɹ/
@@ -47,38 +35,13 @@ foolishly	/ˈfuɫɪʃɫi/
 foolishness	/ˈfuɫɪʃnəs/
 foolproof	/ˈfuɫˌpɹuf/
 fools	/ˈfuɫz/
-foong	/ˈfuŋ/
-foos	/ˈfuz/
 foosball	/ˈfusˌbɔɫ/
-foose	/ˈfus/
-fooshee	/ˈfuʃi/
-fouad	/ˈfuæd/
-fouhy	/ˈfuhi/, /ˈfui/
-foulks	/ˈfuɫks/
-fu	/ˈfu/
-fua	/ˈfuə/
-fucci	/ˈfutʃi/
 fuji	/ˈfudʒi/
 fuji's	/ˈfudʒiz/
-fujio	/ˈfudʒioʊ/
-fuke	/ˈfuk/
-fuklah	/ˈfukɫə/
-fuklah's	/ˈfukɫəz/
-fulop	/ˈfuɫəp/
-fumi	/ˈfjumi/, /ˈfumi/
-fuoss	/ˈfus/
-fuqua	/ˈfukwə/
-fuquay	/ˈfukeɪ/
-fusco	/ˈfuskoʊ/
-fusner	/ˈfuznɝ/
-fuson	/ˈfusən/
-futon	/ˈfutɑn/
-futons	/ˈfutɑnz/
 phooey	/ˈfui/
 phu	/ˈfu/
 
 foodarama	/ˌfudɝˈæmə/
-foucault	/ˌfuˈkoʊ/
 fujian	/ˌfuˈdʒiən/
 fujikawa	/ˌfudʒiˈkɑwə/
 fujikura	/ˌfudʒɪˈkuɹə/

@@ -1,43 +1,23 @@
-hegelian	/hiˈdʒiɫiən/
-hegemony	/hiˈdʒɛməni/
+<!-- hegelian	/hiˈdʒiɫiən/ -->
+<!-- hegemony	/hiˈdʒɛməni/ -->
 hemophiliac	/himəˈfɪɫiæk/, /himəˈfɪɫjæk/, /himoʊˈfɪɫiæk/, /himoʊˈfɪɫjæk/
 hibachi	/həˈbɑtʃi/, /hiˈbɑtʃi/
 higashi	/hiˈɡɑʃi/
 higuchi	/hiˈɡutʃi/
-higuera	/hiˈɡɛɹə/
-hilaria	/hiˈɫɑɹiə/
-hilario	/hiˈɫɑɹioʊ/
-hinojos	/hiˈnoʊjoʊz/
-hinojosa	/hinoʊˈdʒoʊsə/
 
-haen	/ˈhin/
-haese	/ˈhis/
 he	/ˈhi/
 he'd	/ˈhid/
 he'll	/ˈhiɫ/
 he's	/ˈhiz/
-heaberlin	/ˈhibɝɫɪn/
-heacock	/ˈhikək/
-heacox	/ˈhikɑks/
-heafner	/ˈhifnɝ/
-heagle	/ˈhiɡəɫ/
-heagney	/ˈhiɡni/
-heagy	/ˈhidʒi/
 heal	/ˈhiɫ/
-heald	/ˈhiɫd/
 healed	/ˈhiɫd/
 healer	/ˈhiɫɝ/
 healers	/ˈhiɫɝz/
-healey	/ˈhiɫi/
 healing	/ˈhiɫɪŋ/
 heals	/ˈhiɫz/
-healy	/ˈhiɫi/
-healy's	/ˈhiɫiz/
 heaney	/ˈhini/
 heap	/ˈhip/
-heape	/ˈhip/
 heaped	/ˈhipt/
-heaphy	/ˈhifi/
 heaping	/ˈhipɪŋ/
 heaps	/ˈhips/
 hear	/ˈhiɹ/
@@ -48,9 +28,6 @@ hearing's	/ˈhiɹɪŋz/
 hearings	/ˈhiɹɪŋz/
 hears	/ˈhiɹz/
 hearsay	/ˈhiɹˌseɪ/
-heasley	/ˈhizɫi/
-heaslip	/ˈhisɫɪp/
-heaston	/ˈhistən/
 heat	/ˈhit/
 heat's	/ˈhits/
 heated	/ˈhitəd/, /ˈhitɪd/
@@ -60,68 +37,32 @@ heaters	/ˈhitɝz/
 heath	/ˈhiθ/
 heath's	/ˈhiθs/
 heathen	/ˈhiðən/
-heathman	/ˈhiθmən/
-heathrow	/ˈhiθɹoʊ/
-heathrow's	/ˈhiθɹoʊz/
-heathwood	/ˈhiθˌwʊd/
 heating	/ˈhitɪŋ/
-heatley	/ˈhitɫi/
-heaton	/ˈhitən/
 heats	/ˈhits/
-heatwole	/ˈhitˌwoʊɫ/
 heave	/ˈhiv/
 heaved	/ˈhivd/
 heaves	/ˈhivz/
-heavey	/ˈhivi/
 heaving	/ˈhivɪŋ/
-heavner	/ˈhivnɝ/
-heavrin	/ˈhivɹɪn/
 hebe	/ˈhib/
 hebei	/ˈhibi/
-heber	/ˈhibɝ/
 hebrew	/ˈhibɹu/
 hebrews	/ˈhibɹuz/
 hedonism	/ˈhidəˌnɪzəm/
-hedy	/ˈhidi/
 hee	/ˈhi/
-heeb	/ˈhib/
-heebner	/ˈhibnɝ/
 heed	/ˈhid/
 heeded	/ˈhidəd/, /ˈhidɪd/
 heeding	/ˈhidɪŋ/
 heeds	/ˈhidz/
-heefner	/ˈhifnɝ/
-heeg	/ˈhiɡ/
 heehaw	/ˈhiˌhaʊ/
-heeke	/ˈhik/
-heekin	/ˈhikɪn/
 heel	/ˈhiɫ/
-heelan	/ˈhiɫən/
 heeled	/ˈhiɫd/
 heeling	/ˈhiɫɪŋ/
 heels	/ˈhiɫz/
-heemstra	/ˈhimstɹə/
-heenan	/ˈhinən/
-heeney	/ˈhini/
-heer	/ˈhiɝ/
-hees	/ˈhiz/
-heesch	/ˈhiʃ/
-heese	/ˈhiz/
-heeter	/ˈhitɝ/
-hege	/ˈhidʒ/
-hegeman	/ˈhiɡmən/
-heger	/ˈhiɡɝ/
-heifner	/ˈhifnɝ/
-heishman	/ˈhiɪʃmən/
-heling	/ˈhiɫɪŋ/
 helios	/ˈhiɫiˌɑs/
 heliotrope	/ˈhiɫiəˌtɹoʊp/
 helium	/ˈhiɫiəm/
 helix	/ˈhiɫɪks/
 heman	/ˈhimən/
-hemo	/ˈhimoʊ/
-henes	/ˈhinz/
-heon	/ˈhiən/
 here	/ˈhiɹ/
 hero	/ˈhiɹoʊ/, /ˈhɪɹoʊ/
 hero's	/ˈhiɹoʊz/, /ˈhɪɹoʊz/
@@ -129,29 +70,11 @@ heroes	/ˈhiɹoʊz/, /ˈhɪɹoʊz/
 heroize	/ˈhiɹoʊˌaɪz/
 heroized	/ˈhiɹoʊˌaɪzd/
 hesiod	/ˈhisiəd/
-hetu	/ˈhitʃu/
-hieb	/ˈhib/
-hieber	/ˈhibɝ/
-hiebert	/ˈhibɝt/
-hiegel	/ˈhiɡəɫ/
-hiems	/ˈhimz/
-hiemstra	/ˈhimstɹə/
-hiers	/ˈhiɹz/
-hiestand	/ˈhistənd/
-higa	/ˈhiɡə/
-hilo	/ˈhiɫoʊ/
-hino	/ˈhinoʊ/
 
-healthamerica	/ˌhiɫθəˈmɛɹɪkə/
 hedonistic	/ˌhidəˈnɪstɪk/
-helionetic	/ˌhiɫioʊˈnɛtɪk/
-helionetics	/ˌhiɫioʊˈnɛtɪks/
 heliopolis	/ˌhiɫiˈɑpəɫəs/
 hematology	/ˌhɛməˈtɑɫədʒi/, /ˌhiməˈtɑɫədʒi/
-hemocyanin	/ˌhiməˈsaɪənən/
 hemoglobin	/ˌhiməˈɡɫoʊbən/
 hemolytic	/ˌhiməˈɫɪtɪk/
 hemophilia	/ˌhiməˈfiɫiə/
 hemophiliacs	/ˌhiməˈfɪɫiˌæks/
-heoroico	/ˌhiəˈɹoʊəkoʊ/
-hideaki	/ˌhideɪˈɑki/
